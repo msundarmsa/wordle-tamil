@@ -172,32 +172,23 @@
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#919191" d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
                         </div>
                         <div class="settings-content">
-                            <h2>Paramètres</h2>
+                            <h2>அமைப்பு</h2>
                             <div class="settings-item setting-toggle">
-                                <h3>Lien partagé</h3>
-                                <div class="toggle-button" @click="sharedLink = !sharedLink" :class="{ activated: sharedLink }">
-                                    <div class="toggle"></div>
-                                </div>
-                            </div>
-                            <div class="settings-item setting-toggle">
-                                <h3>Mode daltoniens</h3>
+                                <h3>மாறுபட்ட நிறங்கள்</h3>
                                 <div class="toggle-button" @click="colorBlindMode = !colorBlindMode" :class="{ activated: colorBlindMode }">
                                     <div class="toggle"></div>
                                 </div>
                             </div>
                             <div class="settings-item credits">
-                                <h3>Crédits</h3>
+                                <h3>நன்றிகள்</h3>
                                 <p>
-                                    Jeu développé par <a href="https://twitter.com/louanben">@louanben</a>.
+                                    தமிழுக்கு மாற்றி அமைத்தது: <a href="https://msundarmsa.github.io/">msundarmsa</a>.
                                 </p>
                                 <p>
-                                    Concept et design librement inspirés de <strong>Wordle</strong> par <a href="https://twitter.com/powerlanguish">@powerlanguish</a> (Josh Wardle).
+                                    மென்பொருளுக்கான அடிப்படை: <a href="https://twitter.com/louanben">@louanben</a>.
                                 </p>
                                 <p>
-                                    Merci à <a href="https://twitter.com/Richiesque">Richie</a> pour son aide précieuse !
-                                </p>
-                                <p>
-                                    Pour toute demandes, contacter <strong>@louanben</strong> sur Twitter, ou bien par mail : <strong>louanben.pro@gmail.com</strong>
+                                    மூலதன வடிவமைப்பு: <strong>Wordle</strong> by <a href="https://twitter.com/powerlanguish">@powerlanguish</a> (Josh Wardle).
                                 </p>
                             </div>
                         </div>
@@ -343,6 +334,7 @@ export default {
         }
         this.getWordOfTheDay();
         this.getSavedData();
+        console.log(this.wordOfTheDay)
 
         if (localStorage.getItem('sharedLink')) {
             this.sharedLink = JSON.parse(localStorage.getItem('sharedLink'));
@@ -595,7 +587,7 @@ export default {
             return this.today.clone().startOf('day').diff(moment("2022-01-10T00:00:00"), 'days') + 1
         },
         share() {
-            const title = `Le Mot (@WordleFR) #${this.getWordID()} ${this.currentAttempt <= NB_ATTEMPTS ? this.currentAttempt : '💀' }/${NB_ATTEMPTS}\n\n`;
+            const title = `சொல்லி #${this.getWordID()} ${this.currentAttempt <= NB_ATTEMPTS ? this.currentAttempt : '💀' }/${NB_ATTEMPTS}\n\n`;
             let schema = this.results.slice(0, this.currentAttempt).map((result) => {
                 return result.map((letter) => {
                     if (letter === 'correct') {
@@ -607,13 +599,7 @@ export default {
                     }
                 }).join('');
             }).join('\n');
-            const url = "wordle.louan.me";
-
             let sharedContent = title + schema;
-
-            if (this.sharedLink) {
-                sharedContent = sharedContent + '\n\n' + url;
-            }
 
             navigator.clipboard.writeText(sharedContent);
             this.resultsCopied = true;
