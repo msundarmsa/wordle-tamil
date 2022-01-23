@@ -4,6 +4,7 @@
         correct: color === 'correct', 
         partial: color === 'partial', 
         incorrect: color === 'incorrect',
+        partialmei: color === 'partialmei', 
         'color-blind': colorBlindMode,
     }">
         {{ keyContent }}
@@ -60,6 +61,10 @@ export default {
             background: #85C0F9
     &.incorrect
         background: #3A3A3C
+    &.partialmei
+        background: #957D95
+        &.color-blind
+            background: #D81E5B
     &.color-blind
         color: white
     @media (max-width: 500px)

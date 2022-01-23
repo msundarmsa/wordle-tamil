@@ -4,6 +4,7 @@
         correct: color === 'correct', 
         partial: color === 'partial', 
         incorrect: color === 'incorrect',
+        partialmei: color === 'partialmei', 
         'no-animation': !animate,
         'color-blind': colorBlindMode,
     }">
@@ -75,6 +76,13 @@ export default {
     &.incorrect
         border: 2px solid #3A3A3C
         background: #3A3A3C
+    &.partialmei
+        border: 2px solid #957D95
+        background: #957D95
+        animation-name: flip
+        &.color-blind
+            border: 2px solid #D81E5B
+            background: #D81E5B
     &.no-animation
         transition: none
         animation: none

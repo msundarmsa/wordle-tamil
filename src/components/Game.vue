@@ -100,6 +100,21 @@
                                     </div>
                                 </div>
                                 <p><span>சி</span> எனும் எழுத்து வார்த்தையில் இடம்பெறவில்லை</p>
+                                <div class="help-word">
+                                    <div class="help-letter-container">
+                                        பெ
+                                    </div>
+                                    <div class="help-letter-container partialmei" :class="{ 'color-blind': colorBlindMode }">
+                                        ரு
+                                    </div>
+                                    <div class="help-letter-container">
+                                        ம
+                                    </div>
+                                    <div class="help-letter-container">
+                                        ழை
+                                    </div>
+                                </div>
+                                <p><span>ர</span> எனும் எழுத்து உ எனும் உயிர்ச்சொல்லோடு சேராமல் வேறொரு உயிர்ச்சொல்லோடு சேர்ந்து வார்த்தையில் இடம்பெறுகிறது</p>
                             </div>
                         </div>
                     </div>
@@ -146,19 +161,19 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="soluce" v-if="finished">Le mot était : 
+                        <div class="soluce" v-if="finished">இன்றைய சொல் : 
                             <strong>{{ wordOfTheDay }}</strong> 
-                            <a :href="`https://1mot.net/${this.wordOfTheDay.toLowerCase()}`" target="_blank" class="definition-icon">
+                            <a :href="`https://dsal.uchicago.edu/cgi-bin/app/tamil_query.py?qs=${this.wordOfTheDay.toLowerCase()}&searchhws=yes&matchtype=exact`" target="_blank" class="definition-icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Définition</title><path d="M256 56C145.72 56 56 145.72 56 256s89.72 200 200 200 200-89.72 200-200S366.28 56 256 56zm0 82a26 26 0 11-26 26 26 26 0 0126-26zm48 226h-88a16 16 0 010-32h28v-88h-16a16 16 0 010-32h32a16 16 0 0116 16v104h28a16 16 0 010 32z"/></svg>
                             </a>
                         </div>
                         <div class="modal-footer" v-if="finished">
-                            <div class="next-in">Prochain mot dans : <strong class="time">{{ countdownToNextWord }}</strong></div>
+                            <div class="next-in">அடுத்த வார்த்தை : <strong class="time">{{ countdownToNextWord }}</strong></div>
                             <div class="separator"></div>
                             <div class="share">
                                 <button class="share-button" @click="share">
-                                    <p>{{resultsCopied ? 'Copié !' : 'Partager'}}</p>
-                                    <svg v-if="!resultsCopied" xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Partager</title><path d="M384 336a63.78 63.78 0 00-46.12 19.7l-148-83.27a63.85 63.85 0 000-32.86l148-83.27a63.8 63.8 0 10-15.73-27.87l-148 83.27a64 64 0 100 88.6l148 83.27A64 64 0 10384 336z"/></svg>
+                                    <p>{{resultsCopied ? 'பிரதி ஆயிற்று!' : 'பகிர்க'}}</p>
+                                    <svg v-if="!resultsCopied" xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>பகிர்க</title><path d="M384 336a63.78 63.78 0 00-46.12 19.7l-148-83.27a63.85 63.85 0 000-32.86l148-83.27a63.8 63.8 0 10-15.73-27.87l-148 83.27a64 64 0 100 88.6l148 83.27A64 64 0 10384 336z"/></svg>
                                 </button>
                             </div>
                         </div>
@@ -769,6 +784,11 @@ export default {
                             &.incorrect
                                 border: none
                                 background: #3A3A3C
+                            &.partialmei
+                                border: none
+                                background: #957D95 
+                                &.color-blind
+                                    background: #D81E5B
                     p
                         span
                             font-weight: bold  
