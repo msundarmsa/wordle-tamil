@@ -39,7 +39,7 @@ export default {
 
 <style lang="sass" scoped>
 #key
-    width: 43px
+    width: 40px
     height: 58px
     cursor: pointer
     margin: 2px

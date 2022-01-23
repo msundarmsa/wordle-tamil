@@ -195,14 +195,6 @@
                                     <div class="toggle"></div>
                                 </div>
                             </div>
-                            <div class="settings-item setting-button">
-                                <h3>Clavier</h3>
-                                <div class="buttons">
-                                    <button class="first" :class="{ selected: keyboard.name === KEYBOARD_AZERTY.name }" @click="keyboard = KEYBOARD_AZERTY">AZERTY</button>
-                                    <button :class="{ selected: keyboard.name === KEYBOARD_QWERTY.name }" @click="keyboard = KEYBOARD_QWERTY">QWERTY</button>
-                                    <button class="last" :class="{ selected: keyboard.name === KEYBOARD_QWERTZ.name }" @click="keyboard = KEYBOARD_QWERTZ">QWERTZ</button>
-                                </div>
-                            </div>
                             <div class="settings-item credits">
                                 <h3>Crédits</h3>
                                 <p>
@@ -235,35 +227,39 @@ import Key from "./keyboard/Key.vue";
 import words from "../assets/json/drawable-words.json";
 import playableWords from "../assets/json/playable-words.json";
 
-moment.locale('fr')
-moment.tz.setDefault('Europe/Paris')
-
 const NB_LETTERS = 5;
 const NB_ATTEMPTS = 6;
 const KEYBOARD_AZERTY = {
     name: 'azerty',
     content: [
-        ['A', 'Z', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P'],
-        ['Q', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M'],
-        ['Entrer', 'W', 'X', 'C', 'V', 'B', 'N', 'Suppr'],
+        ['ஆ',  'ஈ',  'ஊ',  'ஏ',  'ள',  'ற',  'ன',  'ட',  'ண',  'ச',  'ஞ'],
+        ['அ',  'இ',  'உ',  'ஐ',  'எ',  'க',  'ப',  'ம',  'த',  'ந',  'ய'], 
+        ['Enter',  'ஔ',  'ஓ',  'ஒ',  'வ',  'ங',  'ல',  'ர',  'ழ',  '்', 'Back']
     ],
 };
-const KEYBOARD_QWERTY = {
-    name: 'qwerty',
-    content: [
-        ['Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P'],
-        ['A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L'],
-        ['Entrer', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', 'Suppr'],
-    ],
+
+const uyir = ['அ', 'ஆ', 'இ', 'ஈ', 'உ', 'ஊ', 'எ', 'ஏ', 'ஐ', 'ஒ', 'ஓ', 'ஔ', '்']
+const mei = ['க', 'ங', 'ச', 'ஞ', 'ட', 'ண', 'த', 'ந', 'ப', 'ம', 'ய', 'ர', 'ல', 'வ', 'ழ', 'ள', 'ற', 'ன']
+const uyirmei_table = {
+    'க': ['க', 'கா', 'கி', 'கீ', 'கு', 'கூ', 'கெ', 'கே', 'கை', 'கொ', 'கோ', 'கௌ', 'க்'],
+    'ங': ['ங', 'ஙா', 'ஙி', 'ஙீ', 'ஙு', 'ஙூ', 'ஙெ', 'ஙே', 'ஙை', 'ஙொ', 'ஙோ', 'ஙௌ', 'ங்'],
+    'ச': ['ச', 'சா', 'சி', 'சீ', 'சு', 'சூ', 'செ', 'சே', 'சை', 'சொ', 'சோ', 'சௌ', 'ச்'],
+    'ஞ': ['ஞ', 'ஞா', 'ஞி', 'ஞீ', 'ஞு', 'ஞூ', 'ஞெ', 'ஞே', 'ஞை', 'ஞொ', 'ஞோ', 'ஞௌ', 'ஞ்'],
+    'ட': ['ட', 'டா', 'டி', 'டீ', 'டு', 'டூ', 'டெ', 'டே', 'டை', 'டொ', 'டோ', 'டௌ', 'ட்'],
+    'ண': ['ண', 'ணா', 'ணி', 'ணீ', 'ணு', 'ணூ', 'ணெ', 'ணே', 'ணை', 'ணொ', 'ணோ', 'ணௌ', 'ண்'],
+    'த': ['த', 'தா', 'தி', 'தீ', 'து', 'தூ', 'தெ', 'தே', 'தை', 'தொ', 'தோ', 'தௌ', 'த்'],
+    'ந': ['ந', 'நா', 'நி', 'நீ', 'நு', 'நூ', 'நெ', 'நே', 'நை', 'நொ', 'நோ', 'நௌ', 'ந்'],
+    'ப': ['ப', 'பா', 'பி', 'பீ', 'பு', 'பூ', 'பெ', 'பே', 'பை', 'பொ', 'போ', 'பௌ', 'ப்'],
+    'ம': ['ம', 'மா', 'மி', 'மீ', 'மு', 'மூ', 'மெ', 'மே', 'மை', 'மொ', 'மோ', 'மௌ', 'ம்'],
+    'ய': ['ய', 'யா', 'யி', 'யீ', 'யு', 'யூ', 'யெ', 'யே', 'யை', 'யொ', 'யோ', 'யௌ', 'ய்'],
+    'ர': ['ர', 'ரா', 'ரி', 'ரீ', 'ரு', 'ரூ', 'ரெ', 'ரே', 'ரை', 'ரொ', 'ரோ', 'ரௌ', 'ர்'],
+    'ல': ['ல', 'லா', 'லி', 'லீ', 'லு', 'லூ', 'லெ', 'லே', 'லை', 'லொ', 'லோ', 'லௌ', 'ல்'],
+    'வ': ['வ', 'வா', 'வி', 'வீ', 'வு', 'வூ', 'வெ', 'வே', 'வை', 'வொ', 'வோ', 'வௌ', 'வ்'],
+    'ழ': ['ழ', 'ழா', 'ழி', 'ழீ', 'ழு', 'ழூ', 'ழெ', 'ழே', 'ழை', 'ழொ', 'ழோ', 'ழௌ', 'ழ்'],
+    'ள': ['ள', 'ளா', 'ளி', 'ளீ', 'ளு', 'ளூ', 'ளெ', 'ளே', 'ளை', 'ளொ', 'ளோ', 'ளௌ', 'ள்'],
+    'ற': ['ற', 'றா', 'றி', 'றீ', 'று', 'றூ', 'றெ', 'றே', 'றை', 'றொ', 'றோ', 'றௌ', 'ற்'],
+    'ன': ['ன', 'னா', 'னி', 'னீ', 'னு', 'னூ', 'னெ', 'னே', 'னை', 'னொ', 'னோ', 'னௌ', 'ன்']
 }
-const KEYBOARD_QWERTZ = {
-    name: 'qwertz',
-    content: [
-        ['Q', 'W', 'E', 'R', 'T', 'Z', 'U', 'I', 'O', 'P'],
-        ['A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L'],
-        ['Entrer', 'Y', 'X', 'C', 'V', 'B', 'N', 'M', 'Suppr'],
-    ]
-};
 
 export default {
     name: 'Game',
@@ -277,8 +273,6 @@ export default {
             NB_LETTERS,
             NB_ATTEMPTS,
             KEYBOARD_AZERTY,
-            KEYBOARD_QWERTY,
-            KEYBOARD_QWERTZ,
             keyboard: KEYBOARD_AZERTY,
             today: moment(),
             words,
@@ -309,6 +303,9 @@ export default {
                 bestStreak: 0,
                 games: [],
             },
+            uyir,
+            mei,
+            uyirmei_table
             // {
             //     nbGames: 0,
             //     nbWins: 0,
@@ -339,9 +336,9 @@ export default {
             if (/^[a-zA-Z]$/.test(event.key)) {
                 this.handleKeyClick(event.key.toUpperCase());
             } else if (event.key === 'Enter') {
-                this.handleKeyClick('Entrer');
+                this.handleKeyClick('Enter');
             } else if (event.key === 'Backspace') {
-                this.handleKeyClick('Suppr');
+                this.handleKeyClick('Back');
             }
         });
 
@@ -455,18 +452,38 @@ export default {
             localStorage.setItem('lastSave', this.today.format('YYYY-M-D'));
             this.animateLetter = true;
             this.error = '';
-            if (key === 'Entrer') {
+            if (key === 'Enter') {
                 this.verifyWord(this.attempts[this.currentAttempt - 1]);
-            } else if (key === 'Suppr') {
+            } else if (key === 'Back') {
                 if(!this.userResults.games.find((game) => {
                     return game.date === this.today.format('YYYY-M-D');
                 })) {
                     this.attempts[this.currentAttempt - 1].pop();
                 }
             } else if (this.attempts[this.currentAttempt - 1].length < NB_LETTERS) {
-                this.attempts[this.currentAttempt - 1].push(key);
+                let uyir_index = uyir.indexOf(key)
+                let changed = false
+                if (uyir_index > 0) {
+                    // a uyir ezhuthu is pressed
+                    let num_chars = this.attempts[this.currentAttempt - 1].length
+                    if (num_chars != 0) {
+                        // check if previous letter is mei yezhuthu
+                        let prev_char = this.attempts[this.currentAttempt - 1][num_chars - 1]
+                        if (mei.includes(prev_char)) {
+                            // change previous letter to appropriate uyirmei ezhuthu
+                            this.attempts[this.currentAttempt - 1][num_chars - 1] = uyirmei_table[prev_char][uyir_index]
+                            changed = true
+                            console.log('Changing to ' + this.attempts[this.currentAttempt - 1][num_chars - 1])
+                        }
+                    }
+                }
+
+                if (!changed) {
+                    this.attempts[this.currentAttempt - 1].push(key);
+                }
             }
             localStorage.setItem('attempts', JSON.stringify(this.attempts));
+            this.$forceUpdate();
         },
         verifyWord(attempt) {
             if (attempt.length === NB_LETTERS) {
