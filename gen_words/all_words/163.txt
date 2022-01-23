@@ -1,0 +1,2989 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>மை</b>
+                       <div id='no_results'>
+                                276 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/crea_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மை</hw> பெ. 1: (பெரும்பாலும் பெண்கள் கண்ணில் தீட்டிக்கொள்ளப் பயன்படுத்தும்) ஒட்டும் தன்மையுடைய கருப்பு நிற அலங்காரச் சாதனம்; அஞ்சனம்; black pigment (applied on the edge of the eyelashes mostly by women). அவளுடைய மை தீட்டிய கண்கள்/ குழந்தைக்கு மையைக் குழைத்துப் பொட்டு வைத்தாள். 2: சிவப்பு, நீலம் முதலிய நிறங்களில் இருக்கும் எழுதுபொருளாகப் பயன்படுத்தும் திரவம்; ink. 3: (வண்டிச் சக்கரத்திற்கு இடும்) மசகு எண்ணெய்; oil mixed with burnt straw; (wheel) grease.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/fabricius_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=826">p. 826</a>)
+		<blockquote><p><hw><tam>மை</tam></hw> , <i>s.</i> a magical paint, a black for the eyes. <tam>அஞ்சனம்</tam>; 2. black, blackness, <tam>கறுப்பு</tam>; 3. ink; 4. fault, <tam>குற்றம்</tam>; 5. a barren woman, <tam>மலடி</tam>; 6. a barren buffalo; 7. a cloud; 8. the first sign of the Zodiac, <tam>மேடவிராசி</tam>; 9. a kind of sheep, <tam>செம்மறியாடு</tam>; 10. an <i>affix</i> expressing an abstract quality or condition as in <tam>இருமை</tam>, doubleness, <tam>வள்ளன்மை</tam>, charitableness etc. <p2><tam>மைகூட்ட</tam>, to make ink or paint.</p2> <p2><tam>மைக்காடு</tam>, ashes and dust from a goldsmith's furnace, from which precious metals are got by washing.</p2> <p2><tam>மைக்காப்பு</tam>, colouring the writing of an ola book.</p2> <p2><tam>மைக்கூடு</tam>, an ink-stand.</p2> <p2><tam>மை பரவுங் கடுதாசி</tam>, blotting or sinking paper.</p2> <p2><tam>மைபூச</tam>, -<tam>இட</tam>, to colour with ink or pigment especially the eyebrows as women do.</p2> <p2><tam>மைமா</tam>, a hog, as being black.</p2> <p2><tam>மைமுகன்</tam>, <tam>மைம்முகன்</tam>, a black kind of ape.</p2> <p2><tam>மைமை</tam>, a barren woman.</p2> <p2><tam>மையூட்ட</tam>, to paint the eyelids as women or to tattoo the skin.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/fabricius_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=826">p. 826</a>)
+		<blockquote><p>*<hw><tam>மை</tam></hw> , <i>s.</i> water, <tam>நீர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/fabricius_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=826">p. 826</a>)
+		<blockquote><p><hw><tam>மை</tam></hw> , II. <i>v. i.</i> be slightly pounded, be separated from the husk by beating, <tam>மசி</tam> II.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மை</hw> - அஞ்சனம், இருள், ஏழுதுமை, ஓ ரெழுத்து, கருப்பு, குற்றம், செம்ம றியாடு, நீர், மலடி, மலட்டெருமை, மேகம், மேடவிராசி, மையென்னே வல், வெள்ளாடு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1628">p. 1628</a>)
+		<blockquote><p><hw>மை</hw> - அஞ்சனம், ஓர்வகையெழுத்து, க றுப்பு, குற்றம், செம்மறியாடு, நீர், மலடு, மேகம், மேடவிராசி, மை யென்னேவல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/mcalpin_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/mcalpin/">McAlpin's <i>"A core vocabulary for Tamil"</i></a>
+		(<a href="/cgi-bin/app/mcalpin_query.py?page=61">p. 61</a>)
+		<blockquote><p><hw><tam>மை</tam></hw> mayyi <tam>மய்யி</tam> ink</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3366">p. 3366</a>)
+		<blockquote><p><hw><tam>மை¹</tam> <t>mai</t></hw> . The compound of <tam>ம்</tam> and <tam>ஐ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மை²</tam> <t>mai</t></hw> , <i>n</i>. cf. <i>maṣī</i>. 1. Collyrium for the eye; <tam>கண்ணுக்கிடும் அஞ்சனம். மைப்படிந்த கண் ணாளும்</tam> (<tam>தேவா</tam>. 1235, 10). 2. Ink; ink paste; <tam>மசி</tam>. 3. Black pigment used in witchcraft; <tam>மந்திர வாதத்தில் உபயோகிக்கும் மை</tam>. 4. Grease made of castor-oil and burnt straw, used as a lubricant for country-carts; <tam>வண்டி மசகு</tam>. 5. Black, blackness; <tam>கருநிறம். மறவர் மைபடு திண்டோள்</tam> (<tam>அகநா</tam>. 89). 6. Darkness; <tam>இருள். மைபடு மருங் குல்</tam> (<tam>புறநா</tam>. 50). 7. Greenness; <tam>பசுமை. மையிருங் கானம்</tam> (<tam>அகநா</tam>. 43.) 8. Spot, as of the moon; blemish; <tam>களங்கம். மைதீர்ந்தன்று மதியுமன்று</tam> (<tam>கலித்</tam>. 55). 9. Dark cloud; <tam>கருமேகம். மைபடு சென்னி . . . மலை</tam> (<tam>கலித்</tam>. 43). 10. Sky, as blue; <tam>விண். (அரு. நி.)</tam> 11. Fault; defect; <tam>குற்றம். மையி லறிவினர்</tam> (<tam>புறநா</tam>. 22, 8). 12. Sin; <tam>பாவம். மை தீர்த்தல்</tam> (<tam>சினேந்</tam>. 457). 13. Dirt; <tam>அழுக்கு. மையில் செந்துகிர்</tam> (<tam>கலித்</tam>. 85). 14. Birth, as due to karma; <tam>பிறவி. மையறு சிறப்பிற் றெய்வம்</tam> (<tam>பட்டினப்</tam>. 159). 15. Barrenness, sterility; <tam>மலடு. (பிங்.)</tam> 16. cf. <tam>மைம்மை</tam>. Barren woman; <tam>மலடி</tam>. (<tam>நாமதீப</tam>. 182.) 17. cf. <tam>மைம்மை</tam>. Barren buffalo; <tam>மலட் டெருமை. (சூடா.)</tam> 18. cf. <i>mahiṣa</i>. Buffalo; <tam>எருமை. வைகுபுலர் விடியன் மைபுலம் பரப்ப</tam> (<tam>அகநா</tam>. 41). 19. cf. <i>mēṣa</i>. Aries of the zodiac; <tam>மேட ராசி. (சூடா.)</tam> 20. Sheep; goat; <tam>ஆடு. (திவா.) மையூன் மொசித்த வொக்கலொடு</tam> (<tam>புறநா</tam>. 96). 21. Youth; <tam>இளமை. (அக. நி.)</tam> 22. Water; <tam>நீர். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மை³</tam> <t>mai</t></hw> , <i>part</i>. Suffix (a) expressing an abstract quality or condition, as <i>karumai, poṟumai</i>; <tam>பண்புப்பெயர் விகுதியுள் ஒன்று</tam>: (b) ending verbal nouns, as <i>ceykiṉṟamai, ceyyāmai</i>; <tam>தொழிற்பெயர்விகுதியுள் ஒன்று</tam>: (c) ending verbal participles; <tam>வினையெச்சவிகுதியுள் ஒன்று. ஒற்றொற் றுணராமை யாள்க</tam> (<tam>குறள்</tam>, 589).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S399">p. S399</a>)
+		<blockquote><p><hw><tam>மை</tam> <t>mai</t></hw> , <i>n</i>. Ignorance; <tam>அஞ்ஞானம். மைதபு ஞான மனத்திடையொன்றும்</tam> (<tam>பாகவத</tam>. 8, <tam>வாமனாவ</tam>. 32).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/winslow_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மை</tam></hw> , A syllabic letter, composed of <tam>ம்</tam> and <tam>ஐ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/winslow_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மை</tam></hw> , <i>s.</i> Black or magical for the eyes, <tam>அஞ்சனம்</tam>. 2. Black, blackness, ink. <tam>கறுப்பு</tam>, 3. Fault, <tam>குற்றம்</tam>. 4. A kind of sheep, <tam>செம்மறியாடு</tam>. 5. The first sign of the Zodiac, <tam>மேடவிராசி</tam>. (<tam>சது</tam>.) 6. A barren woman, <tam>மலடி</tam>. 7. A barren buffalo, <tam>மலட்டெருமை</tam>. 8. A cloud, <tam>மேகம்</tam>. 9. An affix expressing an abstract quality, or condition, as <tam>இருமை</tam>, doubleness; <tam>வள்ளன்மை</tam>, charitableness; <tam>பொறுமை</tam>, patience; <tam>செய்யாமை</tam>, inaction. <tam>இருக்கின்றமையால்</tam>. Because it is. <p2><tam>மைகூட்ட</tam>, <i>inf.</i> To make ink or paint. See <tam>கூட்டு</tam>, <i>v.</i></p2> <p2><tam>மைக்காடு</tam>, <i>s.</i> [<i>also</i> <tam>மைக்காட்டுமண்</tam>.] Ashes and dust from a goldsmith's furnace; from which by washing they obtain the precious metals, <tam>அக்கசாலைமண்</tam>.</p2> <p2><tam>மைக்காப்பு</tam>, <i>v. noun.</i> Coloring the writing of an ola book, <tam>மைபோடுதல்</tam>. <tam>ஏட்டுக்குமைக்காப்பிட்டான்</tam>. He blackened the letters of an ola book.</p2> <p2><tam>மைக்கூடு</tam>, <i>s.</i> An inkstand. <i>(c.)</i></p2> <p2><tam>மைப்பூசுதல்</tam>-<tam>மையிடுதல்</tam>, <i>v. noun.</i> Coloring with ink, or pigment, especially the eye-brows.</p2> <p2><tam>மைமா</tam>, <i>s.</i> A hog, as being usually black, <tam>கரும்பன்றி</tam>; [<i>ex</i> <tam>மா</tam>.] [<tam>சது</tam>.]</p2> <p2><tam>மைமுகன்</tam>, <i>s.</i> A large and black kind of ape, <tam>முசு</tam>. (<tam>சது</tam>.)</p2> <p2><tam>மைமை</tam>, <i>s.</i> A barren-woman, <tam>மலடி</tam>. 2. A barren buffalo, <tam>மலட்டெருமை</tam>. (<tam>சது</tam>.)</p2> <p2><tam>மையுண்கண்ணி</tam>, <i>s.</i> A woman with painted eyes. See <tam>உண்</tam>, <i>v.</i> <i>(p.)</i></p2> <p2><tam>மையூட்ட</tam>, <i>inf.</i> To paint the eye-lids as women, or tattoo the skin. <tam>மைவிழியார்மனையகல்</tam>. Avoid the house of those who blacken the lower eye-lids.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/winslow_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p>*<hw><tam>மை</tam></hw> , <i>s.</i> Water, <tam>நீர்</tam>. W. p. 630. <smallcaps>MA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/winslow_query.py?qs=மை&searchhws=yes&matchtype=exact">மை</a> mai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மை</tam></hw> , <tam>கிறது</tam>, <tam>ந்தது</tam>, <tam>யும்</tam>, <tam>மைய</tam>, <i>v. n.</i> To be slightly pounded, to be separated from the husk by beating, <tam>மசிய</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/crea_query.py?qs=மை போடு&searchhws=yes&matchtype=exact">மை போடு</a> mai pōṭu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மை போடு</hw> வி. (போட, போட்டு) 1: (தீமை விளைவிக்க அல்லது தொலைந்துபோன பொருளைக் கண்டுபிடிக்க) மந்திர மையைப் பயன்படுத்துதல்; employ magic pigment (for sorcery or to trace lost property).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/crea_query.py?qs=மை வை&searchhws=yes&matchtype=exact">மை வை</a> mai vai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மை வை</hw> வி. (வைக்க, வைத்து) காண்க: மை போடு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மை-த்தல்&searchhws=yes&matchtype=exact">மை-த்தல்</a> mai-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மை⁴-த்தல்</tam> <t>mai-</t></hw> , 11 <i>v. intr</i>. < <tam>மை²</tam>. 1. To become black; <tam>கறுத்தல். மைத்திருள்கூர்ந்த</tam> (<tam>மணி</tam>. 12, 85). 2. To be dim; <tam>ஒளிமழுங்குதல். மைத்துன நீண்ட வாட்டடங் கண்ணார்</tam> (<tam>சீவக</tam>. 2333).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைகம்&searchhws=yes&matchtype=exact">மைகம்</a> maikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைகம்</hw> - வக்கிராந்தபாஷாணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைகம்&searchhws=yes&matchtype=exact">மைகம்</a> maikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைகம்</tam> <t>maikam</t></hw> , <i>n</i>. A mineral poison; <tam>வக்கிராந்தபாஷாணம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைகரம்&searchhws=yes&matchtype=exact">மைகரம்</a> maikaram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைகரம்</hw> - மயக்கம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைகரம்&searchhws=yes&matchtype=exact">மைகரம்</a> maikaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைகரம்</tam> <t>mai-karam</t></hw> , <i>n</i>. prob. <tam>மை²</tam> + <tam>கரம்¹</tam>. Bewilderment, confusion; <tam>மயக்கம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைகூட்டு-தல்&searchhws=yes&matchtype=exact">மைகூட்டு-தல்</a> maikūṭṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைகூட்டு-தல்</tam> <t>mai-kūṭṭu-</t></hw> , <i>v. intr</i>. < id. +. To make ink, collyrium or paint; <tam>மை தயாரித்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைகொடுத்தல்&searchhws=yes&matchtype=exact">மைகொடுத்தல்</a> maikoṭuttal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைகொடுத்தல்</hw> - வன்னம்பூசுதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைகோதி&searchhws=yes&matchtype=exact">மைகோதி</a> maikōti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S399">p. S399</a>)
+		<blockquote><p><hw><tam>மைகோதி</tam> <t>mai-kōti</t></hw> , <i>n</i>. prob. <tam>மயிர்</tam> +. Comb; <tam>சீப்பு. சுவரின்மேல் மைகோதியும் ஈர்கோலி யுமே கிடக்கின்றன</tam> (<tam>எங்களூர்</tam>, 127).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்கண்&searchhws=yes&matchtype=exact">மைக்கண்</a> maikkaṇ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்கண்</tam> <t>mai-k-kaṇ</t></hw> , <i>n</i>. < id. +. A kind of paddy; <tam>நெல்வகை</tam>. <i>Tinn</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்கரப்பான்&searchhws=yes&matchtype=exact">மைக்கரப்பான்</a> maikkarappāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்கரப்பான்</tam> <t>mai-k-karappāṉ</t></hw> , <i>n</i>. < id. +. A dark-coloured eruption; <tam>கருங்கரப்பன் வகை</tam>. (<tam>பதார்த்த</tam>. 234.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்கா&searchhws=yes&matchtype=exact">மைக்கா</a> maikkā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்கா</tam> <t>maikkā</t></hw> , <i>n</i>. < E. Mica; <tam>அப்பிரகம்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்கா நாள்&searchhws=yes&matchtype=exact">மைக்கா நாள்</a> maikkā nāḷ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்கா நாள்</tam> <t>maikkā-nāḷ</t></hw> , <i>n</i>. perh. <tam>மற்றை</tam> +. Next day, morrow; <tam>மறுநாள்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்காடு&searchhws=yes&matchtype=exact">மைக்காடு</a> maikkāṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்காடு</tam> <t>maikkāṭu</t></hw> , <i>n</i>. [T. <i>masikaṭṭu</i>.] Ashes and dust in a goldsmith's workshop containing particles of precious metals; <tam>பொன் முதலியன சிதறிக்கலந்துள்ள அக்கசாலை மண்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்காட்டுமண்&searchhws=yes&matchtype=exact">மைக்காட்டுமண்</a> maikkāṭṭumaṇ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்காட்டுமண்</tam> <t>maikkāṭṭu-maṇ</t></hw> , <i>n</i>. < <tam>மைக்காடு</tam> +. See <tam>மைக்காடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்காட்டுவெட்டு&searchhws=yes&matchtype=exact">மைக்காட்டுவெட்டு</a> maikkāṭṭuveṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்காட்டுவெட்டு</tam> <t>maikkāṭṭu-veṭṭu</t></hw> , <i>n</i>. prob. id. +. A coin used in former days; <tam>பழைய நாணயவகை</tam>. (<tam>பணவிடு</tam>. 136-7.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்காப்பு&searchhws=yes&matchtype=exact">மைக்காப்பு</a> maikkāppu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்காப்பு</tam> <t>mai-k-kāppu</t></hw> , <i>n</i>. < <tam>மை²</tam> +. Smearing black paste over the leaves of an ōla book to render the script clear; <tam>எழுத்து நன்குதெரியுமாறு ஏட்டுச்சுவடிக்கு மைதடவுகை. கோவை முடிவிடத்தெழுதிப் பின்னர் . . . மைக் காப்புஞ் செய்தார்</tam> (<tam>திருவாத. பு. திருவடி</tam>. 15).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்காலிருட்டு&searchhws=yes&matchtype=exact">மைக்காலிருட்டு</a> maikkāliruṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்காலிருட்டு</tam> <t>mai-k-kāl-iruṭṭu</t></hw> , <i>n</i>. < id. + <tam>கால்¹</tam> +. Pitch darkness; <tam>காரிருள். மைக்கா லிருட்டனைய விருளில்லை</tam> (<tam>தாயு. ஆனந்த</tam>. 10).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்குறுவை&searchhws=yes&matchtype=exact">மைக்குறுவை</a> maikkuṟuvai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்குறுவை</tam> <t>mai-k-kuṟuvai</t></hw> , <i>n</i>. < id. +. A kind of paddy; <tam>நெல்வகை</tam>. (<smallcap>G. T</smallcap>n. <smallcap>D. I</smallcap>, 153.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/crea_query.py?qs=மைக்கூடு&searchhws=yes&matchtype=exact">மைக்கூடு</a> maikkūṭu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைக்கூடு</hw> பெ. [அ.வ.] காண்க: கூடு3, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைக்கூடு&searchhws=yes&matchtype=exact">மைக்கூடு</a> maikkūṭu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைக்கூடு</hw> - மைப்பாத்திரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்கூடு&searchhws=yes&matchtype=exact">மைக்கூடு</a> maikkūṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்கூடு</tam> <t>mai-k-kūṭu</t></hw> , <i>n</i>. < id. +. Ink-bottle, ink-pot; <tam>எழுதும் மசி வைக்குங் கூடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்கூண்டு&searchhws=yes&matchtype=exact">மைக்கூண்டு</a> maikkūṇṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்கூண்டு</tam> <t>mai-k-kūṇṭu</t></hw> , <i>n</i>. < id. +. 1. See <tam>மைக்கூடு</tam>. 2. Little metallic receptacle for collyrium for the eyes; <tam>அஞ்சனம் வைக்குஞ் சிமிழ்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்கூர்&searchhws=yes&matchtype=exact">மைக்கூர்</a> maikkūr
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்கூர்</tam> <t>maikkūr</t></hw> , <i>n</i>. A kind of boil; <tam>ஒருவகைப் புண்</tam>. (<smallcap>M. L</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைக்கொன்றை&searchhws=yes&matchtype=exact">மைக்கொன்றை</a> maikkoṉṟai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைக்கொன்றை</tam> <t>maikkoṉṟai</t></hw> , <i>n</i>. Peacock's crest. See <tam>மயிற்கொன்றை</tam>. (<tam>பதார்த்த</tam>. 207.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைசாட்சி&searchhws=yes&matchtype=exact">மைசாட்சி</a> maicāṭci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைசாட்சி</tam> <t>maicāṭci</t></hw> , <i>n</i>. < <i>mahiṣākṣa</i>. [T. <i>maisākṣi</i>.] 1. Indian bdellium. See <tam>குங்கிலியம்</tam>, 6. (<tam>பாலவா</tam>. 710.) 2. Black dammar-resin. See <tam>குக்கில்²</tam>, 2. (<smallcap>M. M</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/fabricius_query.py?qs=மைசூர்&searchhws=yes&matchtype=exact">மைசூர்</a> maicūr
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=826">p. 826</a>)
+		<blockquote><p><hw><tam>மைசூர்</tam></hw> , <i>s.</i> the kingdom or town of Mysore.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைசூர்&searchhws=yes&matchtype=exact">மைசூர்</a> maicūr
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைசூர்</hw> - ஒருபட்டினம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைசூர்&searchhws=yes&matchtype=exact">மைசூர்</a> maicūr
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைசூர்</tam> <t>maicūr</t></hw> , <i>n</i>. < <i>Mahiṣa-pura</i>. The capital of the Mysore State; <tam>மைசூர்ச்சீமையின் தலைநகர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/winslow_query.py?qs=மைசூர்&searchhws=yes&matchtype=exact">மைசூர்</a> maicūr
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மைசூர்</tam></hw> , <i>s.</i> A town, Mysore; the country or table-land so called, <tam>ஓர்நாடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைசூர்க்கட்டு&searchhws=yes&matchtype=exact">மைசூர்க்கட்டு</a> maicūrkkaṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைசூர்க்கட்டு</tam> <t>maicūr-k-kaṭṭu</t></hw> , <i>n</i>. < <tam>மைசூர்</tam> +. [K. <i>maisūrukattu</i>.] A mode of tying turban, as peculiar to the Mysoreans; <tam>தலைப் பாகைவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைசூர்ப்பருப்பு&searchhws=yes&matchtype=exact">மைசூர்ப்பருப்பு</a> maicūrpparuppu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைசூர்ப்பருப்பு</tam> <t>maicūr-p-paruppu</t></hw> , <i>n</i>. < U. <i>masūr</i> < <i>masura</i> +. Lentil, <i>Leus esculenta</i>; <tam>துவரைவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/crea_query.py?qs=மைசூர்ப்பாகு&searchhws=yes&matchtype=exact">மைசூர்ப்பாகு</a> maicūrppāku
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைசூர்ப்பாகு</hw> பெ. 1: கடலை மாவைச் சீனிப் பாகில் போட்டுக் கிளறித் தட்டில் ஊற்றிச் சிறுசிறு துண்டுகளாக ஆக்கிய இனிப்புப் பண்டம்; a kind of sweet made by adding chick-pea flour to sugar treacle and cut to pieces.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைசூர்ப்பாகு&searchhws=yes&matchtype=exact">மைசூர்ப்பாகு</a> maicūrppāku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைசூர்ப்பாகு</tam> <t>maicūr-p-pāku</t></hw> , <i>n</i>. < id. +. A kind of sweet confection; <tam>ஒருவகை இனிப்புப் பணிகாரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைசூர்ரசம்&searchhws=yes&matchtype=exact">மைசூர்ரசம்</a> maicūrracam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைசூர்ரசம்</tam> <t>maicūr-racam</t></hw> , <i>n</i>. < <tam>மைசூர்</tam> +. A kind of pepper-water preparation, as peculiar to Mysore; <tam>ஒருவகை மிளகுரசம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைசேர்-த்தல்&searchhws=yes&matchtype=exact">மைசேர்-த்தல்</a> maicēr-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைசேர்-த்தல்</tam> <t>mai-cēr-</t></hw> , <i>v. intr</i>. < <tam>மை²</tam> +. See <tam>மைகூட்டு-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைச்சந்தன்&searchhws=yes&matchtype=exact">மைச்சந்தன்</a> maiccantaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைச்சந்தன்</tam> <t>maiccantaṉ</t></hw> , <i>n</i>. A mineral poison; <tam>பாஷாணவகை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைச்சந்தன், மைச்சமனந்தன்&searchhws=yes&matchtype=exact">மைச்சந்தன், மைச்சமனந்தன்</a> maiccantaṉ, maiccamaṉantaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைச்சந்தன், மைச்சமனந்தன்</hw> கச்சற் பாஷா ணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைச்சமநந்தன்&searchhws=yes&matchtype=exact">மைச்சமநந்தன்</a> maiccamanantaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைச்சமநந்தன்</tam> <t>maiccamanantaṉ</t></hw> , <i>n</i>. See <tam>மைச்சந்தன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைச்சம்பா&searchhws=yes&matchtype=exact">மைச்சம்பா</a> maiccampā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைச்சம்பா</tam> <t>mai-c-campā</t></hw> , <i>n</i>. < <tam>மை²</tam> +. A kind of paddy. See <tam>கருங்குறுவை</tam>. (<tam>பதார்த்த</tam>. 816.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைச்சம்பி&searchhws=yes&matchtype=exact">மைச்சம்பி</a> maiccampi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைச்சம்பி</tam> <t>maiccampi</t></hw> , <i>n</i>. cf. <tam>மச்சம்பி</tam>. See <tam>மைத்துனன்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/fabricius_query.py?qs=மைச்சான்&searchhws=yes&matchtype=exact">மைச்சான்</a> maiccāṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=826">p. 826</a>)
+		<blockquote><p>*<hw><tam>மைச்சான்</tam></hw> , (<tam>மச்சான்</tam>), <tam>மைச்சுனன்</tam>, <i>s.</i> see <tam>மைத்துனன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைச்சான்&searchhws=yes&matchtype=exact">மைச்சான்</a> maiccāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைச்சான்</tam> <t>maiccāṉ</t></hw> , <i>n</i>. < <tam>மச்சான்</tam>. See <tam>மைத்துனன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/winslow_query.py?qs=மைச்சான்&searchhws=yes&matchtype=exact">மைச்சான்</a> maiccāṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மைச்சான்</tam></hw> –<tam>மைச்சுனன்</tam>, <i>s.</i> A brother-in-law, cousin, &c., as <tam>மச்சான்</tam>, <tam>மச்சுனன்</tam>. <i>(c.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைச்சான், மைச்சுனன்&searchhws=yes&matchtype=exact">மைச்சான், மைச்சுனன்</a> maiccāṉ, maiccuṉaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைச்சான், மைச்சுனன்</hw> மைத்துனன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைச்சாரி&searchhws=yes&matchtype=exact">மைச்சாரி</a> maiccāri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைச்சாரி</hw> - கருங்குருவைநெல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைச்சாலி&searchhws=yes&matchtype=exact">மைச்சாலி</a> maiccāli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைச்சாலி</tam> <t>mai-c-cāli</t></hw> , <i>n</i>. < <tam>மை²</tam> + <tam>சாலி¹</tam>. See <tam>மைச்சம்பா. (தைலவ. தைல.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைச்சாள்&searchhws=yes&matchtype=exact">மைச்சாள்</a> maiccāḷ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைச்சாள்</hw> - சகோதரனுடைய மனைவி, மைத்துனி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைச்சாள்&searchhws=yes&matchtype=exact">மைச்சாள்</a> maiccāḷ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைச்சாள்</tam> <t>maiccāḷ</t></hw> , <i>n</i>. Fem. of <tam>மைச்சான்</tam>. See <tam>மைத்துனி. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/winslow_query.py?qs=மைச்சாள்&searchhws=yes&matchtype=exact">மைச்சாள்</a> maiccāḷ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மைச்சாள்</tam></hw> -<tam>மைச்சுனி</tam>, <i>s.</i> [<i>as</i> <tam>மச்சாள்</tam>, <tam>மச்சுனி</tam>.] Female cousin, 2. A sister-in-law.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைச்சுனன்&searchhws=yes&matchtype=exact">மைச்சுனன்</a> maiccuṉaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைச்சுனன்</tam> <t>maiccuṉaṉ</t></hw> , <i>n</i>. See <tam>மைத்துனன். மைச்சுனனார் காடவராயர்</tam> (<smallcap>I. M. P. S</smallcap>m. 28).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைச்சுனி&searchhws=yes&matchtype=exact">மைச்சுனி</a> maiccuṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைச்சுனி</hw> - மைத்துனி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைச்சுனி&searchhws=yes&matchtype=exact">மைச்சுனி</a> maiccuṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3367">p. 3367</a>)
+		<blockquote><p><hw><tam>மைச்சுனி</tam> <t>maiccuṉi</t></hw> , <i>n</i>. Fem. of <tam>மைச்சுனன்</tam>. See <tam>மைத்துனி. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைஞ்சன்&searchhws=yes&matchtype=exact">மைஞ்சன்</a> maiñcaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைஞ்சன்</hw> - மகன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைஞ்சு&searchhws=yes&matchtype=exact">மைஞ்சு</a> maiñcu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைஞ்சு</tam> <t>maiñcu</t></hw> , <i>n</i>. [K. <i>mañju</i>.] See <tam>மஞ்சு</tam>. (<tam>நன்</tam>. 122, <tam>மயிலை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைதல்&searchhws=yes&matchtype=exact">மைதல்</a> maital
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைதல்</hw> - மசிதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைதல்&searchhws=yes&matchtype=exact">மைதல்</a> maital
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1628">p. 1628</a>)
+		<blockquote><p><hw>மைதல்</hw> - மையாதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/crea_query.py?qs=மைதா&searchhws=yes&matchtype=exact">மைதா</a> maitā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைதா</hw> பெ. 1: கோதுமையிலிருந்து தயாரிக்கப்படும், நார்ச்சத்துக் குறைந்த, வழுவழுப்புத் தன்மை கொண்ட மாவு; refined wheat flour; maida.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைதா&searchhws=yes&matchtype=exact">மைதா</a> maitā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைதா</tam> <t>maitā</t></hw> , <i>n</i>. < T. <i>maida</i>. Intoxication; <tam>கள்மயக்கம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/crea_query.py?qs=மைதானம்&searchhws=yes&matchtype=exact">மைதானம்</a> maitāṉam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைதானம்</hw> பெ. 1: (பொதுக்கூட்டம், விளையாட்டு முதலியவை நடக்கும்) திறந்தவெளி இடம்; (play) ground; (open) ground. கோவில் மைதானத்தில் பஞ்சாயத்துக் கூடியது./ விளையாட்டு மைதானம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/fabricius_query.py?qs=மைதானம்&searchhws=yes&matchtype=exact">மைதானம்</a> maitāṉam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=826">p. 826</a>)
+		<blockquote><p><hw><tam>மைதானம்</tam></hw> , <i>s. (Hind.)</i> an open field or plain, <tam>சமபூமி</tam>. <p2><tam>மைதானவெளி</tam>, a barren an extensive ground.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைதானம்&searchhws=yes&matchtype=exact">மைதானம்</a> maitāṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைதானம்</hw> - உறநடு, வெளி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைதானம்&searchhws=yes&matchtype=exact">மைதானம்</a> maitāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைதானம்</tam> <t>maitāṉam</t></hw> , <i>n</i>. < U. <i>maidān</i>. A plain, open field, maidan; <tam>திறந்த வெளியிடம்</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/winslow_query.py?qs=மைதானம்&searchhws=yes&matchtype=exact">மைதானம்</a> maitāṉam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மைதானம்</tam></hw> , <i>s. [Hind.]</i> An open field or plain, <tam>சமபூமி</tam>. <p2><tam>மைதானவெளி</tam>, <i>s.</i> A barren and extensive plain.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைதாமா&searchhws=yes&matchtype=exact">மைதாமா</a> maitāmā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைதாமா</tam> <t>maitā-mā</t></hw> , <i>n</i>. < U. <i>maidā</i> + <tam>மா⁶</tam>. Corn-flour; <tam>ஒருவகைத் தானியத்தின் மா</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைதிராவருணன், மைதிரவருணி&searchhws=yes&matchtype=exact">மைதிராவருணன், மைதிரவருணி</a> maitirāvaruṇaṉ, maitiravaruṇi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைதிராவருணன், மைதிரவருணி</hw> அகத்தியன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/fabricius_query.py?qs=மைதிலி&searchhws=yes&matchtype=exact">மைதிலி</a> maitili
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=826">p. 826</a>)
+		<blockquote><p><hw><tam>மைதிலி</tam></hw> , <i>s.</i> Sita, Rama's wife (<i>ex.</i> <tam>மிதிலை</tam>, the place of her birth).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைதிலி&searchhws=yes&matchtype=exact">மைதிலி</a> maitili
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைதிலி</hw> - சீதை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைதிலி&searchhws=yes&matchtype=exact">மைதிலி</a> maitili
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைதிலி</tam> <t>maitili</t></hw> , <i>n</i>. < <i>Maithilī</i>. Sītā, as daughter of the king of Mithilā <tam>[மிதிலையரசன் மகள்] சீதை. இலக்குமனோடு மைதிலியும் . . . துதி செய்ய நின்ற</tam> (<tam>திவ். பெரியதி</tam>. 2, 3, 7).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/winslow_query.py?qs=மைதிலி&searchhws=yes&matchtype=exact">மைதிலி</a> maitili
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p>*<hw><tam>மைதிலி</tam></hw> , <i>s.</i> Sita, the wife of Rama. <tam>சீதை</tam>; [<i>ex</i> <tam>மிதிலை</tam>, the place of her birth.] W. p. 675. <smallcaps>MAIT'HILA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைதிலிநாயகன், மைதிலிமணாளன்&searchhws=yes&matchtype=exact">மைதிலிநாயகன், மைதிலிமணாளன்</a> maitilināyakaṉ, maitilimaṇāḷaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைதிலிநாயகன், மைதிலிமணாளன்</hw> ஸ்ரீராமன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைதிலை&searchhws=yes&matchtype=exact">மைதிலை</a> maitilai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைதிலை</tam> <t>maitilai</t></hw> , <i>n</i>. < <i>Mithilā</i>. An ancient province of Gaur, one of <i>pañca-kauṭam</i>, q.v.; <tam>பஞ்சகௌடத்துளொன்றான ஒரு பிரதேசம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைதீட்டு-தல்&searchhws=yes&matchtype=exact">மைதீட்டு-தல்</a> maitīṭṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைதீட்டு-தல்</tam> <t>mai-tīṭṭu-</t></hw> , <i>v. intr</i>. < <tam>மை²</tam> +. To paint the eye-lids with collyrium. See <tam>மையிடு-</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைதீட்டுதல்&searchhws=yes&matchtype=exact">மைதீட்டுதல்</a> maitīṭṭutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைதீட்டுதல்</hw> - மைபூசுதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைதுனன்&searchhws=yes&matchtype=exact">மைதுனன்</a> maituṉaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைதுனன்</hw> - மச்சான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/crea_query.py?qs=மைதுனம்&searchhws=yes&matchtype=exact">மைதுனம்</a> maituṉam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைதுனம்</hw> பெ. [அ.வ.] 1: உடலுறவு; புணர்ச்சி; copulation; sexual union. மைதுனச் சிற்பங்கள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/fabricius_query.py?qs=மைதுனம்&searchhws=yes&matchtype=exact">மைதுனம்</a> maituṉam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=826">p. 826</a>)
+		<blockquote><p>*<hw><tam>மைதுனம்</tam></hw> , <i>s.</i> copulation, union, <tam>புணர்ச்சி</tam> (<i>ex.</i> <tam>மிதுனம்</tam>, a couple). <p2><tam>மைதுனம் பண்ண</tam>, to copulate.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைதுனம்&searchhws=yes&matchtype=exact">மைதுனம்</a> maituṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைதுனம்</hw> - ஒன்றிப்பு, புணர்ச்சி, விவாகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைதுனம்&searchhws=yes&matchtype=exact">மைதுனம்</a> maituṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைதுனம்</tam> <t>maituṉam</t></hw> , <i>n</i>. < <i>maithuna</i>. 1. Copulation; sexual union; <tam>புணர்ச்சி. (பிங்.) வதுவைச் சடங்கதனை மைதுனமாக் கொண்ட</tam> (<tam>ஒழிவி. கிரியை</tam>. 16). 2. Marriage; <tam>விவாகம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/winslow_query.py?qs=மைதுனம்&searchhws=yes&matchtype=exact">மைதுனம்</a> maituṉam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p>*<hw><tam>மைதுனம்</tam></hw> , <i>s.</i> Copulation, union, <tam>புணர்ச்சி</tam>; [<i>ex</i> <tam>மிதுனம்</tam>, a couple.] <i>[Sa Mait'huna.]</i> <p2><tam>மைதுனம்பண்ணுதல்</tam>, <i>v. noun.</i> Cohabiting.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைதுனி&searchhws=yes&matchtype=exact">மைதுனி</a> maituṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைதுனி</hw> - மச்சாள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைதுலி&searchhws=yes&matchtype=exact">மைதுலி</a> maituli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைதுலி</tam> <t>maituli</t></hw> , <i>n</i>. See <tam>மைதிலி. (சது.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைதுலை&searchhws=yes&matchtype=exact">மைதுலை</a> maitulai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைதுலை</hw> - பஞ்சகௌடத் தொன்று, மிதிலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைதுலை&searchhws=yes&matchtype=exact">மைதுலை</a> maitulai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைதுலை</tam> <t>maitulai</t></hw> , <i>n</i>. See <tam>மைதிலை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைத்தான்&searchhws=yes&matchtype=exact">மைத்தான்</a> maittāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைத்தான்</tam> <t>maittāṉ</t></hw> , <i>n</i>. perh <tam>மை-</tam>. Smut, a disease affecting <i>cōḷam</i>; <tam>சோளப்பயிர்க்கு வரும் நோய்வகை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைத்திரன்&searchhws=yes&matchtype=exact">மைத்திரன்</a> maittiraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைத்திரன்</hw> - சினேகன், பிராமணன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/fabricius_query.py?qs=மைத்திரம்&searchhws=yes&matchtype=exact">மைத்திரம்</a> maittiram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p><hw><tam>*மைத்திரம்</tam></hw> , <tam>மைத்திரியம்</tam>, <i>s.</i> love, friendship.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைத்திரம்&searchhws=yes&matchtype=exact">மைத்திரம்</a> maittiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைத்திரம்</hw> - சினேகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைத்திரம்&searchhws=yes&matchtype=exact">மைத்திரம்</a> maittiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>மைத்திரம்</hw> - சிநேகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைத்திரம்&searchhws=yes&matchtype=exact">மைத்திரம்</a> maittiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைத்திரம்</tam> <t>maittiram</t></hw> , <i>n</i>. < <i>maitra</i>. 1. Love, friendship; <tam>நட்பு</tam>. 2. The third of the 15 divisions of the day; <tam>பகல்</tam> 15 <tam>முகூர்த்தங்களுள் மூன்றாவது</tam>. (<tam>விதான. குணா</tam>. 73, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/winslow_query.py?qs=மைத்திரம்&searchhws=yes&matchtype=exact">மைத்திரம்</a> maittiram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p>*<hw><tam>மைத்திரம்</tam></hw> –<tam>மைத்திரியம்</tam>, <i>s.</i> Love, friendship, as <tam>மித்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைத்திராயணி&searchhws=yes&matchtype=exact">மைத்திராயணி</a> maittirāyaṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைத்திராயணி</tam> <t>maittirāyaṇi</t></hw> , <i>n</i>. < <i>Maitrāyaṇī</i>. An Upaniṣad, one of 108; <tam>நூற்றெட் டுபநிடதங்களுள் ஒன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/fabricius_query.py?qs=மைத்திராவருணம்&searchhws=yes&matchtype=exact">மைத்திராவருணம்</a> maittirāvaruṇam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p>*<hw><tam>மைத்திராவருணம்</tam></hw> , <i>s.</i> an Upanishad.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைத்திராவருணம்&searchhws=yes&matchtype=exact">மைத்திராவருணம்</a> maittirāvaruṇam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைத்திராவருணம்</hw> - உபநிடத முப்பத் திரண்டில் ஒன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/winslow_query.py?qs=மைத்திராவருணம்&searchhws=yes&matchtype=exact">மைத்திராவருணம்</a> maittirāvaruṇam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p>*<hw><tam>மைத்திராவருணம்</tam></hw> , <i>s.</i> A Upanishad. See <tam>உபநிடதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைத்திராவருணி&searchhws=yes&matchtype=exact">மைத்திராவருணி</a> maittirāvaruṇi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைத்திராவருணி</hw> - அகத்தியன், வால்மீகி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைத்திராவருணி&searchhws=yes&matchtype=exact">மைத்திராவருணி</a> maittirāvaruṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைத்திராவருணி</tam> <t>maittirā-varuṇi</t></hw> , <i>n</i>. < <i>Maitrāvaruṇi</i>. Agastya, as descended from Mitra and Varuṇa; <tam>அகத்திய முனிவர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		114) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைத்திரி&searchhws=yes&matchtype=exact">மைத்திரி</a> maittiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைத்திரி</tam> <t>maittiri</t></hw> , <i>n</i>. < <i>maitrī</i>. 1. Friendship; <tam>நட்பு</tam>. (<tam>பரிபா</tam>. 4, 1, <tam>உரை</tam>.) 2. See <tam>மைத்திரீபாவனை. மைத்திரி கருணா முதிதை</tam> (<tam>மணி</tam>. 30, 256).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		115) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைத்திரியம்&searchhws=yes&matchtype=exact">மைத்திரியம்</a> maittiriyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைத்திரியம்</hw> - சிநேகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		116) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைத்திரியம்&searchhws=yes&matchtype=exact">மைத்திரியம்</a> maittiriyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>மைத்திரியம்</hw> - சிநேகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		117) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைத்திரியாழ்வார்&searchhws=yes&matchtype=exact">மைத்திரியாழ்வார்</a> maittiriyāḻvār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைத்திரியாழ்வார்</tam> <t>maittiri-y-āḻvār</t></hw> , <i>n</i>. < id. +. The Buddha of the future. See <tam>மயித்திரியாழ்வார்</tam>. (<tam>மணி. புத்தசரித். பக்</tam>. 30, <tam>கீழ்க் குறிப்பு</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		118) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைத்திரீபாவனை&searchhws=yes&matchtype=exact">மைத்திரீபாவனை</a> maittirīpāvaṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைத்திரீபாவனை</tam> <t>maittirī-pāvaṉai</t></hw> , <i>n</i>. < id. +. (Buddh.) A form of meditation which developes a feeling of fellowship with all beings, practised by monks; <tam>எல்லாவுயிர்களிடத் தும் அன்புபாராட்டி அவற்றின் நல்வாழ்வைக் கருதி பெளத்தபிக்ஷு புரியும் தியானவகை</tam>. (<tam>மணி. பக்</tam>. 387.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		119) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைத்திரேயன்&searchhws=yes&matchtype=exact">மைத்திரேயன்</a> maittirēyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைத்திரேயன்</hw> - குசீலவன் புத்திரன், பராசரன் சீடன், இவன் துரியோத நனைக் காமிய வனத்திற்கண்டு அவ னுக்கு ஞானோபதேசம் செய்யநினை த்தபோது, அதனைச்சிரவணஞ்செய் யாது பரிகசித்தமையால் துரியோத நனை வீமன் கதாயுதத்தால் இறக்கும் படி சபித்துச்சென்ற ஒருமுனிவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		120) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைத்திரேயர்&searchhws=yes&matchtype=exact">மைத்திரேயர்</a> maittirēyar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைத்திரேயர்</tam> <t>maittirēyar</t></hw> , <i>n</i>. < <i>Maitrēya</i>. 1. A Ṛṣi; <tam>ஒரு முனிவர்</tam>. 2. See <tam>மயித்திரியாழ்வார். (நீலகேசி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		121) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைத்திரேயி&searchhws=yes&matchtype=exact">மைத்திரேயி</a> maittirēyi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைத்திரேயி</tam> <t>maittirēyi</t></hw> , <i>n</i>. < <i>Maitrēyī</i>. An Upanisad, one of 108; <tam>நூற்றெட்டுபநிடதங்களுள் ஒன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		122) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைத்தீரீபலன்&searchhws=yes&matchtype=exact">மைத்தீரீபலன்</a> maittīrīpalaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைத்தீரீபலன்</hw> - புத்தன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		123) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைத்துனத்தோழன்&searchhws=yes&matchtype=exact">மைத்துனத்தோழன்</a> maittuṉattōḻaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைத்துனத்தோழன்</tam> <t>maittuṉa-t-tōḻaṉ</t></hw> , <i>n</i>. < <tam>மைத்துனன்</tam> +. Intimate friend, chum, boon companion; <tam>பரிகாசஞ்செய்து விளையாடும் முறைமையுடைய தோழன். மைந்தனை மகிழ்வ கூறி மைத்துனத் தோழனென்றான்</tam> (<tam>சீவக</tam>. 1264).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		124) <a href="/cgi-bin/app/crea_query.py?qs=மைத்துனன்&searchhws=yes&matchtype=exact">மைத்துனன்</a> maittuṉaṉ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைத்துனன்</hw> பெ. 1: மனைவியின் சகோதரன்; wife's brother.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		125) <a href="/cgi-bin/app/fabricius_query.py?qs=மைத்துனன்&searchhws=yes&matchtype=exact">மைத்துனன்</a> maittuṉaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p>*<hw><tam>மைத்துனன்</tam></hw> , <tam>மைச்சுனன்</tam>, <i>s.</i> (<i>fem.</i> <tam>மைத் துனி</tam>) sister's husband, wife's brother, sister's son, paternal aunt's son, maternal uncle's son, cousin, <tam>மச்சான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		126) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைத்துனன்&searchhws=yes&matchtype=exact">மைத்துனன்</a> maittuṉaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைத்துனன்</hw> - மச்சான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		127) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைத்துனன்&searchhws=yes&matchtype=exact">மைத்துனன்</a> maittuṉaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1485">p. 1485</a>)
+		<blockquote><p><hw>மைத்துனன்</hw> - சம்மதன், மச்சான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		128) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைத்துனன்&searchhws=yes&matchtype=exact">மைத்துனன்</a> maittuṉaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைத்துனன்</tam> <t>maittuṉaṉ</t></hw> , <i>n</i>. prob. <i>maithuna</i>. 1. Brother of one's wife or husband; <tam>மனைவிக்கு அல்லது கணவனுக்குச் சகோதரன்</tam>. 2. Son of one's maternal uncle or paternal aunt; <tam>மாமன் அல்லது அத்தையின் மகன். தன்மைத்து னனைக் கொலை சூழ்ந்த</tam> (<tam>உத்தரரா. திக்குவி</tam>. 107). 3. Sister's husband; <tam>சகோதரியின் கணவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		129) <a href="/cgi-bin/app/winslow_query.py?qs=மைத்துனன்&searchhws=yes&matchtype=exact">மைத்துனன்</a> maittuṉaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மைத்துனன்</tam></hw> , <i>s.</i> [<i>fem.</i> <tam>மைத்துனி</tam>.] A sister's husband, &c. See <tam>மச்சுனன்</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		130) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைத்துனமை&searchhws=yes&matchtype=exact">மைத்துனமை</a> maittuṉamai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைத்துனமை</hw> - மைத்துனவுரிமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		131) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைத்துனமை&searchhws=yes&matchtype=exact">மைத்துனமை</a> maittuṉamai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைத்துனமை</tam> <t>maittuṉamai</t></hw> , <i>n</i>. < id. Relationship of a brother-in-law or of a cognate-cousin; <tam>மைத்துனமுறைமை. மாதவன் மைத் துனமையினான் மகிழ்ச்சிகூர்ந்தே</tam> (<tam>பாரத. அருச்சுனன் றீர்</tam>. 56).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		132) <a href="/cgi-bin/app/crea_query.py?qs=மைத்துனி&searchhws=yes&matchtype=exact">மைத்துனி</a> maittuṉi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைத்துனி</hw> பெ. 1: மனைவியின் சகோதரி; wife's sister.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		133) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைத்துனி&searchhws=yes&matchtype=exact">மைத்துனி</a> maittuṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைத்துனி</hw> - மச்சாள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		134) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைத்துனி&searchhws=yes&matchtype=exact">மைத்துனி</a> maittuṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3368">p. 3368</a>)
+		<blockquote><p><hw><tam>மைத்துனி</tam> <t>maittuṉi</t></hw> , <i>n</i>. Fem. of <tam>மைத்துனன்</tam>. 1. Wife's sister; <tam>மனைவியின் உடன்பிறந் தாள்</tam>. 2. Daughter of one's maternal uncle or paternal aunt; <tam>மாமன் அல்லது அத்தையின் மகள். மைத்துனி நடக்கமாட்டே னிளைத்தனனென்ன</tam> (<tam>திருவாலவா</tam>. 62, 7). 3. Brother's wife; <tam>சகோதர னின் மனைவி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		135) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைநகர்ப்பூமி&searchhws=yes&matchtype=exact">மைநகர்ப்பூமி</a> mainakarppūmi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைநகர்ப்பூமி</hw> - வக்கிராந்தபாஷாணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		136) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைநகர்ப்பூமி&searchhws=yes&matchtype=exact">மைநகர்ப்பூமி</a> mainakarppūmi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைநகர்ப்பூமி</tam> <t>mainakarppūmi</t></hw> , <i>n</i>. A mineral poison; <tam>வக்கிராந்தபாஷாணம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		137) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைநா&searchhws=yes&matchtype=exact">மைநா</a> mainā
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைநா</hw> - சொல்லிறிபுள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		138) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைநாகசகாயன்&searchhws=yes&matchtype=exact">மைநாகசகாயன்</a> mainākacakāyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைநாகசகாயன்</hw> - வாயுதேவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		139) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைநாகசுவசிரு&searchhws=yes&matchtype=exact">மைநாகசுவசிரு</a> mainākacuvaciru
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைநாகசுவசிரு</hw> - பார்வதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		140) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைநாகன்&searchhws=yes&matchtype=exact">மைநாகன்</a> mainākaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைநாகன்</hw> - இமவான் மேனகையிடத் துப்பெற்றபுத்திரன், கிருதயுகத்தில் மலைகளெல்லாம் சிறகுகளையுடைய னவாய்ப் பூவுலகில் ஏங்கும் பறந்து பட்டணங்கள் மீதுசென்று படிந்து அந்தப் பட்டணங்களையும் அவற்றி லுள்ள ஜநங்களையும் நாசஞ்செய்து வந்தன, அதுகண்ட இந்திரன் அந் தமலைகளின் சிறகறிந்து அவை பறவாதபடி தடுத்தான், அந்தச்சமய த்தில் மைநாகன்மாத்திரம் வாயுதே வனதுசகாயத்தால் தப்பியோடிச்சமு த்திரத்தில் ஒளித்துக்கொண்டான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		141) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைநாகன்&searchhws=yes&matchtype=exact">மைநாகன்</a> mainākaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைநாகன்</tam> <t>mainākaṉ</t></hw> , <i>n</i>. See <tam>மைநாகம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		142) <a href="/cgi-bin/app/fabricius_query.py?qs=மைநாகம்&searchhws=yes&matchtype=exact">மைநாகம்</a> mainākam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p>*<hw><tam>மைநாகம்</tam></hw> , <tam>மைநாகன்</tam>, <i>s.</i> a rock between S. India and Ceylon, supposed to be the son of Himalaya by <tam>மேநகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		143) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைநாகம்&searchhws=yes&matchtype=exact">மைநாகம்</a> mainākam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைநாகம்</hw> - ஒருமலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		144) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைநாகம்&searchhws=yes&matchtype=exact">மைநாகம்</a> mainākam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைநாகம்</tam> <t>mainākam</t></hw> , <i>n</i>. < <i>Maināka</i>. Mount Maināka, said to be between the Indian Peninsula and Ceylon; <tam>இந்தியாவுக்கும் இலங் கைக்கும் இடையிலுள்ளதாகச் சொல்லப்படும் ஒரு மலை</tam>. (<tam>கம்பரா. கடறாவு</tam>. 40.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		145) <a href="/cgi-bin/app/winslow_query.py?qs=மைநாகம்&searchhws=yes&matchtype=exact">மைநாகம்</a> mainākam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p>*<hw><tam>மைநாகம்</tam></hw> –<tam>மைநாகன்</tam>, <i>s.</i> A rock in the sea between the southern point of the Peninsula and Ceylon, considered in mythology to be the son of Hymalaya, by <tam>மேநகை</tam>. The personal termination <tam>ன்</tam> is therefore given in <tam>சது</tam>. W. p. 675. <smallcaps>MAINAKA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		146) <a href="/cgi-bin/app/crea_query.py?qs=மைந்தன்&searchhws=yes&matchtype=exact">மைந்தன்</a> maintaṉ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைந்தன்</hw> பெ. [உ.வ.] 1: மகன்; son. மைந்தன் இல்லை என்னும் குறை அவரைப் பெரிதும் வருத்தியது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		147) <a href="/cgi-bin/app/fabricius_query.py?qs=மைந்தன்&searchhws=yes&matchtype=exact">மைந்தன்</a> maintaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p><hw><tam>மைந்தன்</tam></hw> , <i>s.</i> (<i>pl.</i> <tam>மைந்தர்</tam>) a son, <tam>புத் திரன்</tam>; 2. a man, <tam>மனிதன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		148) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைந்தன்&searchhws=yes&matchtype=exact">மைந்தன்</a> maintaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைந்தன்</hw> - ஒருவாநரன், இவனுக்குச் சகோதரர் இருவர், இவன் அசுவிநி தேவர்களுடைய புத்திரன், இவன் சுக்ரீவன் சேநாதிபதிகளுள் ஒருவனா யிருந்தவன், திண்ணியன், மகன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		149) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைந்தன்&searchhws=yes&matchtype=exact">மைந்தன்</a> maintaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1485">p. 1485</a>)
+		<blockquote><p><hw>மைந்தன்</hw> - சந்நிதி, மதலை, தனயன், காத லன், நந்தனன், சிறுவன், மெய்யன் தோன்றல், செம்மல், முளை, சுதன், கால், பொருள், புதல்வன், புத்திரன், பிறங்கடை, ஏச்சம், சேய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		150) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைந்தன்&searchhws=yes&matchtype=exact">மைந்தன்</a> maintaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைந்தன்</tam> <t>maintaṉ</t></hw> , <i>n</i>. < <tam>மைந்து</tam>. [M. <i>maindan</i>.] 1. Son; <tam>மகன். (பிங்.) குலக்கோ மைந்தர் தமக்கும்</tam> (<tam>கம்பரா. மந்தரை</tam>. 76). 2. Young man; <tam>இளைஞன். (பிங்.) மைந்த . . . நீ யிதற் கென்னை வெகுண்டது</tam> (<tam>கம்பரா. நகர்நீங்</tam>. 134). 3. Young of an animal or reptile; <tam>விலங்கு ஊர்வன வற்றின் குட்டி. அரவமூத்த மைந்தன்</tam> (<tam>பரிபா</tam>. 19, 73). 4. Disciple, pupil; <tam>மாணாக்கன். அளவிலா மைந்தர்க் கூட்டி</tam> (<tam>திருவாலவா</tam>. 35, 4). 5. Man; <tam>ஆண்மகன். (பிங்.)</tam> 6. Strong, powerful man; <tam>திண்ணியன். (சூடா.)</tam> 7. Warrior, hero; <tam>வீரன். தொடுகழன் மைந்தர் தொழில்</tam> (<tam>பு. வெ</tam>. 3, 6). 8. Husband; <tam>கணவன். மைந்த ரகலத்தகலா . . . நன் னர்ப் புணர்ச்சியும்</tam> (<tam>பரிபா</tam>. 8, 43).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		151) <a href="/cgi-bin/app/winslow_query.py?qs=மைந்தன்&searchhws=yes&matchtype=exact">மைந்தன்</a> maintaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மைந்தன்</tam></hw> , <i>s.</i> [<i>pl.</i> <tam>மைந்தர்</tam>.] A son, <tam>குமாரன்</tam>. (<tam>சது</tam>.) 2. A man, <tam>மனிதன்</tam>, Compare <tam>மாந்தன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		152) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைந்தர்&searchhws=yes&matchtype=exact">மைந்தர்</a> maintar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைந்தர்</hw> - ஆண்மக்கள், மனிதர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		153) <a href="/cgi-bin/app/fabricius_query.py?qs=மைந்து&searchhws=yes&matchtype=exact">மைந்து</a> maintu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p><hw><tam>மைந்து</tam></hw> , <i>s.</i> confusion of mind; 2. strength, <tam>வலி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		154) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைந்து&searchhws=yes&matchtype=exact">மைந்து</a> maintu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைந்து</hw> - மயக்கம், வலி, அழகு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		155) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைந்து&searchhws=yes&matchtype=exact">மைந்து</a> maintu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைந்து</tam> <t>maintu</t></hw> , <i>n</i>. 1. Might, strength; <tam>வலிமை. மைந்து பொருளாக வந்த வேந்தனை</tam> (<tam>தொல். பொ</tam>. 70). 2. cf. <i>mañju</i>. Beauty; <tam>அழகு. மைந்தா ரசோக மடலவிழ</tam> (<tam>சிலப்</tam>. 8, <tam>வெண்பா</tam>, 1). 3. Desire; <tam>விருப்பம். துறை வேண்டு மைந்தின்</tam> (<tam>பரிபா</tam>. 6, 30). 4. Infatuation of love; <tam>காமமயக்கம். மகளிரை மைந்துற் றமர்புற்ற மைந்தர்</tam> (<tam>பரிபா</tam>. 20, 91). 5. Madness; <tam>பித்து. (திவா.)</tam> 6. Must of an elephant; <tam>யானையின் மதம். களிறே . . . மைந்து பட் டன்றே</tam> (<tam>புறநா</tam>. 13). 7. Ignorance, stupidity; <tam>அறி யாமை. மைந்துற்றாய்</tam> (<tam>பரிபா</tam>. 20, 69).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		156) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைந்து&searchhws=yes&matchtype=exact">மைந்து</a> maintu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S399">p. S399</a>)
+		<blockquote><p><hw><tam>மைந்து</tam> <t>maintu</t></hw> , <i>n</i>. Child; <tam>பிள்ளை</tam>. (<tam>திவ். பெரியாழ்</tam>. 1, 1, 8, <tam>வ்யா. பக்</tam>. 16).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		157) <a href="/cgi-bin/app/winslow_query.py?qs=மைந்து&searchhws=yes&matchtype=exact">மைந்து</a> maintu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மைந்து</tam></hw> , <i>s.</i> Confusion of mind, <tam>மயக்கம்</tam>. 2. Strength, <tam>வலி</tam>, (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		158) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைந்நூறு&searchhws=yes&matchtype=exact">மைந்நூறு</a> mainnūṟu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைந்நூறு</tam> <t>mai-n-nūṟu</t></hw> , <i>n</i>. < <tam>மை²</tam> + <tam>நூறு²</tam>. Black powder for the eye; <tam>அஞ்சனப்பொடி. மைந்நூறு வேற்கண் மடவார்</tam> (<tam>சீவக</tam>. 453).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		159) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைனம்&searchhws=yes&matchtype=exact">மைனம்</a> maiṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மைனம்</hw> - மீன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		160) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைனம்&searchhws=yes&matchtype=exact">மைனம்</a> maiṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைனம்</tam> <t>maiṉam</t></hw> , <i>n</i>. prob. <i>mīna</i>. Fish; <tam>மீன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		161) <a href="/cgi-bin/app/crea_query.py?qs=மைனர்&searchhws=yes&matchtype=exact">மைனர்</a> maiṉar
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைனர்</hw> பெ. 1: (சட்டப்படி சொத்து உரிமை முதலியவை வந்துசேரும்) பதினெட்டு வயது நிரம்பாதவர்; minor (in age). மைனர் சொத்தைச் சாதாரணமாக விற்க முடியாது. 2: இன்பமாகப் பொழுதுபோக்கும் (பணக்கார) இளைஞன்; playboy.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		162) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைனர்&searchhws=yes&matchtype=exact">மைனர்</a> maiṉar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைனர்</tam> <t>maiṉar</t></hw> , <i>n</i>. < E. Minor, person under age; <tam>சட்டப்படி சொத்தாளுதல் முதலியவற்றிற் குரிய வயதடையாதவ-ன்-ள்</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		163) <a href="/cgi-bin/app/crea_query.py?qs=மைனர் சங்கிலி&searchhws=yes&matchtype=exact">மைனர் சங்கிலி</a> maiṉar caṅkili
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைனர் சங்கிலி</hw> பெ. 1: (ஆண்கள் போட்டுக் கொள்ளும்) தங்கத்தாலான மெல்லிய சங்கிலி; thin gold chain (worn by men).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		164) <a href="/cgi-bin/app/tamil-idioms_query.py?qs=மைனர் விளையாட்டு&searchhws=yes&matchtype=exact">மைனர் விளையாட்டு</a> maiṉar viḷaiyāṭṭu
+		from <a href="/dictionaries/tamil-idioms/"><i>"Taṟkālat Tamiḻ maraputtoṭar akarāti"</i></a>
+		(<a href="/cgi-bin/app/tamil-idioms_query.py?page=307">p. 307</a>)
+		<blockquote><p><hw>மைனர் விளையாட்டு</hw> <nmbr>1685</nmbr> <b>1:</b> (அளவுக்கு மீறி ஈடுபடுவதால் தீய பழக்கங்கள் என்று ஆகிவிடும்) பெண்ணின்பம், மது, சூதாட்டம் முதலிய பொழுதுபோக்குகள்; dissolute ways; the activities of a rake. கிழவருக்கு வாலிபன் என்று நினைப்பா? இன்னும் மைனர் விளையாட்டை விட்ட பாடு இல்லையே!/ மைனர் விளையாட்டுகளில் எவ்வளவு பணத்தை என் மாமா தொலைத்திருப்பார் தெரியுமா?</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		165) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைனர்விளையாட்டு&searchhws=yes&matchtype=exact">மைனர்விளையாட்டு</a> maiṉarviḷaiyāṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைனர்விளையாட்டு</tam> <t>maiṉar-viḷaiyāṭṭu</t></hw> , <i>n</i>. < <tam>மைனர்</tam> +. Lavish expenditure by a person in his nonage; <tam>சிறுவயதிற் கண்டபடி செலவு செய்கை</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		166) <a href="/cgi-bin/app/crea_query.py?qs=மைனா&searchhws=yes&matchtype=exact">மைனா</a> maiṉā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைனா</hw> பெ. 1: கால்களும் அலகும் மஞ்சளாகவும் உடல் கருப்பாகவும் உள்ள, சீட்டியடிப்பது போல் கூவும் ஒரு பறவை; mynah.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		167) <a href="/cgi-bin/app/fabricius_query.py?qs=மைனா&searchhws=yes&matchtype=exact">மைனா</a> maiṉā
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p><hw><tam>மைனா</tam></hw> , <tam>மயினா</tam>, <i>s.</i> the maina bird.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		168) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைனா&searchhws=yes&matchtype=exact">மைனா</a> maiṉā
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மைனா</hw> - நாகணவாய்ப்புள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		169) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைனா&searchhws=yes&matchtype=exact">மைனா</a> maiṉā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைனா</tam> <t>maiṉā</t></hw> , <i>n</i>. < U. <i>mainā</i>. Common myna, <i>Acridotheres tristis</i>; <tam>நாகணவாய்ப்புள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		170) <a href="/cgi-bin/app/winslow_query.py?qs=மைனா&searchhws=yes&matchtype=exact">மைனா</a> maiṉā
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மைனா</tam></hw> , <i>s.</i> The Maina bird, as <tam>மயினா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		171) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைனிகன்&searchhws=yes&matchtype=exact">மைனிகன்</a> maiṉikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மைனிகன்</hw> - கரையான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		172) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைனிகன்&searchhws=yes&matchtype=exact">மைனிகன்</a> maiṉikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைனிகன்</tam> <t>maiṉikaṉ</t></hw> , <i>n</i>. White ant; <tam>கறை யான். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		173) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைபோடு-தல்&searchhws=yes&matchtype=exact">மைபோடு-தல்</a> maipōṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைபோடு-தல்</tam> <t>mai-pōṭu-</t></hw> , <i>v. intr</i>. < id. +. 1. To grease, as a country cart; <tam>வண்டிக்கு மசகு இடுதல்</tam>. <i>Colloq</i>. 2. See <tam>மையூட்டு-</tam>, 2. 3. To bewitch; <tam>மயக்கி வசீகரித்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		174) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைபோட்டுப்பார்-த்தல்&searchhws=yes&matchtype=exact">மைபோட்டுப்பார்-த்தல்</a> maipōṭṭuppār-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைபோட்டுப்பார்-த்தல்</tam> <t>mai-pōṭṭu-p-pār-</t></hw> , <i>v. tr</i>. < id. + <tam>போடு-</tam> +. To discover hidden treasure, etc., by using magic pigment; <tam>புதையல் முதலியன கண்டுபிடித்தற்பொருட்டு அஞ்சனமையிட்டுப் பார்த்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		175) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைப்பரணி&searchhws=yes&matchtype=exact">மைப்பரணி</a> maipparaṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைப்பரணி</tam> <t>mai-p-paraṇi</t></hw> , <i>n</i>. < <tam>மை²</tam> +. Casket for collyrium; <tam>அஞ்சனம் வைக்குஞ் சிமிழ்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		176) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைப்பு&searchhws=yes&matchtype=exact">மைப்பு</a> maippu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைப்பு</tam> <t>maippu</t></hw> , <i>n</i>. < <tam>மை-</tam>. Black, blackness; <tam>கறுப்பு. மைப்புறுத்தகண் ணரம்பைமார்</tam> (<tam>காஞ்சிப்பு. அரிசாப</tam>. 2).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		177) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைப்பு&searchhws=yes&matchtype=exact">மைப்பு</a> maippu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S399">p. S399</a>)
+		<blockquote><p><hw><tam>மைப்பு</tam> <t>maippu</t></hw> , <i>n</i>. Rottenness, as of wood; <tam>மரம் முதலியன உளுத்திருக்கை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		178) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைப்புயல்&searchhws=yes&matchtype=exact">மைப்புயல்</a> maippuyal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைப்புயல்</tam> <t>mai-p-puyal</t></hw> , <i>n</i>. < <tam>மை²</tam> +. Dark cloud; <tam>இருண்ட மேகம். (அக. நி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		179) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைப்பேறு-தல்&searchhws=yes&matchtype=exact">மைப்பேறு-தல்</a> maippēṟu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S399">p. S399</a>)
+		<blockquote><p><hw><tam>மைப்பேறு-தல்</tam> <t>maippēṟu-</t></hw> , <i>v. intr</i>. < <tam>மைப்பு</tam> +. To become rotten, as wood; <tam>மரம் முதலியன உளுத்துப்போதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		180) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைப்போது&searchhws=yes&matchtype=exact">மைப்போது</a> maippōtu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைப்போது</tam> <t>mai-p-pōtu</t></hw> , <i>n</i>. < id. + <tam>போது³</tam>. See <tam>மைம்மலர். மைப்போ தணிதொங்கல் வாணன்</tam> (<tam>தஞ்சைவா</tam>. 116).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		181) <a href="/cgi-bin/app/fabricius_query.py?qs=மைமல்&searchhws=yes&matchtype=exact">மைமல்</a> maimal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p><hw><tam>மைமல்</tam></hw> , <i>s. (prov.)</i> evening twilight.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		182) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைமல்&searchhws=yes&matchtype=exact">மைமல்</a> maimal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைமல்</hw> - மாலைநேரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		183) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைமல்&searchhws=yes&matchtype=exact">மைமல்</a> maimal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைமல்</tam> <t>maimal</t></hw> , <i>n</i>. prob. id. Evening; <tam>மாலைநேரம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		184) <a href="/cgi-bin/app/winslow_query.py?qs=மைமல்&searchhws=yes&matchtype=exact">மைமல்</a> maimal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மைமல்</tam></hw> , <i>s. [prov.]</i> Evening twilight, <tam>மாலைநேரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		185) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைமா&searchhws=yes&matchtype=exact">மைமா</a> maimā
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைமா</hw> - கரும்பன்றி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		186) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைமுகன்&searchhws=yes&matchtype=exact">மைமுகன்</a> maimukaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைமுகன்</hw> - முசு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		187) <a href="/cgi-bin/app/fabricius_query.py?qs=மைமை&searchhws=yes&matchtype=exact">மைமை</a> maimai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p><hw><tam>மைமை</tam></hw> , <i>s.</i> see under <tam>மை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		188) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைமை&searchhws=yes&matchtype=exact">மைமை</a> maimai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மைமை</hw> - மலடி, மலட்டெருமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		189) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைமை&searchhws=yes&matchtype=exact">மைமை</a> maimai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>மைமை</hw> - மலடி, மலட்டெருமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		190) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைமை&searchhws=yes&matchtype=exact">மைமை</a> maimai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைமை</tam> <t>maimai</t></hw> , <i>n</i>. perh. <i>mahimā</i>. [K. <i>maime</i>.] (Jaina.) Worship; <tam>பூசை. புக்கவர் மைமை தொடங்கின ரன்றே</tam> (<tam>மேருமந்</tam>. 1285).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		191) <a href="/cgi-bin/app/winslow_query.py?qs=மைமை&searchhws=yes&matchtype=exact">மைமை</a> maimai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மைமை</tam></hw> , <i>s.</i> A barren woman, &c. See <tam>மை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		192) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைம்மலர்&searchhws=yes&matchtype=exact">மைம்மலர்</a> maimmalar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைம்மலர்</tam> <t>mai-m-malar</t></hw> , <i>n</i>. < id. +. Blue nelumbo. See <tam>கருங்குவளை. மைம்மலர்க் கோதை</tam> (<tam>சீவக</tam>. 208).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		193) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைம்மா&searchhws=yes&matchtype=exact">மைம்மா</a> maimmā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைம்மா</tam> <t>mai-m-mā</t></hw> , <i>n</i>. < id. + <tam>மா²</tam>. Pig, as black; <tam>பன்றி. (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		194) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைம்மீன்&searchhws=yes&matchtype=exact">மைம்மீன்</a> maimmīṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைம்மீன்</tam> <t>mai-m-mīṉ</t></hw> , <i>n</i>. < id. + <tam>மீன்¹</tam>. The planet Saturn, as black in colour; <tam>சனி. மைம்மீன் புகையினும்</tam> (<tam>புறநா</tam>. 117).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		195) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைம்முகன்&searchhws=yes&matchtype=exact">மைம்முகன்</a> maimmukaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைம்முகன்</tam> <t>mai-m-mukaṉ</t></hw> , <i>n</i>. < id. +. Langur, as black-faced. See <tam>முசு¹. (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		196) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைம்மை&searchhws=yes&matchtype=exact">மைம்மை</a> maimmai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைம்மை</tam> <t>maimmai</t></hw> , <i>n</i>. cf. id. [K. <i>maime</i>, M. <i>maima</i>.] 1. Barren woman; <tam>மலடி. (பிங்.)</tam> 2. Barren buffalo; <tam>மலட்டெருமை. (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		197) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைம்மைப்பு&searchhws=yes&matchtype=exact">மைம்மைப்பு</a> maimmaippu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மைம்மைப்பு</tam> <t>mai-m-maippu</t></hw> , <i>n</i>. < id. + <tam>மை-</tam>. Defective sight, dimness of vision; <tam>பார்வைக்குறை. மைம்மைப்பி னன்று குருடு</tam> (<tam>பழமொ</tam>. 298).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		198) <a href="/cgi-bin/app/crea_query.py?qs=மைய அரசு&searchhws=yes&matchtype=exact">மைய அரசு</a> maiya aracu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைய அரசு</hw> பெ. 1: மத்திய அரசு; (in India) the union or central government.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		199) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைய நூக்கம்&searchhws=yes&matchtype=exact">மைய நூக்கம்</a> maiya nūkkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S399">p. S399</a>)
+		<blockquote><p><hw><tam>மைய நூக்கம்</tam> <t>maiya-nūkkam</t></hw> , <i>n</i>. < id. +. Centrifugal force; <tam>ஒரு பொருளின் மத்தியிலுள்ள அணுக்கள் அப்பொருளின் சுற்றெல்லையை நோக்கிப் போகுஞ் சக்தி</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		200) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையக்கட்டை&searchhws=yes&matchtype=exact">மையக்கட்டை</a> maiyakkaṭṭai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மையக்கட்டை</tam> <t>maiya-k-kaṭṭai</t></hw> , <i>n</i>. < <tam>மையம்¹</tam> +. Piece of wood placed over the axle, supporting the frame-work of a country cart; <tam>வண்டியில் அச்சின்மேற்போடுங் கட்டை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		201) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையக்கவர்ச்சி&searchhws=yes&matchtype=exact">மையக்கவர்ச்சி</a> maiyakkavarcci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S399">p. S399</a>)
+		<blockquote><p><hw><tam>மையக்கவர்ச்சி</tam> <t>maiya-k-kavarcci</t></hw> , <i>n</i>. < <tam>மையம்</tam> +. Centripetal force; <tam>ஒரு பொருளின் சுற்றெல்லைக்குட்பட்ட அணுக்கள் அப்பொருளின் மையத்தை நோக்கி நெருங்குஞ் சக்தி</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		202) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையண்டம்&searchhws=yes&matchtype=exact">மையண்டம்</a> maiyaṇṭam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மையண்டம்</hw> - முட்டை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		203) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையண்டம்&searchhws=yes&matchtype=exact">மையண்டம்</a> maiyaṇṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மையண்டம்</tam> <t>maiyaṇṭam</t></hw> , <i>n</i>. Egg; <tam>முட்டை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		204) <a href="/cgi-bin/app/crea_query.py?qs=மையத்து&searchhws=yes&matchtype=exact">மையத்து</a> maiyattu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மையத்து</hw> பெ. "இலங்." காண்க: மய்யத்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		205) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையத்து&searchhws=yes&matchtype=exact">மையத்து</a> maiyattu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மையத்து</tam> <t>maiyattu</t></hw> , <i>n</i>. < Arab. <i>mayyit</i>. Corpse; <tam>பிரேதம்</tam>. <i>Muham</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		206) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையநாட்டம்&searchhws=yes&matchtype=exact">மையநாட்டம்</a> maiyanāṭṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S399">p. S399</a>)
+		<blockquote><p><hw><tam>மையநாட்டம்</tam> <t>maiya-nāṭṭam</t></hw> , <i>n</i>. < id. +. Gravitation; <tam>ஒரு பொருளை மற்றொருபொருள் இழுக் கும் ஆகருஷணசக்தி</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		207) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையனோக்கம்&searchhws=yes&matchtype=exact">மையனோக்கம்</a> maiyaṉōkkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையனோக்கம்</tam> <t>maiyaṉōkkam</t></hw> , <i>n</i>. < id. + <tam>நோக்கம்</tam>. Mournful look; <tam>துக்கப் பார்வை. மைய னோக்கம்பட வருமிரக்கம்</tam> (<tam>தொல். பொ</tam>. 260, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		208) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையன்மா&searchhws=yes&matchtype=exact">மையன்மா</a> maiyaṉmā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையன்மா</tam> <t>maiyaṉ-mā</t></hw> , <i>n</i>. < <tam>மையல்</tam> + <tam>மா²</tam>. Elephant; <tam>யானை. (இலக். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		209) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையன்மை&searchhws=yes&matchtype=exact">மையன்மை</a> maiyaṉmai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையன்மை</tam> <t>maiyaṉmai</t></hw> , <i>n</i>. < id. See <tam>மையல்</tam>, 1, 2. <tam>மையன்மை செய்து</tam> (<tam>திவ். பெரியாழ்</tam>. 2, 3, 3).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		210) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையமண்டபம்&searchhws=yes&matchtype=exact">மையமண்டபம்</a> maiyamaṇṭapam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையமண்டபம்</tam> <t>maiya-maṇṭapam</t></hw> , <i>n</i>. < id. +. Building or hall in the middle of a temple tank; <tam>தெப்பக்குளத்தின் நடுவில் அமைந்த மண்டபம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		211) <a href="/cgi-bin/app/crea_query.py?qs=மையம்&searchhws=yes&matchtype=exact">மையம்</a> maiyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மையம்</hw> பெ. 1: (இடத்தில், பரப்பில்) நடு; midpoint; centre. வட்டத்தின் மையத்தில் ஒரு புள்ளி வை. 2: (ஒன்றிற்கு) அடிப்படையாக அல்லது முக்கியமாக அமைவது; vital or central point (of sth.); nucleus. இந்தக் கதையின் மையக் கருத்து இதுதான்./ தொழிலாளர் பிரச்சினையை மையமாக வைத்து எழுதப்பட்ட கதை./ இந்த நிகழ்ச்சிதான் சடங்கின் மையம். 3: (தேர்வு, ஆய்வு, பயிற்சி முதலியவற்றுக்கான) தேர்ந்தெடுக்கப்பட்ட இடம் அல்லது அமைப்பு; centre (for conducting sth.). எங்கள் பள்ளிதான் தேர்வு மையம்/ தத்துவ ஆராய்ச்சி மையம் நிறுவப்படும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		212) <a href="/cgi-bin/app/fabricius_query.py?qs=மையம்&searchhws=yes&matchtype=exact">மையம்</a> maiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p><hw><tam>மையம்</tam></hw> , <tam>மய்யம்</tam>, <i>s.</i> the centre, the middle. <p2><tam>மையமாயிருக்க</tam>, to be ambiguous.</p2> <p2><tam>நடுமையம்</tam>, the middle.</p2> <p2><tam>மையவாடி</tam>, a place hedged with thorns, a cemetery.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		213) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையம்&searchhws=yes&matchtype=exact">மையம்</a> maiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மையம்</hw> - நடு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		214) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையம்&searchhws=yes&matchtype=exact">மையம்</a> maiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>மையம்</hw> - நடு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		215) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையம்&searchhws=yes&matchtype=exact">மையம்</a> maiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மையம்¹</tam> <t>maiyam</t></hw> , <i>n</i>. < <i>madhya</i>. 1. Centre, middle; <tam>நடு. (சூடா.)</tam> 2. That which is mediocre; <tam>நடுத்தரமானது</tam>. 3. That which is doubtful or vague; <tam>சந்தேகமானது</tam>. 4. Impost; top portion of a pillar upon which an arch rests; <tam>கமான்வளைவைத் தாங்கும் தூணின் மேலு றுப்பு</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		216) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையம்&searchhws=yes&matchtype=exact">மையம்</a> maiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3369">p. 3369</a>)
+		<blockquote><p><hw><tam>மையம்²</tam> <t>maiyam</t></hw> , <i>n</i>. See <tam>மையத்து</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		217) <a href="/cgi-bin/app/winslow_query.py?qs=மையம்&searchhws=yes&matchtype=exact">மையம்</a> maiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மையம்</tam></hw> , <i>s.</i> [<i>also written</i> <tam>மய்யம்</tam>.] The centre, the middle, <tam>நடு</tam>, <i>(c.)</i> <p2><tam>மையமாயிருத்தல்</tam>, <i>v. noun.</i> Being ambiguous, <tam>உபயார்த்தப்படுதல்</tam>. <i>(R.)</i></p2> <p2><tam>மையவாடி</tam>, <i>s.</i> A place hedged with thorns; a cemetery. <i>(Beschi.)</i></p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		218) <a href="/cgi-bin/app/crea_query.py?qs=மையம்கொள்&searchhws=yes&matchtype=exact">மையம்கொள்</a> maiyamkoḷ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மையம்கொள்</hw> வி. (-கொள்ள, -கொண்டு) 1: (கடலில் உருவாகும் குறைந்த காற்றழுத்த மண்டலம்) நகராமல் ஒரு குறிப்பிட்ட இடத்தில் சுழன்றுகொண்டிருத்தல்; (of cyclone, etc.) be centred. புயல் சென்னைக்குக் கிழக்கே 300 கி.மீ.தொலைவில் மையம்கொண்டுள்ளது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		219) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையம்பாய்-தல்&searchhws=yes&matchtype=exact">மையம்பாய்-தல்</a> maiyampāy-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையம்பாய்-தல்</tam> <t>maiyam-pāy-</t></hw> , <i>v. intr</i>. < <tam>மையம்¹</tam> +. To oscillate about the middle point, as the index of a balance; <tam>இருபக்கமூஞ் சாய்தலால் ஒவ்வாமல் நிற்றல். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		220) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையம்பாய்தல்&searchhws=yes&matchtype=exact">மையம்பாய்தல்</a> maiyampāytal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1195">p. 1195</a>)
+		<blockquote><p><hw>மையம்பாய்தல்</hw> - இருபக்கமுஞ்சாய ஒவ் வாமனிற்றல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		221) <a href="/cgi-bin/app/fabricius_query.py?qs=மையலஞ்சந்தை&searchhws=yes&matchtype=exact">மையலஞ்சந்தை</a> maiyalañcantai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p><hw><tam>மையலஞ்சந்தை</tam></hw> , <i>s.</i> the second day of a fair or market; 2. the daily morning fair at Trichinopoly.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		222) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையலஞ்சந்தை&searchhws=yes&matchtype=exact">மையலஞ்சந்தை</a> maiyalañcantai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையலஞ்சந்தை</tam> <t>maiyalañ-cantai</t></hw> , <i>n</i>. The second day in the holding of a fair or market; <tam>சந்தைநடக்கும் இரண்டாம் நாள்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		223) <a href="/cgi-bin/app/winslow_query.py?qs=மையலஞ்சந்தை&searchhws=yes&matchtype=exact">மையலஞ்சந்தை</a> maiyalañcantai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மையலஞ்சந்தை</tam></hw> , <i>s.</i> The second-day of a fair, or market. <i>(Beschi.)</i> 2. The daily morning fair at Trichinopoly.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		224) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையலவர்&searchhws=yes&matchtype=exact">மையலவர்</a> maiyalavar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையலவர்</tam> <t>maiyalavar</t></hw> , <i>n</i>. < <tam>மையல்</tam>. Persons of deranged minds; <tam>பித்தர். மையலவர் போல மனம் பிறந்த வகைசொன்னார்</tam> (<tam>சீவக</tam>. 2013).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		225) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையலார்&searchhws=yes&matchtype=exact">மையலார்</a> maiyalār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையலார்</tam> <t>maiyalār</t></hw> , <i>n</i>. < id. 1. Magicians; <tam>மாயவித்தைக்காரர். மண்மயக்கு மயக்குடை மையலார்</tam> (<tam>இரகு. யாகப்</tam>. 35). 2. See <tam>மையலவர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		226) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையலி&searchhws=yes&matchtype=exact">மையலி</a> maiyali
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மையலி</hw> - மாசாலி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		227) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையலி&searchhws=yes&matchtype=exact">மையலி</a> maiyali
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையலி</tam> <t>maiyali</t></hw> , <i>n</i>. < id. Witch; <tam>மாய வித்தைக்காரி. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		228) <a href="/cgi-bin/app/crea_query.py?qs=மையல்&searchhws=yes&matchtype=exact">மையல்</a> maiyal
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மையல்</hw> பெ. [உ.வ.] 1: காதல் மயக்கம்; infatuation. மையல் கொண்ட தலைவியின் நிலையைக் கவிஞர் நன்றாக வருணித்துள்ளார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		229) <a href="/cgi-bin/app/fabricius_query.py?qs=மையல்&searchhws=yes&matchtype=exact">மையல்</a> maiyal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p><hw><tam>மையல்</tam></hw> , <i>s.</i> confusion of mind, <tam>மயக்கம்</tam>; 2. lust, <tam>மோகம்</tam>; 3. a plant, <i>datura</i>. <tam>ஊமத்தை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		230) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையல்&searchhws=yes&matchtype=exact">மையல்</a> maiyal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மையல்</hw> - உன்மத்தம், மயக்கம், மோகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		231) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையல்&searchhws=yes&matchtype=exact">மையல்</a> maiyal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>மையல்</hw> - உன்மத்தம், மயக்கம், வியங் கோண்முற்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		232) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையல்&searchhws=yes&matchtype=exact">மையல்</a> maiyal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையல்</tam> <t>maiyal</t></hw> , <i>n</i>. < <tam>மை-</tam>. 1. Infatuation of love; <tam>காமமயக்கம். மையல் செய்தென்னை மனங் கவர்ந்தானே யென்னும்</tam> (<tam>திவ். திருவாய்</tam>. 7, 2, 6). 2. Madness; <tam>பித்து. மைய லொருவன் களித்தற்றால்</tam> (<tam>குறள்</tam>, 838). 3. Overwhelming pride, due to rank, wealth, etc.; <tam>செல்வம் முதலியவற்றால் வரும் செருக்கு. மையல் . . . மன்னன்</tam> (<tam>சீவக</tam>. 589). 4. Must of an elephant; <tam>யானையின் மதம். வேழ மையலுறுத்த</tam> (<tam>பெருங். உஞ்சைக்</tam>. 37, 232). 5. Purple stramony. See <tam>கருவூமத்தை. (மலை.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		233) <a href="/cgi-bin/app/winslow_query.py?qs=மையல்&searchhws=yes&matchtype=exact">மையல்</a> maiyal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மையல்</tam></hw> , <i>s.</i> Confusion of mind, <tam>மயக்கம்</tam>. Lust, libidinous desire–as <tam>மயல்</tam>, <tam>மோகம்</tam>. 3. A plant, Datura, <tam>ஊமத்தம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		234) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையவாடி&searchhws=yes&matchtype=exact">மையவாடி</a> maiyavāṭi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மையவாடி</hw> - முள்வேலியுள்ளவிடம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		235) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையவாடி&searchhws=yes&matchtype=exact">மையவாடி</a> maiyavāṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையவாடி¹</tam> <t>maiya-vāṭi</t></hw> , <i>n</i>. prob. <tam>மையம்¹</tam> +. Place hedged around with thorns; <tam>முள் வேலியுள்ள இடம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		236) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையவாடி&searchhws=yes&matchtype=exact">மையவாடி</a> maiyavāṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையவாடி²</tam> <t>maiya-vāṭi</t></hw> , <i>n</i>. < <tam>மையம்²</tam> +. Burial-ground; <tam>இடுகாடு</tam>. <i>Muham</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		237) <a href="/cgi-bin/app/fabricius_query.py?qs=மையா&searchhws=yes&matchtype=exact">மையா</a> maiyā
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p><hw><tam>மையா</tam></hw> , VI. <i>v. i.</i> be confused in mind.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		238) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையா&searchhws=yes&matchtype=exact">மையா</a> maiyā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையா¹</tam> <t>mai-y-ā</t></hw> , <i>n</i>. < <tam>மை²</tam> + <tam>ஆ⁸</tam>. Barren cow; <tam>மலட்டுப்பசு. மையாதாங் காத்தோம்பி</tam> (<tam>அறநெறி</tam>. 38).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		239) <a href="/cgi-bin/app/winslow_query.py?qs=மையா&searchhws=yes&matchtype=exact">மையா</a> maiyā
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p><hw><tam>மையா</tam></hw> , <tam>க்கிறேன்</tam>, <tam>த்தேன்</tam>, <tam>ப்பேன்</tam>, <tam>க்க</tam>, <i>v. n.</i> To be confused in mind, <tam>மயங்க</tam>. <i>(p.)</i> <tam>மலர்காணின்மையாத்திநெஞ்சேயிவள்கண்பலர் காணும்பூவொக்குமென்று</tam>. Oh! my soul, thou art bewildered at the sight of the lotus, &c., mistaking it for her eyes.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		240) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையா-த்தல்&searchhws=yes&matchtype=exact">மையா-த்தல்</a> maiyā-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையா²-த்தல்</tam> <t>mai-yā-</t></hw> , 12 <i>v. intr</i>. prob. id. + <tam>யா-</tam>. 1. To be perplexed; <tam>மயங்குதல். மலர் காணின் மையாத்தி நெஞ்சே</tam> (<tam>குறள்</tam>, 1112). 2. To become dim; <tam>ஒளிமழுங்குதல். விண்மே லொளி யெல்லா மையாந் தொடுங்கி</tam> (<tam>பு. வெ</tam>. 9, 13). 3. To look wan; to look deserted; <tam>பொலிவழிதல். மாந்த ரென்பவ ரொருவருமின்றி மையாந்த வந்நகர்</tam> (<tam>காஞ்சிப் பு. நகரேற்</tam>. 101).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		241) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையாடு-தல&searchhws=yes&matchtype=exact">மையாடு-தல</a> maiyāṭu-tala
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையாடு-தல</tam> <t>mai-y-āṭu-</t></hw> , <i>v. intr</i>. < id. +. 1. See <tam>மையோலைபிடி-. ஐயாண்டெய்தி மையாடி யறிந்தார் கலைகள்</tam> (<tam>சீவக</tam>. 2706). 2. To be blackened, as with poison; <tam>கருமையாதல். மையாடிய கண்டன்</tam> (<tam>தேவா</tam>. 303, 1).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		242) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையாத்தல்&searchhws=yes&matchtype=exact">மையாத்தல்</a> maiyāttal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மையாத்தல்</hw> - மயங்குதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		243) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையான்&searchhws=yes&matchtype=exact">மையான்</a> maiyāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையான்</tam> <t>mai-y-āṉ</t></hw> , <i>n</i>. < id. + <tam>ஆன்¹</tam>. Buffalo, as black; <tam>எருமை. இருணிற மையான்</tam> (<tam>குறுந்</tam>. 279).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		244) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையார்தடங்கணாபதி&searchhws=yes&matchtype=exact">மையார்தடங்கணாபதி</a> maiyārtaṭaṅkaṇāpati
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மையார்தடங்கணாபதி</hw> - திருக்கோடிக்கு ழகரிலே கோயில் கொண்டிருக்கும் தேவியார் பெயர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		245) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையிடு-தல்&searchhws=yes&matchtype=exact">மையிடு-தல்</a> maiyiṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையிடு-தல்</tam> <t>mai-y-iṭu-</t></hw> , <i>v. intr</i>. < id. +. 1. To paint the eyes with collyrium; <tam>கண்ணுக்கு அஞ்சனமெழுதுதல். வடிவேல் விழிக்குமையிட்டாள் (விறலிவிடு.)</tam>. 2. To apply magic pigment to one's eyes or palm for obtaining a vision of stolen goods or hidden treasure; <tam>புதைபொருள் முதலியவற்றைக் கண்டுபிடிக்க உள்ளங்கையிலேனும் கண்களிலேனும் மந்திரமை போடுதல்</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		246) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையிடுதல்&searchhws=yes&matchtype=exact">மையிடுதல்</a> maiyiṭutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மையிடுதல்</hw> - மைதீட்டுதல், மைபூசுதல், மைபோடுதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		247) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையிருட்டு&searchhws=yes&matchtype=exact">மையிருட்டு</a> maiyiruṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையிருட்டு</tam> <t>mai-y-iruṭṭu</t></hw> , <i>n</i>. < id. +. Pitch darkness; <tam>காரிருள்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		248) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையிருள்&searchhws=yes&matchtype=exact">மையிருள்</a> maiyiruḷ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையிருள்</tam> <t>mai-y-iruḷ</t></hw> , <i>n</i>. < id. +. See <tam>மையிருட்டு. கருகு மையிருளின் கணம்</tam> (<tam>பெரியபு. இளையான்</tam>. 15).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		249) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையிழுது&searchhws=yes&matchtype=exact">மையிழுது</a> maiyiḻutu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையிழுது</tam> <t>mai-y-iḻutu</t></hw> , <i>n</i>. < id. +. 1. Collyrium, eye-salve; <tam>அஞ்சனவிழுது. மையிழு திழுகி</tam> (<tam>புறநா</tam>. 281). 2. Fat of sheep; <tam>ஆட்டு நிண நெய். (புறநா. அரும்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		250) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையுடை&searchhws=yes&matchtype=exact">மையுடை</a> maiyuṭai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மையுடை</hw> - கருவேல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		251) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையுடை&searchhws=yes&matchtype=exact">மையுடை</a> maiyuṭai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையுடை</tam> <t>mai-y-uṭai</t></hw> , <i>n</i>. < id. + <tam>உடை⁵</tam>. Black babul. See <tam>கருவேல். (தைலவ. தைல.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		252) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையுண்ணல்&searchhws=yes&matchtype=exact">மையுண்ணல்</a> maiyuṇṇal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மையுண்ணல்</hw> - மைதீட்டப்படுதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		253) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையுறிஞ்சி&searchhws=yes&matchtype=exact">மையுறிஞ்சி</a> maiyuṟiñci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S399">p. S399</a>)
+		<blockquote><p><hw><tam>மையுறிஞ்சி</tam> <t>mai-y-uṟiñci</t></hw> , <i>n</i>. < <tam>மை</tam> +. Blotting paper; <tam>மையொற்றி</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		254) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையூட்டு-தல்&searchhws=yes&matchtype=exact">மையூட்டு-தல்</a> maiyūṭṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையூட்டு-தல்</tam> <t>mai-y-ūṭṭu-</t></hw> , <i>v. intr</i>. < id. +. 1. See <tam>மையிடு-</tam>, 1. (<smallcap>W</smallcap>.) 2. To ink a written ōla; <tam>ஓலைக்கு மைதடவுதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		255) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மையூட்டுதல்&searchhws=yes&matchtype=exact">மையூட்டுதல்</a> maiyūṭṭutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மையூட்டுதல்</hw> - மைதீட்டுதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		256) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையெழுது-தல்&searchhws=yes&matchtype=exact">மையெழுது-தல்</a> maiyeḻutu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையெழுது-தல்</tam> <t>mai-y-eḻutu-</t></hw> , <i>v. intr</i>. < id. +. See <tam>மையிடு-</tam>, 1. <tam>மையெழுதிப் பொட் டெழுதி</tam> (<tam>கூளப்ப</tam>. 132).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		257) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையெழுத்து&searchhws=yes&matchtype=exact">மையெழுத்து</a> maiyeḻuttu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையெழுத்து</tam> <t>mai-y-eḻuttu</t></hw> , <i>n</i>. < id. +. Writing, in ink; <tam>மையால் எழுதும் எழுத்து. மை யெழுத்தூசியின் மாண்டதோர் தோட்டிடை . . . கரந் தெழுத்திட்டாள்</tam> (<tam>சீவக</tam>. 1767).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		258) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையொற்றி&searchhws=yes&matchtype=exact">மையொற்றி</a> maiyoṟṟi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3370">p. 3370</a>)
+		<blockquote><p><hw><tam>மையொற்றி</tam> <t>mai-y-oṟṟi</t></hw> , <i>n</i>. < id. +. Blotting paper; <tam>எழுதுமையை ஒற்றும் காகிதம்</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		259) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மையோலைபிடி-த்தல்&searchhws=yes&matchtype=exact">மையோலைபிடி-த்தல்</a> maiyōlaipiṭi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மையோலைபிடி-த்தல்</tam> <t>mai-y-ōlai-piṭi-</t></hw> , <i>v. intr</i>. < <tam>மை²</tam> + <tam>ஓலை</tam> +. To handle an ōla written and inked, in commencing one's study; <tam>கற்கத் தொடங்கும்போது மைதடவிய எழுத்துள்ள ஓலையைக் கைக்கொள்ளுதல். ஐயாட்டை நாளை எண்ணாகப் பெற்று மையோலைபிடித்துக் கலைகள் கற்றார்</tam> (<tam>சீவக</tam>. 2706, <tam>உரை</tam>). <tam>மையோலை பிடித்த இளைய புலவரது</tam> (<tam>பரிபா</tam>. 11, 88, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		260) <a href="/cgi-bin/app/fabricius_query.py?qs=மைரேயம்&searchhws=yes&matchtype=exact">மைரேயம்</a> mairēyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=827">p. 827</a>)
+		<blockquote><p>*<hw><tam>மைரேயம்</tam></hw> , <i>s.</i> a fermented liquor from the flower of the <i>lythrum fruticosum</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		261) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைரேயம்&searchhws=yes&matchtype=exact">மைரேயம்</a> mairēyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மைரேயம்</hw> - ஒருதைலம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		262) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைரேயம்&searchhws=yes&matchtype=exact">மைரேயம்</a> mairēyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைரேயம்</tam> <t>mairēyam</t></hw> , <i>n</i>. < <i>mairēya</i>. 1. A kind of intoxicating drink; <tam>ஒருவகை மது</tam>. 2. A kind of medicated oil; <tam>மருந்துத்தைலவகை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		263) <a href="/cgi-bin/app/winslow_query.py?qs=மைரேயம்&searchhws=yes&matchtype=exact">மைரேயம்</a> mairēyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=899">p. 899</a>)
+		<blockquote><p>*<hw><tam>மைரேயம்</tam></hw> , <i>s.</i> A fermented liquor from the flower of the Lythrum fruticosum, <tam>இரேயம்</tam>. W. p. 675. <smallcaps>MAIRAYA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		264) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைலாரு&searchhws=yes&matchtype=exact">மைலாரு</a> mailāru
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைலாரு</tam> <t>mailāru</t></hw> , <i>n</i>. < T. <i>mailāru</i>. A petty goddess; <tam>ஒரு சிறுதேவதை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		265) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைலார்&searchhws=yes&matchtype=exact">மைலார்</a> mailār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைலார்</tam> <t>mailār</t></hw> , <i>n</i>. < <tam>மைலாரு</tam>. Festival in which washermen, artisans and others worship <i>mailāru</i>, their tutelary deity, for about a week after Poṅgal; <tam>பொங்கற்பண்டிகையை யடுத்து ஒருவாரகாலம் வண்ணார் முதலியோர் மைலாரு தேவியை வழிபட்டுக் கொண்டாடும் விழா</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		266) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைலார்பூசை&searchhws=yes&matchtype=exact">மைலார்பூசை</a> mailārpūcai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைலார்பூசை</tam> <t>mailār-pūcai</t></hw> , <i>n</i>. < <tam>மைலார்</tam> +. See <tam>மைலார்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		267) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைலாலக்கடி&searchhws=yes&matchtype=exact">மைலாலக்கடி</a> mailālakkaṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைலாலக்கடி</tam> <t>mailālakkaṭi</t></hw> , <i>n</i>. < U. <i>mailālakri</i>. 1. Common grey mango laurel. See <tam>பிசின்பட்டை</tam>, 2. 2. Bark of common grey mango laurel; <tam>பிசின்பட்டை மரத்தின் மேற்றொலி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		268) <a href="/cgi-bin/app/crea_query.py?qs=மைல்&searchhws=yes&matchtype=exact">மைல்</a> mail
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைல்</hw> பெ. 1: (தூரத்தைக் கணக்கிடுவதற்கான) 1609 மீட்டர் கொண்ட ஓர் அளவு; a mile.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		269) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைல்&searchhws=yes&matchtype=exact">மைல்</a> mail
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைல்</tam> <t>mail</t></hw> , <i>n</i>. < E. Mile = 1760 yards; 1760 <tam>கஜங்கொண்ட நீட்டலளவு</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		270) <a href="/cgi-bin/app/crea_query.py?qs=மைல்கல்&searchhws=yes&matchtype=exact">மைல்கல்</a> mailkal
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மைல்கல்</hw> பெ. 1: நெடுஞ்சாலையின் ஓரத்தில் ஊரின் தூரம் இவ்வளவு என்பதை அறிவதற்காக அமைத்திருக்கும் கல்; milestone. 2: (வளர்ச்சி, முன்னேற்றம் முதலியவற்றைக் குறிக்கையில்) சிறப்புத்தன்மை வாய்ந்ததாக அல்லது குறிப்பிடத் தக்கதாக அமைந்த நிலை; (figuratively) milestone. இந்த நாவல் இலக்கிய வரலாற்றில் ஒரு மைல்கல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		271) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைவாகனன்&searchhws=yes&matchtype=exact">மைவாகனன்</a> maivākaṉaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைவாகனன்</tam> <t>mai-vākaṉaṉ</t></hw> , <i>n</i>. < <tam>மை²</tam> + <i>vāhana</i>. Agni, as riding a ram; <tam>[ஆட்டுவாகன முடையோன்] அக்கினி தேவன். (பிங்.) நம்மை முகம் பாரான் மைவாகனன் வந்தே வயிற்றினிற் பற்றினனே</tam> (<tam>தனிப்பா</tam>. i, 186, 14).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		272) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைவார்குழலியம்மை&searchhws=yes&matchtype=exact">மைவார்குழலியம்மை</a> maivārkuḻaliyammai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மைவார்குழலியம்மை</hw> - திருவிற்குடி வீ ரட்டத்திலே கோயில் கொண்டிருக் கும் தேவியார் பெயர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		273) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைவிடை&searchhws=yes&matchtype=exact">மைவிடை</a> maiviṭai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைவிடை</tam> <t>mai-viṭai</t></hw> , <i>n</i>. < id. +. Ram; <tam>ஆட்டுக்கிடாய். வாயின் மாடந்தொறும் மைவிடை வீழ்ப்ப</tam> (<tam>புறநா</tam>. 33).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		274) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மைவிளக்கு&searchhws=yes&matchtype=exact">மைவிளக்கு</a> maiviḷakku
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1196">p. 1196</a>)
+		<blockquote><p><hw>மைவிளக்கு</hw> - நெய்விளக்கு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		275) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைவிளக்கு&searchhws=yes&matchtype=exact">மைவிளக்கு</a> maiviḷakku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைவிளக்கு</tam> <t>mai-viḷakku</t></hw> , <i>n</i>. < id. +. Oil-lamp; <tam>எரிவிளக்கு. மாணிக்க விளக்கை மைவிளக் கோடே எடுத்து</tam> (<tam>சிலப்</tam>. 9, 1-4 <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		276) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மைவை-த்தல்&searchhws=yes&matchtype=exact">மைவை-த்தல்</a> maivai-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3371">p. 3371</a>)
+		<blockquote><p><hw><tam>மைவை-த்தல்</tam> <t>mai-vai-</t></hw> , <i>v. intr</i>. < id. +. 1. To bewitch; to enchant by means of magic pigment; <tam>அஞ்சனமிட்டு மயக்குதல்</tam>. 2. To prepare collyrium for the eye; <tam>கண்ணுக்கு அஞ்சனம் தயா ரித்தல்</tam>. <i>Loc</i>. 3. To drink to intoxication; <tam>வெறி யுண்டாம்படி கட்குடித்தல்</tam>.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

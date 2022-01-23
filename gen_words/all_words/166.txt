@@ -1,0 +1,1259 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>மௌ</b>
+                       <div id='no_results'>
+                                103 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌ&searchhws=yes&matchtype=exact">மௌ</a> mau
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌ</tam> <t>mau</t></hw> , The compound of <tam>ம்</tam> and <tam>ஔ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/winslow_query.py?qs=மௌ&searchhws=yes&matchtype=exact">மௌ</a> mau
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=903">p. 903</a>)
+		<blockquote><p><hw><tam>மௌ</tam></hw> , A syllabic letter composed of <tam>ம்</tam> and <tam>ஒ?</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌகலி, மௌகுலி&searchhws=yes&matchtype=exact">மௌகலி, மௌகுலி</a> maukali, maukuli
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌகலி, மௌகுலி</hw> காகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌகூப்&searchhws=yes&matchtype=exact">மௌகூப்</a> maukūp
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌகூப்</tam> <t>maukūp</t></hw> , <i>n</i>. < U. <i>mauqūf</i>. That which is suspended, stopped or closed; <tam>நிறுத்தப் பட்டது</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌகூர்த்திகன்&searchhws=yes&matchtype=exact">மௌகூர்த்திகன்</a> maukūrttikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌகூர்த்திகன்</tam> <t>maukūrttikaṉ</t></hw> , <i>n</i>. < <i>mauhūrtika</i>. Astrologer; <tam>முகூர்த்தம் நியமிக்கும் சோதிடன்</tam>. (<tam>சிலப். பக்</tam>. 534, <tam>கீழ்க்குறிப்பு</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌகூர்த்திகர்&searchhws=yes&matchtype=exact">மௌகூர்த்திகர்</a> maukūrttikar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌகூர்த்திகர்</hw> - தர்மன் முகூர்த்தை யினிடமாகப்பெற்ற தேவகணம், மு கூர்த்தகாலங்களுக்கு அதிதேவதைக ளாகிய இவர்கள் அந்தந்த முகூர்த்தங் கள்தோறும் உலகத்தாரால் செய்யப் படுங் கருமங்களை ஏற்றுவைத்திருந்து அந்தக் கிரமமாகவே அந்தக் கருமங் களின் பயன்களை யூட்டுவோர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌக்திமாலை&searchhws=yes&matchtype=exact">மௌக்திமாலை</a> mauktimālai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌக்திமாலை</hw> - முத்துவடம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌசலம்&searchhws=yes&matchtype=exact">மௌசலம்</a> maucalam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌசலம்</tam> <t>maucalam</t></hw> , <i>n</i>. < <i>mausala</i>. Fight with clubs; <tam>முசலாயுதத்தாற் செய்யும் போர். மௌசலபருவம். (பாரத.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌசாளி&searchhws=yes&matchtype=exact">மௌசாளி</a> maucāḷi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌசாளி</tam> <t>maucāḷi</t></hw> , <i>n</i>. (Mus.) A primary melody-type, one of 16 <i>peru-m-paṇ</i>, q.v.; <tam>பெரும் பண் பதினாறனுள் ஒன்று. (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/crea_query.py?qs=மௌசு&searchhws=yes&matchtype=exact">மௌசு</a> maucu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மௌசு</hw> பெ. காண்க: மவுசு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌசு&searchhws=yes&matchtype=exact">மௌசு</a> maucu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌசு</tam> <t>maucu</t></hw> , <i>n</i>. < U. <i>mouz</i>. 1. Ardent desire, longing; <tam>மிகுபிரியம். அதின்பேரில் எனக்கு மௌசு</tam>. 2. Being in great demand, as an article; <tam>சரக்கின் பிரியம்</tam>. <i>Loc</i>. 3. Attractiveness; <tam>கவர்ச்சி</tam>. <i>Loc</i>. 4. Pomp; <tam>ஆடம்பரம். கலியாணம் மௌசாக நடந்தது</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌஜா&searchhws=yes&matchtype=exact">மௌஜா</a> maujā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌஜா</tam> <t>maujā</t></hw> , <i>n</i>. < Arab. <i>mawza</i>. 1. Chief village, its lands and habitations; <tam>தலைமைக்கிராமம்</tam>. (<smallcap>C. G</smallcap>.) 2. Hamlet. See <tam>மஜரா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌஜூதாத்&searchhws=yes&matchtype=exact">மௌஜூதாத்</a> maujūtāt
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌஜூதாத்</tam> <t>maujūtāt</t></hw> , <i>n</i>. < Arab. <i>mawjūdāt</i>. Assets, effects; funds; <tam>சொத்து</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/fabricius_query.py?qs=மௌஜே&searchhws=yes&matchtype=exact">மௌஜே</a> maujē
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=831">p. 831</a>)
+		<blockquote><p><hw><tam>மௌஜே</tam></hw> , <i>s. (Ar.)</i> a town, a village.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌஜே&searchhws=yes&matchtype=exact">மௌஜே</a> maujē
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌஜே</tam> <t>maujē</t></hw> , <i>n</i>. See <tam>மௌஜா</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/winslow_query.py?qs=மௌஜே&searchhws=yes&matchtype=exact">மௌஜே</a> maujē
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=903">p. 903</a>)
+		<blockquote><p><hw><tam>மௌஜே</tam></hw> , <i>s. [Arab.]</i> A town, a village. <p2><tam>மௌஜேவாரி</tam>-<tam>மௌஜேவார்</tam>, <i>s.</i> Detailed account of towns.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌஜேவாரி&searchhws=yes&matchtype=exact">மௌஜேவாரி</a> maujēvāri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌஜேவாரி</tam> <t>maujēvāri</t></hw> , <i>n</i>. See <tam>மௌஜேவார்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌஜேவார்&searchhws=yes&matchtype=exact">மௌஜேவார்</a> maujēvār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌஜேவார்</tam> <t>maujē-vār</t></hw> , <i>n</i>. < <tam>மௌஜே</tam> +. Detailed account according to towns or villages; <tam>கிராமவாரியாக வைக்கப்பட்ட கணக்கு</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/fabricius_query.py?qs=மௌஞ்சி&searchhws=yes&matchtype=exact">மௌஞ்சி</a> mauñci
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=831">p. 831</a>)
+		<blockquote><p>*<hw><tam>மௌஞ்சி</tam></hw> , <i>s.</i> the girdle or waist-cord of a Brahmin, made of <i>munja-grass, saccharum spontaneum</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌஞ்சி&searchhws=yes&matchtype=exact">மௌஞ்சி</a> mauñci
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌஞ்சி</hw> - நாணற்புல்லாற்செய்த வரை ஞாண், முஞ்சி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌஞ்சி&searchhws=yes&matchtype=exact">மௌஞ்சி</a> mauñci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌஞ்சி</tam> <t>mauñci</t></hw> , <i>n</i>. < <i>mauñjī</i>. 1. Reedy sugarcane. See <tam>முஞ்சி</tam>, 1. (<tam>யாழ். அக</tam>.) 2. Girdle or waist-cord of a Brahmin, made of three strings of <i>muñja</i> grass; <tam>முஞ்சிப் புல்லாற் செய்த அரைஞாண்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/winslow_query.py?qs=மௌஞ்சி&searchhws=yes&matchtype=exact">மௌஞ்சி</a> mauñci
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=903">p. 903</a>)
+		<blockquote><p>*<hw><tam>மௌஞ்சி</tam></hw> , <i>s.</i> The girdle, or waist- cord of a brahman, made of three strings of munja grass, Saccharum spontaneum, <tam>நாணற்புல்லரைஞாண்</tam>. W. p. 676. <smallcaps>MOUNJEE.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌடி&searchhws=yes&matchtype=exact">மௌடி</a> mauṭi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌடி</hw> - ஒருவித்தை, பகடம், பரிகாசம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌடி&searchhws=yes&matchtype=exact">மௌடி</a> mauṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌடி</tam> <t>mauṭi</t></hw> , <i>n</i>. Snake-charmer's pipe. See <tam>மகிடி²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/crea_query.py?qs=மௌடீகம்&searchhws=yes&matchtype=exact">மௌடீகம்</a> mauṭīkam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மௌடீகம்</hw> பெ. (-ஆக, -ஆன) [பே.வ.] 1: அறியாமை; முட்டாள்தனம்; ignorance. மௌடீகமான பதில்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌட்டியன்&searchhws=yes&matchtype=exact">மௌட்டியன்</a> mauṭṭiyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌட்டியன்</tam> <t>mauṭṭiyaṉ</t></hw> , <i>n</i>. < <i>mauḍhya</i>. Fool; <tam>முட்டாள்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/fabricius_query.py?qs=மௌட்டியம்&searchhws=yes&matchtype=exact">மௌட்டியம்</a> mauṭṭiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=831">p. 831</a>)
+		<blockquote><p>*<hw><tam>மௌட்டியம்</tam></hw> , <i>s.</i> ignorance, folly, fanaticism, <tam>மூடத்தனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌட்டியம்&searchhws=yes&matchtype=exact">மௌட்டியம்</a> mauṭṭiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌட்டியம்</hw> - அறியாமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌட்டியம்&searchhws=yes&matchtype=exact">மௌட்டியம்</a> mauṭṭiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌட்டியம்</tam> <t>mauṭṭiyam</t></hw> , <i>n</i>. < <i>mauḍhya</i>. Ignorance, folly; <tam>அறியாமை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/winslow_query.py?qs=மௌட்டியம்&searchhws=yes&matchtype=exact">மௌட்டியம்</a> mauṭṭiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=903">p. 903</a>)
+		<blockquote><p>*<hw><tam>மௌட்டியம்</tam></hw> , <i>s.</i> Fanaticism; ignorance, folly, destitution of spiritual wisdom, <tam>மூடத்துவம்</tam>. W. p. 676. <smallcaps>MOUD'HYA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌட்டை&searchhws=yes&matchtype=exact">மௌட்டை</a> mauṭṭai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌட்டை</hw> - கைபொத்திக்குத்துங்குத்து.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌட்டை&searchhws=yes&matchtype=exact">மௌட்டை</a> mauṭṭai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌட்டை</tam> <t>mauṭṭai</t></hw> , <i>n</i>. < <i>mauṣṭā</i>. Fisticuffs, blow with the fist; <tam>முஷ்டிக்குத்து. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌண்டம்&searchhws=yes&matchtype=exact">மௌண்டம்</a> mauṇṭam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌண்டம்</hw> - ஒரு பலகாரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌண்டிதன்&searchhws=yes&matchtype=exact">மௌண்டிதன்</a> mauṇṭitaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌண்டிதன்</tam> <t>mauṇṭitaṉ</t></hw> , <i>n</i>. < <i>muṇḍita</i>. Person with shaven head; <tam>தலைமழிக்கப் பெற்ற வன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌண்டிதம்&searchhws=yes&matchtype=exact">மௌண்டிதம்</a> mauṇṭitam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌண்டிதம்</hw> - உபநிடதமுப்பத்திரண் டில் ஒன்று, முண்டிதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌண்டிதம்&searchhws=yes&matchtype=exact">மௌண்டிதம்</a> mauṇṭitam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌண்டிதம்</tam> <t>mauṇṭitam</t></hw> , <i>n</i>. An Upaniṣad; <tam>ஓர் உபநிடதம். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/fabricius_query.py?qs=மௌண்டிரம்&searchhws=yes&matchtype=exact">மௌண்டிரம்</a> mauṇṭiram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=831">p. 831</a>)
+		<blockquote><p>*<hw><tam>மௌண்டிரம்</tam></hw> , <i>s.</i> an Upanishad.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌண்டிரம்&searchhws=yes&matchtype=exact">மௌண்டிரம்</a> mauṇṭiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌண்டிரம்</tam> <t>mauṇṭiram</t></hw> , <i>n</i>. An Upaniṣad; <tam>ஓர் உபநிடதம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/winslow_query.py?qs=மௌண்டிரம்&searchhws=yes&matchtype=exact">மௌண்டிரம்</a> mauṇṭiram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=903">p. 903</a>)
+		<blockquote><p><hw><tam>மௌண்டிரம்</tam></hw> , <i>s.</i> A Upanishad. See <tam>உபநிடதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌதகல்லியர்&searchhws=yes&matchtype=exact">மௌதகல்லியர்</a> mautakalliyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌதகல்லியர்</hw> - முத்கலன் கோத்தி ரத்துப் பிராமணர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌத்கல்யன்&searchhws=yes&matchtype=exact">மௌத்கல்யன்</a> mautkalyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌத்கல்யன்</hw> - ஒருமுநி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌத்கல்லியன்&searchhws=yes&matchtype=exact">மௌத்கல்லியன்</a> mautkalliyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌத்கல்லியன்</hw> - சாகல்லியன் சீடன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌத்காலம்&searchhws=yes&matchtype=exact">மௌத்காலம்</a> mautkālam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌத்காலம்</hw> - காகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌத்திகதண்டுலம்&searchhws=yes&matchtype=exact">மௌத்திகதண்டுலம்</a> mauttikataṇṭulam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌத்திகதண்டுலம்</hw> - வெண்சோளம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌத்திகதண்டுலம்&searchhws=yes&matchtype=exact">மௌத்திகதண்டுலம்</a> mauttikataṇṭulam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌத்திகதண்டுலம்</tam> <t>mauttika-taṇṭulam</t></hw> , <i>n</i>. < <i>mauktika-taṇḍula</i>. White species of great millet; <tam>வெண்சோளம். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌத்திகன்&searchhws=yes&matchtype=exact">மௌத்திகன்</a> mauttikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌத்திகன்</tam> <t>mauttikaṉ</t></hw> , <i>n</i>. See <tam>மௌகூர்த்திகன்</tam>. (<tam>சிலப்</tam>. 26, 25, <tam>அரும்</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌத்திகப்ரஸவம்&searchhws=yes&matchtype=exact">மௌத்திகப்ரஸவம்</a> mauttikaprasavam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌத்திகப்ரஸவம்</hw> - முத்துச்சிப்பி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/fabricius_query.py?qs=மௌத்திகம்&searchhws=yes&matchtype=exact">மௌத்திகம்</a> mauttikam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=831">p. 831</a>)
+		<blockquote><p>*<hw><tam>மௌத்திகம்</tam></hw> , <i>s.</i> a pearl, <tam>முத்து</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌத்திகம்&searchhws=yes&matchtype=exact">மௌத்திகம்</a> mauttikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌத்திகம்</hw> - முத்து.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌத்திகம்&searchhws=yes&matchtype=exact">மௌத்திகம்</a> mauttikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌத்திகம்</hw> - முத்து.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌத்திகம்&searchhws=yes&matchtype=exact">மௌத்திகம்</a> mauttikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌத்திகம்</tam> <t>mauttikam</t></hw> , <i>n</i>. < <i>mauktika</i>. Pearl; <tam>முத்து. (சூடா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/winslow_query.py?qs=மௌத்திகம்&searchhws=yes&matchtype=exact">மௌத்திகம்</a> mauttikam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=903">p. 903</a>)
+		<blockquote><p>*<hw><tam>மௌத்திகம்</tam></hw> , <i>s.</i> A pearl, as <tam>முத்து</tam>. <i>[Sa. Mouktika.]</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/crea_query.py?qs=மௌத்து&searchhws=yes&matchtype=exact">மௌத்து</a> mauttu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மௌத்து</hw> பெ. "இலங்." காண்க: மவுத்து.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌத்து&searchhws=yes&matchtype=exact">மௌத்து</a> mauttu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌத்து</tam> <t>mauttu</t></hw> , <i>n</i>. < Arab. <i>maut</i>. Death; <tam>மரணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌநேயர்&searchhws=yes&matchtype=exact">மௌநேயர்</a> maunēyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌநேயர்</hw> - காசிபன் முனியென்பவ ளிடத்திற்பெற்ற கந்தருவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌனசாமியார்&searchhws=yes&matchtype=exact">மௌனசாமியார்</a> mauṉacāmiyār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌனசாமியார்</tam> <t>mauṉa-cāmiyār</t></hw> , <i>n</i>. < <i>mauna</i> +. Ascetic who has taken a vow of silence; <tam>பேராவிரதம் பூண்ட பெரியோர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌனமந்திரம்&searchhws=yes&matchtype=exact">மௌனமந்திரம்</a> mauṉamantiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌனமந்திரம்</tam> <t>mauṉa-mantiram</t></hw> , <i>n</i>. < id. +. A mantra meditated in silence; <tam>மனத் துள் செபிக்கும் மந்திரவகை</tam>. (<tam>திருமுரு. பக்</tam>. 50, <tam>கீழ்க்குறிப்பு</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/crea_query.py?qs=மௌனம்&searchhws=yes&matchtype=exact">மௌனம்</a> mauṉam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மௌனம்</hw> பெ. (-ஆக, -ஆன) 1: பேசாமல் இருக்கிற நிலை; state of silence. கேட்டதற்கு பதில் சொல்லாமல் சில நிமிடம் மௌனமாக உட்கார்ந்திருந்தான்./ 'மௌனம் சம்மதத்திற்கு அறிகுறிதானே?' என்று கேட்டார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/fabricius_query.py?qs=மௌனம்&searchhws=yes&matchtype=exact">மௌனம்</a> mauṉam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=831">p. 831</a>)
+		<blockquote><p>*<hw><tam>மௌனம்</tam></hw> , <i>s.</i> silence, see <tam>மவுனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌனம்&searchhws=yes&matchtype=exact">மௌனம்</a> mauṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌனம்</hw> - மோனம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌனம்&searchhws=yes&matchtype=exact">மௌனம்</a> mauṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1485">p. 1485</a>)
+		<blockquote><p><hw>மௌனம்</hw> - கேளா, மதனம், மூகம், மோ னம்-வாளா.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌனம்&searchhws=yes&matchtype=exact">மௌனம்</a> mauṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌனம்</tam> <t>mauṉam</t></hw> , <i>n</i>. < <i>mauna</i>. Silence; muteness; taciturnity; <tam>பேசாமை</tam>. (<tam>திருக்களிற்றுப்</tam>. 28, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/winslow_query.py?qs=மௌனம்&searchhws=yes&matchtype=exact">மௌனம்</a> mauṉam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=903">p. 903</a>)
+		<blockquote><p>*<hw><tam>மௌனம்</tam></hw> , <i>s.</i> [<i>also</i> <tam>மோனம்</tam>.] Silence, taciturnity, muteness, <tam>பேசாமை</tam>. <i>[Sa. Mouna.]</i> –<i>For examples, see</i> <tam>மவுனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/crea_query.py?qs=மௌனம் சாதி&searchhws=yes&matchtype=exact">மௌனம் சாதி</a> mauṉam cāti
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மௌனம் சாதி</hw> வி. (சாதிக்க, சாதித்து) 1: (வேண்டுமென்றே) பேசாமல் இருத்தல்; remain silent (where one has to speak). 'கையாடிய பணத்தை என்ன செய்தாய்?' என்று கேட்டதற்கு மௌனம் சாதித்தான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/crea_query.py?qs=மௌனவிரதம்&searchhws=yes&matchtype=exact">மௌனவிரதம்</a> mauṉaviratam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மௌனவிரதம்</hw> பெ. 1: குறிப்பிட்ட காரணத்திற்காகக் குறிப்பிட்ட நாளில் யாரிடமும் பேசாமலிருக்கும் விரதம்; vow of silence.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌனவிரதம்&searchhws=yes&matchtype=exact">மௌனவிரதம்</a> mauṉaviratam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌனவிரதம்</tam> <t>mauṉa-viratam</t></hw> , <i>n</i>. < id. +. Vow of silence; <tam>பேசாதிருக்கும் விரதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/crea_query.py?qs=மௌனி&searchhws=yes&matchtype=exact">மௌனி</a> mauṉi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மௌனி<sup>1</sup></hw> வி. (மௌனிக்க, மௌனித்து) [பெ.வ.] 1: மௌனமாக இருத்தல்; be silent. செய்தியைக் கேட்டதும் சற்று மௌனித்தார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/crea_query.py?qs=மௌனி&searchhws=yes&matchtype=exact">மௌனி</a> mauṉi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மௌனி<sup>2</sup></hw> பெ. 1: (தன் கருத்தைத் தெரிவிக்காமல்) மௌனமாக இருப்பவர்/மௌனவிரதம் மேற்கொண்டவர்; one who keeps mum/one who has taken a vow of silence. முக்கியமான பிரச்சினையை விவாதிக்கும்போதுகூட உறுப்பினர்கள் மௌனிகளாக இருப்பது தவறு./ முனிவர் ஐந்து வருடம் மௌனியாக இருந்திருக்கிறார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌனி&searchhws=yes&matchtype=exact">மௌனி</a> mauṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌனி</tam> <t>mauṉi</t></hw> , <i>n</i>. < <i>maunin</i>. 1. One who has taken a vow of silence; silent ascetic; <tam>மௌனவிரதம் பூண்டவன். உரைத்திலன் முனிவன் மௌனியாய்</tam> (<tam>கம்பரா. வேள்வி</tam>. 43). 2. Tortoise; <tam>ஆமை. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/fabricius_query.py?qs=மௌனியம்&searchhws=yes&matchtype=exact">மௌனியம்</a> mauṉiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=831">p. 831</a>)
+		<blockquote><p>*<hw><tam>மௌனியம்</tam></hw> , <i>s.</i> silent devotees, hermits, <tam>மோனர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌனியர்&searchhws=yes&matchtype=exact">மௌனியர்</a> mauṉiyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌனியர்</hw> - முனிவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/winslow_query.py?qs=மௌனியர்&searchhws=yes&matchtype=exact">மௌனியர்</a> mauṉiyar
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=903">p. 903</a>)
+		<blockquote><p>*<hw><tam>மௌனியர்</tam></hw> , <i>s.</i> [<i>sing.</i> <tam>மௌனி</tam>.] Hermits, silent devotees, <tam>மோனர்</tam>. <i>[Sa. Mounee.]</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌனேயம்&searchhws=yes&matchtype=exact">மௌனேயம்</a> mauṉēyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌனேயம்</hw> - கந்தர்வகணவிசேஷம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌரவி, மௌர்வி&searchhws=yes&matchtype=exact">மௌரவி, மௌர்வி</a> mauravi, maurvi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌரவி, மௌர்வி</hw> வின்னான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌரவியர்&searchhws=yes&matchtype=exact">மௌரவியர்</a> mauraviyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌரவியர்</hw> - சந்திரகுப்தவமிசத்தரசர் இவர் பதின்மர், நூற்றுமுப்பத்தேழு வருடம் அரசுசெய்தனர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌராஸ்&searchhws=yes&matchtype=exact">மௌராஸ்</a> maurās
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌராஸ்</tam> <t>maurās</t></hw> , <i>n</i>. < Arab. <i>maurās</i>. That which is hereditary or inherited, inheritance; <tam>பரம்பரையுரிமையாற் பெற்றது</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌரியர்&searchhws=yes&matchtype=exact">மௌரியர்</a> mauriyar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌரியர்</tam> <t>mauriyar</t></hw> , <i>n</i>. < <i>Maurya</i>. See <tam>மோரியர்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/fabricius_query.py?qs=மௌர்வி&searchhws=yes&matchtype=exact">மௌர்வி</a> maurvi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=831">p. 831</a>)
+		<blockquote><p>*<hw><tam>மௌர்வி</tam></hw> , <i>s.</i> a bow-string, <tam>வின்னாண்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌர்வி&searchhws=yes&matchtype=exact">மௌர்வி</a> maurvi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌர்வி</tam> <t>maurvi</t></hw> , <i>n</i>. < <i>maurvī</i>. Bowstring; <tam>வில்லின் நாண்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/winslow_query.py?qs=மௌர்வி&searchhws=yes&matchtype=exact">மௌர்வி</a> maurvi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=903">p. 903</a>)
+		<blockquote><p>*<hw><tam>மௌர்வி</tam></hw> , <i>s.</i> A bow-string, <tam>வின்னாண்</tam>. W. p. 678. <smallcaps>MOURVVEE.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌலன்&searchhws=yes&matchtype=exact">மௌலன்</a> maulaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌலன்</hw> - நல்லமிசத்தாள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌலன்&searchhws=yes&matchtype=exact">மௌலன்</a> maulaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌலன்</tam> <t>maulaṉ</t></hw> , <i>n</i>. < <i>maula</i>. Man born of a good family; <tam>நற்குலத்தான். (யாழ. அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌலானா&searchhws=yes&matchtype=exact">மௌலானா</a> maulāṉā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌலானா</tam> <t>maulāṉā</t></hw> , <i>n</i>. < Arab. <i>maulānā</i>. See <tam>மௌல்வி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/fabricius_query.py?qs=மௌலி&searchhws=yes&matchtype=exact">மௌலி</a> mauli
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=831">p. 831</a>)
+		<blockquote><p>*<hw><tam>மௌலி</tam></hw> , <i>s.</i> the head, <tam>தலை</tam>; 2. a crown, a diadem, <tam>முடி</tam>; 3. a lock of hair on the head, <tam>குடுமி</tam>; 4. toddy, <tam>கள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌலி&searchhws=yes&matchtype=exact">மௌலி</a> mauli
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌலி</hw> - உச்சிக்குடுமி, கள், சடை, தலை, பூமி, மயிர்முடி, முடி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌலி&searchhws=yes&matchtype=exact">மௌலி</a> mauli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌலி</tam> <t>mauli</t></hw> , <i>n</i>. < <i>mauli</i>. 1. Tuft or lock of hair left unshaven on the crown of the head; <tam>மயிர்முடி. (திவா.)</tam> 2. Matted locks, as of an ascetic; <tam>சடைமுடி. (அக. நி.)</tam> 3. Crown; diadem; <tam>மணிமுடி. தாரணி மௌலி பத்தும்</tam> (<tam>கம்பரா. கும்பகர்ண</tam>. 1). (<tam>பிங்</tam>.) 4. Head; <tam>தலை. (அக. நி.)</tam> 5. Wreath of flowers; <tam>தார். (அக. நி.)</tam> 6. Ornamental head or top, as of a tower; <tam>கோபுர முதலியவற்றின் சிகரம்</tam>. <i>Loc</i>. 7. Toddy; <tam>கள். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/winslow_query.py?qs=மௌலி&searchhws=yes&matchtype=exact">மௌலி</a> mauli
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=903">p. 903</a>)
+		<blockquote><p>*<hw><tam>மௌலி</tam></hw> , <i>s.</i> A lock of hair on the head of men, as <tam>குடுமி</tam>. 2. A tuft of hair braided round the head, as <tam>மயிர்முடி</tam>. 3. A crown; a diadem, <tam>முடி</tam>. 4. The head, <tam>தலை</tam>. W. p. 676. <smallcaps>MOULI.</smallcaps> 5. (<tam>சது</tam>.) Palm-tree-sap. toddy, <tam>கள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/crea_query.py?qs=மௌல்வி&searchhws=yes&matchtype=exact">மௌல்வி</a> maulvi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மௌல்வி</hw> பெ. 1: இஸ்லாமிய மார்க்க அறிஞர்; a scholar in Islamic religion.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/fabricius_query.py?qs=மௌல்வி&searchhws=yes&matchtype=exact">மௌல்வி</a> maulvi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=831">p. 831</a>)
+		<blockquote><p><hw><tam>மௌல்வி</tam></hw> , <i>s. (Ar.)</i> a Mohammedan teacher, Moulvi.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌல்வி&searchhws=yes&matchtype=exact">மௌல்வி</a> maulvi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌல்வி</tam> <t>maulvi</t></hw> , <i>n</i>. < Arab. <i>maulawī</i>. Muhammadan lawyer, expounder of Muhammadan law; learned, religious Muslim (<smallcap>R.F</smallcap>.); <tam>முகம்மதியமத வித்துவான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/winslow_query.py?qs=மௌல்வி&searchhws=yes&matchtype=exact">மௌல்வி</a> maulvi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=903">p. 903</a>)
+		<blockquote><p><hw><tam>மௌல்வி</tam></hw> , <i>s.</i> [<i>Arab. com.</i> <tam>மௌல்வி</tam>.] A learned Mohammedan teacher, <i>Moulvî.</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/crea_query.py?qs=மௌழகரம்&searchhws=yes&matchtype=exact">மௌழகரம்</a> mauḻakaram
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=870">p. 870</a>)
+		<blockquote><p><hw>மௌழகரம்</hw> பெ. "இலங்." 1: தமிழ் மொழியில் உள்ள 'ழ' என்னும் எழுத்தை அது எழுதப்படும் ('ம' தொடக்க) முறையைக் கொண்டு குறிப்பது; the way of indicating how the letter ழ is drawn (starting with a ம).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌவலாரம்&searchhws=yes&matchtype=exact">மௌவலாரம்</a> mauvalāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌவலாரம்</tam> <t>mauvalāram</t></hw> , <i>n</i>. [T. <i>muvva</i>.] Anklet with small bells; <tam>சலங்கைச் சிலம்பு</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/fabricius_query.py?qs=மௌவல்&searchhws=yes&matchtype=exact">மௌவல்</a> mauval
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=831">p. 831</a>)
+		<blockquote><p><hw><tam>மௌவல்</tam></hw> , <i>s.</i> the wild jasmine, <tam>வனமல் லிகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌவல்&searchhws=yes&matchtype=exact">மௌவல்</a> mauval
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1200">p. 1200</a>)
+		<blockquote><p><hw>மௌவல்</hw> - முல்லை, வனமல்லிகை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌவல்&searchhws=yes&matchtype=exact">மௌவல்</a> mauval
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1485">p. 1485</a>)
+		<blockquote><p><hw>மௌவல்</hw> - வனமல்லிகை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/kadirvelu_query.py?qs=மௌவல்&searchhws=yes&matchtype=exact">மௌவல்</a> mauval
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1652">p. 1652</a>)
+		<blockquote><p><hw>மௌவல்</hw> - வனமல்லிகை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌவல்&searchhws=yes&matchtype=exact">மௌவல்</a> mauval
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3389">p. 3389</a>)
+		<blockquote><p><hw><tam>மௌவல்</tam> <t>mauval</t></hw> , <i>n</i>. 1. Wild jasmine. See <tam>காட்டுமல்லிகை. ஞாழன் மௌவல்</tam> (<tam>குறிஞ்சிப்</tam>. 81). 2. Arabian jasmine. See <tam>முல்லை</tam>, 1. (<tam>சூடா</tam>.) 3. Lotus; <tam>தாமரை. மௌவ னீண்மலர் மேலுறை வானொடு</tam> (<tam>தேவா</tam>. 1213, 13).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/winslow_query.py?qs=மௌவல்&searchhws=yes&matchtype=exact">மௌவல்</a> mauval
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=903">p. 903</a>)
+		<blockquote><p><hw><tam>மௌவல்</tam></hw> , <i>s.</i> The wild jasmine, <tam>வனமல்லிகை</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌவழகன்&searchhws=yes&matchtype=exact">மௌவழகன்</a> mauvaḻakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌவழகன்</tam> <t>mauvaḻakaṉ</t></hw> , <i>n</i>. A breed of horse; <tam>குதிரைச்சாதிவகை</tam>. (<tam>அசுவசா</tam>. 151.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌவை&searchhws=yes&matchtype=exact">மௌவை</a> mauvai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌவை</tam> <t>mauvai</t></hw> , <i>n</i>. cf. <tam>ஔவை</tam>. Mother; <tam>தாய். (அக. நி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌஸா&searchhws=yes&matchtype=exact">மௌஸா</a> mausā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌஸா</tam> <t>mausā</t></hw> , <i>n</i>. See <tam>மௌஜா</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/tamil-lex_query.py?qs=மௌஸ்&searchhws=yes&matchtype=exact">மௌஸ்</a> maus
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3390">p. 3390</a>)
+		<blockquote><p><hw><tam>மௌஸ்</tam> <t>maus</t></hw> , <i>n</i>. See <tam>மௌசு</tam>.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

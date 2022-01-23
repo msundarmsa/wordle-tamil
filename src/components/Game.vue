@@ -227,7 +227,7 @@ import Key from "./keyboard/Key.vue";
 import words from "../assets/json/drawable-words.json";
 import playableWords from "../assets/json/playable-words.json";
 
-const NB_LETTERS = 5;
+const NB_LETTERS = 4;
 const NB_ATTEMPTS = 6;
 const KEYBOARD_AZERTY = {
     name: 'azerty',
@@ -460,12 +460,12 @@ export default {
                 })) {
                     this.attempts[this.currentAttempt - 1].pop();
                 }
-            } else if (this.attempts[this.currentAttempt - 1].length < NB_LETTERS) {
+            } else if (this.attempts[this.currentAttempt - 1].length <= NB_LETTERS) {
                 let uyir_index = uyir.indexOf(key)
                 let changed = false
+                let num_chars = this.attempts[this.currentAttempt - 1].length
                 if (uyir_index > 0) {
                     // a uyir ezhuthu is pressed
-                    let num_chars = this.attempts[this.currentAttempt - 1].length
                     if (num_chars != 0) {
                         // check if previous letter is mei yezhuthu
                         let prev_char = this.attempts[this.currentAttempt - 1][num_chars - 1]
@@ -473,12 +473,11 @@ export default {
                             // change previous letter to appropriate uyirmei ezhuthu
                             this.attempts[this.currentAttempt - 1][num_chars - 1] = uyirmei_table[prev_char][uyir_index]
                             changed = true
-                            console.log('Changing to ' + this.attempts[this.currentAttempt - 1][num_chars - 1])
                         }
                     }
                 }
 
-                if (!changed) {
+                if (!changed && num_chars < NB_LETTERS) {
                     this.attempts[this.currentAttempt - 1].push(key);
                 }
             }
@@ -490,20 +489,29 @@ export default {
                 if (this.words.includes(attempt.join('')) || playableWords.includes(attempt.join(''))) {
                     this.verifyLetters(attempt);
                 } else {
-                    this.error = 'Ce mot n\'est pas dans la liste';
+                    this.error = 'வார்த்தை அகராதியில் இல்லை';
                     window.setTimeout(() => {
                         this.error = '';
                     }, 1000);
                 }
             } else {
-                this.error = 'Veuillez entrer un mot de ' + NB_LETTERS + ' lettres';
+                this.error = NB_LETTERS + ' எழுத்துக்கள் வேண்டும்!';
                 window.setTimeout(() => {
                     this.error = '';
                 }, 1000);
             }
         },
         verifyLetters(attempt) {
-            let wordToGuess = this.wordOfTheDay.split('');
+            let wordToGuess = [];
+            let diacritics = {'\u0B82':true,'\u0BBE':true, '\u0BBF':true, 
+                '\u0BC0':true, '\u0BC1':true, '\u0BC2':true, '\u0BC6':true, 
+                '\u0BC7':true, '\u0BC8':true, '\u0BCA':true, '\u0BCB':true, 
+                '\u0BCC':true, '\u0BCD':true, '\u0BD7':true};
+            let wordSplit = this.wordOfTheDay.split('');
+            for(let i = 0; i != wordSplit.length; ++i){
+                let ch = wordSplit[i];
+                diacritics[ch] ? (wordToGuess[wordToGuess.length - 1] += ch) : wordToGuess.push(ch);
+            }
             let currentResult = this.results[this.currentAttempt - 1];
             
             attempt.forEach((letter, index) => {

@@ -1,0 +1,1969 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>பௌ</b>
+                       <div id='no_results'>
+                                174 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/winslow_query.py?qs=பௌ&searchhws=yes&matchtype=exact">பௌ</a> pau
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p><hw><tam>பௌ</tam></hw> . A syllabic letter of <tam>ப்</tam> and <tam>ஔ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌகண்டம்&searchhws=yes&matchtype=exact">பௌகண்டம்</a> paukaṇṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S378">p. S378</a>)
+		<blockquote><p><hw><tam>பௌகண்டம்</tam> <t>paukaṇṭam</t></hw> , <i>n</i>. < <i>paugaṇḍa</i>. Period in the life of a child, between the ages of six and ten; <tam>ஆறு முதல் பத்து வயது வரையுள்ள குழந்தைப்பருவம்</tam>. (<tam>விசாரசந். பக்</tam>. 343.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌஜ்தாரி&searchhws=yes&matchtype=exact">பௌஜ்தாரி</a> paujtāri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌஜ்தாரி</tam> <t>paujtāri</t></hw> , <i>adj</i>. < U. <i>faujdārī</i>. Magisterial, criminal; <tam>குற்ற விசாரணைக்குரிய</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌஜ்தாரிக்கட்டளை&searchhws=yes&matchtype=exact">பௌஜ்தாரிக்கட்டளை</a> paujtārikkaṭṭaḷai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌஜ்தாரிக்கட்டளை</tam> <t>paujtāri-k-kaṭṭaḷai</t></hw> , <i>n</i>. < <tam>பௌஜ்தாரி</tam> +. Criminal proceedings; <tam>குற்றச்சாட்டு நடவடிக்கை</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌஞ்சு&searchhws=yes&matchtype=exact">பௌஞ்சு</a> pauñcu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p><hw><tam>பௌஞ்சு</tam></hw> , <i>s. (Hind.)</i> same as <tam>பவுஞ்சு</tam>, an army.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌஞ்சு&searchhws=yes&matchtype=exact">பௌஞ்சு</a> pauñcu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌஞ்சு</hw> - சேனை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/winslow_query.py?qs=பௌஞ்சு&searchhws=yes&matchtype=exact">பௌஞ்சு</a> pauñcu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p><hw><tam>பௌஞ்சு</tam></hw> , <i>s. (Hin.)</i> An army, <tam>சேனை</tam>. See <tam>பவிஞ்சு</tam>, <tam>பவுஞ்சு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌடம்&searchhws=yes&matchtype=exact">பௌடம்</a> pauṭam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌடம்</tam></hw> , <tam>பௌஷம்</tam>, <i>s.</i> The Tamil month <tam>தை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌடம்&searchhws=yes&matchtype=exact">பௌடம்</a> pauṭam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1651">p. 1651</a>)
+		<blockquote><p><hw>பௌடம்</hw> - தைமாதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/winslow_query.py?qs=பௌடம்&searchhws=yes&matchtype=exact">பௌடம்</a> pauṭam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌடம்</tam></hw> –<tam>பௌஷம்</tam>, <i>s.</i> January, the month, <tam>தைமாதம்</tam>; [<i>ex</i> <tam>புஷ்ய</tam>=<tam>பூசம்</tam>, the asterism in which the moon is full in this month.] w. p. 556. <smallcaps>POUSHA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌடிகம்&searchhws=yes&matchtype=exact">பௌடிகம்</a> pauṭikam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌடிகம்</tam></hw> , <tam>பௌஷிகம்</tam>, <i>s.</i> the Rig Veda; 2. one of the eighteen Puranas.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/winslow_query.py?qs=பௌடிகம்&searchhws=yes&matchtype=exact">பௌடிகம்</a> pauṭikam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌடிகம்</tam></hw> –<tam>பௌஷிகம்</tam>, <i>s.</i> The Rig Veda, <tam>இருக்கு</tam>. 2. As <tam>பௌடியம்</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/winslow_query.py?qs=பௌடியன்&searchhws=yes&matchtype=exact">பௌடியன்</a> pauṭiyaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌடியன்</tam></hw> –<tam>பௌஷியன்</tam>, <i>s.</i> A monarch, <tam>ஓர்சக்கரவர்த்தி</tam>. (<tam>நைட</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌடியம்&searchhws=yes&matchtype=exact">பௌடியம்</a> pauṭiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1474">p. 1474</a>)
+		<blockquote><p><hw>பௌடியம்</hw> - நிகழ்காலம், நிகழுஞ் சம்பவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/winslow_query.py?qs=பௌடியம்&searchhws=yes&matchtype=exact">பௌடியம்</a> pauṭiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌடியம்</tam></hw> –<tam>பௌஷியம்</tam>, <i>s.</i> One of the eighteen Puranas. See <tam>பவிஷியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌடியம் பௌஷியம்&searchhws=yes&matchtype=exact">பௌடியம் பௌஷியம்</a> pauṭiyam pauṣiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌடியம் பௌஷியம்</tam></hw> , <i>s.</i> as <tam>பௌடிகம்</tam> 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌண்டரம்&searchhws=yes&matchtype=exact">பௌண்டரம்</a> pauṇṭaram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌண்டரம்</hw> - விமசேநன், சங்கு, ஒட்ர தேசத்துக்கும் ஆந்த்ர தேசத்தின் உத்தரபாகத்துக்கும் ப்ராசீநநாமம், இதற்கு பலியின் பத்ரனாகிய புண் டரனால் இப்பெயருண்டாயிற்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌண்டிரம்&searchhws=yes&matchtype=exact">பௌண்டிரம்</a> pauṇṭiram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌண்டிரம்</tam></hw> , <i>s.</i> a country (a part of Bengal); 2. one of the divisions of Central India; 3. as <tam>பவுண்டரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌண்டிரம்&searchhws=yes&matchtype=exact">பௌண்டிரம்</a> pauṇṭiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌண்டிரம்</hw> - ஒருதேயம், பவுண்டரம்</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/winslow_query.py?qs=பௌண்டிரம்&searchhws=yes&matchtype=exact">பௌண்டிரம்</a> pauṇṭiram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌண்டிரம்</tam></hw> , <i>s.</i> A country, a part of Bengal now called Chandile, <tam>ஓர்தேயம்</tam>. W. p. 555. <smallcaps>POUN'DRA.</smallcaps> 2. One of the divisions of central India. 3. As <tam>பவுண்டாம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌதி&searchhws=yes&matchtype=exact">பௌதி</a> pauti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌதி</hw> - இராத்ரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/crea_query.py?qs=பௌதிக&searchhws=yes&matchtype=exact">பௌதிக</a> pautika
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=789">p. 789</a>)
+		<blockquote><p><hw>பௌதிக</hw> பெ.அ. 1: திட, திரவ, வாயு ஆகிய நிலைகளுக்கு உட்பட்ட அல்லது உரிய; physical. நீரைக் குளிரவைத்தால் பௌதிக மாற்றத்துக்கு உள்ளாகும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌதிகசரீரம்&searchhws=yes&matchtype=exact">பௌதிகசரீரம்</a> pautikacarīram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌதிகசரீரம்</hw> - பூதவுடம்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌதிகசாத்திரம்&searchhws=yes&matchtype=exact">பௌதிகசாத்திரம்</a> pautikacāttiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌதிகசாத்திரம்</tam> <t>pautika-cāttiram</t></hw> , <i>n</i>. < <i>bhautika</i> +. Physical science; <tam>இயற்கைத் தத்துவநூல்</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌதிகதீட்சை&searchhws=yes&matchtype=exact">பௌதிகதீட்சை</a> pautikatīṭcai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌதிகதீட்சை</tam> <t>pautika-tīṭcai</t></hw> , <i>n</i>. < id. +. (Šaiva.) A way of initiation. See <tam>உலோகதருமிணி</tam>. (<tam>சைவச. ஆசாரி</tam>. 62, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌதிகன்&searchhws=yes&matchtype=exact">பௌதிகன்</a> pautikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌதிகன்</hw> - சிவபிரான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌதிகன்&searchhws=yes&matchtype=exact">பௌதிகன்</a> pautikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌதிகன்</tam> <t>pautikaṉ</t></hw> , <i>n</i>. < <i>bhautika</i>. Šiva; <tam>சிவபிரான். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌதிகபாவனை&searchhws=yes&matchtype=exact">பௌதிகபாவனை</a> pautikapāvaṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌதிகபாவனை</tam> <t>pautika-pāvaṉai</t></hw> , <i>n</i>. < id. +. Meditation of God, as having form; <tam>கடவுளை உருவனாகத் தியானிக்கை. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌதிகப்பிரமசாரி&searchhws=yes&matchtype=exact">பௌதிகப்பிரமசாரி</a> pautikappiramacāri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌதிகப்பிரமசாரி</tam> <t>pautika-p-piramacāri</t></hw> , <i>n</i>. < id. +. Brahmin youth who marries upon the completion of his duties as a Brahmacārin; <tam>பிரமசரியவிரதம் முடித்து மணம்புரி வோன்</tam>. (<tam>சிவதரு. பரி</tam>. 2, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌதிகப்ரபஞ்சம்&searchhws=yes&matchtype=exact">பௌதிகப்ரபஞ்சம்</a> pautikaprapañcam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌதிகப்ரபஞ்சம்</hw> - பௌதிகலோகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌதிகம்&searchhws=yes&matchtype=exact">பௌதிகம்</a> pautikam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌதிகம்</tam></hw> , <tam>பவுதிகம்</tam>, <i>s.</i> anything relating to elements, <tam>பூதசம்பந்தம்</tam>; 2. the world, <tam>பௌதீகம்</tam>, used in the <i>adj.</i> <tam>பௌதீக</tam>, worldly. <p2><tam>பௌதிகன்</tam>, Siva.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌதிகம்&searchhws=yes&matchtype=exact">பௌதிகம்</a> pautikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌதிகம்</hw> - பூதியத்துக்கடுத்தது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌதிகம்&searchhws=yes&matchtype=exact">பௌதிகம்</a> pautikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1474">p. 1474</a>)
+		<blockquote><p><hw>பௌதிகம்</hw> - பூதசம்பந்தம், பூதிகம், தூலவுடம்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌதிகம்&searchhws=yes&matchtype=exact">பௌதிகம்</a> pautikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌதிகம்¹</tam> <t>pautikam</t></hw> , <i>n</i>. < <i>bhautika</i>. 1. That which pertains to the five elements; that which is physical; <tam>பூதசம்பந்தமானது. தேகங்க ளத்தனையு மோகங்கொள் பௌதிகம்</tam> (<tam>தாயு. பரிபூ</tam>. 2). 2. The world; <tam>உலகம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌதிகம்&searchhws=yes&matchtype=exact">பௌதிகம்</a> pautikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌதிகம்²</tam> <t>pautikam</t></hw> , <i>n</i>. Featherfoil. See <tam>கருநெல்லி. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/winslow_query.py?qs=பௌதிகம்&searchhws=yes&matchtype=exact">பௌதிகம்</a> pautikam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌதிகம்</tam></hw> , <i>s.</i> [<i>also</i> <tam>பவுதிகம்</tam>.] That which belongs to the elements, <tam>பூதசம்பந்தம்</tam>. W. p. 628. <smallcaps>B'HOUTIKA.</smallcaps> 2. [<i>also</i> <tam>பௌதீகம்</tam>.] The world, <tam>உலகம்</tam>, used in the <i>adj.</i> as <tam>பே?தீக</tam>, temporal. <p2><tam>பௌதிகஞானம்</tam>, <i>s.</i> The eminence of wisdom, as sought by the Buddhist, <tam>புத்தஞானம்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/crea_query.py?qs=பௌதிகம், பௌதிகவியல்&searchhws=yes&matchtype=exact">பௌதிகம், பௌதிகவியல்</a> pautikam, pautikaviyal
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=789">p. 789</a>)
+		<blockquote><p><hw>பௌதிகம்/பௌதிகவியல்</hw> பெ. [அ.வ.] 1: இயற்பியல்; physics.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌதிகயோகசந்நியாசி&searchhws=yes&matchtype=exact">பௌதிகயோகசந்நியாசி</a> pautikayōkacanniyāci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌதிகயோகசந்நியாசி</tam> <t>pautika-yōka-canniyāci</t></hw> , <i>n</i>. < id. +. Ascetic practising <i>pautika-pāvaṉai</i>; <tam>பௌதிகபாவனையைச் செய் வோன். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌதிகவாதம்&searchhws=yes&matchtype=exact">பௌதிகவாதம்</a> pautikavātam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌதிகவாதம்</tam> <t>pautika-vātam</t></hw> , <i>n</i>. < id. +. Materialism; <tam>உலோகாயதமதம். (பிரபஞ்சவி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌதிகாசாரியன்&searchhws=yes&matchtype=exact">பௌதிகாசாரியன்</a> pautikācāriyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌதிகாசாரியன்</tam> <t>pautikācāriyaṉ</t></hw> , <i>n</i>. < id. +. (Šaiva.) Assistant to the head priest. See <tam>சாதகாசாரியன்</tam>. (<tam>சி. சி</tam>. 8, 5, <tam>சிவாக்</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌதீகம்&searchhws=yes&matchtype=exact">பௌதீகம்</a> pautīkam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌதீகம்</tam></hw> , <i>s.</i> the world.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌதீகம்&searchhws=yes&matchtype=exact">பௌதீகம்</a> pautīkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌதீகம்</hw> - உலகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌதீகம்&searchhws=yes&matchtype=exact">பௌதீகம்</a> pautīkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌதீகம்</tam> <t>pautīkam</t></hw> , <i>n</i>. < <i>bhautika</i>. See <tam>பௌதிகம்</tam> (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/winslow_query.py?qs=பௌதீகம்&searchhws=yes&matchtype=exact">பௌதீகம்</a> pautīkam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌதீகம்</tam></hw> , <i>s.</i> The world, <tam>உலகம்</tam>. <tam>பௌதீக</tam>, <i>adj.</i> Temporal.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌத்தன்&searchhws=yes&matchtype=exact">பௌத்தன்</a> pauttaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌத்தன்</hw> - புத்தசமயத்தான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/crea_query.py?qs=பௌத்தம்&searchhws=yes&matchtype=exact">பௌத்தம்</a> pauttam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=789">p. 789</a>)
+		<blockquote><p><hw>பௌத்தம்</hw> பெ. 1: ஆசையே துன்பத்துக்குக் காரணம் என்பதை அடிப்படையாகக் கொண்டு துன்பத்தை நீக்குவதற்கு வழிமுறைகளைக் கூறும் மதம்; Buddhism.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌத்தம்&searchhws=yes&matchtype=exact">பௌத்தம்</a> pauttam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌத்தம்</tam></hw> , <tam>புத்தம்</tam>, <i>s.</i> the Buddist religion. <p2><tam>பௌத்தன்</tam>, a Buddist.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌத்தம்&searchhws=yes&matchtype=exact">பௌத்தம்</a> pauttam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌத்தம்</hw> - புத்தமதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/winslow_query.py?qs=பௌத்தம்&searchhws=yes&matchtype=exact">பௌத்தம்</a> pauttam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌத்தம்</tam></hw> , <i>s.</i> [<i>also</i> <tam>புத்தம்</tam>.] The Buddhist religion, <tam>புத்தமதம்</tam>. See <tam>சமயம்</tam>. <p2><tam>பௌத்தன்</tam>, <i>s.</i> A Buddhist, <tam>புத்தசமையத்தான்</tam>. W. p. 606. <smallcaps>BOUDD'HA.</smallcaps></p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌத்தர்&searchhws=yes&matchtype=exact">பௌத்தர்</a> pauttar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌத்தர்</hw> - புத்தர். பௌத்தமதத்தை அவலம்பித்திருப்பவர்கள். இந்தமதம் சத்திய சீலங்களையும் யோகவித்தை யையும் செவ்வனே போதிப்பது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌத்தர்&searchhws=yes&matchtype=exact">பௌத்தர்</a> pauttar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1474">p. 1474</a>)
+		<blockquote><p><hw>பௌத்தர்</hw> - சாக்கியர், தேரர், புத்தர், அத்தவத்தோர், சீவகர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌத்தி&searchhws=yes&matchtype=exact">பௌத்தி</a> pautti
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p><hw><tam>பௌத்தி</tam></hw> , <tam>பவுத்தி</tam>, <i>s.</i> death.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌத்தி&searchhws=yes&matchtype=exact">பௌத்தி</a> pautti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌத்தி</hw> - பவுத்தி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/winslow_query.py?qs=பௌத்தி&searchhws=yes&matchtype=exact">பௌத்தி</a> pautti
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p><hw><tam>பௌத்தி</tam></hw> , <i>s.</i> Death. See <tam>பவுத்தி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/crea_query.py?qs=பௌத்திரன்&searchhws=yes&matchtype=exact">பௌத்திரன்</a> pauttiraṉ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=789">p. 789</a>)
+		<blockquote><p><hw>பௌத்திரன்</hw> பெ. [அ.வ.] 1: (மகன் வழி) பேரன்; grandson (i.e. son's son).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌத்திரன்&searchhws=yes&matchtype=exact">பௌத்திரன்</a> pauttiraṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌத்திரன்</tam></hw> , (<i>fem.</i> <tam>பௌத்திரி</tam>) <i>s.</i> same as <tam>பவுத்திரன்</tam> (<tam>பவுத்திரி</tam>), a grandson.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌத்திரன்&searchhws=yes&matchtype=exact">பௌத்திரன்</a> pauttiraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌத்திரன்</hw> - சுத்தன், மகன் மகன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌத்திரன்&searchhws=yes&matchtype=exact">பௌத்திரன்</a> pauttiraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1475">p. 1475</a>)
+		<blockquote><p><hw>பௌத்திரன்</hw> - புத்திர புத்திரன், பேர ன், பாட்டன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌத்திரன்&searchhws=yes&matchtype=exact">பௌத்திரன்</a> pauttiraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌத்திரன்¹</tam> <t>pauttiraṉ</t></hw> , <i>n</i>. < <i>pautra</i>. Grandson who is a son's son; <tam>மகன்மகனாகிய பேரன். உம்புத்திர பௌத்திரர் தங்களுக்கும் . . . அருந்துயரில்லையே</tam> (<tam>உத்தரரா. திருவோலக்</tam>. 20).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌத்திரன்&searchhws=yes&matchtype=exact">பௌத்திரன்</a> pauttiraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌத்திரன்²</tam> <t>pauttiraṉ</t></hw> , <i>n</i>. Holy person. See <tam>பவித்திரன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/winslow_query.py?qs=பௌத்திரன்&searchhws=yes&matchtype=exact">பௌத்திரன்</a> pauttiraṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌத்திரன்</tam></hw> , <i>s.</i> [<i>fem.</i> <tam>பௌத்திரி</tam>.] A grand-son, <i>commonly in the male line.</i> See <tam>பவுத்திரர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/crea_query.py?qs=பௌத்திரம்&searchhws=yes&matchtype=exact">பௌத்திரம்</a> pauttiram
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=789">p. 789</a>)
+		<blockquote><p><hw>பௌத்திரம்</hw> பெ. [அ.வ.] 1: மூல நோய்; fistula.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌத்திரம்&searchhws=yes&matchtype=exact">பௌத்திரம்</a> pauttiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌத்திரம்</hw> - சுத்தம், புத்திரற்குரியது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌத்திரர்&searchhws=yes&matchtype=exact">பௌத்திரர்</a> pauttirar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌத்திரர்</hw> - பெயரமார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/crea_query.py?qs=பௌத்திரி&searchhws=yes&matchtype=exact">பௌத்திரி</a> pauttiri
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=789">p. 789</a>)
+		<blockquote><p><hw>பௌத்திரி</hw> பெ. [அ.வ.] 1: (மகன் வழி) பேத்தி; granddaughter (i.e. son's daughter).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌத்திரி&searchhws=yes&matchtype=exact">பௌத்திரி</a> pauttiri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌத்திரி</hw> - பெயர்த்தி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌத்திரி&searchhws=yes&matchtype=exact">பௌத்திரி</a> pauttiri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1475">p. 1475</a>)
+		<blockquote><p><hw>பௌத்திரி</hw> - புத்திர புத்திரி, பேர்த்தி, பாட்டி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌத்திரி&searchhws=yes&matchtype=exact">பௌத்திரி</a> pauttiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌத்திரி</tam> <t>pauttiri</t></hw> , <i>n</i>. < <i>pautrī</i>. Granddaughter who is a son's daughter; <tam>புத்திரனுடைய மகள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌத்திரிகேயன்&searchhws=yes&matchtype=exact">பௌத்திரிகேயன்</a> pauttirikēyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌத்திரிகேயன்</hw> - மகண் மகன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌத்ரன்&searchhws=yes&matchtype=exact">பௌத்ரன்</a> pautraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌத்ரன்</hw> - பெயரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌந்திரம்&searchhws=yes&matchtype=exact">பௌந்திரம்</a> pauntiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌந்திரம்</tam> <t>pauntiram</t></hw> , <i>n</i>. < <i>bhagandara</i>. Piles. See <tam>பவுந்திரம்</tam>. (<smallcap>M. L</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌனருத்தம்&searchhws=yes&matchtype=exact">பௌனருத்தம்</a> pauṉaruttam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌனருத்தம்</hw> - புனருத்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌனர்ப்பவன்&searchhws=yes&matchtype=exact">பௌனர்ப்பவன்</a> pauṉarppavaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌனர்ப்பவன்</tam> <t>paunarppavaṉ</t></hw> , <i>n</i>. < <i>paunarbhava</i>. Son born to a woman by her first husband considered as a son of the husband who marries her on her widowhood one of 12 <i>puttiraṉ</i>, q. v.; <tam>புத்திரர் பன்னிருவகை யினருள் ஒருத்தியிடம் முதற்கணவனுக்குப் பிறந்த வனும் விதவையானபின் அவளை மணந்த இரண்டாங் கணவனால் மகனாகக் கருதப்படுபவனுமான புத்திரன்</tam>. (<tam>ஏலாதி</tam>, 31.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌன்&searchhws=yes&matchtype=exact">பௌன்</a> pauṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌன்</tam> <t>pauṉ</t></hw> , <i>n</i>. < E. <i>pound</i>. Pound sterling. See <tam>பவுன்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌமன்&searchhws=yes&matchtype=exact">பௌமன்</a> paumaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌமன்</tam></hw> , <i>s.</i> Mars, the planet, <tam>செவ் வாய்</tam>; 2. Narakasura (an Asura).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌமன்&searchhws=yes&matchtype=exact">பௌமன்</a> paumaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌமன்</hw> - செவ்வாய், அங்காரகன், பூபத்ரனாதலால் இவனுக்குஇப்பெய ருண்டாயிற்று, நரகாசுரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌமன்&searchhws=yes&matchtype=exact">பௌமன்</a> paumaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1652">p. 1652</a>)
+		<blockquote><p><hw>பௌமன்</hw> - செவ்வாய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌமன்&searchhws=yes&matchtype=exact">பௌமன்</a> paumaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌமன்</tam> <t>paumaṉ</t></hw> , <i>n</i>. < <i>Bhauma</i>. 1. The planet Mars, as the son of Earth; <tam>செவ்வாய். பௌமனுக்கான செழுமண்</tam> (<tam>அறப். சத</tam>. 50). 2. Narakāsura; <tam>நரகாசுரன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/winslow_query.py?qs=பௌமன்&searchhws=yes&matchtype=exact">பௌமன்</a> paumaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌமன்</tam></hw> , <i>s.</i> Mars, the planet, <tam>செவ்வாய்</tam>; <i>(Sa. B'houma.)</i> (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌமம்&searchhws=yes&matchtype=exact">பௌமம்</a> paumam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌமம்</tam></hw> , <i>s.</i> (<tam>பூமி</tam>) produced in the earth, relating to the earth.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌமம்&searchhws=yes&matchtype=exact">பௌமம்</a> paumam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌமம்</hw> - நிலத்திற்பிறப்பன.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌமம்&searchhws=yes&matchtype=exact">பௌமம்</a> paumam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌமம்</tam> <t>paumam</t></hw> , <i>n</i>. < <i>bhauma</i>. That which is produced in or relates to the earth; <tam>பூமிசம்பந்தமானது</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/winslow_query.py?qs=பௌமம்&searchhws=yes&matchtype=exact">பௌமம்</a> paumam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌமம்</tam></hw> , <i>s.</i> Produced in, or relating to, the earth, <tam>பூமிசம்பந்தம்</tam>. W. p. 628. <smallcaps>B'HOUMA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌமஸ்நானம்&searchhws=yes&matchtype=exact">பௌமஸ்நானம்</a> paumasnāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌமஸ்நானம்</tam> <t>pauma-snāṉam</t></hw> , <i>n</i>. < <i>bhauma</i> +. Purification by sprinkling with dust taken from the vicinity of sacred trees, shrubs, etc.; <tam>பரிசுத்தமான அரசு துளசி முதலிய மரஞ்செடிகளின் அடிமண்ணை உடல்மீது தூவிக் கொள்ளுவதான ஸ்நானம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌமி&searchhws=yes&matchtype=exact">பௌமி</a> paumi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌமி</tam></hw> , <i>s.</i> (<tam>பூமி</tam>) Seetha, as produced by or born of the earth.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌமி&searchhws=yes&matchtype=exact">பௌமி</a> paumi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌமி</hw> - சீதை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌமி&searchhws=yes&matchtype=exact">பௌமி</a> paumi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌமி</tam> <t>paumi</t></hw> , <i>n</i>. < <i>Bhaumī</i>. Sita, as daughter of the Earth; <tam>[பூமியின் புதல்வி] சீதை. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌரகம்&searchhws=yes&matchtype=exact">பௌரகம்</a> paurakam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌரகம்</tam></hw> , <i>s.</i> a grove bounding a city, <tam>நகர்சூழ் சோலை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌரகம்&searchhws=yes&matchtype=exact">பௌரகம்</a> paurakam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌரகம்</hw> - நகர்சூழ்சோலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌரகம்&searchhws=yes&matchtype=exact">பௌரகம்</a> paurakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌரகம்</tam> <t>paurakam</t></hw> , <i>n</i>. < <i>pauraka</i>. Grove adjoining a city; <tam>நகரையடுத்தப் புறச்சோலை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌரணமி, பௌரணிமி&searchhws=yes&matchtype=exact">பௌரணமி, பௌரணிமி</a> pauraṇami, pauraṇimi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌரணமி, பௌரணிமி</hw> பூரணை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌரணிகன்&searchhws=yes&matchtype=exact">பௌரணிகன்</a> pauraṇikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌரணிகன்</hw> - புராணப் பிரசாரம் பண்ணுவோன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌரணிகம்&searchhws=yes&matchtype=exact">பௌரணிகம்</a> pauraṇikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌரணிகம்</hw> - புராணமதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌரணிமி&searchhws=yes&matchtype=exact">பௌரணிமி</a> pauraṇimi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌரணிமி</tam> <t>pauraṇimi</t></hw> , <i>n</i>. See <tam>பௌர்ணமி</tam>. <i>Bible</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌரணை&searchhws=yes&matchtype=exact">பௌரணை</a> pauraṇai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌரணை</tam></hw> , <tam>பவுரணை</tam>, <i>s.</i> the full moon, <tam>பௌர்ணமி</tam>; 2. a sapling, <tam>மரக்கன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌரணை&searchhws=yes&matchtype=exact">பௌரணை</a> pauraṇai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌரணை</hw> - பூரணை, மரக்கன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌரணை&searchhws=yes&matchtype=exact">பௌரணை</a> pauraṇai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1475">p. 1475</a>)
+		<blockquote><p><hw>பௌரணை</hw> - அனுமதி, இடை, உவா, பௌவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌரணை&searchhws=yes&matchtype=exact">பௌரணை</a> pauraṇai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌரணை¹</tam> <t>pauraṇai</t></hw> , <i>n</i>. < <i>pūrṇā</i>. (<smallcap>W</smallcap>.) 1. See <tam>பௌர்ணமி</tam>. 2. Sapling; <tam>மரக்கன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌரணை&searchhws=yes&matchtype=exact">பௌரணை</a> pauraṇai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌரணை²</tam> <t>pauraṇai</t></hw> , <i>n</i>. prob. <i>pūraṇa</i>. Sea; <tam>கடல். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/winslow_query.py?qs=பௌரணை&searchhws=yes&matchtype=exact">பௌரணை</a> pauraṇai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌரணை</tam></hw> , <i>s.</i> [<i>also</i> <tam>பவுரணை</tam>.] Full moon, as <tam>பௌர்ணிமி</tam>. 2. A sapling, <tam>மரக்கன்று</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌரன்&searchhws=yes&matchtype=exact">பௌரன்</a> pauraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌரன்</tam> <t>pauraṉ</t></hw> , <i>n</i>. < <i>paura</i>. Townsman; <tam>நகரவாசி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌரம்&searchhws=yes&matchtype=exact">பௌரம்</a> pauram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌரம்</tam></hw> , <i>s.</i> a town on the sea-shore, <tam>பட்டினம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌரம்&searchhws=yes&matchtype=exact">பௌரம்</a> pauram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌரம்</hw> - பட்டினம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌரம்&searchhws=yes&matchtype=exact">பௌரம்</a> pauram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌரம்</tam> <t>pauram</t></hw> , <i>n</i>. < <i>paura</i>. That which pertains to a city; <tam>நகரசம்பந்தமானது. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌரவர்&searchhws=yes&matchtype=exact">பௌரவர்</a> pauravar
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌரவர்</tam></hw> , <i>s.</i> descendants on the Kuru or Pandu dynasty.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌரவர்&searchhws=yes&matchtype=exact">பௌரவர்</a> pauravar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌரவர்</hw> - குருகுலவேந்தர், பூருவமி சத்தோர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌரவர்&searchhws=yes&matchtype=exact">பௌரவர்</a> pauravar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌரவர்</tam> <t>pauravar</t></hw> , <i>n</i>. < <i>Paurava</i>. Descendants of Puru; <tam>புருவின் வமிசத்தார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/winslow_query.py?qs=பௌரவர்&searchhws=yes&matchtype=exact">பௌரவர்</a> pauravar
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌரவர்</tam></hw> , <i>s.</i> [<i>also</i> <tam>கௌரவர்</tam>.] Descendants of the Kuru or Puru dynasty, <tam>குருகுலவேந்தர்</tam>. W. p. 555. <smallcaps>POURAVA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌரவி&searchhws=yes&matchtype=exact">பௌரவி</a> pauravi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌரவி</hw> - மாகிலிகன்மகள், வசுதே வன்மனைவி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌராணிகன்&searchhws=yes&matchtype=exact">பௌராணிகன்</a> paurāṇikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌராணிகன்</tam> <t>paurāṇikaṉ</t></hw> , <i>n</i>. < <i>paurāṇika</i>. 1. One who follows the Purāṇas; <tam>புராணக் கொள்கையுடையவன்</tam>. (<tam>சி. சி</tam>. 1, 1, <tam>மறைஞா</tam>.) 2. One who expounds the Purāṇa stories; <tam>புராணக் கதைகளை எடுத்துரைப்பவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌராணிகமதம்&searchhws=yes&matchtype=exact">பௌராணிகமதம்</a> paurāṇikamatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌராணிகமதம்</tam> <t>paurāṇika-matam</t></hw> , <i>n</i>. < id. +. A system of doctrines founded on the Purāṇas; <tam>புராணத்தைப் பின்பற்றும் சமயம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌராணிகமந்திரம்&searchhws=yes&matchtype=exact">பௌராணிகமந்திரம்</a> paurāṇikamantiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌராணிகமந்திரம்</hw> - பிரணவ மில்லா மந்திரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌராணிகமந்திரம்&searchhws=yes&matchtype=exact">பௌராணிகமந்திரம்</a> paurāṇikamantiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌராணிகமந்திரம்</tam> <t>paurāṇika-mantiram</t></hw> , <i>n</i>. < id. +. Mantra without <i>praṇava</i>; <tam>பிரணவம் சேராத மந்திரம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		114) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌராணிகம்&searchhws=yes&matchtype=exact">பௌராணிகம்</a> paurāṇikam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌராணிகம்</tam></hw> , <i>s.</i> a system of religion founded on the belief in the Puranas, <tam>பௌராணிக மதம்</tam>. <p2><tam>பௌராணிகன்</tam>, an historian, <tam>புராணி கன்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		115) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌராணிகம்&searchhws=yes&matchtype=exact">பௌராணிகம்</a> paurāṇikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌராணிகம்</tam> <t>paurāṇikam</t></hw> , <i>n</i>. < <i>paurāṇika</i>. See <tam>பௌராணிகமதம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		116) <a href="/cgi-bin/app/winslow_query.py?qs=பௌராணிகம்&searchhws=yes&matchtype=exact">பௌராணிகம்</a> paurāṇikam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌராணிகம்</tam></hw> –<tam>பௌராணிகமதம்</tam>, <i>s.</i> A system of religion founded on belief in the Puranas, <tam>புராணசமயம்</tam>. W. p. 555. <smallcaps>POURAN'IKA.</smallcaps> <p2><tam>பௌராணிகன்</tam>, <i>s.</i> An historian. See <tam>புராணீகன்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		117) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌரி&searchhws=yes&matchtype=exact">பௌரி</a> pauri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌரி</tam> <t>pauri</t></hw> , <i>n</i>. (Mus.) A musical mode, one of <i>perum-paṇ</i>, q.v.; <tam>பெரும்பண்வகை. (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		118) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌரிகன்&searchhws=yes&matchtype=exact">பௌரிகன்</a> paurikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌரிகன்</tam> <t>paurikaṉ</t></hw> , <i>n</i>. cf. <i>bhaurīka</i>. Kubēra; <tam>குபேரன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		119) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌருஷம்&searchhws=yes&matchtype=exact">பௌருஷம்</a> pauruṣam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌருஷம்</tam></hw> , <i>s.</i> (<tam>புருஷன்</tam>) manliness, nobleness, humanity, <tam>புருஷத்தன்மை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		120) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌருஷம்&searchhws=yes&matchtype=exact">பௌருஷம்</a> pauruṣam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌருஷம்</hw> - புருஷத்தன்மை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		121) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌருஷம்&searchhws=yes&matchtype=exact">பௌருஷம்</a> pauruṣam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌருஷம்</tam> <t>pauruṣam</t></hw> , <i>n</i>. < <i>pauruṣa</i>. Manliness; nobleness; <tam>ஆண்டகைமை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		122) <a href="/cgi-bin/app/winslow_query.py?qs=பௌருஷம்&searchhws=yes&matchtype=exact">பௌருஷம்</a> pauruṣam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌருஷம்</tam></hw> , <i>s.</i> Manliness, nobleness, humanity, <tam>புருஷத்தன்மை</tam>, <i>also used in contempt.</i> W. p. 555. <smallcaps>POURUSHA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		123) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌருஷேயம்&searchhws=yes&matchtype=exact">பௌருஷேயம்</a> pauruṣēyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌருஷேயம்</tam> <t>pauruṣēyam</t></hw> , <i>n</i>. < <i>pauruṣēya</i>. That which is man-made; <tam>மனிதனாற் செய்யப்பட்டது</tam>. (<tam>சி. சி. அளவை</tam>, 13, <tam>சிவாக்</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		124) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌரோகித்தியம்&searchhws=yes&matchtype=exact">பௌரோகித்தியம்</a> paurōkittiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌரோகித்தியம்</tam></hw> , <i>s.</i> see <tam>புரோகிதத் துவம்</tam> under <tam>புரோகிதன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		125) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌரோகித்தியம்&searchhws=yes&matchtype=exact">பௌரோகித்தியம்</a> paurōkittiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌரோகித்தியம்</hw> - புரோகிதத்தன்மை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		126) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌரோகித்தியம்&searchhws=yes&matchtype=exact">பௌரோகித்தியம்</a> paurōkittiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌரோகித்தியம்</tam> <t>paurōkittiyam</t></hw> , <i>n</i>. < <i>paurōhitya</i>. Priesthood. See <tam>புரோகிதத்துவம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		127) <a href="/cgi-bin/app/winslow_query.py?qs=பௌரோகித்தியம்&searchhws=yes&matchtype=exact">பௌரோகித்தியம்</a> paurōkittiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌரோகித்தியம்</tam></hw> , <i>s.</i> Prognostication. See <tam>புரோகிதத்துவம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		128) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌர்ணசந்திரன்&searchhws=yes&matchtype=exact">பௌர்ணசந்திரன்</a> paurṇacantiraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌர்ணசந்திரன்</tam> <t>paurṇa-cantiraṉ</t></hw> , <i>n</i>. < <i>pūrṇa</i> +. Full moon; <tam>நிறைமதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		129) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌர்ணமாசம்&searchhws=yes&matchtype=exact">பௌர்ணமாசம்</a> paurṇamācam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌர்ணமாசம்</tam> <t>paurṇa-mācam</t></hw> , <i>n</i>. < <i>paurṇamāsa</i>. Sacrifice on a full moon day; <tam>பௌர்ணமியிற் செய்யும் யாகம்</tam>. <i>Brāh</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		130) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌர்ணமாசி&searchhws=yes&matchtype=exact">பௌர்ணமாசி</a> paurṇamāci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌர்ணமாசி</tam> <t>paurṇamāci</t></hw> , <i>n</i>. < <i>paurṇamāsī</i>. See <tam>பௌர்ணமி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		131) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌர்ணமாசை&searchhws=yes&matchtype=exact">பௌர்ணமாசை</a> paurṇamācai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌர்ணமாசை</tam> <t>paurṇamācai</t></hw> , <i>n</i>. < id. See <tam>பௌர்ணமி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		132) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌர்ணமாவாசை&searchhws=yes&matchtype=exact">பௌர்ணமாவாசை</a> paurṇamāvācai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌர்ணமாவாசை</tam> <t>paurṇamāvācai</t></hw> , <i>n</i>. < id. See <tam>பௌர்ணமி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		133) <a href="/cgi-bin/app/crea_query.py?qs=பௌர்ணமி&searchhws=yes&matchtype=exact">பௌர்ணமி</a> paurṇami
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=789">p. 789</a>)
+		<blockquote><p><hw>பௌர்ணமி</hw> பெ. 1: முழு நிலவு; வளர்பிறையின் கடைசி நாள்; full moon (day).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		134) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌர்ணமி&searchhws=yes&matchtype=exact">பௌர்ணமி</a> paurṇami
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌர்ணமி</tam> <t>paurṇami</t></hw> , <i>n</i>. < <i>paurṇamī</i>. Full moon; <tam>நிறைமதிநாள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		135) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌர்ணமிச்சந்துக்கட்டு&searchhws=yes&matchtype=exact">பௌர்ணமிச்சந்துக்கட்டு</a> paurṇamiccantukkaṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌர்ணமிச்சந்துக்கட்டு</tam> <t>paurṇami-c-cantu-k-kaṭṭu</t></hw> , <i>n</i>. < <tam>பௌர்ணமி</tam> +. The full moon day and the days just before and after the full moon, as unfavourable to patients; <tam>நோயாளிக்கு ஆகாததாகக் கருதப்படும் பௌர்ணமி யும் அதற்கு முன்னும் பின்னுமுள்ளனவுமான நாட்கள்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		136) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌர்ணிமி&searchhws=yes&matchtype=exact">பௌர்ணிமி</a> paurṇimi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌர்ணிமி</tam></hw> , <tam>பௌரணமி</tam>, <tam>பவுர்ணிமி</tam>, <i>s.</i> the full moon, <tam>பூரணச்சந்திரன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		137) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌர்ணிமி&searchhws=yes&matchtype=exact">பௌர்ணிமி</a> paurṇimi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌர்ணிமி</hw> - பூரணை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		138) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌர்ணிமி&searchhws=yes&matchtype=exact">பௌர்ணிமி</a> paurṇimi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌர்ணிமி</tam> <t>paurṇimi</t></hw> , <i>n</i>. See <tam>பௌர்ணமி. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		139) <a href="/cgi-bin/app/winslow_query.py?qs=பௌர்ணிமி&searchhws=yes&matchtype=exact">பௌர்ணிமி</a> paurṇimi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌர்ணிமி</tam></hw> , <i>s.</i> [<i>also</i> <tam>பவுர்ணிமி</tam>.] The full moon, <tam>பூரணை</tam>. W. p. 555. <smallcaps>POURN'IMA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		140) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌர்ணிமை&searchhws=yes&matchtype=exact">பௌர்ணிமை</a> paurṇimai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2973">p. 2973</a>)
+		<blockquote><p><hw><tam>பௌர்ணிமை</tam> <t>paurṇimai</t></hw> , <i>n</i>. See <tam>பௌர்ணமி. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		141) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌலஸ்தி&searchhws=yes&matchtype=exact">பௌலஸ்தி</a> paulasti
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌலஸ்தி</tam></hw> , <i>s.</i> the younger sister of Ravana, <tam>சூர்ப்பனகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		142) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌலஸ்தி&searchhws=yes&matchtype=exact">பௌலஸ்தி</a> paulasti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌலஸ்தி</hw> - சூர்ப்பணகை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		143) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌலஸ்தி&searchhws=yes&matchtype=exact">பௌலஸ்தி</a> paulasti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌலஸ்தி</tam> <t>paulasti</t></hw> , <i>n</i>. < <i>Paulastī</i>. Šūrpaṇakhā; <tam>சூர்ப்பணகை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		144) <a href="/cgi-bin/app/winslow_query.py?qs=பௌலஸ்தி&searchhws=yes&matchtype=exact">பௌலஸ்தி</a> paulasti
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌலஸ்தி</tam></hw> , <i>s.</i> The younger sister of Ravana, <tam>சூர்ப்பநகை</tam>. W. p. 556. <smallcaps>PAULASTYA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		145) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌலஸ்தியன்&searchhws=yes&matchtype=exact">பௌலஸ்தியன்</a> paulastiyaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌலஸ்தியன்</tam></hw> , <i>s.</i> Ravana; 2. Kubera; 3. Vibheeshana.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		146) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌலஸ்தியன்&searchhws=yes&matchtype=exact">பௌலஸ்தியன்</a> paulastiyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌலஸ்தியன்</hw> - இராவணன், குபே ரன், விபீஷணன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		147) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌலஸ்தியன்&searchhws=yes&matchtype=exact">பௌலஸ்தியன்</a> paulastiyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌலஸ்தியன்</tam> <t>paulastiyaṉ</t></hw> , <i>n</i>. < <i>Paul- astya</i>. 1. Rāvaṇa; <tam>இராவணன்</tam>. 2. Kubēra; <tam>குபேரன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		148) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌலுருவி&searchhws=yes&matchtype=exact">பௌலுருவி</a> pauluruvi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌலுருவி</tam> <t>pauluruvi</t></hw> , <i>n</i>. Honeysuckle mistletoe. See <tam>புல்லுருவி</tam>. (<smallcap>J</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		149) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌலோமர்&searchhws=yes&matchtype=exact">பௌலோமர்</a> paulōmar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌலோமர்</hw> - வைவசுவரநரன் ஏன் னும் தாநவன்மகளாகிய புலோமை யிடத்து மரீசிக்குப் பிறந்த அரக்கர் கள், இவர்கள் அருச்சுநனால் கொல் லப்பட்டார்கள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		150) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌலோமி&searchhws=yes&matchtype=exact">பௌலோமி</a> paulōmi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌலோமி</hw> - புலோமசை, சசிதேவி, புலோமன்மகள், இந்திரன்மனைவி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		151) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌளி&searchhws=yes&matchtype=exact">பௌளி</a> pauḷi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌளி</tam></hw> , <i>s.</i> a melody, a tune, <tam>ஓரிராகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		152) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌளி&searchhws=yes&matchtype=exact">பௌளி</a> pauḷi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌளி</hw> - ஓரிராகம் பூபாளன்மனைவி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		153) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌளி&searchhws=yes&matchtype=exact">பௌளி</a> pauḷi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌளி</tam> <t>pauḷi</t></hw> , <i>n</i>. (Mus.) A specific melody-type; <tam>இராகவகை</tam>. (<tam>பரத. இராக</tam>. 56.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		154) <a href="/cgi-bin/app/winslow_query.py?qs=பௌளி&searchhws=yes&matchtype=exact">பௌளி</a> pauḷi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌளி</tam></hw> , <i>s.</i> A melody. See <tam>இராகம்</tam>. 2. Wife of <tam>பூபாளன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		155) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌழியசரணத்தார்&searchhws=yes&matchtype=exact">பௌழியசரணத்தார்</a> pauḻiyacaraṇattār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌழியசரணத்தார்</tam> <t>pauḻiya-caraṇa-t-tār</t></hw> , <i>n</i>. < <tam>பௌழியசரணம்</tam>. Ṛg. Vēdins; <tam>இருக்கு வேதிகள்</tam>. (Insc.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		156) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌழியசரணம்&searchhws=yes&matchtype=exact">பௌழியசரணம்</a> pauḻiyacaraṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌழியசரணம்</tam> <t>pauḻiya-caraṇam</t></hw> , <i>n</i>. < <tam>பௌழியம்</tam> +. See <tam>பௌடியம்¹</tam>. (Insc.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		157) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌழியன்&searchhws=yes&matchtype=exact">பௌழியன்</a> pauḻiyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌழியன்¹</tam> <t>pauḻiyaṉ</t></hw> , <i>n</i>. < <tam>பூழியன்</tam>. Chēra king. See <tam>பூழியன்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		158) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌழியன்&searchhws=yes&matchtype=exact">பௌழியன்</a> pauḻiyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌழியன்²</tam> <t>pauḻiyaṉ</t></hw> , <i>n</i>. < <i>bahvṛc</i>. God, as described in the Ṛg Vēda; <tam>இருக்குவேதத்தாற் பிரதிபாதிக்கப்படுபவனான கடவுள். சந்தோகன் பௌழியன்</tam> (<tam>திவ். பெரியதி</tam>. 5, 5, 9).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		159) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌழியம்&searchhws=yes&matchtype=exact">பௌழியம்</a> pauḻiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌழியம்</tam> <t>pauḻiyam</t></hw> , <i>n</i>. See <tam>பௌடியம்¹</tam>. <tam>சந்தோகா பௌழியா</tam> (<tam>திவ். பெரியதி</tam>. 7, 7, 2).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		160) <a href="/cgi-bin/app/fabricius_query.py?qs=பௌவம்&searchhws=yes&matchtype=exact">பௌவம்</a> pauvam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=759">p. 759</a>)
+		<blockquote><p>*<hw><tam>பௌவம்</tam></hw> , <i>s.</i> salt, <tam>உப்பு</tam>; 2. the sea; <tam>கடல்</tam>; 3. a water-bubble, <tam>நீர்க்குமிழி</tam>; 4. foam, <tam>நுரை</tam>; 5. the full moon; 6. a knot in a tree, <tam>மரக்கணு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		161) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌவம்&searchhws=yes&matchtype=exact">பௌவம்</a> pauvam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌவம்</hw> - உப்பு, கடல், நீர்க்குமிழி, நுரை, பூரணை, மரக்கணு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		162) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌவம்&searchhws=yes&matchtype=exact">பௌவம்</a> pauvam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1652">p. 1652</a>)
+		<blockquote><p><hw>பௌவம்</hw> - கடல், நீர்க்குமிழி, நுரை, பூரணை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		163) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌவம்&searchhws=yes&matchtype=exact">பௌவம்</a> pauvam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌவம்¹</tam> <t>pauvam</t></hw> , <i>n</i>. perh. <i>parvan</i>. See <tam>பவ்வம்¹. (சூடா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		164) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌவம்&searchhws=yes&matchtype=exact">பௌவம்</a> pauvam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌவம்²</tam> <t>pauvam</t></hw> , <i>n</i>. 1. cf. <i>pūrva</i>. See <tam>பவ்வம்²</tam>. <tam>திறை பிறழிய விரும்பௌவத்து</tam> (<tam>பொருந</tam>. 178). 2. Depth; <tam>ஆழம். பௌவமார் கடல்</tam> (<tam>தேவா</tam>. 556, 8). 3. Salt; <tam>உப்பு. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		165) <a href="/cgi-bin/app/winslow_query.py?qs=பௌவம்&searchhws=yes&matchtype=exact">பௌவம்</a> pauvam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=830">p. 830</a>)
+		<blockquote><p>*<hw><tam>பௌவம்</tam></hw> , <i>s.</i> The full moon. 2. Sea. 3. Water-bubble. 4. Foam, &c. See <tam>பவ்வம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		166) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌஷம்&searchhws=yes&matchtype=exact">பௌஷம்</a> pauṣam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌஷம்</tam> <t>pauṣam</t></hw> , <i>n</i>. < <i>pauṣa</i>. The lunar month of Tai; <tam>பத்தாவது சாந்திரமான மாதம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		167) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌஷம், பௌடம்&searchhws=yes&matchtype=exact">பௌஷம், பௌடம்</a> pauṣam, pauṭam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌஷம், பௌடம்</hw> தைமாதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		168) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌஷிகம்&searchhws=yes&matchtype=exact">பௌஷிகம்</a> pauṣikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌஷிகம்¹</tam> <t>pauṣikam</t></hw> , <i>n</i>. See <tam>பௌடியம்¹</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		169) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌஷிகம்&searchhws=yes&matchtype=exact">பௌஷிகம்</a> pauṣikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌஷிகம்²</tam> <t>pauṣikam</t></hw> , <i>n</i>. See <tam>பௌடியம்²</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		170) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌஷிகம், பௌடிகம், பௌடியம்&searchhws=yes&matchtype=exact">பௌஷிகம், பௌடிகம், பௌடியம்</a> pauṣikam, pauṭikam, pauṭiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌஷிகம், பௌடிகம், பௌடியம்</hw> பதினென் புராணத் தொன்று, முதல் வேதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		171) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌஷியன்&searchhws=yes&matchtype=exact">பௌஷியன்</a> pauṣiyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌஷியன்</hw> - உதங்கனுக்குக் குண்ட லங்கெடுத்த அரசன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		172) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பௌஷியன், பௌடியன்&searchhws=yes&matchtype=exact">பௌஷியன், பௌடியன்</a> pauṣiyaṉ, pauṭiyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1094">p. 1094</a>)
+		<blockquote><p><hw>பௌஷியன், பௌடியன்</hw> ஒரு சக்கரவர்த்தி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		173) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌஷியம்&searchhws=yes&matchtype=exact">பௌஷியம்</a> pauṣiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2974">p. 2974</a>)
+		<blockquote><p><hw><tam>பௌஷியம்</tam> <t>pauṣiyam</t></hw> , <i>n</i>. A Puraṇa. See <tam>பௌடியம்²</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		174) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பௌஷியம்&searchhws=yes&matchtype=exact">பௌஷியம்</a> pauṣiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S378">p. S378</a>)
+		<blockquote><p><hw><tam>பௌஷியம்</tam> <t>pauṣiyam</t></hw> , <i>n</i>. < <i>bhavṣyat</i>. The future; <tam>வருங்காலம். பௌஷியப் பிரதிபந்தம்</tam> (<tam>பஞ்சதசப். பக்</tam>. 84).</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

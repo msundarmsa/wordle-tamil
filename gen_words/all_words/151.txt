@@ -1,0 +1,2039 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>நை</b>
+                       <div id='no_results'>
+                                181 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/crea_query.py?qs=நை&searchhws=yes&matchtype=exact">நை</a> nai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=640">p. 640</a>)
+		<blockquote><p><hw>நை<sup>1</sup></hw> வி. (நைய, நைந்து) 1: (துணி) இற்றுப்போதல்; நூல்நூலாகப் பிரிதல்; be frayed; become threadbare. தரையில் உட்கார்ந்து தேய்த்துத்தேய்த்துக் கால்சட்டை நைந்திருக்கிறது./ நைந்துபோன பழந் துணி போல் கிடந்தார்./ [உரு வ.] நைந்த உள்ளம் 2: நசுங்குதல்; get crushed. கதவைப் பார்த்துச் சாத்து, கை நைந்துவிடப்போகிறது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/crea_query.py?qs=நை&searchhws=yes&matchtype=exact">நை</a> nai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=640">p. 640</a>)
+		<blockquote><p><hw>நை<sup>2</sup></hw> வி. (நைக்க, நைத்து) 1: (துணியை) நையச்செய்தல்; cause to get threadbare. கல்லில் அடித்துத் துணியை நைத்துக்கொண்டுவந்திருக்கிறாயே. 2: நசுக்குதல்; crush. இயந்திரம் விரலை நைத்துவிட்டது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/fabricius_query.py?qs=நை&searchhws=yes&matchtype=exact">நை</a> nai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=635">p. 635</a>)
+		<blockquote><p>*<hw><tam>நை</tam></hw> , an <i>interj.</i> of disdain or mockery, also used in combination.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/fabricius_query.py?qs=நை&searchhws=yes&matchtype=exact">நை</a> nai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=635">p. 635</a>)
+		<blockquote><p><hw><tam>நை</tam></hw> , II. <i>v. i.</i> become spoiled or too soft, be overripe, be frayed (as clothes), be reduced in circumstances, <tam>நொந்து போ</tam>; 2. slacken, <tam>தளரு</tam>; 3. be wounded in one's feelings, <tam>மனநோ</tam>; 4. regret, be contrite, <tam>துக்கி</tam>. <p2><tam>மனசிலே நையும்</tam>, it causes pity.</p2> <p2>"<tam>நைவினை நணுகேல்</tam>", do not follow what is destructive.</p2> <p2><tam>நையத்தொய்யவாங்க</tam>, to take from one so as to injure him; to take little by little.</p2> <p2><tam>நைகொதி</tam>, half-boiled rice.</p2> <p2><tam>நைச்சாந்து</tam> (<tam>நற்சாந்து</tam>), ground mortar, fine plaster.</p2> <p2><tam>நைதல்</tam>, <tam>நைவு</tam>, <i>v. n.</i> overripeness, becoming spoiled etc.</p2> <p2><tam>நைந்த கயிறு</tam> (<tam>நஞ்ச கயிறு</tam>), a worn- out rope.</p2> <p2><tam>நைந்த குடி</tam>, an impoverished family.</p2> <p2><tam>நைந்த பழம்</tam> (<tam>நஞ்ச பழம்</tam>), a fruit overripe.</p2> <p2><tam>நையநருக்க</tam>, to bruise to small pieces.</p2> <p2><tam>நையப்பாட</tam>, to beg for a thing as a beggar.</p2> <p2><tam>நையப்புடைக்க</tam>, to thrash one well nigh.</p2> <p2><tam>நையப்பேச</tam>, to speak so as to excite pity; 2. to speak so as to wound one's feelings.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நை&searchhws=yes&matchtype=exact">நை</a> nai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நை</hw> - இகழ்ச்சிக்குறிப்பு, ஓரெழுத்து, நையென்னேவல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நை&searchhws=yes&matchtype=exact">நை</a> nai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2361">p. 2361</a>)
+		<blockquote><p><hw><tam>நை¹</tam> <t>nai</t></hw> . The compound of <tam>ந்</tam> and <tam>ஐ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நை&searchhws=yes&matchtype=exact">நை</a> nai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2361">p. 2361</a>)
+		<blockquote><p><hw><tam>நை⁴</tam> <t>nai</t></hw> , <i>int</i>. Expr. signifying disdain or mockery; <tam>இகழ்ச்சிக்குறிப்பு</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/winslow_query.py?qs=நை&searchhws=yes&matchtype=exact">நை</a> nai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=699">p. 699</a>)
+		<blockquote><p><hw><tam>நை</tam></hw> . A letter compounded of <tam>ந்</tam> and <tam>ஐ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/winslow_query.py?qs=நை&searchhws=yes&matchtype=exact">நை</a> nai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=699">p. 699</a>)
+		<blockquote><p>*<hw><tam>நை</tam></hw> . An interjection of disdain, or mockery, also used in combination, <tam>இகழ்ச்சிக்குறிப்பு</tam>. [<i>from. Sa.</i> <smallcaps>NYAK.</smallcaps> W. p. 489.] <p2><tam>நைக்காட்ட</tam>, <i>inf. [prov.]</i> To grin in disdain.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/winslow_query.py?qs=நை&searchhws=yes&matchtype=exact">நை</a> nai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p><hw><tam>நை</tam></hw> , <tam>கிறேன்</tam>, <tam>ந்தேன்</tam>, [<i>vul.</i> <tam>நஞ்சேன்</tam>.] <tam>வேன்</tam>, <tam>ய</tam>, <i>v. n. [used especially in the neuter.]</i> To be injured, spoiled, &c.; to be over-ripe as fruits; frayed, as cloth; to be reduced in circumstances–as <tam>நசி</tam>, which see. <i>(c.)</i> 2. To be wounded in one's feelings, <tam>மனநோக</tam>. 3. To fade, <tam>வாட</tam>. 4. To sympathize with. <tam>இரங்க</tam>. 5. To be contrite, to regret, <tam>துக்கிக்க</tam>. 6. To slacken, <tam>தளர</tam>. <tam>நையத்தொய்யவாங்குதல்</tam>. Taking from one so as to injure him. <tam>நைபவரெனினும்நொய்யவுரையேல்</tam>. Speak not harshly even to a beggar. <i>(Avv.)</i> <tam>நைவினைநணுகேல்</tam>. Do not follow what is destructive. <i>(Avv.)</i> <p2><tam>நைகொதி</tam>, <i>s. [prov.]</i> Half boiled, insufficiently or badly boiled, as liquid food.</p2> <p2><tam>நைச்சாந்து</tam>, <i>s.</i> [<i>vul. for</i> <tam>நற்சாந்து</tam>.] Ground mortar, fine plaster.</p2> <p2><tam>நைந்தகயிறு</tam>, <i>s.</i> A worn out rope.</p2> <p2><tam>நைந்தகுடி</tam>, <i>s.</i> An impoverished family. See <tam>குடி</tam>.</p2> <p2><tam>நைந்தபழம்</tam>, <i>s.</i> [<i>vul.</i> <tam>நஞ்சபழம்</tam>.] A fruit over-ripe.</p2> <p2><tam>நைந்தமனம்</tam>, <i>s.</i> Wonded feelings. 2. A contrite mind.</p2> <p2><tam>நைபட</tam>, <i>inf.</i> To be injured, made soft, afflicted, &c.</p2> <p2><tam>நையநருக்க</tam>, <i>inf.</i> To burise small, to comminute. <tam>அவனைநையநருக்கிவிட்டார்கள்</tam>. They thrashed him.</p2> <p2><tam>நையநருங்க</tam>, <i>inf. [repeated as an adv.]</i> Well mashed, burised. <tam>நையநருங்கத்தட்டு</tam>, Crush it well, as a nut, &c.</p2> <p2><tam>நையப்பாட</tam>, <i>inf.</i> To cringe, to be servilely obedient.</p2> <p2><tam>நையப்பேச</tam>, <i>inf.</i> To speak so as to excite pity. 2. To speak so as to wound one's feeligs.</p2> <p2><tam>நைவு</tam>, <i>v. noun.</i> Any thing injured; fading, suffering, &c., <i>as the verb.</i></p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நை-தல்&searchhws=yes&matchtype=exact">நை-தல்</a> nai-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2361">p. 2361</a>)
+		<blockquote><p><hw><tam>நை²-தல்</tam> <t>nai-</t></hw> , <i>4 v. intr</i>. cf. <i>naš</i>. 1. To be crushed, bruised; <tam>நசுங்குதல்</tam>. 2. To be injured, spoiled, over-ripe, as fruits; to be frayed, worn out, as cloth; <tam>நிலைகெடுதல்</tam>. 3. To waste away, perish; <tam>கெடுதல்</tam>. (<smallcap>W</smallcap>.) 4. To dwindle, decrease; <tam>சுருங்குதல். நையாத வாயுளுஞ் செல்வமும்</tam> (<tam>அருட்பா</tam>, v, <tam>பொது</tam>. 2.) 5. To be shortened in quantity, as a vowel; <tam>மாத்திரையிற் குறைதல். வன்மைமே லுகர முறுவது நையும்</tam> (<tam>வீரசோ. சந்தி</tam>. 2). 6. To droop, languish, faint; <tam>தளர்தல். இடைநைவது கண்டு</tam> (<tam>திருக்கோ</tam>. 134). 7. To fade; <tam>வாடுதல்</tam>. (<smallcap>W</smallcap>.) 8. To be wounded in one's feelings; to be distressed; <tam>மனம் வருந்துதல். நைந்து சாமவர்க்கே</tam> (<tam>திருநூற்</tam>. 43). 9. To feel pity; <tam>இரங்குதல். நீ நல்காமையி னைவரச் சாஅய்</tam> (<tam>புறநா</tam>. 146). 10. To forget oneself; to lose command of oneself; <tam>அவசமாதல். அரிவை நைய</tam> (<tam>சீவக</tam>. 492).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நை-த்தல்&searchhws=yes&matchtype=exact">நை-த்தல்</a> nai-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2361">p. 2361</a>)
+		<blockquote><p><hw><tam>நை³-த்தல்</tam> <t>nai-</t></hw> , <i>11 v. tr</i>. Caus. of <tam>நை²-</tam>. 1. To crush; <tam>நசுக்குதல்</tam>. 2. To destroy; <tam>அழித் தல். வேலே . . . நாடுநைத்தலின்</tam> (<tam>புறநா</tam>. 97). 3. To burn; <tam>எரித்தல். ஒள்ளெரி நைப்ப</tam> (<tam>புறநா</tam>. 240).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைகரம்&searchhws=yes&matchtype=exact">நைகரம்</a> naikaram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைகரம்</hw> - துன்பம், வருத்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைகரம்&searchhws=yes&matchtype=exact">நைகரம்</a> naikaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2361">p. 2361</a>)
+		<blockquote><p><hw><tam>நைகரம்</tam> <t>naikaram</t></hw> , <i>n</i>. perh. <tam>நை²-</tam>. 1. Anxiety, care, distress; <tam>துன்பம். நைகர மொழிந்து</tam> (<tam>விநாயகபு</tam>. 57, 18). 2. Deficiency; <tam>குறைவு. நைகர மிலாவன்பி னங்கையார்</tam> (<tam>பெரியபு. அரிவாட்</tam>. 12).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/winslow_query.py?qs=நைகரம்&searchhws=yes&matchtype=exact">நைகரம்</a> naikaram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=699">p. 699</a>)
+		<blockquote><p><hw><tam>நைகரம்</tam></hw> , <i>s. [prov.]</i> Affliction, pain, distress, <tam>துன்பம்</tam>; [<i>ex</i> <tam>நை</tam>, <i>v.</i>]</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைகொதி&searchhws=yes&matchtype=exact">நைகொதி</a> naikoti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைகொதி</hw> - நசிகொதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைகொதி&searchhws=yes&matchtype=exact">நைகொதி</a> naikoti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2361">p. 2361</a>)
+		<blockquote><p><hw><tam>நைகொதி</tam> <t>nai-koti</t></hw> , <i>n</i>. < id. +. Being half-boiled; being insufficiently or badly boiled; <tam>அரைகுறையான கொதிப்புள்ளது</tam>. (<smallcap>J</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைக்காட்டு-தல்&searchhws=yes&matchtype=exact">நைக்காட்டு-தல்</a> naikkāṭṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2361">p. 2361</a>)
+		<blockquote><p><hw><tam>நைக்காட்டு-தல்</tam> <t>nai-k-kāṭṭu-</t></hw> , <i>v. intr</i>. < <tam>நை⁴</tam> +. To ridicule, make one a laughing stock; <tam>கேலிகாட்டுதல்</tam>. (<smallcap>J</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைக்காட்டுதல்&searchhws=yes&matchtype=exact">நைக்காட்டுதல்</a> naikkāṭṭutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைக்காட்டுதல்</hw> - நையாண்டிபண்ணல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைக்குண்ணியம்&searchhws=yes&matchtype=exact">நைக்குண்ணியம்</a> naikkuṇṇiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நைக்குண்ணியம்</hw> - நிற்குணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைசர்க்கிகம்&searchhws=yes&matchtype=exact">நைசர்க்கிகம்</a> naicarkkikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைசர்க்கிகம்</hw> - சுபாவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைசர்க்கிகம்&searchhws=yes&matchtype=exact">நைசர்க்கிகம்</a> naicarkkikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைசர்க்கிகம்</tam> <t>naicarkkikam</t></hw> , <i>n</i>. < <i>naisargika</i>. That which is natural or inherent; <tam>இயற்கையாகத் தோன்றியது. நைசர்க்கிக பலன்கள்</tam> (<tam>மங்களே. பக்</tam>. 40).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைசல்&searchhws=yes&matchtype=exact">நைசல்</a> naical
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைசல்</hw> - வியாதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைசல்&searchhws=yes&matchtype=exact">நைசல்</a> naical
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைசல்</tam> <t>naical</t></hw> , <i>n</i>. < <tam>நை²-</tam>. Disease; <tam>நோய். (யாழ். அக.)</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/crea_query.py?qs=நைசாக&searchhws=yes&matchtype=exact">நைசாக</a> naicāka
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=640">p. 640</a>)
+		<blockquote><p><hw>நைசாக</hw> வி.அ. [பே.வ.] 1: திறமையாக; with tact. அவரிடம் நைசாகப் பேசிக் காரியத்தைச் சாதித்துக்கொண்டாள். 2: (பிறர் அறியாதவண்ணம்) சாமர்த்தியமாக; quietly (without anyone knowing); sneakily. எங்கே நைசாக நழுவப்பார்க்கிறாய்?/ பையிலிருந்து நைசாகப் பணத்தை எடுத்திருக்கிறாய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/fabricius_query.py?qs=நைசிகம்&searchhws=yes&matchtype=exact">நைசிகம்</a> naicikam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=635">p. 635</a>)
+		<blockquote><p>*<hw><tam>நைசிகம்</tam></hw> , (<tam>நைசியம்</tam>), <i>s.</i> a medicine taken by the nose; 2. a crow, <tam>காகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைசிகம்&searchhws=yes&matchtype=exact">நைசிகம்</a> naicikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைசிகம்¹</tam> <t>naicikam</t></hw> , <i>n</i>. See <tam>நைசியம்¹</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைசிகம்&searchhws=yes&matchtype=exact">நைசிகம்</a> naicikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைசிகம்²</tam> <t>naicikam</t></hw> , <i>n</i>. See <tam>நைசியம்²</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/winslow_query.py?qs=நைசிகம்&searchhws=yes&matchtype=exact">நைசிகம்</a> naicikam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p>*<hw><tam>நைசிகம்</tam></hw> , <i>s.</i> [<i>also</i> <tam>நைசியம்</tam>.] A medicine taken by the nose. See <tam>நசியம்</tam>. 2. A crow, <tam>காக்கை</tam>. (<tam>சது</tam>.) <p2><tam>நைசிகக்குழாய்</tam>, <i>s.</i> A syringe to inject an errhine up the nostrils.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைசிகம், நைசியம்&searchhws=yes&matchtype=exact">நைசிகம், நைசியம்</a> naicikam, naiciyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைசிகம், நைசியம்</hw> காக்கை, நாசியிற் புகுத்து மருந்து.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைசியம்&searchhws=yes&matchtype=exact">நைசியம்</a> naiciyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைசியம்¹</tam> <t>naiciyam</t></hw> , <i>n</i>. < <i>nasya</i>. Medicine inhaled by the nose; <tam>நாசியிற்புகுத்தும் மருந்து. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைசியம்&searchhws=yes&matchtype=exact">நைசியம்</a> naiciyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைசியம்²</tam> <t>naiciyam</t></hw> , <i>n</i>. cf. <tam>நைச்சி</tam>. Crow; <tam>காக்கை. (சது.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைச்சாந்து&searchhws=yes&matchtype=exact">நைச்சாந்து</a> naiccāntu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2361">p. 2361</a>)
+		<blockquote><p><hw><tam>நைச்சாந்து</tam> <t>nai-c-cāntu</t></hw> , <i>n</i>. prob. id. +. Well-ground mortar, fine plaster; <tam>சன்னக்காரை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைச்சி&searchhws=yes&matchtype=exact">நைச்சி</a> naicci
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைச்சி</hw> - காகம், பாம்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைச்சி&searchhws=yes&matchtype=exact">நைச்சி</a> naicci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2361">p. 2361</a>)
+		<blockquote><p><hw><tam>நைச்சி</tam> <t>naicci</t></hw> , 1. cf. <tam>நைசியம்²</tam>. Crow; <tam>காக்கை. (அக. நி.)</tam> 2. A kind of snake; <tam>பாம்பு வகை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைச்சிகம்&searchhws=yes&matchtype=exact">நைச்சிகம்</a> naiccikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைச்சிகம்</tam> <t>naiccikam</t></hw> , <i>n</i>. See <tam>நைச்சியம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைச்சிகம், நைச்சியம்&searchhws=yes&matchtype=exact">நைச்சிகம், நைச்சியம்</a> naiccikam, naicciyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைச்சிகம், நைச்சியம்</hw> தாழ்வு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/crea_query.py?qs=நைச்சியம்&searchhws=yes&matchtype=exact">நைச்சியம்</a> naicciyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=640">p. 640</a>)
+		<blockquote><p><hw>நைச்சியம்</hw> பெ. (-ஆக, -ஆன) [பே.வ.] 1: (பேச்சில், நடந்துகொள்வதில்) காரியம் சாதிப்பதற்கான பக்குவம்; suavity. தந்தையிடம் நைச்சியமாகப் பேசிப் பணம் வாங்கிக்கொண்டு வந்துவிட்டான்./ அவனுடைய நைச்சியமான பேச்சில் மயங்கிவிடாதே!</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/fabricius_query.py?qs=நைச்சியம்&searchhws=yes&matchtype=exact">நைச்சியம்</a> naicciyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=635">p. 635</a>)
+		<blockquote><p>*<hw><tam>நைச்சியம்</tam></hw> , <i>s.</i> see <tam>நயிச்சியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைச்சியம்&searchhws=yes&matchtype=exact">நைச்சியம்</a> naicciyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைச்சியம்</tam> <t>naicciyam</t></hw> , <i>n</i>. < <i>naicya</i>. 1. Humility; <tam>தாழ்மை. செய்கின்ற நைச்சியத்தைச் சிந் தித்து</tam> (<tam>திருவாய். நூற்</tam>. 16). 2. Lowness, meanness, baseness; <tam>நீசத்தன்மை</tam>. 3. Winning over to one's side; <tam>தன்வசப்படுத்துகை</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/winslow_query.py?qs=நைச்சியம்&searchhws=yes&matchtype=exact">நைச்சியம்</a> naicciyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p>*<hw><tam>நைச்சியம்</tam></hw> , <i>s.</i> [<i>also</i> <tam>நைச்சிகம்</tam>.] Lowness, meanness, baseness, <tam>இழிவு</tam>; also <tam>நயிச்சியம்</tam>; [<i>ex</i> <tam>நீசம்</tam>.] <i>(Beschi.)</i> <tam>நைச்சியானுசந்தானம்</tam>. A humble demeanor of one's self.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைச்சியம்பண்ணு-தல்&searchhws=yes&matchtype=exact">நைச்சியம்பண்ணு-தல்</a> naicciyampaṇṇu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைச்சியம்பண்ணு-தல்</tam> <t>naicciyam-paṇṇu-</t></hw> , <i>v. tr</i>. < <tam>நைச்சியம்</tam> +. To win over to one's side; <tam>தன்வசப்படுத்துதல்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைச்சியானுசந்தானம்&searchhws=yes&matchtype=exact">நைச்சியானுசந்தானம்</a> naicciyāṉucantāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைச்சியானுசந்தானம்</tam> <t>naicciyāṉu-cantāṉam</t></hw> , <i>n</i>. < <i>naicya</i> + <i>anu-sandhāna</i>. Profession of humility; <tam>தன்னைத் தாழ்த்திக்கூறுகை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைடதம்&searchhws=yes&matchtype=exact">நைடதம்</a> naiṭatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைடதம்</tam> <t>naiṭatam</t></hw> , <i>n</i>. < <i>naiṣadha</i>. A poem in Tamil by Ativīrarāmā-pāṇṭiyaṉ, adapted from Šrī Harṣha's Naiṣadha; <tam>வடமொழி நைஷதத்தை மூலமாகக்கொண்டு அதிவீரராமபாண்டி யன் இயற்றிய தமிழ்க்காப்பியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/winslow_query.py?qs=நைடதம்&searchhws=yes&matchtype=exact">நைடதம்</a> naiṭatam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p>*<hw><tam>நைடதம்</tam></hw> –<tam>நைஷதம்</tam>, <i>s.</i> A popular romantic history; sometimes written <tam>நயிடதம்</tam>, <tam>ஓர்காவியம்</tam>; [<i>ex</i> <tam>நிஷதம்</tam>.] <tam>நைஷதம்புலவர்க்கௌஷதம்</tam>. The <i>Naishata</i> poetry is the best medicament to poets.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைட்டிகதீட்சை&searchhws=yes&matchtype=exact">நைட்டிகதீட்சை</a> naiṭṭikatīṭcai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைட்டிகதீட்சை</tam> <t>naiṭṭika-tīṭcai</t></hw> , <i>n</i>. < <i>naiṣṭhika</i> +. (Šaiva.) A way of initiation. See <tam>சிவதருமிணி</tam>. (<tam>சைவச. ஆசாரி</tam>. 62, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைட்டிகன்&searchhws=yes&matchtype=exact">நைட்டிகன்</a> naiṭṭikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைட்டிகன்</hw> - நிட்டைக்காரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைட்டிகன்&searchhws=yes&matchtype=exact">நைட்டிகன்</a> naiṭṭikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1461">p. 1461</a>)
+		<blockquote><p><hw>நைட்டிகன்</hw> - பிரமசாரியு ளொருவன், மர ணாந்தம்விவாகமின்றி யிருப்பவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைட்டிகன்&searchhws=yes&matchtype=exact">நைட்டிகன்</a> naiṭṭikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைட்டிகன்</tam> <t>naiṭṭikaṉ</t></hw> , <i>n</i>. < id. See <tam>நைட்டிகப்பிரமசாரி</tam>. (<tam>கூர்மபு. வருணா</tam>. 36.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைட்டிகப்பிரமசாரி&searchhws=yes&matchtype=exact">நைட்டிகப்பிரமசாரி</a> naiṭṭikappiramacāri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைட்டிகப்பிரமசாரி</tam> <t>naiṭṭika-p-pirama-cāri</t></hw> , <i>n</i>. < id. +. Religious student who serves his preceptor and parents in life-long celibacy; <tam>ஆசாரியர்க்கும் பெற்றோர்க்கும் பணிவிடைசெய்து கொண்டு மரணம்வரைப் பிரமசரியம் பூண்டிருப்பவன்</tam>. (<tam>சிவதரு. பரிகா</tam>. 2, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைட்டிகம்&searchhws=yes&matchtype=exact">நைட்டிகம்</a> naiṭṭikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைட்டிகம்</tam> <t>naiṭṭikam</t></hw> , <i>n</i>. < <i>naiṣṭhika</i>. State of being a life-long celibate religious student; <tam>ஆயுள்முழுதும் பிரமசரியம் பூண்டொழுகும் நிலை</tam>. (<tam>சி. சி</tam>. 8, 32, <tam>சிவாக்</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/winslow_query.py?qs=நைட்டிகம்&searchhws=yes&matchtype=exact">நைட்டிகம்</a> naiṭṭikam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p>*<hw><tam>நைட்டிகம்</tam></hw> –<tam>நைஷ்டிகம்</tam>, <i>s.</i> [<i>also</i> <tam>நயிட்டிகம்</tam>.] Strict observance to prescribed rites; [<i>ex</i> <tam>நிஷ்டை</tam>.] <tam>நைட்டிகப்பிரமசாரி</tam>. A <i>bramachari,</i> one who observes the vows of celibacy.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைட்டிகாசிரியன்&searchhws=yes&matchtype=exact">நைட்டிகாசிரியன்</a> naiṭṭikāciriyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைட்டிகாசிரியன்</tam> <t>naiṭṭikāciriyaṉ</t></hw> , <i>n</i>. < id. +. Priest who performs initiatory rites mentally; <tam>அக்கினிகாரியாதி கருமங்களாலின்றி யாவை யும் ஞானத்தாலே பண்ணும் ஆசிரியன்</tam> (<tam>சி. சி</tam>. 8, 5, <tam>சிவாக்</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைட்டூரியம்&searchhws=yes&matchtype=exact">நைட்டூரியம்</a> naiṭṭūriyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைட்டூரியம்</hw> - நிட்டூரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைட்டூரியம்&searchhws=yes&matchtype=exact">நைட்டூரியம்</a> naiṭṭūriyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைட்டூரியம்</tam> <t>naiṭṭūriyam</t></hw> , <i>n</i>. < <i>naiṣṭhurya</i>. Cruelty, inhumanity; <tam>கொடுமை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைதல்&searchhws=yes&matchtype=exact">நைதல்</a> naital
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1628">p. 1628</a>)
+		<blockquote><p><hw>நைதல்</hw> - கெடுதல், தளர்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/winslow_query.py?qs=நைதல்&searchhws=yes&matchtype=exact">நைதல்</a> naital
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p><hw><tam>நைதல்</tam></hw> , <i>v. noun.</i> Being injured, spoiled. made soft, affected, &c.; [<i>ex</i> <tam>நை</tam>, <i>v.</i>] (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைதிகை&searchhws=yes&matchtype=exact">நைதிகை</a> naitikai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைதிகை</hw> - முல்லை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைதிகை&searchhws=yes&matchtype=exact">நைதிகை</a> naitikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைதிகை</tam> <t>naitikai</t></hw> , <i>n</i>. cf. <i>yūthikā</i>. Eared jasmine. See <tam>ஊசிமல்லிகை. (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/winslow_query.py?qs=நைதிகை&searchhws=yes&matchtype=exact">நைதிகை</a> naitikai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p><hw><tam>நைதிகை</tam></hw> , <i>s.</i> The <tam>முல்லை</tam> creeper, Jasminum, <i>L.</i> (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைதெனல்&searchhws=yes&matchtype=exact">நைதெனல்</a> naiteṉal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைதெனல்</hw> - இரக்கக்குறிப்பு, மெலி வின் குறிப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைதெனல்&searchhws=yes&matchtype=exact">நைதெனல்</a> naiteṉal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1628">p. 1628</a>)
+		<blockquote><p><hw>நைதெனல்</hw> - இரக்கக்குறிப்பு, மெலி வின்குறிப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைதெனல்&searchhws=yes&matchtype=exact">நைதெனல்</a> naiteṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைதெனல்</tam> <t>naiteṉal</t></hw> , <i>n</i>. Expr. signifying (a) pity, sympathy; <tam>இரக்கக்குறிப்பு. (யாழ். அக.)</tam>: (b) thinness; <tam>மெலிதற்குறிப்பு. (சது.)</tam>: (c) grief; <tam>மனதோதற் குறிப்பு</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/winslow_query.py?qs=நைதெனல்&searchhws=yes&matchtype=exact">நைதெனல்</a> naiteṉal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p><hw><tam>நைதெனல்</tam></hw> , <i>v. noun.</i> Speaking piteously, in a sympathizing manner, <tam>இரத்தக்குறிப்பு</tam>. 2. Indicating thinness, <tam>மெலிவின்குறிப்பு</tam>. (<tam>சது</tam>.) 3. Grieving, being contrite, <tam>மனநோதல்</tam>. <i>(p.)</i> <tam>நைதெனவருந்துதல்</tam>. Being distressed in mind. <tam>நைதெனவாடுதல்</tam>. Fading, suffering.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைத்தல்&searchhws=yes&matchtype=exact">நைத்தல்</a> naittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைத்தல்</hw> - கெடுத்தல், தளர்த்தல், துக் கப்படுத்தல், நசித்தல், வருத்தல், வாட்டல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைத்திகம்&searchhws=yes&matchtype=exact">நைத்திகம்</a> naittikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைத்திகம்</tam> <t>naittikam</t></hw> , <i>n</i>. See <tam>நைத்தியம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/winslow_query.py?qs=நைத்திகம்&searchhws=yes&matchtype=exact">நைத்திகம்</a> naittikam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p>*<hw><tam>நைத்திகம்</tam></hw> , <i>s.</i> (<i>St.</i> <tam>நைத்தியம்</tam>.) Perpetuity, eternity, eternal existence, <tam>நித்தியத்துவம்</tam>; [<i>ex</i> <tam>நித்தியம்</tam>.]</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைத்திகம், நைத்தியம்&searchhws=yes&matchtype=exact">நைத்திகம், நைத்தியம்</a> naittikam, naittiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைத்திகம், நைத்தியம்</hw> நித்தியம் நித்தியாரா தனை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைத்தியம்&searchhws=yes&matchtype=exact">நைத்தியம்</a> naittiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைத்தியம்</tam> <t>naittiyam</t></hw> , <i>n</i>. < <i>naitya</i>. Perpetuity, eternity; <tam>நித்தியத்துவம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/fabricius_query.py?qs=நைநையெனல்&searchhws=yes&matchtype=exact">நைநையெனல்</a> nainaiyeṉal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=635">p. 635</a>)
+		<blockquote><p><hw><tam>நைநையெனல்</tam></hw> , <i>v. n.</i> crying frequently (as an infant in sickness or in weaning).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைநையெனல்&searchhws=yes&matchtype=exact">நைநையெனல்</a> nainaiyeṉal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைநையெனல்</hw> - இகழ்ச்சிக்குறிப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைநையெனல்&searchhws=yes&matchtype=exact">நைநையெனல்</a> nainaiyeṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைநையெனல்</tam> <t>nai-nai-y-eṉal</t></hw> , <i>n</i>. Expr. signifying (a) contempt; <tam>இகழ்ச்சிக்குறிப்பு</tam>: (b) fretting cry, puling as of children; <tam>குழந்தை விடாது அழுதற்குறிப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/winslow_query.py?qs=நைநையெனல்&searchhws=yes&matchtype=exact">நைநையெனல்</a> nainaiyeṉal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p><hw><tam>நைநையெனல்</tam></hw> , <i>v. noun.</i> Expressing disdain by uttering the interjection <tam>நை</tam>. 2. Crying frequently as an infant in sickness or in weaning–as <tam>பிள்ளைநைநையென்றழுகிறது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைந்திகை&searchhws=yes&matchtype=exact">நைந்திகை</a> naintikai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைந்திகை</hw> - நைதிகை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைந்திகை&searchhws=yes&matchtype=exact">நைந்திகை</a> naintikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைந்திகை</tam> <t>naintikai</t></hw> , <i>n</i>. cf. <tam>நைதிகை</tam>. Trichotomus-flowering smooth jasmine. See <tam>முல்லை. (மலை.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைந்தோ&searchhws=yes&matchtype=exact">நைந்தோ</a> naintō
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைந்தோ</tam> <t>naintō</t></hw> , <i>n</i>. < <tam>நயிந்தை</tam>. An expression used by Paḷḷars in villages in addressing masters; <tam>பள்ளர் தம் எசமானரை அழைக்குஞ்சொல்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைபடல்&searchhws=yes&matchtype=exact">நைபடல்</a> naipaṭal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைபடல்</hw> - நசிபடல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைபடு-தல்&searchhws=yes&matchtype=exact">நைபடு-தல்</a> naipaṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைபடு-தல்</tam> <t>nai-paṭu-</t></hw> , <i>v. intr</i>. < <tam>நை²-</tam> +. To be crushed; <tam>நசுக்கப்படுதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைபத்தியம்&searchhws=yes&matchtype=exact">நைபத்தியம்</a> naipattiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைபத்தியம்</tam> <t>naipattiyam</t></hw> , <i>n</i>. < <i>naipathya</i>. Costume of an actor; <tam>நடிப்பவன் கொள்ளும் வேடம். (இலக். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைபானி&searchhws=yes&matchtype=exact">நைபானி</a> naipāṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைபானி</tam> <t>naipāṉi</t></hw> , <i>n</i>. See <tam>நைபாலி. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைபாலி&searchhws=yes&matchtype=exact">நைபாலி</a> naipāli
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைபாலி</hw> - அடுக்கமல்லிகை, சிவந்த பாஷாணம், நீலம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைபாலி&searchhws=yes&matchtype=exact">நைபாலி</a> naipāli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைபாலி</tam> <t>naipāli</t></hw> , <i>n</i>. < <i>naipālī</i>. Double jasmine. See <tam>அடுக்குமல்லிகை. (மலை.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைபாலிகம்&searchhws=yes&matchtype=exact">நைபாலிகம்</a> naipālikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைபாலிகம்</hw> - தாமிரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைபாலிகம்&searchhws=yes&matchtype=exact">நைபாலிகம்</a> naipālikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைபாலிகம்</tam> <t>naipālikam</t></hw> , <i>n</i>. < <i>naipālika</i>. 1. Copper; <tam>செம்பு</tam>. 2. Brass; <tam>பித்தளை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/fabricius_query.py?qs=நைபுணன்&searchhws=yes&matchtype=exact">நைபுணன்</a> naipuṇaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=635">p. 635</a>)
+		<blockquote><p>*<hw><tam>நைபுணன்</tam></hw> , <i>s.</i> see <tam>நிபுணன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைபுணன்&searchhws=yes&matchtype=exact">நைபுணன்</a> naipuṇaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைபுணன்</hw> - நிபுணன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைபுணன்&searchhws=yes&matchtype=exact">நைபுணன்</a> naipuṇaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைபுணன்</hw> - நிபுணன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/winslow_query.py?qs=நைபுணன்&searchhws=yes&matchtype=exact">நைபுணன்</a> naipuṇaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p>*<hw><tam>நைபுணன்</tam></hw> , <i>s.</i> A clever man–as <tam>நிபுணன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைபுணம்&searchhws=yes&matchtype=exact">நைபுணம்</a> naipuṇam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைபுணம்</hw> - நிபுணத்துவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைபுண்ணியம்&searchhws=yes&matchtype=exact">நைபுண்ணியம்</a> naipuṇṇiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைபுண்ணியம்</hw> - நிபுணத்துவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைபுண்ணியம்&searchhws=yes&matchtype=exact">நைபுண்ணியம்</a> naipuṇṇiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைபுண்ணியம்</hw> - நிபுணத்துவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/crea_query.py?qs=நைப்பாசை&searchhws=yes&matchtype=exact">நைப்பாசை</a> naippācai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=640">p. 640</a>)
+		<blockquote><p><hw>நைப்பாசை</hw> பெ. காண்க: நப்பாசை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/crea_query.py?qs=நைப்பு&searchhws=yes&matchtype=exact">நைப்பு</a> naippu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=640">p. 640</a>)
+		<blockquote><p><hw>நைப்பு</hw> பெ. 1: ஈரப்பசை; moisture. தோலின் நைப்பு வறண்டு தோல் சொரசொரப்பாக இருக்கிறது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/fabricius_query.py?qs=நைமிசம்&searchhws=yes&matchtype=exact">நைமிசம்</a> naimicam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=636">p. 636</a>)
+		<blockquote><p>*<hw><tam>நைமிசம்</tam></hw> , <tam>நைமிசாரணியம்</tam>, <i>s.</i> forest famous as the resort of ascetics.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைமிசம்&searchhws=yes&matchtype=exact">நைமிசம்</a> naimicam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைமிசம்</hw> - மரீசி, அத்திரி, பிருகு, வசி ஷ்டன், கிருது, அங்கிரசன் ஏன்ப வர்களுடைய வமிசத்தவர்கள் தவஞ் செய்த அரணியம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைமிசம்&searchhws=yes&matchtype=exact">நைமிசம்</a> naimicam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2362">p. 2362</a>)
+		<blockquote><p><hw><tam>நைமிசம்</tam> <t>naimicam</t></hw> , <i>n</i>. < <i>naimiša</i>. See <tam>நைமிசாரணியம். நைமிசப்படலம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைமிசம்&searchhws=yes&matchtype=exact">நைமிசம்</a> naimicam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நைமிசம்</tam> <t>naimicam</t></hw> , <i>n</i>. A spiritual world, one of <i>kuyyāṭṭaka-puvaṉam</i>, q. v.; <tam>குய்யாட்டகபுவனத்து ளொன்று</tam>. (<tam>சி. போ. பா</tam>. 2, 3, <tam>பக்</tam>. 213.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/winslow_query.py?qs=நைமிசம்&searchhws=yes&matchtype=exact">நைமிசம்</a> naimicam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p>*<hw><tam>நைமிசம்</tam></hw> -<tam>நைமிசாரணியம்</tam>, <i>s. [in mythol.]</i> A forest famous as the resort of ascetics, <tam>ஓர்பேர்வனம்</tam>; [<i>ex</i> <tam>நிமிஷம்</tam>, a twinkling of an eye, in which Gouramukha, destroyed a sort of Asuras.]</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைமிசம், நைமிசாரணியம்&searchhws=yes&matchtype=exact">நைமிசம், நைமிசாரணியம்</a> naimicam, naimicāraṇiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைமிசம், நைமிசாரணியம்</hw> ஒருவனம், வடநா ட்டிலுள்ள ஒரு விஷ்ணுஸ்தலம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைமிசாரணியம்&searchhws=yes&matchtype=exact">நைமிசாரணியம்</a> naimicāraṇiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1461">p. 1461</a>)
+		<blockquote><p><hw>நைமிசாரணியம்</hw> - வதரிகாற் சிரமம், நை மிசம், நேமிவனம், முனிவர்வாசம், இருடிகேத்திரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைமிசாரணியம்&searchhws=yes&matchtype=exact">நைமிசாரணியம்</a> naimicāraṇiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைமிசாரணியம்</tam> <t>naimicāraṇiyam</t></hw> , <i>n</i>. < id. +. <i>araṇya</i>. 1. A forest in India famous as the resort of ascetics; <tam>பிரசித்திபெற்ற ஒரு தபோ வனம். நைமிசாரணியத் தருள்கூர் சூதமுனியடைந் தான்</tam> (<tam>கூர்மபு. இந்திர</tam>. 2). 2. A Viṣṇu shrine in Naimišāraṇya; <tam>நைமிசாரணியத்துள்ள திருமால் திருப்பதி. நைமிசாரணியத்து ளெந்தாய்</tam> (<tam>திவ். பெரி யதி</tam>. 1, 6, 1).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைமித்தகருமம்&searchhws=yes&matchtype=exact">நைமித்தகருமம்</a> naimittakarumam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைமித்தகருமம்</tam> <t>naimitta-karumam</t></hw> , <i>n</i>. < <i>naimittika</i> +. See <tam>நைமித்திகம்</tam>. (<tam>பிரபோத</tam>. 39, 13).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைமித்திகசிராத்தம்&searchhws=yes&matchtype=exact">நைமித்திகசிராத்தம்</a> naimittikacirāttam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைமித்திகசிராத்தம்</tam> <t>naimittika-cirāttam</t></hw> , <i>n</i>. < id. +. Offerings to the manes on special occasions; <tam>நித்தியமாயின்றிப் பிதிரர்க்குச் செய்யும் விசேடச்சிராத்தம்</tam>. (<tam>சேது. மங்கலதீர்த்</tam>. 43.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைமித்திகதாநம்&searchhws=yes&matchtype=exact">நைமித்திகதாநம்</a> naimittikatānam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நைமித்திகதாநம்</hw> - நிமித்தத்தாற் செய் யும் தானம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைமித்திகப்பிரளயம்&searchhws=yes&matchtype=exact">நைமித்திகப்பிரளயம்</a> naimittikappiraḷayam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைமித்திகப்பிரளயம்</tam> <t>naimittika-p-piraḷayam</t></hw> , <i>n</i>. < id. +. Deluge said to occur at the close of a Brahmā's day; <tam>பிரமனது பகற் காலம் நீங்கியதும் தோன்றும் பிரளயம். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைமித்திகம்&searchhws=yes&matchtype=exact">நைமித்திகம்</a> naimittikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைமித்திகம்</hw> - விசேடாராதனை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைமித்திகம்&searchhws=yes&matchtype=exact">நைமித்திகம்</a> naimittikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைமித்திகம்</tam> <t>naimittikam</t></hw> , <i>n</i>. < <i>naimittika</i>. That which is occasional or periodical, as rite, ceremony, festival, etc.; <tam>விசேஷகாலங்களில் நிகழ் வது. நைமித்திகத்தொடு கூடிய நித்தியம்</tam> (<tam>குறள்</tam>, 18, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/fabricius_query.py?qs=நைமித்தியம்&searchhws=yes&matchtype=exact">நைமித்தியம்</a> naimittiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=636">p. 636</a>)
+		<blockquote><p>*<hw><tam>நைமித்தியம்</tam></hw> , <i>s.</i> any special puja, occasional rites with an express object, <tam>பொருத்த முடையது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைமித்தியம்&searchhws=yes&matchtype=exact">நைமித்தியம்</a> naimittiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைமித்தியம்</tam> <t>naimittiyam</t></hw> , <i>n</i>. See <tam>நைமித்திகம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/winslow_query.py?qs=நைமித்தியம்&searchhws=yes&matchtype=exact">நைமித்தியம்</a> naimittiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p>*<hw><tam>நைமித்தியம்</tam></hw> , <i>s.</i> Any special <i>puja;</i> occasional rites with an express object, <tam>பொருத்தமுடையது</tam>; [<i>ex</i> <tam>நிமித்தம்</tam>.]</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைமுத்தியம்&searchhws=yes&matchtype=exact">நைமுத்தியம்</a> naimuttiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நைமுத்தியம்</hw> - நைமித்திகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நையத்தியம்&searchhws=yes&matchtype=exact">நையத்தியம்</a> naiyattiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நையத்தியம்</hw> - நியதத்துவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நையநருக்கு-தல்&searchhws=yes&matchtype=exact">நையநருக்கு-தல்</a> naiyanarukku-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நையநருக்கு-தல்</tam> <t>naiya-narukku-</t></hw> , <i>v. tr</i>. < <tam>நை²-</tam> +. 1. To pulverise, comminute; <tam>பொடி யாக்குதல்</tam>. 2. See <tam>நையப்புடை-. அவன் நைய நருக்கிவிட்டார்கள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		114) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நையப்பாடு-தல்&searchhws=yes&matchtype=exact">நையப்பாடு-தல்</a> naiyappāṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நையப்பாடு-தல்</tam> <t>naiya-p-pāṭu-</t></hw> , <i>v. intr</i>. < id. +. To cringe; <tam>பல்லைக்காட்டிக் கெஞ்சுதல்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		115) <a href="/cgi-bin/app/crea_query.py?qs=நையப்புடை&searchhws=yes&matchtype=exact">நையப்புடை</a> naiyappuṭai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=640">p. 640</a>)
+		<blockquote><p><hw>நையப்புடை</hw> வி. (-புடைக்க, -புடைத்து) [பே.வ.] 1: செம்மையாக உதைத்தல் அல்லது அடித்தல்; give a good thrashing; beat up. திருடனை விரட்டிப் பிடித்து நையப்புடைத்துக் காவலரிடம் ஒப்படைத்தார்கள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		116) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நையப்புடை-த்தல்&searchhws=yes&matchtype=exact">நையப்புடை-த்தல்</a> naiyappuṭai-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நையப்புடை-த்தல்</tam> <t>naiya-p-puṭai-</t></hw> , <i>v. tr</i>. < id. +. To belabour, thrash soundly; <tam>நன்றாக அடித்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		117) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நையமுதல்&searchhws=yes&matchtype=exact">நையமுதல்</a> naiyamutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1461">p. 1461</a>)
+		<blockquote><p><hw>நையமுதல்</hw> - மூக்கிலேற்றுதல், நசிய மூதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		118) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நையம்&searchhws=yes&matchtype=exact">நையம்</a> naiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நையம்¹</tam> <t>naiyam</t></hw> , <i>n</i>. See <tam>நைசியம்¹. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		119) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நையம்&searchhws=yes&matchtype=exact">நையம்</a> naiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நையம்²</tam> <t>naiyam</t></hw> , <i>n</i>. See <tam>நைசியம்². (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		120) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நையம்பாடு-தல்&searchhws=yes&matchtype=exact">நையம்பாடு-தல்</a> naiyampāṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நையம்பாடு-தல்</tam> <t>naiyam-pāṭu-</t></hw> , <i>v. intr</i>. < <tam>நை²-</tam> +. See <tam>நையப்பாடு-</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		121) <a href="/cgi-bin/app/fabricius_query.py?qs=நையல்&searchhws=yes&matchtype=exact">நையல்</a> naiyal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=636">p. 636</a>)
+		<blockquote><p><hw><tam>நையல்</tam></hw> , <i>s.</i> emaciating disease, <tam>மெலிவு</tam>; 2. smallpox, <tam>வைசூரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		122) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நையல்&searchhws=yes&matchtype=exact">நையல்</a> naiyal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நையல்</hw> - நைசியம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		123) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நையல்&searchhws=yes&matchtype=exact">நையல்</a> naiyal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நையல்</hw> - கிரந்திவியாதி, துன்பம், மெலி வு, வசூரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		124) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நையல்&searchhws=yes&matchtype=exact">நையல்</a> naiyal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>நையல்</hw> - இரங்கல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		125) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நையல்&searchhws=yes&matchtype=exact">நையல்</a> naiyal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நையல்</tam> <t>naiyal</t></hw> , <i>n</i>. < id. (<smallcap>W</smallcap>.) 1. Emaciating disease; <tam>மெலியச்செய்யும் நோய்</tam>. 2. Small-pox; <tam>வசூரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		126) <a href="/cgi-bin/app/winslow_query.py?qs=நையல்&searchhws=yes&matchtype=exact">நையல்</a> naiyal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p><hw><tam>நையல்</tam></hw> , <i>s.</i> Chronic or other emaciating disease, <tam>மெலிவு</tam>, See <tam>நசல்</tam>, 2. <i>[prov.]</i> Small pox; venereal disease, <tam>வைசூரி</tam>. <tam>நையற்பாட்டுப்பாடுகிறான்</tam>. He asks beseechingly.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		127) <a href="/cgi-bin/app/crea_query.py?qs=நையாண்டி&searchhws=yes&matchtype=exact">நையாண்டி</a> naiyāṇṭi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=640">p. 640</a>)
+		<blockquote><p><hw>நையாண்டி</hw> பெ. 1: (குறையை அல்லது தவற்றை) சிரிக்கத் தகுந்ததாக ஆக்கும் பேச்சு அல்லது செயல்; (தரக்குறைவான) கேலி; கிண்டல்; joke; (in a lighter vein or bad taste) ridicule. ஏதோ ஒரு வார்த்தை தவறாகச் சொல்லிவிட்டேன், அதைச் சாக்காக வைத்துக்கொண்டு நையாண்டி செய்கிறீர்கள். 2: காண்க: நையாண்டிமேளம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		128) <a href="/cgi-bin/app/fabricius_query.py?qs=நையாண்டி&searchhws=yes&matchtype=exact">நையாண்டி</a> naiyāṇṭi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=636">p. 636</a>)
+		<blockquote><p><hw><tam>நையாண்டி</tam></hw> , <i>s.</i> scoff, ridicule, mockery, <tam>பரிகாசம்</tam>; 2. raillery, jest, <tam>இகழ்ச்சி</tam>. <p2><tam>நையாண்டிக்காரன்</tam>, a scoffer, a mocker.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		129) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நையாண்டி&searchhws=yes&matchtype=exact">நையாண்டி</a> naiyāṇṭi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நையாண்டி</hw> - இகழ்ச்சி, சரசம், பரிகாசம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		130) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நையாண்டி&searchhws=yes&matchtype=exact">நையாண்டி</a> naiyāṇṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நையாண்டி</tam> <t>naiyāṇṭi</t></hw> , <i>n</i>. < <tam>நை⁴</tam>. 1. A kind of popular song; <tam>நாடோடிப்பாட்டுவகை. இரண்டு நையாண்டி பாடினான்</tam> (<tam>திருவாலவா</tam>. 54, 23). 2. [M. <i>nayāṇṭu</i>.] Scoff, ridicule, mockery, sarcasm; <tam>கேலி</tam>. 3. Jest, drollery; <tam>சிரிப்பு வார்த்தை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		131) <a href="/cgi-bin/app/winslow_query.py?qs=நையாண்டி&searchhws=yes&matchtype=exact">நையாண்டி</a> naiyāṇṭi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p><hw><tam>நையாண்டி</tam></hw> , <i>s. [vul.]</i> Scoff, ridicule, mockery, sarcasm, <tam>பரிகாசம்</tam>. 2. Raillery, jest, wit, drollery, <tam>இகழ்ச்சி</tam>. <p2><tam>நையாண்டிக்காரன்</tam>, <i>s.</i> A scoffer, mocker.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		132) <a href="/cgi-bin/app/crea_query.py?qs=நையாண்டிமேளம்&searchhws=yes&matchtype=exact">நையாண்டிமேளம்</a> naiyāṇṭimēḷam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=640">p. 640</a>)
+		<blockquote><p><hw>நையாண்டிமேளம்</hw> பெ. 1: (நாட்டுப்புறக் கலைகளான கரகம், காவடி முதலியவற்றுக்கு வாசிக்கப்படும்) ஒரு வகை மேளம்; an ensemble of musical instruments (accompanying கரகம், காவடி, etc.).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		133) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நையாயிகன்&searchhws=yes&matchtype=exact">நையாயிகன்</a> naiyāyikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நையாயிகன்</hw> - நியாயசாத்திரி, நையாயிக மதானுதாரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		134) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நையாயிகன்&searchhws=yes&matchtype=exact">நையாயிகன்</a> naiyāyikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நையாயிகன்</tam> <t>naiyāyikaṉ</t></hw> , <i>n</i>. < id. A specialist in the Nyāya system of philosophy; <tam>நியாயசாத்திரம் கற்றோன். வையாகரணர்க ணையாயிகர்</tam> (<tam>திருவிளை. உலவாக்</tam>. 19).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		135) <a href="/cgi-bin/app/fabricius_query.py?qs=நையாயிகம்&searchhws=yes&matchtype=exact">நையாயிகம்</a> naiyāyikam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=636">p. 636</a>)
+		<blockquote><p>*<hw><tam>நையாயிகம்</tam></hw> , <i>s.</i> (<tam>நியாயம்</tam>), a religious system contained in the Nyaya philosophy, <tam>ஓர் மதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		136) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நையாயிகம்&searchhws=yes&matchtype=exact">நையாயிகம்</a> naiyāyikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நையாயிகம்</hw> - ஒருமதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		137) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நையாயிகம்&searchhws=yes&matchtype=exact">நையாயிகம்</a> naiyāyikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நையாயிகம்</tam> <t>naiyāyikam</t></hw> , <i>n</i>. < <i>naiyāyika</i>. The Nyāya system of philosophy founded by Gautama; <tam>கௌதமர் இயற்றிய நியாயநூற்கொள்கை. சாங்கிய நையாயிகம் வைசேடிகம்</tam> (<tam>மணி</tam>. 27, 79).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		138) <a href="/cgi-bin/app/winslow_query.py?qs=நையாயிகம்&searchhws=yes&matchtype=exact">நையாயிகம்</a> naiyāyikam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p>*<hw><tam>நையாயிகம்</tam></hw> , <i>s.</i> [<i>as</i> <tam>நியாயம்</tam>.] A religious system contained in the Nyaya philosophy, <tam>ஓர்மதம்</tam>. <p2><tam>நையாயிகன்</tam>, <i>s.</i> A religionist of the above sect.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		139) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நையாயிகர்&searchhws=yes&matchtype=exact">நையாயிகர்</a> naiyāyikar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நையாயிகர்</hw> - கொளதம்கணாதமத வாதி கள், இவர்கள் சித்துஞ்சடமுமாகிய இரண்டுமே நித்தியப்பொருள்க ளெ ன்பார்கள். சடமாகிய இவ்வுலகம் பி ஜத்தினின்றும் தோற்றுவிக்கப்பட்ட தென்றும், தோற்றுவிப்பது சித்துப் பொருளென்றும் தோற்றும்போது பீஜம் ஏகாணுவாய்ப் பின்பு த்வயா ணுவாய் பின்பு த்ரயாணுவாய் வடிவு டைப்பொருளாகுமென்றும் ஒடுங்கு ம் போதும் அவ்வாறேயொடுங்கிச் செ ன்று பீஜமாய் நிற்குமென்றும், அந் நிலையில் அதுநித்தியமென்றும், வடி வுடையதாய் நிற்கு நிலைக்கண் அழியு மியல்பிற்றென்றும், சித்தின்றிச்ச டம் காரியப்படாதென்றும், ஆன்ம கோடிகளெல்லாம் சகத்காரணமா கிய சித்துப்பொருளின் அமிசங்க ளேயாமென்றும் அமிசங்களாதலால் சிற்றறிவும் சிறுதொழிலு முடையன வென்றும் சகத்காரணமாகிய சித்து முழுமுதலாதலால் முற்றறிவும் முற் றுத் தொழிலுமுடைய தென்றும், ஆன்மாக்கள் சரீரத்தோடு கூடியயிரு க்கும்போது அஞ்ஞானமுடையதா யிருக்குமென்றும், இடையறாத மு யற்சியால் ஞானத்தை யடைந்தவி டத்து அவ்வான்மாக்கள் முழுமுத லோடு சோர்ந்து பேராநந்தத்தை யநுபவிக்குமென்றும் கூறுவார்கள். இவையே நையாயிகமதக்கொள்கை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		140) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நையாயிகர்&searchhws=yes&matchtype=exact">நையாயிகர்</a> naiyāyikar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1461">p. 1461</a>)
+		<blockquote><p><hw>நையாயிகர்</hw> - நியாயநூலார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		141) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நையாயிகவழி&searchhws=yes&matchtype=exact">நையாயிகவழி</a> naiyāyikavaḻi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1461">p. 1461</a>)
+		<blockquote><p><hw>நையாயிகவழி</hw> - நியாயவழி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		142) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நையாயிசம்&searchhws=yes&matchtype=exact">நையாயிசம்</a> naiyāyicam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1461">p. 1461</a>)
+		<blockquote><p><hw>நையாயிசம்</hw> - நியாயசம்பந்தம், ஒருநூல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		143) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைரந்தரியம்&searchhws=yes&matchtype=exact">நைரந்தரியம்</a> nairantariyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நைரந்தரியம்</hw> - இறுக்கம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		144) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைராக்கியம்&searchhws=yes&matchtype=exact">நைராக்கியம்</a> nairākkiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நைராக்கியம்</hw> - பரிகாசம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		145) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைராக்கியம்&searchhws=yes&matchtype=exact">நைராக்கியம்</a> nairākkiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைராக்கியம்</tam> <t>nairākkiyam</t></hw> , <i>n</i>. Mockery; <tam>பரிகாசம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		146) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைராசியம்&searchhws=yes&matchtype=exact">நைராசியம்</a> nairāciyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நைராசியம்</hw> - ஆசையின்மை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		147) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைராசியம்&searchhws=yes&matchtype=exact">நைராசியம்</a> nairāciyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைராசியம்</tam> <t>nairāciyam</t></hw> , <i>n</i>. < <i>nairāšya</i>. Hopelessness; <tam>நம்பிக்கையின்மை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		148) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைராத்மியதர்சனம்&searchhws=yes&matchtype=exact">நைராத்மியதர்சனம்</a> nairātmiyatarcaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நைராத்மியதர்சனம்</tam> <t>nairātmiya-tarcaṉam</t></hw> , <i>n</i>. < <i>nis</i> + <i>ātmya</i> +. The doctrine of the non-existence of the soul; <tam>ஆன்மா இல்லை என்ற வாதம்</tam>. (<tam>நீலகேசி</tam>, 528, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		149) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைருதம்&searchhws=yes&matchtype=exact">நைருதம்</a> nairutam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைருதம்</tam> <t>nairutam</t></hw> , <i>n</i>. < <i>nairṛta</i>. The 12th <i>mukūrttam</i> of the day-time; <tam>பகலின்</tam> <b>12</b>-<tam>ஆம் முகூர்த்தம். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		150) <a href="/cgi-bin/app/fabricius_query.py?qs=நைருதி&searchhws=yes&matchtype=exact">நைருதி</a> nairuti
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=636">p. 636</a>)
+		<blockquote><p>*<hw><tam>நைருதி</tam></hw> , <i>s.</i> the south-west quarter, <tam>தென்மேற்றிசை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		151) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைருதி&searchhws=yes&matchtype=exact">நைருதி</a> nairuti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நைருதி</hw> - நிருதி, நிருதிதிசை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		152) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைருதி&searchhws=yes&matchtype=exact">நைருதி</a> nairuti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைருதி</tam> <t>nairuti</t></hw> , <i>n</i>. < <i>nairṛti</i>. The South-west quarter; <tam>தென்மேற்கு. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		153) <a href="/cgi-bin/app/winslow_query.py?qs=நைருதி&searchhws=yes&matchtype=exact">நைருதி</a> nairuti
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p>*<hw><tam>நைருதி</tam></hw> , <i>s.</i> The south-west quarter, <tam>தென்மேற்றிசை</tam>; [<i>ex</i> <tam>நிருதி</tam>.]</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		154) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைர்மல்லியம்&searchhws=yes&matchtype=exact">நைர்மல்லியம்</a> nairmalliyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நைர்மல்லியம்</hw> - சுத்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		155) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைர்மல்லியம்&searchhws=yes&matchtype=exact">நைர்மல்லியம்</a> nairmalliyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைர்மல்லியம்</tam> <t>nairmalliyam</t></hw> , <i>n</i>. < <i>nair- malya</i>. Purity, as freedom from <i>malam</i>; <tam>மாசின்மை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		156) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைலம்&searchhws=yes&matchtype=exact">நைலம்</a> nailam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைலம்</tam> <t>nailam</t></hw> , <i>n</i>. perh. <i>nīla</i>. Iodine; <tam>கடற்பாசிமருந்து</tam>. (<smallcap>M. L</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		157) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைவ&searchhws=yes&matchtype=exact">நைவ</a> naiva
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நைவ</hw> - நைதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		158) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைவனம்&searchhws=yes&matchtype=exact">நைவனம்</a> naivaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைவனம்</tam> <t>naivaṉam</t></hw> , <i>n</i>. (<tam>அக. நி</tam>.) 1. Dancing; <tam>நடனம்</tam>. 2. Warrior, hero; <tam>வீரன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		159) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைவல்&searchhws=yes&matchtype=exact">நைவல்</a> naival
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைவல்</hw> - இரங்கல், கெடுதல், தளர்தல், துக்கித்தல், துன்புறல், நசிதல், வத ங்கல், வருந்தல், வாடல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		160) <a href="/cgi-bin/app/fabricius_query.py?qs=நைவளம்&searchhws=yes&matchtype=exact">நைவளம்</a> naivaḷam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=636">p. 636</a>)
+		<blockquote><p><hw><tam>நைவளம்</tam></hw> , <i>s.</i> the minor lute of hilly tracts, <tam>குறிஞ்சியாழ்த்திறம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		161) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைவளம்&searchhws=yes&matchtype=exact">நைவளம்</a> naivaḷam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நைவளம்</hw> - குறிஞ்சியாழ்த்திறம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		162) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைவளம்&searchhws=yes&matchtype=exact">நைவளம்</a> naivaḷam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைவளம்</tam> <t>naivaḷam</t></hw> , <i>n</i>. 1. (Mus.) A secondary melody-type of the <i>pālai</i> class; <tam>பாலைக்குரிய பண்வகை. நைவளம் பழுநிய பாலை வல்லோன்</tam> (<tam>குறிஞ்சிப்</tam>. 146). 2. (Mus.) A secondary melody-type of the <i>kuṟiñci</i> class; <tam>குறிஞ்சி யாழ்த்திறவகை. (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		163) <a href="/cgi-bin/app/winslow_query.py?qs=நைவளம்&searchhws=yes&matchtype=exact">நைவளம்</a> naivaḷam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p><hw><tam>நைவளம்</tam></hw> , <i>s.</i> The minor lute of hilly tracts, <tam>குறிஞ்சியாழ்த்திறம்</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		164) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைவா-தல், நைவருதல்&searchhws=yes&matchtype=exact">நைவா-தல், நைவருதல்</a> naivā-tal, naivarutal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைவா-தல் [நைவருதல்]</tam> <t>nai-vā-</t></hw> , <i>v. intr</i>. < <tam>நை²-</tam> +. 1. To be distressed; <tam>வருந்துதல். நைவாரா வாயமக டோள்</tam> (<tam>கலித்</tam>. 103, 66). 2. To pity; to be merciful; <tam>இரங்குதல். நல்காமையி னைவரச் சாஅய்</tam> (<tam>புறநா</tam>. 146).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		165) <a href="/cgi-bin/app/fabricius_query.py?qs=நைவு&searchhws=yes&matchtype=exact">நைவு</a> naivu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=636">p. 636</a>)
+		<blockquote><p><hw><tam>நைவு</tam></hw> , see under <tam>நை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		166) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைவு&searchhws=yes&matchtype=exact">நைவு</a> naivu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைவு</tam> <t>naivu</t></hw> , <i>n</i>. < id. 1. Anything injured or spoiled; <tam>வாடினது</tam>. 2. Over-ripenness; <tam>மிகப்பழுக்கை</tam>. 3. Suffering; <tam>வருந்துகை</tam>. 4. Disease; <tam>நோய். நாளு நைவகன்ற</tam> (<tam>தைலவ. தைல. பாயி</tam>. 1).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		167) <a href="/cgi-bin/app/winslow_query.py?qs=நைவு&searchhws=yes&matchtype=exact">நைவு</a> naivu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p><hw><tam>நைவு</tam></hw> . Over-ripeness, &c. See <tam>நை</tam>, <i>v.</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		168) <a href="/cgi-bin/app/fabricius_query.py?qs=நைவேதனம்&searchhws=yes&matchtype=exact">நைவேதனம்</a> naivētaṉam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=636">p. 636</a>)
+		<blockquote><p>*<hw><tam>நைவேதனம்</tam></hw> , (<tam>நிவேதம்</tam>), <i>s.</i> donation.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		169) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைவேதனம்&searchhws=yes&matchtype=exact">நைவேதனம்</a> naivētaṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நைவேதனம்</hw> - நிவேதனம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		170) <a href="/cgi-bin/app/winslow_query.py?qs=நைவேதனம்&searchhws=yes&matchtype=exact">நைவேதனம்</a> naivētaṉam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p><hw><tam>நைவேதனம்</tam></hw> , <i>s.</i> [<i>as</i> <tam>நிவேதனம்</tam>.] A donation, &c.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		171) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைவேதி-த்தல்&searchhws=yes&matchtype=exact">நைவேதி-த்தல்</a> naivēti-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைவேதி-த்தல்</tam> <t>naivēti-</t></hw> , <i>11 v. tr</i>. < <tam>நைவேதனம்</tam>. To offer to a deity, as food; <tam>கடவுட்கு உணவு முதலியன படைத்தல். பொற்கிண்ணத் தூற் றளவி நைவேதித்து</tam> (<tam>தைலவ. தைல</tam>. 137).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		172) <a href="/cgi-bin/app/crea_query.py?qs=நைவேத்தியம்&searchhws=yes&matchtype=exact">நைவேத்தியம்</a> naivēttiyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=640">p. 640</a>)
+		<blockquote><p><hw>நைவேத்தியம்</hw> பெ. 1: (கோயிலில் பிறருக்குத் தருவதற்கு முன், வீட்டில் உண்பதற்கு முன்) தயாரித்த சில வகை உணவை அல்லது பழம் முதலியவற்றை இறைவனுக்குப் படைத்தல்; the ritualistic offering of cooked food, fruits, etc. before a deity. இன்று நைவேத்தியத்திற்குச் சர்க்கரைப் பொங்கல் செய்திருக்கிறேன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		173) <a href="/cgi-bin/app/fabricius_query.py?qs=நைவேத்தியம்&searchhws=yes&matchtype=exact">நைவேத்தியம்</a> naivēttiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=636">p. 636</a>)
+		<blockquote><p>*<hw><tam>நைவேத்தியம்</tam></hw> , (<tam>நிவேத்தியம்</tam>), <i>s.</i> a meat offering, an oblation.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		174) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைவேத்தியம்&searchhws=yes&matchtype=exact">நைவேத்தியம்</a> naivēttiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நைவேத்தியம்</hw> - காணிக்கை, தேவர்க் குச் சமர்ப்பிப்பது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		175) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைவேத்தியம்&searchhws=yes&matchtype=exact">நைவேத்தியம்</a> naivēttiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2363">p. 2363</a>)
+		<blockquote><p><hw><tam>நைவேத்தியம்</tam> <t>naivēttiyam</t></hw> , <i>n</i>. < <i>naivēdya</i>. Offering made to a deity; <tam>கடவுட்குப் படைக்கும் உணவு. என்னாவி நைவேத்தியம்</tam> (<tam>தாயு. கருணா</tam>. 8).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		176) <a href="/cgi-bin/app/winslow_query.py?qs=நைவேத்தியம்&searchhws=yes&matchtype=exact">நைவேத்தியம்</a> naivēttiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=700">p. 700</a>)
+		<blockquote><p>*<hw><tam>நைவேத்தியம்</tam></hw> , <i>s.</i> [<i>as</i> <tam>நிவேத்தியம்</tam>.] A meat offering, an oblation. W. p. 488. <smallcaps>NAIVEDYA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		177) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைஷதம்&searchhws=yes&matchtype=exact">நைஷதம்</a> naiṣatam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=918">p. 918</a>)
+		<blockquote><p><hw>நைஷதம்</hw> - ஸமஸ்கிருதத்தில் பஞ்சகாவி யங்களுள் ஒன்று. இதுஸ்ரீஹர்ஷன் ஏன்னு மஹாகவியால் செய்யப்பட் டது, நிஷததேசத் தரசனாகிய நள மஹாராஜன் சரிதத்தைச் சொல்லு தலால் இந்தக் காவியத்துக்கு நைஷ தம் ஏன்று பெயராயிற்று. இது தமி ழில் புகழேந்திப் புலவரால் வெண் பாக்களாலும், அதிவீரராம பாண்டி யனால் விருத்தங்களாலும் மொழி பெயர்க்கப்பட்டுவழங்கி வருகின்றது அன்றியும் இது கலித்துறையாலும் மொழிபெயர்க்கப்பட்டுள்ளது. மொ ழிபெயர்த்தவர் பெயர் முதலியவை நன்கு புலப்படவில்லை. இந்நூலில் இரண்டொரு செய்யுட்களேயன்றி நூல் முழுதும் காணப்படவில்லை. இதில் முதற்காப்புச்செய்யுள் இங் குத்தருவாம், "தழைவிரி கொன் றைத் தனிமுதலோன் செஞ்சடை யில் வைத்த, குழவிவெண்டிங்களை யிற்றநங்கோட்டின் குறையிதெனப், புழைநெடுங்கையதனாற் பற்றிப்பொ ற்புறநோக்கி நிற்கும், மழைமதயா னை முகத்தோ னிருசரண் வாழ்த்து வனே."</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		178) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைஷதம்&searchhws=yes&matchtype=exact">நைஷதம்</a> naiṣatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2364">p. 2364</a>)
+		<blockquote><p><hw><tam>நைஷதம்</tam> <t>naiṣatam</t></hw> , <i>n</i>. See <tam>நைடதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		179) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நைஷதம், நைடதம்&searchhws=yes&matchtype=exact">நைஷதம், நைடதம்</a> naiṣatam, naiṭatam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=917">p. 917</a>)
+		<blockquote><p><hw>நைஷதம், நைடதம்</hw> ஒரு காப்பியம், நிடதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		180) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நைஷ்டிகம்&searchhws=yes&matchtype=exact">நைஷ்டிகம்</a> naiṣṭikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2364">p. 2364</a>)
+		<blockquote><p><hw><tam>நைஷ்டிகம்</tam> <t>naiṣṭikam</t></hw> , <i>n</i>. See <tam>நைட்டிகம்</tam>. <i>Brāh</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		181) <a href="/cgi-bin/app/crea_query.py?qs=நைஸ்பண்ணு&searchhws=yes&matchtype=exact">நைஸ்பண்ணு</a> naispaṇṇu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=640">p. 640</a>)
+		<blockquote><p><hw>நைஸ்பண்ணு</hw> வி. (-பண்ண, -பண்ணி) [பே.வ.] 1: தாஜாபண்ணுதல்; cajole. நீ என்னதான் நைஸ்பண்ணினாலும் நான் பணம் தரப்போவதில்லை.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

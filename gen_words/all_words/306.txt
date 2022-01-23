@@ -1,0 +1,479 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>ஹே</b>
+                       <div id='no_results'>
+                                25 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹே&searchhws=yes&matchtype=exact">ஹே</a> hē
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹே¹</tam> <t>hē</t></hw> . The compound of <tam>ஹ்</tam> and <tam>ஏ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹே&searchhws=yes&matchtype=exact">ஹே</a> hē
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹே²</tam> <t>hē</t></hw> , <i>int</i>. An interjection. See <tam>ஏ⁵</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேட்டு&searchhws=yes&matchtype=exact">ஹேட்டு</a> hēṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேட்டு</tam> <t>hēṭṭu</t></hw> , <i>n</i>. < E. <i>head</i>. Police head constable. See <tam>ஏட்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேதி&searchhws=yes&matchtype=exact">ஹேதி</a> hēti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேதி</hw> - சிருட்டிகாலத்தில் பிரமனால் படைக்கப்பட்ட ராக்ஷஸராஜன், இ வன் மனைவி காலக்நி யென்னும் பயை, புத்திரன் வித்யுத்கேசன், இ வன் மாலியவந்தன் முதலாகிய ரா க்ஷஸவமிஸத்துக்கு மூலபுருஷன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேது&searchhws=yes&matchtype=exact">ஹேது</a> hētu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேது</tam> <t>hētu</t></hw> , <i>n</i>. < <i>hētu</i>. See <tam>ஏது³</tam>, 1, 2, 3, 5, 6, 7, 8.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேதுப்ரபவதர்மம்&searchhws=yes&matchtype=exact">ஹேதுப்ரபவதர்மம்</a> hētuprapavatarmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேதுப்ரபவதர்மம்</tam> <t>hētu-prapava-tarmam</t></hw> , <i>n</i>. < id. + <i>prabhava</i> +. (Buddh.) See <tam>ஏதுநிகழ்ச்சி</tam>. (<tam>மணி</tam>. 3, 4, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேத்தி&searchhws=yes&matchtype=exact">ஹேத்தி</a> hētti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேத்தி</tam> <t>hētti</t></hw> , <i>n</i>. Leech of square sails; <tam>சதுரப்பாய்களின் பக்க விளிம்பு</tam>. (<tam>மாலுமிசா</tam>. 217.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேத்தியாலத்து&searchhws=yes&matchtype=exact">ஹேத்தியாலத்து</a> hēttiyālattu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேத்தியாலத்து</tam> <t>hētti-y-ālattu</t></hw> , <i>n</i>. < <tam>ஹேத்தி</tam> +. Leech-lines, ropes attached to the leech of a sail to hoist it by; <tam>சதுரமான பாய்களின் பக்கவோரங்களிற் கட்டியிருக்குங் கயிறு</tam>. (<tam>மாலுமிசா</tam>. 87.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேமசந்திரன்&searchhws=yes&matchtype=exact">ஹேமசந்திரன்</a> hēmacantiraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேமசந்திரன்</hw> - விசாலன், புத்திரன், சாலிவாகநசகாப்தம் ஒரு ஸம்ஸ்க்ருத கவி, இவர் தம் பெயரால் ஒரு நிக ண்டு செய்தவர், அது ஹேமசந்திர கோசம் ஏனப்படும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேமந்தம்&searchhws=yes&matchtype=exact">ஹேமந்தம்</a> hēmantam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேமந்தம்</tam> <t>hēmantam</t></hw> , <i>n</i>. < <i>hēmanta</i>. A ṛtu. See <tam>ஏமந்தருது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேமன்&searchhws=yes&matchtype=exact">ஹேமன்</a> hēmaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேமன்</hw> - ஜயத்திரதன்புத்திரன், பலிக் குப்பாட்டன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேமம்&searchhws=yes&matchtype=exact">ஹேமம்</a> hēmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேமம்</tam> <t>hēmam</t></hw> , <i>n</i>. < <i>hēman</i>. Gold. See <tam>ஏமம்³</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேமலம்ப&searchhws=yes&matchtype=exact">ஹேமலம்ப</a> hēmalampa
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேமலம்ப</tam> <t>hēmalampa</t></hw> , <i>n</i>. < <i>Hēmalamba</i>. The 31st year of the Jupiter cycle. See <tam>ஏவிளம்பி. (பஞ்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேமவடம்&searchhws=yes&matchtype=exact">ஹேமவடம்</a> hēmavaṭam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேமவடம்</hw> - மேருவுக்குத் தென்றிசை நுனியிலேயுள்ள மலைகளுளொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேமவதி&searchhws=yes&matchtype=exact">ஹேமவதி</a> hēmavati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>ஹேமவதி</tam> <t>hēmavati</t></hw> , <i>n</i>. (Mus.) A primary <i>rāga</i>; <tam>மேளகர்த்தாக்களு ளொன்று</tam>. (<tam>சங். சந்</tam>. 47.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேமாங்கன்&searchhws=yes&matchtype=exact">ஹேமாங்கன்</a> hēmāṅkaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேமாங்கன்</hw> - வசுதேவனுக்கு யோசனை யிடத்துப்பிறந்த புத்திரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேமாத்திரி&searchhws=yes&matchtype=exact">ஹேமாத்திரி</a> hēmāttiri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேமாத்திரி</hw> - மேருமலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேமாரவிந்தபரிமள நியாயம்&searchhws=yes&matchtype=exact">ஹேமாரவிந்தபரிமள நியாயம்</a> hēmāravintaparimaḷa niyāyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹேமாரவிந்தபரிமள நியாயம்</tam> <t>hemāravinta-parimaḷa-niyāyam</t></hw> , <i>n</i>. < <i>hēmāravinda</i> + <i>parimala</i> +. (Log.) A Nyāya in illustration of an excellence of one kind co-existing with an excellence of another kind, as a lotus made of gold having the fragrance of the lotus; <tam>பொன்னா லியன்ற தாமரை நறுமணமுமுடையதாய் இருப்பது போலச் சிறந்ததொன்று வேறொரு சிறப்பினையும் பெற்றுள்ளதாகக் கூறும் நெறி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேமை&searchhws=yes&matchtype=exact">ஹேமை</a> hēmai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேமை</hw> - ஒரு அப்சரஸ்திரீ.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேயம்&searchhws=yes&matchtype=exact">ஹேயம்</a> hēyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹேயம்</tam> <t>hēyam</t></hw> , <i>n</i>. < <i>hēya</i>. See <tam>ஏயம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேளனம்&searchhws=yes&matchtype=exact">ஹேளனம்</a> hēḷaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹேளனம்</tam> <t>hēḷaṉam</t></hw> , <i>n</i>. < <i>hēlana</i>. Jeer. See <tam>ஏளனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/crea_query.py?qs=ஹேஷ்யம்&searchhws=yes&matchtype=exact">ஹேஷ்யம்</a> hēṣyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>ஹேஷ்யம்</hw> பெ. 1: ஊகம்; மேலோட்டமான கணிப்பு; conjecture; a rough estimate. 'நீ ஹேஷ்யமாகத்தான் சொன்னாய், இருந்தாலும் அது உண்மையாகிவிட்டது'.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேஷ்யம்&searchhws=yes&matchtype=exact">ஹேஷ்யம்</a> hēṣyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹேஷ்யம்</tam> <t>hēṣyam</t></hw> , <i>n</i>. < <i>ēṣya</i>. 1. That which is inferred; <tam>ஊகிக்கப்பட்டது</tam>. 2. That which is desired; <tam>விரும்பப்பட்டது</tam>. 3. See <tam>ஏஷ்யம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேஹயன்&searchhws=yes&matchtype=exact">ஹேஹயன்</a> hēhayaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேஹயன்</hw> - சதஜித்து மூன்றாம் புத்தி ரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேஹயர்&searchhws=yes&matchtype=exact">ஹேஹயர்</a> hēhayar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹேஹயர்</tam> <t>hēhayar</t></hw> , <i>n</i>. < <i>haihaya</i>. See <tam>ஏயர்</tam>.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

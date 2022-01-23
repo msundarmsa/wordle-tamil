@@ -1,0 +1,3199 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>ஹ</b>
+                       <div id='no_results'>
+                                297 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹ&searchhws=yes&matchtype=exact">ஹ</a> ha
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹ</tam> <t>ha</t></hw> . The compound of <tam>ஹ்</tam> and <tam>அ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹகீம்&searchhws=yes&matchtype=exact">ஹகீம்</a> hakīm
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹகீம்</tam> <t>hakīm</t></hw> , <i>n</i>. < Arab. <i>hakīm</i>. Hakeem, physician following the Ūṉāṉi system; <tam>யூனானி வைத்தியன்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹக்கு&searchhws=yes&matchtype=exact">ஹக்கு</a> hakku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹக்கு</tam> <t>hakku</t></hw> , <i>n</i>. < U. <i>haqq</i>. Right, claim; <tam>உரிமை</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹக்குதாரன்&searchhws=yes&matchtype=exact">ஹக்குதாரன்</a> hakkutāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹக்குதாரன்</tam> <t>hakku-tāraṉ</t></hw> , <i>n</i>. See <tam>ஹக்குதார்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹக்குதார்&searchhws=yes&matchtype=exact">ஹக்குதார்</a> hakkutār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹக்குதார்</tam> <t>hakku-tār</t></hw> , <i>n</i>. < <tam>ஹக்கு</tam> + <tam>தார்²</tam>. Holder of a right. See <tam>அக்குதார்</tam>. (<smallcap>R. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹங்காமி&searchhws=yes&matchtype=exact">ஹங்காமி</a> haṅkāmi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹங்காமி</tam> <t>haṅkāmi</t></hw> , <i>adj</i>. < U. <i>haṅgāmi</i>. Temporary. See <tam>அங்காமி. ஹங்காமி சிப்பந்தி</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹங்காம்&searchhws=yes&matchtype=exact">ஹங்காம்</a> haṅkām
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹங்காம்</tam> <t>haṅkām</t></hw> , <i>n</i>. < U. <i>haṅgām</i>. Time, season, period at which anything is most abundant or prevalent, as business; <tam>தக்க பருவம்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஜரத்&searchhws=yes&matchtype=exact">ஹஜரத்</a> hajarat
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹஜரத்</tam> <t>hajarat</t></hw> , <i>n</i>. < Arab. <i>hazrat</i>. Exalted person; eminent person; <tam>சிறந்தோன். வந்தாங்கோ ஹஜரத்</tam> (<tam>பிரதாப. விலா</tam>. 134).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஜாம்&searchhws=yes&matchtype=exact">ஹஜாம்</a> hajām
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹஜாம்</tam> <t>hajām</t></hw> , <i>n</i>. < Arab. <i>hajām</i>. Barber; <tam>நாவிதன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஜூர்&searchhws=yes&matchtype=exact">ஹஜூர்</a> hajūr
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹஜூர்</tam> <t>hajūr</t></hw> , <i>n</i>. < Arab. <i>huzūr</i>. That which is chief or principal; <tam>தலைமையானது. ஹஜூர்க் கச்சேரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/crea_query.py?qs=ஹஜ்&searchhws=yes&matchtype=exact">ஹஜ்</a> haj
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=979">p. 979</a>)
+		<blockquote><p><hw>ஹஜ்</hw> பெ. "இஸ்." 1: மெக்காவிற்கு மேற்கொள்ளும் புனிதப் பயணம்; pilgrimage to Mecca; Haj.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹடம்&searchhws=yes&matchtype=exact">ஹடம்</a> haṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹடம்</tam> <t>haṭam</t></hw> , <i>n</i>. < <i>haṭha</i>. See <tam>அடம்²</tam>, 1, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹடயோகம்&searchhws=yes&matchtype=exact">ஹடயோகம்</a> haṭayōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹடயோகம்</tam> <t>haṭa-yōkam</t></hw> , <i>n</i>. < id. + <i>yōga</i>. A yōga. See <tam>அடயோகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹதம்&searchhws=yes&matchtype=exact">ஹதம்</a> hatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹதம்</tam> <t>hatam</t></hw> , <i>n</i>. < <i>hata</i>. Destruction, ruin. See <tam>அதம்³</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹத்து&searchhws=yes&matchtype=exact">ஹத்து</a> hattu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹத்து</tam> <t>hattu</t></hw> , <i>n</i>. < Arab. <i>hadd</i>. See <tam>அத்து⁴</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹத்துபத்திரிகை&searchhws=yes&matchtype=exact">ஹத்துபத்திரிகை</a> hattupattirikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹத்துபத்திரிகை</tam> <t>hattu-pattirikai</t></hw> , <i>n</i>. < <tam>ஹத்து</tam> +. Statement fixing boundaries; <tam>எல்லையைக் குறிக்கும் பத்திரம்</tam>. (<smallcap>R. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹத்துபந்தி&searchhws=yes&matchtype=exact">ஹத்துபந்தி</a> hattupanti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹத்துபந்தி</tam> <t>hattu-panti</t></hw> , <i>n</i>. < U. <i>hadd-bandhi</i>. Demarcation of boundaries; <tam>எல்லை யைக் குறிப்பிடுகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹத்துமீறு-தல்&searchhws=yes&matchtype=exact">ஹத்துமீறு-தல்</a> hattumīṟu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹத்துமீறு-தல்</tam> <t>hattu-mīṟu-</t></hw> , <i>v. intr</i>. < <tam>ஹத்து</tam> +. To transgress; <tam>வரம்புகடத்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹத்யை&searchhws=yes&matchtype=exact">ஹத்யை</a> hatyai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹத்யை</tam> <t>hatyai</t></hw> , <i>n</i>. < <i>hatyā</i>. 1. Murder; <tam>கொலை</tam>. 2. Sin of killing a person; <tam>கொலைப் பாவம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹனுமதோடி&searchhws=yes&matchtype=exact">ஹனுமதோடி</a> haṉumatōṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>ஹனுமதோடி</tam> <t>haṉumatōṭi</t></hw> , <i>n</i>. (Mus.) A primary <i>rāga</i>; <tam>மேளகர்த்தாக்களு ளொன்று</tam>. (<tam>சங். சந்</tam>. 47.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹனுமந்தன்&searchhws=yes&matchtype=exact">ஹனுமந்தன்</a> haṉumantaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹனுமந்தன்</hw> - ஹநுமான், சுக்ரீவன் மந் திரி ஸ்ரீராமதூதன், வாயுதேவனது அநுக்ரஹத்தால் அஞ்சநா தேவியி னிடத்திற் பிறந்தவன், சூரியனிடத் தில் கல்விகற்று நவவியாகரண பண் டிதன் ஏனப் பெயர்படைத்தவன், ஸ்ரீராமாயணமென்கிற பெரிய மணி மாலையில் நாயகமணியாய் விளங்கின வன், ஸ்ரீராமாயணத்தில் ஏல்லாப் பாகங்களிலும் வியாபித்து விளங்கு வது இவனது பராக்கிரமாதிசயமே, இவன் ஸ்ரீராமாநுக்ரஹத்தால் ஸ்திர ஜீவிபட்டம் பெற்றவன், அன்றியும் அவரது ஸ்ரீபாதத்தை யிடையறாது தாங்கிநின்று சிறிய திருவடியென் னும்பெயரும்பெற்றவன், இராவணா தியர் யுத்தத்தில் இவனால் மாண்ட ராக்ஷஸசேனையின் சங்கியை மிகப் பெரிது இவனது பிரபாவம் ஸ்ரீரா மாயணத்தில் விரிவாய்க்காணலாம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹனுமான்&searchhws=yes&matchtype=exact">ஹனுமான்</a> haṉumāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹனுமான்</tam> <t>haṉumāṉ</t></hw> , <i>n</i>. < <i>Hanu-mān</i> nom. sing. of <i>hanu-mat</i>. See <tam>அனுமான்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹமஸகீதை&searchhws=yes&matchtype=exact">ஹமஸகீதை</a> hamasakītai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1332">p. 1332</a>)
+		<blockquote><p><hw>ஹமஸகீதை</hw> - ஹம்சரூபியாகிய பிரமன், சாத்தியர்களுக்கு உபதேசித்த கீதை இது தர்மமார்க்கத்தை விரிவாய்க் கூறும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹமேஷா&searchhws=yes&matchtype=exact">ஹமேஷா</a> hamēṣā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹமேஷா</tam> <t>hamēṣā</t></hw> , <i>n</i>. < Persn. <i>hamēshā</i>. Always; <tam>எப்போதும்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹம்சாயி&searchhws=yes&matchtype=exact">ஹம்சாயி</a> hamcāyi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹம்சாயி</tam> <t>hamcāyi</t></hw> , <i>n</i>. < U. <i>hamsāyi</i>. That which is in the neighbourhood; <tam>அயற் பக்கத்துள்ளது</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹம்சாயிக்கிராமம்&searchhws=yes&matchtype=exact">ஹம்சாயிக்கிராமம்</a> hamcāyikkirāmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹம்சாயிக்கிராமம்</tam> <t>hamcāyi-k-kirāmam</t></hw> , <i>n</i>. < <tam>ஹம்சாயி</tam> +. Neighbouring hamlet attached to a revenue village; <tam>தலைமைக் கிராமத்தைச் சேர்ந்ததான பக்கத்துக் கிராமம்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹம்ஸகமனம்&searchhws=yes&matchtype=exact">ஹம்ஸகமனம்</a> hamsakamaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹம்ஸகமனம்</tam> <t>hamsa-kamaṉam</t></hw> , <i>n</i>. < <i>haṃsa</i> + <i>gamana</i>. Gait of a swan or goose; <tam>அன்னநடை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹம்ஸதூளிகாமஞ்சம்&searchhws=yes&matchtype=exact">ஹம்ஸதூளிகாமஞ்சம்</a> hamsatūḷikāmañcam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹம்ஸதூளிகாமஞ்சம்</tam> <t>hamsa-tūḷikā-mañcam</t></hw> , <i>n</i>. < id. + <i>tūlikā</i> +. Bed with mattress of swan's down; <tam>அன்னத்தின் தூவியினா லியன்ற படுக்கையையுடைய கட்டில்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹம்ஸத்வனி&searchhws=yes&matchtype=exact">ஹம்ஸத்வனி</a> hamsatvaṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹம்ஸத்வனி</tam> <t>hamsa-tvaṉi</t></hw> , <i>n</i>. < id. +. (Mus.) A melody-type; <tam>ஓர் இராகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹம்ஸன்&searchhws=yes&matchtype=exact">ஹம்ஸன்</a> hamsaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1332">p. 1332</a>)
+		<blockquote><p><hw>ஹம்ஸன்</hw> - வசுதேவனுக்குச்சீதேவி யிடத்துப்பிறந்த இரண்டாம் புத்தி ரன், கடிசிகன் சகோதரன், இவன் கௌசிகன் ஏனவும்படுவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹம்ஸன்&searchhws=yes&matchtype=exact">ஹம்ஸன்</a> hamsaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹம்ஸன்</tam> <t>hamsaṉ</t></hw> , <i>n</i>. < <i>haṃsa</i>. An ascetic who subjects himself to severe austerities and long fasts, spending his days in places made holy by the presence of cows and Brāhmins, one of four orders of <i>caṉṉiyāci</i>, q.v.; <tam>நால்வகைச் சன்னியாசிகளுள் கடுமையான விரதானுஷ்டானங்களை மேற்கொண்டு பசு பார்ப்பன ருள்ள தூயவிடங்களில் வசிக்கும் ஒருவகைத் துறவி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹம்ஸபாதம்&searchhws=yes&matchtype=exact">ஹம்ஸபாதம்</a> hamsapātam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹம்ஸபாதம்</tam> <t>hamsa-pātam</t></hw> , <i>n</i>. < id. +. Caret, the mark used under a line for interlineating; <tam>வரிப்பிளப்பின் குறி</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹம்ஸமந்த்ரம்&searchhws=yes&matchtype=exact">ஹம்ஸமந்த்ரம்</a> hamsamantram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹம்ஸமந்த்ரம்</tam> <t>hamsa-mantram</t></hw> , <i>n</i>. < id. +. Haṃsa formula. See <tam>அஜபை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹம்ஸம்&searchhws=yes&matchtype=exact">ஹம்ஸம்</a> hamsam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹம்ஸம்</tam> <t>hamsam</t></hw> , <i>n</i>. < <i>haṃsa</i>. 1. Swan; <tam>அன்னம். ஹம்ஸ நடை</tam>. 2. A kind of asceticism, one of four <i>caṉṉiyācam</i>, q.v.; <tam>சன்னி யாசம் நான்கனுள் ஒன்று</tam>. (<tam>கைவல். சந்தே</tam>. 158.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹம்ஸை&searchhws=yes&matchtype=exact">ஹம்ஸை</a> hamsai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1332">p. 1332</a>)
+		<blockquote><p><hw>ஹம்ஸை</hw> - மேருவுக்கு உத்தரபாகத் தில் உள்ள ஒருமலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹயக்ரீவன்&searchhws=yes&matchtype=exact">ஹயக்ரீவன்</a> hayakrīvaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1332">p. 1332</a>)
+		<blockquote><p><hw>ஹயக்ரீவன்</hw> - குதிரை முகமும் மநுஷ் யதேகமும் உடைய கற்கி யவதாரத் தராகிய விஷ்ணு பூர்வகாலத்தில் விஷ்ணுவானவர் யோகநித்ரை செய் யும்போது மதுகைடபர்கள் பிறந்து வேதங்களை அபஹரித்துக்கொண்டு போய் பாதாளத்தில் அடக்கிவிட, ஸ்ரீமந்நாரயணன்பிரமனதுவேண்டு கோளால் யோகநித்திரைநீங்கி ஹய க்ரீவரூபந்தரித்து மதுகைடபர்களைக் கொன்று வேதங்களைக் கொண்டுவந் து பிரமதேவனுக்குக் கொடுத்தார். ஒருதாநவன், இவனுக்குசோமகன் ஏன்னும் வேறொருபெயரும்உண்டு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹயக்ரீவன்&searchhws=yes&matchtype=exact">ஹயக்ரீவன்</a> hayakrīvaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹயக்ரீவன்</tam> <t>haya-krīvaṉ</t></hw> , <i>n</i>. < <i>Haya-grīva</i>. A form of Viṣṇu. See <tam>அயக்கிரீவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹயசிரை&searchhws=yes&matchtype=exact">ஹயசிரை</a> hayacirai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1332">p. 1332</a>)
+		<blockquote><p><hw>ஹயசிரை</hw> - வைவசுவாநரன்புத்ரி, க்ருது மனைவி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹயம்&searchhws=yes&matchtype=exact">ஹயம்</a> hayam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹயம்</tam> <t>hayam</t></hw> , <i>n</i>. < <i>haya</i>. Horse. See <tam>அயம்⁸</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹயும்&searchhws=yes&matchtype=exact">ஹயும்</a> hayum
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹயும்</tam> <t>hayum</t></hw> , <i>n</i>. (<smallcap>R. T</smallcap>.) 1. A kind of <i>cuvarṇātāyam</i> which is fixed or subject to little variation; <tam>சுவர்ணாதாயத்தின் ஓர் பிரிவு</tam>. 2. Revenue derived from ginger and other crops grown on the hills; <tam>மலையில் விளையும் இஞ்சி முதலிய பொருள்கட்கு விதித்த வரிப்பணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரணம்&searchhws=yes&matchtype=exact">ஹரணம்</a> haraṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹரணம்</tam> <t>haraṇam</t></hw> , <i>n</i>. < <i>haraṇa</i>. 1. Removing, taking away; <tam>கவர்கை</tam>. 2. (Math.) Subtraction; <tam>எண் கழிக்கை</tam>. 3. Wasting; <tam>வீண் போக்குகை. கால ஹரணஞ் செய்யாதே</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரதத்தாசாரியர்&searchhws=yes&matchtype=exact">ஹரதத்தாசாரியர்</a> haratattācāriyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1332">p. 1332</a>)
+		<blockquote><p><hw>ஹரதத்தாசாரியர்</hw> - கஞ்சனூரிலேமது சூதநாசாரியருடைய புதல்வர் இவர் பூர்வசமயம் வைஷ்ணவம்.பிறகு சைவசமய சாஸ்திரங்களைக் கற்றுச் சைவசமயத்தராயினர், அதுகண்ட வைஷ்ணவர்கள், இவரை நோக்கி, உமது சிவன் உண்மையாகப் பறம் பொருளாயின் நாங்களிடும் இருப்புப் படிமே னின்று சிவபரத்துவத்தை நிலைபெறுத்தக் கடவீரென இவர் அதற்குடன்பட்டு, வைஷ்ணவர்கள் பழுக்கக் சாய்ச்சிய இருப்புப்பாளப் படியேறிச் சிவபரத்துவஞ் சாதித்த வர், அப்போது இவரால் செய்தரு ளப்பட்ட நூலுக்கு சதுர்வேத தார்ப் பரியசங்கிரகம் ஏன்பதாம், இதனைத் தமிழிலே மொழி பெயர்த்தவர் துறைவைச் சிவஞான முனிவரர். இவர் பூர்வநாமம் ஹரிதத்தர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரன்&searchhws=yes&matchtype=exact">ஹரன்</a> haraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1332">p. 1332</a>)
+		<blockquote><p><hw>ஹரன்</hw> - பாவஹரி, பாபத்தைக்கெடுப் பவன், சிவன், மாலியவான்புத்திரன் விபீஷணன் மந்திரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரன்&searchhws=yes&matchtype=exact">ஹரன்</a> haraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹரன்</tam> <t>haraṉ</t></hw> , <i>n</i>. < <i>Hara</i>. Šiva. See <tam>அரன்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹராஜ்&searchhws=yes&matchtype=exact">ஹராஜ்</a> harāj
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹராஜ்</tam> <t>harāj</t></hw> , <i>n</i>. Auction; <tam>விலை கூறுகை</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹராமி&searchhws=yes&matchtype=exact">ஹராமி</a> harāmi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹராமி</tam> <t>harāmi</t></hw> , <i>n</i>. < Arab. <i>harāmi</i>. Rascal. See <tam>அராமி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/crea_query.py?qs=ஹராம்&searchhws=yes&matchtype=exact">ஹராம்</a> harām
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=979">p. 979</a>)
+		<blockquote><p><hw>ஹராம்</hw> பெ. 1: இஸ்லாமியச் சட்டத்தில் விலக்கப்பட்டது; that which is prohibited by shariat.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹராம்&searchhws=yes&matchtype=exact">ஹராம்</a> harām
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹராம்</tam> <t>harām</t></hw> , <i>n</i>. < Arab. <i>harām</i>. That which is unlawful and not permitted by religion; <tam>மதசம்மதமல்லாதது. ஹராமான சம்பாத்தியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹராம்ஜான்&searchhws=yes&matchtype=exact">ஹராம்ஜான்</a> harāmjāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹராம்ஜான்</tam> <t>harām-jāṉ</t></hw> , <i>n</i>. < id. + Persn. <i>jān</i>. 1. Illegitimate child; <tam>சோரத்திற் பிறந்த குழந்தை</tam>. 2. Insolent or rude boy; <tam>துடுக்குள்ள பையன்</tam>. <i>Muham</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரி&searchhws=yes&matchtype=exact">ஹரி</a> hari
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1332">p. 1332</a>)
+		<blockquote><p><hw>ஹரி</hw> - விஷ்ணு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரி&searchhws=yes&matchtype=exact">ஹரி</a> hari
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹரி</tam> <t>hari</t></hw> , <i>n</i>. < <i>Hari</i>. Viṣṇu. See <tam>அரி⁷</tam>, 8.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரிகதாகாலக்ஷேபம்&searchhws=yes&matchtype=exact">ஹரிகதாகாலக்ஷேபம்</a> harikatākālakṣēpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹரிகதாகாலக்ஷேபம்</tam> <t>hari-katā-kāla-kṣēpam</t></hw> , <i>n</i>. < id. + <i>kathā</i> +. See <tam>ஹரிகதை</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/crea_query.py?qs=ஹரிகதை&searchhws=yes&matchtype=exact">ஹரிகதை</a> harikatai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=979">p. 979</a>)
+		<blockquote><p><hw>ஹரிகதை</hw> பெ. 1: திருமாலைப்பற்றிய புராணக் கதையைப் பாட்டாகவும் வசனமாகவும் கூறும் நிகழ்ச்சி; stories of Vishnu interspersed with songs.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரிகதை&searchhws=yes&matchtype=exact">ஹரிகதை</a> harikatai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹரிகதை</tam> <t>hari-katai</t></hw> , <i>n</i>. < id. + id. Exposition of a story from a Purāṇa, generally of Viṣṇu, with songs; <tam>பாடல் பக்கவாத்தியங்களுடன் சொல்லப்படுங் கதாப் பிரசங்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரிகாம்போதி&searchhws=yes&matchtype=exact">ஹரிகாம்போதி</a> harikāmpōti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>ஹரிகாம்போதி</tam> <t>harikāmpōti</t></hw> , <i>n</i>. (Mus.) A primary <i>rāga</i>; <tam>மேளகர்த்தாக்களு ளொன்று</tam>. (<tam>சங். சந்</tam>. 47.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரிகேசன்&searchhws=yes&matchtype=exact">ஹரிகேசன்</a> harikēcaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1332">p. 1332</a>)
+		<blockquote><p><hw>ஹரிகேசன்</hw> - வசுதேவன் தம்பியாகிய சியாமகன் மகன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரிக்ராமம்&searchhws=yes&matchtype=exact">ஹரிக்ராமம்</a> harikrāmam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1332">p. 1332</a>)
+		<blockquote><p><hw>ஹரிக்ராமம்</hw> - விதர்ப்ப தேசத்து ஒரு நகரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரிசந்தனம்&searchhws=yes&matchtype=exact">ஹரிசந்தனம்</a> haricantaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹரிசந்தனம்</tam> <t>hari-cantaṉam</t></hw> , <i>n</i>. < <i>hari-candana</i>. See <tam>அரிசந்தனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரிச்சந்திரன்&searchhws=yes&matchtype=exact">ஹரிச்சந்திரன்</a> hariccantiraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1333">p. 1333</a>)
+		<blockquote><p><hw>ஹரிச்சந்திரன்</hw> - இவன் அரிக்கும் சந்தி ரனுக்கும் பிறந்தவன் சூரியவம்சத் தில் இருபத்துமூன்றாம் சந்ததியில் வந்த திரிசங்கினால் வளர்க்கப்பெற்ற வன், கதைவராறு, சந்திரன் தட் சப்பிரசாபதியின் இருபத்தேழுகன் னிதைகளையும் விவாகஞ் செய்து கொண்டு, அவர்களை யனுபவிக்க மு தலில் அச்சசுவீனி, பரணி, கார்த்திகை, மூவரையுஞ் சேர்ந்து நாலாநாள் உ ரோகணியிடம் போக உத்தேசித் திருக்கையில் அவள் பேடியானதால் ஏன்செய்வதென்று ஆலோசித்துவ னத்திற்சென்றுதவஞ்செய்துபெண் வடிவு பெற்றாலன்றி உயர்விடுவதே நலமெத் தீர்மானித்து வனம டைந்து விஷ்ணுவைநோக்கித் தவம் புரிய அவர் ஏதிரவந்து ஏன்னவரம் வேண்டுமென்று கேட்க அவள் தன து பேடித்தன்மையைத் தெரிவிக்க அவர் ஒரு தடாகத்தை யுண்டுபண் ணியதில் முழுகிவரும்படி கட்டளை யிட அவன் அங்ஙனமே செய்து கோடி சூரியப்பிரகாசமான தேஜசு பெற்ற அதிக ரூபலா வண்யமடைந் து உடனே சந்திரன் வருவதற்க முந்தித் தன் வீட்டிற்குபோகஉத்தே சித்து வனத்தின்வழியேவருகையில் சந்திரன்சந்தித்துஅவன்தனதுமனை வியெனத் தெரிந்துகொள்ளாதுஅவ ளைக்கண்டு மயங்குகையில் அவள் தனது நாயகனெனத் தெரிந்துகொ ண்டு அவனைநோக்கி ஐயா இதோ தெரிகிற தடாகத்தில் மூழ்கி வருவா யாயின் உன்னை அணைவேனெனச் சொல்லி யனுப்பிவிட்டுத் தனதிருப் பிடம் வந்துவிட்டனள். சந்திரன் அவள் வார்த்தையை நம்பித் தடாகத் தில்மூழ்கி, ஏழுந்தவுடன் தான் பெண்வடிவாகிவிடத்தன்னைக்கண்டு வெட்கித் தனது மைத்துனனாகிய விஷ்ணுவைத் தியானித்தவுடன் அவர்வந்து சந்திரனாகிய பெண்வடி வினைக்கண்டுமோகித்து ஆலிங்கனஞ் செய்ய அவன் சந்திரனென்று பலவிதம் சொல்லியும் கேளாது பி டித்து வலித்துப் புணர்ந்தனன். அப்போது விஷ்ணு தனது வீரியத் தை ஒருசங்கினில் வாங்கிச் சமுத்தி ரத்திலெறிந்தனள் அவ்வீரியம்சென் று அச்சமுத்திரக்கரையில்புத்திரனை நோக்கித் தவம்புரிந்துகொண்டிருந் த திருசங்கு ஏன்பவனுக்குச் சமீபத் தில் சங்கத்தோடுருவாகிய குழவிய வனிடமணுக அவன் அச்சங்கினைக் கர்த்திலெடுக்க அச்சங்கம் வெடித்து குழந்தை வடிவாக அதை யெடுத்து வளர்த்தனர். சந்திரன் விஷ்ணுவின் உத்தரவின்படி வேறு தடாகத்தில் மூழ்கி ஆண்வடிவங்கொண்டு உரோ கணிபாலடைந்து ஏல்லா விருத்தாந் தங்களையும் தெரிந்துகொண்டு வா ழ்ந்தனன், அரிச்சந்திரன் மனைவி சந்திரதயன் புதல்வியாகிய சந்திர மதி, இவன்புத்திரன் லோகிதாசன். ஹரிச்சந்திரன் மஹா உதாரசீல னும், சிறிதுந்தவறாத சத்தியவந்த னுமாய் விளங்கினவன், இவனது சத் தியவிரதத்தை விசஷ்டமுனிவர் இந் திரன் சபையில் ஏடுத்துப் புகழ்ந்த போது விசுவாமித்திரன் அதுபொ றாமல், அந்த அரிசந்திரன் சத் தியந்தவறிப் பொய்சொல்லப் பண் ணுகிறேனென்று சபதஞ்செய்து, அவனது சத்தியவிரதத்தைப் பரீ க்ஷிக்கப் புகுந்தான், இவன்செய்த கொடிய வஞ்சப் பரீக்ஷைகளுக்கெல் லாம் அவன் சிறிதுங் கலங்காதுநின் று, தன்மனைவி மக்களைப்பிரிந்து தா னும் புலையனுக்கடிமையாகியும் தான் கொண்ட சத்தியவிரதத்தைக்காத்து ஏன்றும் அழியாத பெரும்புகழ்படைத்தவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரிஜனம்&searchhws=yes&matchtype=exact">ஹரிஜனம்</a> harijaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹரிஜனம்</tam> <t>hari-jaṉam</t></hw> , <i>n</i>. < id. +. Depressed classes of the Hindus; <tam>ஹிந்துக்களுள் தாழ்த்தப்பட்ட வகுப்பினர்</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரிணாங்கன்&searchhws=yes&matchtype=exact">ஹரிணாங்கன்</a> hariṇāṅkaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1333">p. 1333</a>)
+		<blockquote><p><hw>ஹரிணாங்கன்</hw> - சந்திரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரிணி&searchhws=yes&matchtype=exact">ஹரிணி</a> hariṇi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1333">p. 1333</a>)
+		<blockquote><p><hw>ஹரிணி</hw> - ஓரப்ஸரசை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரிதன்&searchhws=yes&matchtype=exact">ஹரிதன்</a> haritaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1333">p. 1333</a>)
+		<blockquote><p><hw>ஹரிதன்</hw> - யவனாசுவன்புத்திரன் இவன் தவத்தால்பிராமரிஷியானவன் இவன் க்ஷத்திரிய வர்ணஸ்த்தனேயாயினும் இவன் வமிசத்தாரெல்லாரும் பிரா மணராயினர், இவரெல்லாரும் ஹரி தர் ஏனப்படுவர், அம்பரீஷஆங்கிரச யாவநாசுவ வமிசமாகப் பிறந்தார் கள், லோகிதாசியன் புத்திரன், சம் பன் தந்தை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரிதம்&searchhws=yes&matchtype=exact">ஹரிதம்</a> haritam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>ஹரிதம்</tam> <t>harita</t></hw> , <i>n</i>. < <i>harita</i>. See <tam>லவணசாரம்</tam>. (<tam>விவசாயரசா</tam>. 13.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரிதாளம்&searchhws=yes&matchtype=exact">ஹரிதாளம்</a> haritāḷam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹரிதாளம்</tam> <t>haritāḷam</t></hw> , <i>n</i>. < <i>haritāla</i>. Yellow orpiment. See <tam>அரிதாரம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரிதாளிகாவிரதம்&searchhws=yes&matchtype=exact">ஹரிதாளிகாவிரதம்</a> haritāḷikāviratam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹரிதாளிகாவிரதம்</tam> <t>hari-tāḷikā-viratam</t></hw> , <i>n</i>. perh. <i>hari-tālikā</i> +. A fast observed on the third <i>titi</i> of the bright fortnight of Pāttirapatam; <tam>பாத்திரபதமாதத்துச் சுக்கிலபக்ஷத்துத் திருதியையன்று அனுஷ்டிக்கும் ஒரு விரதம். (பஞ்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரித்துவாரம்&searchhws=yes&matchtype=exact">ஹரித்துவாரம்</a> harittuvāram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1333">p. 1333</a>)
+		<blockquote><p><hw>ஹரித்துவாரம்</hw> - கங்காத்வாரம் ஏனப் படும் க்ஷேத்ரம், விஷ்ணுவாற் கொல் லப்பட்ட மது தனது மரணகாலத்தி லே இந்தத் தலம் புண்ணிய ஸ்தல மாகும்படி, அநுக்ரகிக்க வேண்டுமெ ன்று வேண்ட, அவ்வாறேயாகுக வென்றநுக்ரஹித்தார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரித்வாரம்&searchhws=yes&matchtype=exact">ஹரித்வாரம்</a> haritvāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹரித்வாரம்</tam> <t>hari-tvāram</t></hw> , <i>n</i>. < <i>Hari-dvāra</i>. Haridwar. See <tam>அரித்துவாரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரியங்கன்&searchhws=yes&matchtype=exact">ஹரியங்கன்</a> hariyaṅkaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1333">p. 1333</a>)
+		<blockquote><p><hw>ஹரியங்கன்</hw> - சம்பன் புத்திரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரியசுவன்&searchhws=yes&matchtype=exact">ஹரியசுவன்</a> hariyacuvaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹரியசுவன்</hw> - த்ருடாசுவன் புத்திரன், நிகும்பன் தந்தை, அநரணியன் புத் திரன், சுமநசன் தந்தை த்ருஷட கேது புத்ரன். பர்மியாசுவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரியர்த்தர்&searchhws=yes&matchtype=exact">ஹரியர்த்தர்</a> hariyarttar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹரியர்த்தர்</tam> <t>hari-y-arttar</t></hw> , <i>n</i>. < <i>Hari</i> + <i>ardha</i>. A form of Šiva, with Viṣṇu on the right half of His body; <tam>மகாவிஷ்ணுவை வலப்பக் கத்திற் கொண்டதான சிவமூர்த்தம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரிஹரன்&searchhws=yes&matchtype=exact">ஹரிஹரன்</a> hariharaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹரிஹரன்</hw> - விஷ்ணும் சிவனும் கூடிக் கொண்டிருக்கும் வடிவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரிஹரன்&searchhws=yes&matchtype=exact">ஹரிஹரன்</a> hariharaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹரிஹரன்</tam> <t>hari-haraṉ</t></hw> , <i>n</i>. < id. + id. 1. A manifestation of God in the combined form of Viṣṇu and Šiva. See <tam>சங்கரநாராயணன்</tam>. 2. See <tam>ஹரிஹரபுத்திரர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரிஹரபுத்திரன்&searchhws=yes&matchtype=exact">ஹரிஹரபுத்திரன்</a> hariharaputtiraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹரிஹரபுத்திரன்</hw> - சாத்தனார் இவர், ஐயனார் ஏன்றும் வழங்கப்படுவர், மோஹிநி வடிவங்கொண்ட விஷ்ணு வைச் சிவன் கூடித் தோற்றுவித்த புத்திரர் இவரே, இவர் அறநெறி வழுவினோரைத்தண்டிப்பவர், இவர் க்குத் தேவிமார் பூரணை புட்கலை ஏன் னுமிருவருமே, இவர் தற்காலத்திலே கிராம தேவதையாகப் பூசிக்கப்படு பவர், இவர்க்‌கு ஆயுதம் செண்டு, நிறம் கருங்கடல் நிறம் ஹரீதன்- விசுவமித்திரன் புத்திரன், இவன் வமிசத்துப் பிராமணர் ஹரீதர் ஏனப் படுவர். இந்திரன் சூரபதுமனுக்குப் பய ந்து இந்திராணியைச் சீகாழிப்பதி யிலே தனியே யொளித்துவைத்து விட்டுத் தான் தேவருடன் மேரு மலைக்குப் போயிருக்கையில் சூரன் தங்கையாகிய அஜமுகி தனது தமை யன் உத்தரவின்படி உலகெங்கும் தேடிச் சீகாழியில் இந்திராணியைக் கண்டு பலாத்காரமாக விழுக்கையில் ஹரிஹரன் தனது சேவகனாகிய மாகாளரைக் கொண்டு அஜமுகியி னின்றும் இந்திராணியை விடுவித்து அவ்விராக்கதஸ்திரீயின் வலதுகரத் தையறுப்பித்தனர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹரிஹரபுத்திரர்&searchhws=yes&matchtype=exact">ஹரிஹரபுத்திரர்</a> hariharaputtirar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹரிஹரபுத்திரர்</tam> <t>hari-hara-puttirar</t></hw> , <i>n</i>. < <i>Hari</i> + <i>Hara</i> + <i>puttra</i>. Šāstā, son of Hara by Mōhini, an avatār of Hari; <tam>சிவபிரானுக்கு மோகினியுருக்கொண்ட திருமாலிடம் பிறந்தவரான சாஸ்தா</tam>. (<tam>நன். சங்கர. புதுப். பக்</tam>. 367.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹரிஹாராயன்&searchhws=yes&matchtype=exact">ஹரிஹாராயன்</a> harihārāyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹரிஹாராயன்</hw> - இவன் துங்கபத்ராநதி தீரத்திலே காடு கெடுத்து நாடாக்கி வித்யாநகரம் நிருமித்து அங்கிருந்து அரசியற்றின ஓரரசன், இவன் இற் றைக்கு ஐந்நூற்றுப்பத்து வருஷங் களுக்கு முன்னிருந்தவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹர்கத்&searchhws=yes&matchtype=exact">ஹர்கத்</a> harkat
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹர்கத்</tam> <t>harkat</t></hw> , <i>n</i>. < Arab. <i>harkat</i>. (<smallcap>C. G</smallcap>.) 1. Movement, motion; agitation; <tam>சலனம்</tam>. 2. Opposition, hindrance; <tam>எதிரிடை</tam>. 3. Trouble; <tam>உபத்திரவம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹர்க்காரா&searchhws=yes&matchtype=exact">ஹர்க்காரா</a> harkkārā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹர்க்காரா</tam> <t>harkkārā</t></hw> , <i>n</i>. < Persn. <i>har- kārā</i>. See <tam>அரிக்காரன். ஹர்க்காராவைப் பார்த்து</tam> (<tam>பிரதாப. விலா</tam>. 137).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹர்ஜி&searchhws=yes&matchtype=exact">ஹர்ஜி</a> harji
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹர்ஜி</tam> <t>harji</t></hw> , <i>n</i>. < U. <i>arzi</i>. Petition. See <tam>அர்ஜி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/crea_query.py?qs=ஹர்த்தால்&searchhws=yes&matchtype=exact">ஹர்த்தால்</a> harttāl
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=979">p. 979</a>)
+		<blockquote><p><hw>ஹர்த்தால்</hw> பெ. 1: கடையடைப்பு; closure of shops and business concern (as a protest); (in India) hartal. வேலை நீக்கம் செய்யப்பட்ட தொழிலாளர்களுக்கு ஆதரவு தெரிவிக்கும் முறையில் ஹர்த்தால் செய்வது என்று எல்லாக் கட்சிகளும் முடிவுசெய்தன.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹர்த்தால்&searchhws=yes&matchtype=exact">ஹர்த்தால்</a> harttāl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹர்த்தால்</tam> <t>harttāl</t></hw> , <i>n</i>. < Hind. <i>haratāl</i>. Closing of shops; <tam>கடைகளையெல்லாம் ஒரு சேர மூடுகை</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹர்ஷணம்&searchhws=yes&matchtype=exact">ஹர்ஷணம்</a> harṣaṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹர்ஷணம்</tam> <t>harṣaṇam</t></hw> , <i>n</i>. < <i>harṣaṇa</i>. (Astron.) A division of time. See <tam>அரிஷணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹர்ஷன்&searchhws=yes&matchtype=exact">ஹர்ஷன்</a> harṣaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹர்ஷன்</hw> - தரமுனுக்குச்சித்தையிடத் துப்பிறந்த புத்திரன், இவன் மனைவி நந்தை, இவன் சகோதரர் சமன் காமன் ஏன்பவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹர்ஷம்&searchhws=yes&matchtype=exact">ஹர்ஷம்</a> harṣam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹர்ஷம்</tam> <t>harṣam</t></hw> , <i>n</i>. < <i>harṣa</i>. Joy; <tam>மகிழ்ச்சி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹலம்&searchhws=yes&matchtype=exact">ஹலம்</a> halam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹலம்</tam> <t>halam</t></hw> , <i>n</i>. < <i>hala</i>. Plough. See <tam>அலம்⁴</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹலாயுதன்&searchhws=yes&matchtype=exact">ஹலாயுதன்</a> halāyutaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹலாயுதன்</tam> <t>halāyutaṉ</t></hw> , <i>n</i>. < <i>Halāyudha</i>. Balarāma. See <tam>அலாயுதன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/crea_query.py?qs=ஹலால்&searchhws=yes&matchtype=exact">ஹலால்</a> halāl
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=979">p. 979</a>)
+		<blockquote><p><hw>ஹலால்</hw> பெ. 1: இஸ்லாமியச் சட்டத்தால் அனுமதிக்கப்பட்டது; that which is sanctioned by shariat.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹலால்&searchhws=yes&matchtype=exact">ஹலால்</a> halāl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹலால்</tam> <t>halāl</t></hw> , <i>n</i>. < Arab. <i>halāl</i>. That which is lawful and permitted by religion; <tam>மத சம்மதமானது. ஹலாலான சம்பாத்தியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹல்வா&searchhws=yes&matchtype=exact">ஹல்வா</a> halvā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹல்வா</tam> <t>halvā</t></hw> , <i>n</i>. < Arab. <i>halwā</i>. See <tam>அல்வா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹளஹளம்&searchhws=yes&matchtype=exact">ஹளஹளம்</a> haḷahaḷam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹளஹளம்</tam> <t>haḷahaḷam</t></hw> , <i>n</i>. A kind of ruby; <tam>மாணிக்கவகை</tam>. (<smallcap>S. I. I</smallcap>. ii, 78, 2.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹவல்&searchhws=yes&matchtype=exact">ஹவல்</a> haval
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>ஹவல்</tam> <t>haval</t></hw> , <i>n</i>. Indian sergeant; <tam>அவுல்தார். ஹவல் தாண்டவராய முதலி</tam> (<smallcap>M. E. R</smallcap>. 175 of 1925).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹவல்தார்&searchhws=yes&matchtype=exact">ஹவல்தார்</a> havaltār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹவல்தார்</tam> <t>havaltār</t></hw> , <i>n</i>. < Persn. <i>haval- dār</i>. Havildar, Indian military officer; <tam>இந்தியச் சேனைத்தலைவருள் ஒரு வகையினன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹவாதன்&searchhws=yes&matchtype=exact">ஹவாதன்</a> havātaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹவாதன்</hw> - ப்ரஹலாதன் தம்பி, இவன் அநுஹலாதன் ஏனவும்படுவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹவிர்த்தாநன்&searchhws=yes&matchtype=exact">ஹவிர்த்தாநன்</a> havirttānaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹவிர்த்தாநன்</hw> - விஜயாசுவன் ஏன்னும் அந்தர்த்தாநனுக்கு நபஸ்பதியிடத் துப் பிறந்த புத்திரன், இவன் பர் ஹிஷ்டதன் ஏன்னும் பிராசீநபர்ஷி கயன், சுக்கிலன், க்ருஷணன், சத் தியன், ஏன்னும் யஜன், ஜிதவரதன் ஏன அறுவர்புதல்வரைப்பெற்றான். அவருள், ப்ராசீநபர்ஹீக்குப் பதின் மர்புத்திரர் பிறந்தார்கள், அவர்கள் ப்ரசேதசர் ஏனப்படுவார்கள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹவிர்ப்புக்&searchhws=yes&matchtype=exact">ஹவிர்ப்புக்</a> havirppuk
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹவிர்ப்புக்</hw> - ப்ரீதி. இவள் புலத்தியன் மனைவி, விச்சிரவாவு தாய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹவிர்யக்கியங்கள்&searchhws=yes&matchtype=exact">ஹவிர்யக்கியங்கள்</a> haviryakkiyaṅkaḷ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹவிர்யக்கியங்கள்</hw> - சிரௌதாக்கிநியி லே அமைக்கப்படும் யஜ்ஞபேதங் கள், அக்நியாதேயம், அக்நிஹோத் ரம், தர்ஸ பூர்ணமாசம், ஆக்ரஹாய யணம், சாதுர்மாசியம், நிரூடபசுபந் தம், சௌத்ராமணி, ஏன ஏழாம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹவில்தார்&searchhws=yes&matchtype=exact">ஹவில்தார்</a> haviltār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹவில்தார்</tam> <t>haviltār</t></hw> , <i>n</i>. See <tam>ஹவல்தார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹவிஸ்&searchhws=yes&matchtype=exact">ஹவிஸ்</a> havis
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹவிஸ்</tam> <t>havis</t></hw> , <i>n</i>. < <i>havis</i>. 1. See <tam>அவி³</tam>. 2. Rice cooked without straining the conjee; <tam>கஞ்சிவடியாது சமைக்குஞ் சோறு</tam>. <i>Brāh</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹவ்யம்&searchhws=yes&matchtype=exact">ஹவ்யம்</a> havyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹவ்யம்</tam> <t>havyam</t></hw> , <i>n</i>. < <i>havya</i>. Oblations to the Dēvas; <tam>தேவர்களுக்குக் கொடுக்கப்படும் அவி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹவ்யவாகநன்&searchhws=yes&matchtype=exact">ஹவ்யவாகநன்</a> havyavākanaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹவ்யவாகநன்</hw> - க்ரஹபதி, அக்நி, சுசி புத்ரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஸந்திகை&searchhws=yes&matchtype=exact">ஹஸந்திகை</a> hasantikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>ஹஸந்திகை</tam> <t>hasantikai</t></hw> , <i>n</i>. < <i>hasantikā</i>. Portable oven; <tam>இந்தளம்</tam>. (<tam>திவ். பெரியாழ்</tam>, 3, 6, 7, <tam>ஜீ</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஸ்தகடகம்&searchhws=yes&matchtype=exact">ஹஸ்தகடகம்</a> hastakaṭakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹஸ்தகடகம்</tam> <t>hasta-kaṭakam</t></hw> , <i>n</i>. < <i>hasta</i> +. Bracelet; <tam>வளையல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹஸ்தன்&searchhws=yes&matchtype=exact">ஹஸ்தன்</a> hastaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹஸ்தன்</hw> - வசுதேவனுக்குயோசனையி டத்துப்பிறந்த புதல்வன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஸ்தமுத்திரை&searchhws=yes&matchtype=exact">ஹஸ்தமுத்திரை</a> hastamuttirai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹஸ்தமுத்திரை</tam> <t>hasta-muttirai</t></hw> , <i>n</i>. < id. +. Gesture, indication by hand; <tam>கையாற் செய்யும் அடையாளம். சொல்லப்புக்க வார்த்தையைத் தலைக்கட்ட மாட்டாதே ஹஸ்தமுத்திரையாலே தலைக் கட்டா நின்றாள்</tam> (<tam>ஈடு</tam>, 4, 4, 1).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஸ்தம்&searchhws=yes&matchtype=exact">ஹஸ்தம்</a> hastam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3921">p. 3921</a>)
+		<blockquote><p><hw><tam>ஹஸ்தம்</tam> <t>hastam</t></hw> , <i>n</i>. < <i>hasta</i>. See <tam>அத்தம்⁸</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஸ்தரொக்கம்&searchhws=yes&matchtype=exact">ஹஸ்தரொக்கம்</a> hastarokkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹஸ்தரொக்கம்</tam> <t>hasta-rokkam</t></hw> , <i>n</i>. < id. +. 1. See <tam>அஸ்தரொக்கம்</tam>. 2. Ready money; <tam>கைமேற்பணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஸ்தலாகவம்&searchhws=yes&matchtype=exact">ஹஸ்தலாகவம்</a> hastalākavam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹஸ்தலாகவம்</tam> <t>hasta-lākavam</t></hw> , <i>n</i>. < id. +. Dexterity of hand; <tam>விரைந்து தொழில் செய்யும் கைவன்மை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஸ்தவிசேஷம்&searchhws=yes&matchtype=exact">ஹஸ்தவிசேஷம்</a> hastavicēṣam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹஸ்தவிசேஷம்</tam> <t>hasta-vicēṣam</t></hw> , <i>n</i>. < id. + <i>višeṣa</i>. Luck associated with one's hand. See <tam>கைராசி. அந்த வைத்தியனுக்கு ஹஸ்த விசேஷம் உண்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஸ்தி&searchhws=yes&matchtype=exact">ஹஸ்தி</a> hasti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹஸ்தி</tam> <t>hasti</t></hw> , <i>n</i>. < <i>hastin</i>. Elephant. See <tam>அத்தி⁸</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹஸ்திகன்&searchhws=yes&matchtype=exact">ஹஸ்திகன்</a> hastikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹஸ்திகன்</hw> - சுகோத்திரன் புத்திரன் இவனே அஸ்தினாபுரத்தை நிருமித் தவன், அஜமீடன், துவிமீடன், புரு மீடன் ஏன்போர் இவன் புத்திரரே.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஸ்திகிரி&searchhws=yes&matchtype=exact">ஹஸ்திகிரி</a> hastikiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹஸ்திகிரி</tam> <t>hastikiri</t></hw> , <i>n</i>. < id. + <i>giri</i>. The hill on which the temple of Šrī Varadarāja at Conjeevaram is situate; <tam>காஞ்சீபுரம் ஶ்ரீவரதராஜப் பெருமாள் கோயிலமைந்த குன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹஸ்திநபுரம்&searchhws=yes&matchtype=exact">ஹஸ்திநபுரம்</a> hastinapuram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹஸ்திநபுரம்</hw> - கௌரவர்களுக்கு ராஜ தாநி, இது ஹஸ்திகனால் நிருமிக்கப் பட்ட நகரம், இந்தநகரம் பிற்காலத் தில் கங்கைகொண்டழிந்தது, இப் போதுள்ள இலங்கை தில்லிநகருக்கு அறுகாத தூரத்திலுள்ளது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஸ்தினாபுரம்&searchhws=yes&matchtype=exact">ஹஸ்தினாபுரம்</a> hastiṉāpuram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹஸ்தினாபுரம்</tam> <t>hastiṉā-puram</t></hw> , <i>n</i>. < <i>Hastinā-pura</i>. An ancient city near modern Delhi. See <tam>அஸ்தினாபுரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		114) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹஸ்தினி&searchhws=yes&matchtype=exact">ஹஸ்தினி</a> hastiṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹஸ்தினி</tam> <t>hastiṉi</t></hw> , <i>n</i>. < <i>hastinī</i>. See <tam>அத்தினி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		115) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹஸ்திபுரம்&searchhws=yes&matchtype=exact">ஹஸ்திபுரம்</a> hastipuram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1334">p. 1334</a>)
+		<blockquote><p><hw>ஹஸ்திபுரம்</hw> - ஹஸ்திநபுரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		116) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹா&searchhws=yes&matchtype=exact">ஹா</a> hā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹா¹</tam> <t>hā</t></hw> . The compound of <tam>ஹ்</tam> and <tam>ஆ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		117) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹா&searchhws=yes&matchtype=exact">ஹா</a> hā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹா²</tam> <t>hā</t></hw> , <i>int</i>. Expr. of surprise, pain, sorrow, etc.; <tam>வியப்பு நோவு துயரம் முதலியவற் றைக் குறிக்குஞ் சொல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		118) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாகினி&searchhws=yes&matchtype=exact">ஹாகினி</a> hākiṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாகினி</tam> <t>hākiṉi</t></hw> , <i>n</i>. A class of <i>yōkiṉi</i>; <tam>யோகினிகளுள் ஒருசாரார்</tam>. (<tam>தக்கயாகப். பக்</tam>. 281.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		119) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாக்&searchhws=yes&matchtype=exact">ஹாக்</a> hāk
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாக்</tam> <t>hāk</t></hw> , <i>n</i>. < E. Hank, ring of iron, rope, etc., for fixing the staysails to stays; <tam>பாய் களைக் கட்டற்குரிய சவாய்களிலுள்ள வளையம்</tam>. (<tam>மாலுமிசா</tam>. 210.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		120) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாசல்கலம்&searchhws=yes&matchtype=exact">ஹாசல்கலம்</a> hācalkalam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாசல்கலம்</tam> <t>hācal-kalam</t></hw> , <i>n</i>. < U. <i>hāsal</i> + <tam>கலம்²</tam>. That which is written to the point; <tam>சாரமாக எழுதியது</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		121) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாசில்&searchhws=yes&matchtype=exact">ஹாசில்</a> hācil
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாசில்</tam> <t>hācil</t></hw> , <i>n</i>. < U. <i>hāsil</i>. Valuation, as for purposes of stamp duty; <tam>மதிப்புத்தொகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		122) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாசீல்&searchhws=yes&matchtype=exact">ஹாசீல்</a> hācīl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாசீல்</tam> <t>hācīl</t></hw> , <i>n</i>. See <tam>ஹாசில்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		123) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஜர்&searchhws=yes&matchtype=exact">ஹாஜர்</a> hājar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாஜர்</tam> <t>hājar</t></hw> , <i>n</i>. < Arab. <i>hāzir</i>. A term meaning 'present', used in answering a roll-call; <tam>நேரில் வந்திருப்பதைத் தெரிவிக்குஞ் சொல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		124) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஜர்ஜாமீன்&searchhws=yes&matchtype=exact">ஹாஜர்ஜாமீன்</a> hājarjāmīṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹாஜர்ஜாமீன்</tam> <t>hājar-jāmīṉ</t></hw> , <i>n</i>. < id. +. 1. Bail for attendance; <tam>நியாயஸ்தலம் முதலிய இடங்களிற் குறிப்பிட்டவர்களைக் குறித்த காலத்து வருவிப்பதற்காகக் கொடுக்கும் ஜாமீன்</tam>. (<smallcap>C. G</smallcap>.) 2. See <tam>ஆஜர்ஜாமீன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		125) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஜர்ப்படுத்து-தல்&searchhws=yes&matchtype=exact">ஹாஜர்ப்படுத்து-தல்</a> hājarppaṭuttu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹாஜர்ப்படுத்து-தல்</tam> <t>hājar-p-paṭuttu-</t></hw> , <i>v. tr</i>. < <tam>ஹாஜர்</tam> +. 1. To cause to appear, as a person in court; <tam>நியாயஸ்தலம் முதலிய இடங்களில் குறிப்பிட்டவர்களை வருவித்தல்</tam>. 2. To produce, as a thing before a person; <tam>ஒருவர்முன் பண்டம் முதலியவற்றைக் கொண்டுவைத்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		126) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஜர்ப்பார்-த்தல்&searchhws=yes&matchtype=exact">ஹாஜர்ப்பார்-த்தல்</a> hājarppār-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹாஜர்ப்பார்-த்தல்</tam> <t>hājar-p-pār-</t></hw> , <i>v</i>. < <tam>ஹாசர்</tam> +. <i>tr</i>. To spy on the activities of another; to watch the movements of a person; <tam>வேவு பார்த்தல்</tam>. <i>Loc</i>. — <i>intr</i>. To check the attendance of employees or workmen; <tam>வேலை முதலிய வற்றுக்கு ஆட்கள் வருகையைச் சரிபார்த்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		127) <a href="/cgi-bin/app/crea_query.py?qs=ஹாஜி&searchhws=yes&matchtype=exact">ஹாஜி</a> hāji
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=979">p. 979</a>)
+		<blockquote><p><hw>ஹாஜி</hw> பெ. "இஸ்." 1: ஹஜ் பயணத்தை நிறைவேற்றியவர்; one who has successfully completed Haj.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		128) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஜி&searchhws=yes&matchtype=exact">ஹாஜி</a> hāji
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹாஜி</tam> <t>hāji</t></hw> , <i>n</i>. < U. <i>hāzi</i>. Muhammadan who has performed the pilgrimage to Mecca; <tam>மக்கா யாத்திரை செய்த முகம்மதியன்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		129) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஜில்&searchhws=yes&matchtype=exact">ஹாஜில்</a> hājil
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹாஜில்</tam> <t>hājil</t></hw> , <i>n</i>. < Arab. <i>hāzir</i>. See <tam>ஹாஜர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		130) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஜ்&searchhws=yes&matchtype=exact">ஹாஜ்</a> hāj
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாஜ்</tam> <t>hāj</t></hw> , <i>n</i>. < Arab. <i>hāz</i>. Pilgrimage to Mecca; <tam>மக்கா யாத்திரை</tam>. <i>Muham</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		131) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஞ்சா&searchhws=yes&matchtype=exact">ஹாஞ்சா</a> hāñcā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாஞ்சா</tam> <t>hāñcā</t></hw> , <i>n</i>. Halyards, ropes for hoisting or lowering sails, flags, etc.; <tam>பாய் கொடி முதலியவற்றை இழுத்துச் சாம்புதற்கேனும் இறக்குதற்கேனும் உதவுங் கயிறு</tam>. (<tam>மாலுமிசா</tam>. 210.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		132) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாடகாம்பரி&searchhws=yes&matchtype=exact">ஹாடகாம்பரி</a> hāṭakāmpari
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>ஹாடகாம்பரி</tam> <t>hāṭakāmpari</t></hw> , <i>n</i>. (Mus.) A primary <i>rāga</i>; <tam>மேளகர்த்தாக்களு ளொன்று</tam>. (<tam>சங். சந்</tam>. 47.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		133) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாத்சிட்டா&searchhws=yes&matchtype=exact">ஹாத்சிட்டா</a> hātciṭṭā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாத்சிட்டா</tam> <t>hātciṭṭā</t></hw> , <i>n</i>. < Hind. <i>hāt- ciṭṭa</i>. Waste book; day book; <tam>கைச்சிட்டா</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		134) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹானி&searchhws=yes&matchtype=exact">ஹானி</a> hāṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹானி</tam> <t>hāṉi</t></hw> , <i>n</i>. < <i>hāni</i>. Harm, injury. See <tam>ஆனி³</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		135) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாப்தா&searchhws=yes&matchtype=exact">ஹாப்தா</a> hāptā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாப்தா</tam> <t>hāptā</t></hw> , <i>n</i>. < Arab. <i>hāfdā</i>. Week; <tam>வாரம். ஹாப்தா கணக்கு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		136) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாமிலாத்பஞ்சர்&searchhws=yes&matchtype=exact">ஹாமிலாத்பஞ்சர்</a> hāmilātpañcar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாமிலாத்பஞ்சர்</tam> <t>hāmilāt-pañcar</t></hw> , <i>n</i>. < U. <i>hamilāt</i> + U. <i>bañjar</i>. Land partly waste and partly cultivated; <tam>ஒரு பகுதி கரம்பாக விடப் பட்டும் ஒரு பகுதி பயிரிடப்பட்டு முள்ள நிலம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		137) <a href="/cgi-bin/app/crea_query.py?qs=ஹாயாக&searchhws=yes&matchtype=exact">ஹாயாக</a> hāyāka
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=979">p. 979</a>)
+		<blockquote><p><hw>ஹாயாக</hw> வி.அ. [பே.வ.] 1: கவலையற்று; உல்லாசமாக; in a relaxed carefree manner.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		138) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாயெனல்&searchhws=yes&matchtype=exact">ஹாயெனல்</a> hāyeṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாயெனல்</tam> <t>hā-y-eṉal</t></hw> , <i>n</i>. Onom. expr. (a) indicating care-free condition; <tam>கவலையற் றிருத்தற் குறிப்பு</tam>: (b) calling the crow to eat the offerings; <tam>காக்கையைப் பலியுண்ணக் கூவுதற் குறிப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		139) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாரம்&searchhws=yes&matchtype=exact">ஹாரம்</a> hāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாரம்</tam> <t>hāram</t></hw> , <i>n</i>. < <i>hāra</i>. See <tam>ஆரம்³</tam>, 1, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		140) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாராவளி&searchhws=yes&matchtype=exact">ஹாராவளி</a> hārāvaḷi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாராவளி</tam> <t>hārāvaḷi</t></hw> , <i>n</i>. < id. + <i>āvali</i>. See <tam>ஹாரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		141) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாரிணி&searchhws=yes&matchtype=exact">ஹாரிணி</a> hāriṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாரிணி</tam> <t>hāriṇi</t></hw> , <i>n</i>. < <i>hāriṇī</i>. (Šaiva.) The Šakti which unites perfected souls with Šiva; <tam>தநுகரணாதிகளை மாயையிலொடுக்கிப் பக்குவ மானதும் ஆத்மாக்களைச் சிவத்துடன் அடை விக்குஞ் சக்தி</tam>. (<tam>சி. சி</tam>. 1, 59, <tam>சிவாக்</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		142) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹார்த்தபாவம்&searchhws=yes&matchtype=exact">ஹார்த்தபாவம்</a> hārttapāvam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹார்த்தபாவம்</tam> <t>hārtta-pāvam</t></hw> , <i>n</i>. < <i>hārda-bhāva</i>. Secret or innermost thought; <tam>உள்ளக்கருத்து</tam>. (<tam>ஈடு</tam>, 4, 5, 11, <tam>ஜீ</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		143) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹார்த்தல்&searchhws=yes&matchtype=exact">ஹார்த்தல்</a> hārttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹார்த்தல்</tam> <t>hārttal</t></hw> , <i>n</i>. < U. <i>haratāl</i>. See <tam>ஹர்த்தால்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		144) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹார்த்திக்கியன்&searchhws=yes&matchtype=exact">ஹார்த்திக்கியன்</a> hārttikkiyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹார்த்திக்கியன்</hw> - க்ருதவர்மா.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		145) <a href="/cgi-bin/app/crea_query.py?qs=ஹார்மோனியம்&searchhws=yes&matchtype=exact">ஹார்மோனியம்</a> hārmōṉiyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=979">p. 979</a>)
+		<blockquote><p><hw>ஹார்மோனியம்</hw> பெ. காண்க: ஆர்மோனியம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		146) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாலாஸ்யம்&searchhws=yes&matchtype=exact">ஹாலாஸ்யம்</a> hālāsyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாலாஸ்யம்</tam> <t>hālāsyam</t></hw> , <i>n</i>. < <i>Hālāsya</i>. Madura. See <tam>ஆலவாய்</tam>, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		147) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாலாஹலம்&searchhws=yes&matchtype=exact">ஹாலாஹலம்</a> hālāhalam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹாலாஹலம்</tam> <t>hālāhalam</t></hw> , <i>n</i>. < <i>hālāhala</i>. 1. The deadly poison that was produced during the churning of the ocean. See <tam>ஆலகாலம்¹</tam>. 2. Deadly poison; <tam>மிகக்கொடிய விஷம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		148) <a href="/cgi-bin/app/crea_query.py?qs=ஹால்&searchhws=yes&matchtype=exact">ஹால்</a> hāl
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=979">p. 979</a>)
+		<blockquote><p><hw>ஹால்</hw> பெ. 1: கூடம்; floor hall. அவர் ஹாலில் உட்கார்ந்திருந்தார்./ கோகலே ஹால்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		149) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹால்&searchhws=yes&matchtype=exact">ஹால்</a> hāl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3922">p. 3922</a>)
+		<blockquote><p><hw><tam>ஹால்</tam> <t>hāl</t></hw> , < Arab. <i>hāl</i>. <i>n</i>. Present condition, condition of being current; <tam>தற்கால வழக்கிலிருக்கும் நிலை</tam>. (<smallcap>C. G</smallcap>.) — <i>adj</i>. Present, current; <tam>தற்காலத்திலுள்ள. ஹால் மகாம்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		150) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஸம்&searchhws=yes&matchtype=exact">ஹாஸம்</a> hāsam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹாஸம்</tam> <t>hāsam</t></hw> , <i>n</i>. < <i>hāsa</i>. Laughter. See <tam>ஆசம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		151) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஸ்யன்&searchhws=yes&matchtype=exact">ஹாஸ்யன்</a> hāsyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>ஹாஸ்யன்</tam> <t>hāsyaṉ</t></hw> , <i>n</i>. < <i>hāsya</i>. One who is an object of ridicule; <tam>பரிகசித்தற் குரிய வன்</tam>. (<tam>ரஹஸ்ய</tam>. 327.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		152) <a href="/cgi-bin/app/crea_query.py?qs=ஹாஸ்யம்&searchhws=yes&matchtype=exact">ஹாஸ்யம்</a> hāsyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=979">p. 979</a>)
+		<blockquote><p><hw>ஹாஸ்யம்</hw> பெ. [அ.வ.] 1: நகைச்சுவை; humour. அவர் ஹாஸ்யமாகப் பேசுவார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		153) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஸ்யம்&searchhws=yes&matchtype=exact">ஹாஸ்யம்</a> hāsyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹாஸ்யம்</tam> <t>hāsyam</t></hw> , <i>n</i>. < <i>hāsya</i>. See <tam>ஆசியம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		154) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹாஹா&searchhws=yes&matchtype=exact">ஹாஹா</a> hāhā
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹாஹா</hw> - ஒருகந்தருவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		155) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஹா&searchhws=yes&matchtype=exact">ஹாஹா</a> hāhā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹாஹா¹</tam> <t>hāhā</t></hw> , <i>int</i>. See <tam>ஆகா¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		156) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஹா&searchhws=yes&matchtype=exact">ஹாஹா</a> hāhā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹாஹா²</tam> <t>hāhā</t></hw> , <i>n</i>. < <i>Hāhā</i>. See <tam>ஆகா²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		157) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஹாகாரம்&searchhws=yes&matchtype=exact">ஹாஹாகாரம்</a> hāhākāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹாஹாகாரம்</tam> <t>hāhā-kāram</t></hw> , <i>n</i>. < <i>hāhā-kāra</i>. Cry, as in lamentation, etc.; <tam>துக்கம் முதலியவற்றால் புலம்பும் ஒலி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		158) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹாஹாவெனல்&searchhws=yes&matchtype=exact">ஹாஹாவெனல்</a> hāhāveṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹாஹாவெனல்</tam> <t>hāhā-v-eṉal</t></hw> , <i>n</i>. Onom. expr. (a) of laughter; <tam>சிரிப்பொலிக் குறிப்பு</tam>: (b) of wonder; <tam>ஆச்சரியக் குறிப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		159) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹி&searchhws=yes&matchtype=exact">ஹி</a> hi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹி</tam> <t>hi</t></hw> . The compound of <tam>ஹ்</tam> and <tam>இ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		160) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிஜிரி&searchhws=yes&matchtype=exact">ஹிஜிரி</a> hijiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிஜிரி</tam> <t>hijiri</t></hw> , <i>n</i>. < Arab. <i>hijiri</i>. 1. The flight of the Prophet Muhammad from Mecca to Medina; <tam>மக்காவினின்று மதினாவுக்கு முகம் மது நபிகள் தப்பியோடிய யாத்திரை</tam>. 2. The era commencing from the flight of the Prophet; <tam>முகம்மது நபிகளின் மதினாயாத்திரையினின்று கணக் கிடும் அப்தம். (பஞ்.)</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		161) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிஜ்ரா&searchhws=yes&matchtype=exact">ஹிஜ்ரா</a> hijrā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிஜ்ரா</tam> <t>hijrā</t></hw> , <i>n</i>. < Arab. <i>hijrā</i>. See <tam>ஹிஜிரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		162) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிடிம்பன்&searchhws=yes&matchtype=exact">ஹிடிம்பன்</a> hiṭimpaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிடிம்பன்</hw> - வீமனாற் கொல்லப்பட்ட வோரசுரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		163) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிடிம்பை&searchhws=yes&matchtype=exact">ஹிடிம்பை</a> hiṭimpai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிடிம்பை</hw> - ஹிடிம்பன்தங்கை, இவளை வீமன் காட்டகத்திற் கண்டு மணம் புரிந்தான், இவள் வயிற்றிற் பிறந்த புத்திரன் கடோத்கசன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		164) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிண்ரயகர்ப்பன்&searchhws=yes&matchtype=exact">ஹிண்ரயகர்ப்பன்</a> hiṇrayakarppaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிண்ரயகர்ப்பன்</hw> - பிரமன், விஷ்ணு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		165) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிதகாரி&searchhws=yes&matchtype=exact">ஹிதகாரி</a> hitakāri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிதகாரி</tam> <t>hita-kāri</t></hw> , <i>n</i>. < <i>hita-kārin</i>. Benefactor; <tam>நன்மைசெய்வோன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		166) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிதம்&searchhws=yes&matchtype=exact">ஹிதம்</a> hitam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிதம்</tam> <t>hitam</t></hw> , <i>n</i>. < <i>hita</i>. See <tam>இதம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		167) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிதோபதேசம்&searchhws=yes&matchtype=exact">ஹிதோபதேசம்</a> hitōpatēcam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிதோபதேசம்</tam> <t>hitōpatēcam</t></hw> , <i>n</i>. < <i>hitōpadēša</i>. See <tam>இதோபதேசம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		168) <a href="/cgi-bin/app/crea_query.py?qs=ஹிந்தி&searchhws=yes&matchtype=exact">ஹிந்தி</a> hinti
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=979">p. 979</a>)
+		<blockquote><p><hw>ஹிந்தி</hw> பெ. காண்க: இந்தி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		169) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிந்து&searchhws=yes&matchtype=exact">ஹிந்து</a> hintu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிந்து</tam> <t>hintu</t></hw> , <i>n</i>. < U. <i>Hindu</i> < <i>sindhu</i>. Hindu. See <tam>இந்து³</tam>, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		170) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிந்துஸ்தானம்&searchhws=yes&matchtype=exact">ஹிந்துஸ்தானம்</a> hintustāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிந்துஸ்தானம்</tam> <t>hintu-stāṉam</t></hw> , <i>n</i>. < id. + <i>sthāna</i>. See <tam>இந்துஸ்தானம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		171) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிந்துஸ்தானி&searchhws=yes&matchtype=exact">ஹிந்துஸ்தானி</a> hintustāṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிந்துஸ்தானி</tam> <t>hintustāṉi</t></hw> , <i>n</i>. < <tam>ஹிந்துஸ்தானம்</tam>. 1. Hindustani. See <tam>இந்துஸ்தானி</tam>. 2. (Mus.) The music of Northern India, dist. fr. <i>karnāṭakam</i>; <tam>வடநாட்டுச் சங்கீதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		172) <a href="/cgi-bin/app/crea_query.py?qs=ஹிந்துஸ்தானி சங்கீதம்&searchhws=yes&matchtype=exact">ஹிந்துஸ்தானி சங்கீதம்</a> hintustāṉi caṅkītam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>ஹிந்துஸ்தானி சங்கீதம்</hw> பெ. 1: வட இந்திய மரபில் வந்த இசை முறை; North Indian classical music.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		173) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிந்தோளம்&searchhws=yes&matchtype=exact">ஹிந்தோளம்</a> hintōḷam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிந்தோளம்</tam> <t>hintōḷam</t></hw> , <i>n</i>. < <i>Hindōla</i>. (Mus.) A melody-type. See <tam>இந்தோளம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		174) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிப்பா&searchhws=yes&matchtype=exact">ஹிப்பா</a> hippā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிப்பா</tam> <t>hippā</t></hw> , <i>n</i>. < Arab. <i>hibbā</i>. Gift. See <tam>இப்பா</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		175) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிப்பாதார்&searchhws=yes&matchtype=exact">ஹிப்பாதார்</a> hippātār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிப்பாதார்</tam> <t>hippā-tār</t></hw> , <i>n</i>. < U. <i>hibbā-dār</i>. Donor, giver; <tam>தானஞ்செய்பவன்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		176) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிப்பாநாமா&searchhws=yes&matchtype=exact">ஹிப்பாநாமா</a> hippānāmā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிப்பாநாமா</tam> <t>hippā-nāmā</t></hw> , <i>n</i>. < U. <i>hibbā-nāma</i>. Deed of gift; <tam>தானபத்திரம்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		177) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிமசுதன்&searchhws=yes&matchtype=exact">ஹிமசுதன்</a> himacutaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிமசுதன்</hw> - மைநாகன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		178) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிமசுதை&searchhws=yes&matchtype=exact">ஹிமசுதை</a> himacutai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிமசுதை</hw> - பார்வதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		179) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிமபரம்&searchhws=yes&matchtype=exact">ஹிமபரம்</a> himaparam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிமபரம்</hw> - ஓஷதிப்ரஸ்தம்ஏன்னும்ஹி மாலை ராஜதாநி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		180) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிமம்&searchhws=yes&matchtype=exact">ஹிமம்</a> himam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிமம்</hw> - பனி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		181) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிமம்&searchhws=yes&matchtype=exact">ஹிமம்</a> himam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிமம்</tam> <t>himam</t></hw> , <i>n</i>. < <i>hima</i>. Snow. See <tam>இமம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		182) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிமவான்&searchhws=yes&matchtype=exact">ஹிமவான்</a> himavāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிமவான்</tam> <t>himavāṉ</t></hw> , <i>n</i>. < <i>Hima-vān</i> nom. sing. of <i>Hima-vat</i>. See <tam>இமவான்</tam>. (<tam>தக்கயாகப். பக்</tam>. 109, <tam>கீழ்க்குறிப்பு</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		183) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிமான்&searchhws=yes&matchtype=exact">ஹிமான்</a> himāṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிமான்</hw> - ஹிமவந்தன், இமயமலைமேரு புத்ரியாகிய மநோரமை யென்னும் மேனையை மணம்புரிந்து பார்வதி யையும் கங்கையையும் பெண்களா கப் பெற்றுவளர்த்தவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		184) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிமாயம்&searchhws=yes&matchtype=exact">ஹிமாயம்</a> himāyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிமாயம்</hw> - இமயபர்வதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		185) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிமாலயம்&searchhws=yes&matchtype=exact">ஹிமாலயம்</a> himālayam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிமாலயம்</hw> - பனிமலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		186) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிமாலயம்&searchhws=yes&matchtype=exact">ஹிமாலயம்</a> himālayam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிமாலயம்</tam> <t>himālayam</t></hw> , <i>n</i>. < <i>Himālaya</i>. See <tam>இமாலயம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		187) <a href="/cgi-bin/app/crea_query.py?qs=ஹிம்சை&searchhws=yes&matchtype=exact">ஹிம்சை</a> himcai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>ஹிம்சை</hw> பெ. காண்க: இம்சை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		188) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிம்சை&searchhws=yes&matchtype=exact">ஹிம்சை</a> himcai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிம்சை</hw> - நிருதிமகள், அதர்மனமனைவி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		189) <a href="/cgi-bin/app/crea_query.py?qs=ஹிம்ஸி&searchhws=yes&matchtype=exact">ஹிம்ஸி</a> himsi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>ஹிம்ஸி</hw> வி. (ஹிம்ஸிக்க, ஹிம்ஸித்து) காண்க: இம்சி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		190) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிம்ஸை&searchhws=yes&matchtype=exact">ஹிம்ஸை</a> himsai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிம்ஸை</tam> <t>himsai</t></hw> , <i>n</i>. < <i>hiṃsā</i>. Harm, annoyance. See <tam>இமிசை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		191) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிரண்மயவருஷம்&searchhws=yes&matchtype=exact">ஹிரண்மயவருஷம்</a> hiraṇmayavaruṣam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிரண்மயவருஷம்</hw> - நவ வருஷங்களு ளொன்று, இது இளாவருதவர்ஷத் துக்கு வடக்கேயுள்ளது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		192) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிரண்யகசிபன்&searchhws=yes&matchtype=exact">ஹிரண்யகசிபன்</a> hiraṇyakacipaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிரண்யகசிபன்</hw> - காசிபனுக்குத் திதியி னிடத்துப் பிறந்தபுத்திரன், இவன் விஷ்ணு நரசிங்கா வதாரத்திற்கொல் லப்பட்டான், இவன் மூவுலகையும் வென்றவன், இவன்மகன் ப்ரஹலா தன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		193) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிரண்யநாபன்&searchhws=yes&matchtype=exact">ஹிரண்யநாபன்</a> hiraṇyanāpaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிரண்யநாபன்</hw> - ஸ்ரீராமன் மகனா கிய குசன் வமிசத்திற் பிறந்தவன் இவன் வைமிநிசீடனாகியயாஜ்ஞவல் கியரால் யோகமார்க்கம் உபதேசிக் கப்பெற்றவன், மைநாகன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		194) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிரண்யபுரம்&searchhws=yes&matchtype=exact">ஹிரண்யபுரம்</a> hiraṇyapuram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிரண்யபுரம்</hw> - நிவாத காலகேயர்களு டைதேசம், இது சமுத்திரத்திடை யே யுள்ளது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		195) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிரண்யம்&searchhws=yes&matchtype=exact">ஹிரண்யம்</a> hiraṇyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிரண்யம்</tam> <t>hiraṇyam</t></hw> , <i>n</i>. < <i>hiraṇya</i>. Gold. See <tam>இரணியம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		196) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிரண்யம்&searchhws=yes&matchtype=exact">ஹிரண்யம்</a> hiraṇyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிரண்யம்</tam> <t>hiraṇyaṉ</t></hw> , <i>n</i>. < <i>Hiraṇya</i>. See <tam>இரணியன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		197) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிரண்யரோமன்&searchhws=yes&matchtype=exact">ஹிரண்யரோமன்</a> hiraṇyarōmaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிரண்யரோமன்</hw> - நன்கு லோகபால கர்களுள் ஒருவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		198) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹிரண்யஶ்ராத்தம்&searchhws=yes&matchtype=exact">ஹிரண்யஶ்ராத்தம்</a> hiraṇyaśrāttam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹிரண்யஶ்ராத்தம்</tam> <t>hiraṇya-šrāttam</t></hw> , <i>n</i>. < <i>hiraṇya-šrāddha</i>. See <tam>இரணியசிராத்தம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		199) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிரண்யாக்ஷன்&searchhws=yes&matchtype=exact">ஹிரண்யாக்ஷன்</a> hiraṇyākṣaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிரண்யாக்ஷன்</hw> - ஹிரண்யகசிபன் தம்பி, தந்தை காசிபன், தாய், திதி, இவனும் இவன்தமையனும் சநகசந ந்தநர்களுடைய சாபத்தால் ராக்ஷசர் களாகப் பிறந்த ஜயவிஜயர்கள், இவ் விருவரும் விஷ்ணுத்வாரபாலகர்கள் இவர்கள் தவத்தினால் மிகு கர்வ முடையவர்களாகி, தேவர்களுக்குத் துன்பஞ் செய்துவருங் காலத்தில். விஷணுவினாற் கொல்லப்பட்டவர் கள், வசுதேவன் தம்பியாகிய சியா மகனது இரண்டாம் புத்திரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		200) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிரன்&searchhws=yes&matchtype=exact">ஹிரன்</a> hiraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிரன்</hw> - நைஷதம்செய்த ஹர்ஷன் தந் தை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		201) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிரஸ்வரோமஸ்&searchhws=yes&matchtype=exact">ஹிரஸ்வரோமஸ்</a> hirasvarōmas
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிரஸ்வரோமஸ்</hw> - சுவர்ணரோமன் புத் திரன், இவன் இரண்டாஞ் சநகன் தந்தை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		202) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிருதிகன்&searchhws=yes&matchtype=exact">ஹிருதிகன்</a> hirutikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிருதிகன்</hw> - போஜன்புத்திரன், இவன் புத்திரர் தேவமீடன், சத்தந்வன், கிருதவர்ணன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		203) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹிருஷிகேசன்&searchhws=yes&matchtype=exact">ஹிருஷிகேசன்</a> hiruṣikēcaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹிருஷிகேசன்</hw> - விஷ்ணு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		204) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹில்வலை&searchhws=yes&matchtype=exact">ஹில்வலை</a> hilvalai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹில்வலை</hw> - மிருகசீரிடநக்ஷத்திரத்தின து தலையிலுள்ளஉபநக்ஷத்திரங்களைந் தும் இப்பெயர்பெறும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		205) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹீ&searchhws=yes&matchtype=exact">ஹீ</a> hī
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹீ</tam> <t>hī</t></hw> . The compund of <tam>ஹ்</tam> and <tam>ஈ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		206) <a href="/cgi-bin/app/crea_query.py?qs=ஹீனம்&searchhws=yes&matchtype=exact">ஹீனம்</a> hīṉam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>ஹீனம்</hw> பெ. காண்க: ஈனம்2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		207) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹீனம்&searchhws=yes&matchtype=exact">ஹீனம்</a> hīṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹீனம்</tam> <t>hīṉam</t></hw> , <i>n</i>. < <i>hīna</i>. See <tam>ஈனம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		208) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹீஹீயெனல்&searchhws=yes&matchtype=exact">ஹீஹீயெனல்</a> hīhīyeṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹீஹீயெனல்</tam> <t>hīhī-y-eṉal</t></hw> , <i>n</i>. Onom. expr. of jeering; <tam>இகழ்ந்து நகைத்தற் குறிப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		209) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹு&searchhws=yes&matchtype=exact">ஹு</a> hu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹு</tam> <t>hu</t></hw> . The compound of <tam>ஹ்</tam> and <tam>உ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		210) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுகும்&searchhws=yes&matchtype=exact">ஹுகும்</a> hukum
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுகும்</tam> <t>hukum</t></hw> , <i>n</i>. See <tam>ஹுக்கும்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		211) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுக்கா&searchhws=yes&matchtype=exact">ஹுக்கா</a> hukkā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹுக்கா</tam> <t>hukkā</t></hw> , <i>n</i>. < Arab. <i>huqqā</i>. A kind of tobacco pipe; <tam>புகை குடிக்குங் கருவிவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		212) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுக்கும்&searchhws=yes&matchtype=exact">ஹுக்கும்</a> hukkum
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3923">p. 3923</a>)
+		<blockquote><p><hw><tam>ஹுக்கும்</tam> <t>hukkum</t></hw> , <i>n</i>. < U. <i>hukm</i>. Order, command; <tam>உத்திரவு</tam>. (<smallcap>W. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		213) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுக்கும்நாமா&searchhws=yes&matchtype=exact">ஹுக்கும்நாமா</a> hukkumnāmā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுக்கும்நாமா</tam> <t>hukkum-nāmā</t></hw> , <i>n</i>. < U. <i>hukm-nāmā</i>. (<smallcap>R. T</smallcap>.) 1. Written order; <tam>எழுத்துமூலமாகப் பிறப்பிக்கும் உத்திரவு</tam>. 2. Standing order or set of rules for the administration of the revenues of a district; <tam>ஜில்லா வருமானநிர்வாகத்தைப் பற்றிய நிரந்தர வுத்திரவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		214) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுங்காரம்&searchhws=yes&matchtype=exact">ஹுங்காரம்</a> huṅkāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுங்காரம்</tam> <t>huṅkāram</t></hw> , <i>n</i>. < <i>huṅ-kāra</i>. See <tam>உங்காரம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		215) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுசூர்&searchhws=yes&matchtype=exact">ஹுசூர்</a> hucūr
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுசூர்</tam> <t>hucūr</t></hw> , <i>n</i>. < Arab. <i>huzūr</i>. See <tam>உசூர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		216) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுசூர்க்கச்சேரி&searchhws=yes&matchtype=exact">ஹுசூர்க்கச்சேரி</a> hucūrkkaccēri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுசூர்க்கச்சேரி</tam> <t>hucūr-k-kaccēri</t></hw> , <i>n</i>. < id. +. See <tam>உசூர்க்கச்சேரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		217) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுஜூர்&searchhws=yes&matchtype=exact">ஹுஜூர்</a> hujūr
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுஜூர்</tam> <t>hujūr</t></hw> , <i>n</i>. See <tam>ஹுசூர்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		218) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுஜ்ஜத்&searchhws=yes&matchtype=exact">ஹுஜ்ஜத்</a> hujjat
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுஜ்ஜத்</tam> <t>hujjat</t></hw> , <i>n</i>. < Arab. <i>hujjat</i>. Obstacle; <tam>தடை</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		219) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுஜ்ஜத்காரன்&searchhws=yes&matchtype=exact">ஹுஜ்ஜத்காரன்</a> hujjatkāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுஜ்ஜத்காரன்</tam> <t>hujjat-kāraṉ</t></hw> , <i>n</i>. < <tam>ஹுஜ்ஜத்</tam> + <tam>காரன்¹</tam>. Person who obstructs an officer in the discharge of his duty; <tam>உத்தியோகஸ்தனை வேலை செய்யவொட்டாது தடுப்பவன்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		220) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுடாஹுடியாய்&searchhws=yes&matchtype=exact">ஹுடாஹுடியாய்</a> huṭāhuṭiyāy
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுடாஹுடியாய்</tam> <t>huṭāhuṭi-y-āy</t></hw> , <i>adv</i>. < Hind. <i>hūḍā-hūḍi</i> + <tam>ஆ⁶-</tam>. (<smallcap>C. G</smallcap>.) 1. With great effort; <tam>பிரயாசையோடு</tam>. 2. Swiftly; <tam>வேக மாய்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		221) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுண்டி&searchhws=yes&matchtype=exact">ஹுண்டி</a> huṇṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுண்டி</tam> <t>huṇṭi</t></hw> , <i>n</i>. < U. <i>huṇḍi</i>. See <tam>உண்டி³</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		222) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுண்டியல்&searchhws=yes&matchtype=exact">ஹுண்டியல்</a> huṇṭiyal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுண்டியல்</tam> <t>huṇṭiyal</t></hw> , <i>n</i>. Bill of exchange. See <tam>உண்டி³</tam>, 1. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		223) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுதஞ்செய்-தல்&searchhws=yes&matchtype=exact">ஹுதஞ்செய்-தல்</a> hutañcey-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுதஞ்செய்-தல்</tam> <t>hutañ-cey-</t></hw> , <i>v. tr</i>. < <i>huta</i> +. To offer oblations in the sacrificial fire; <tam>ஓமஞ்செய்தல்</tam>. (<smallcap>S. I. I</smallcap>. ii, 195.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		224) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுன்&searchhws=yes&matchtype=exact">ஹுன்</a> huṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுன்</tam> <t>huṉ</t></hw> , <i>n</i>. Pagoda, a gold coin of the value of Rs. 3½; <tam>வராகன்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		225) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹும்&searchhws=yes&matchtype=exact">ஹும்</a> hum
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹும்</tam> <t>hum</t></hw> , <i>int</i>. An exclamation indicating disapproval or dissatisfaction; <tam>அதிருப்தி யைக் காட்டுதற்கு அறிகுறியாக வழங்குஞ் சொல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		226) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுலூஸ்தீர்வை&searchhws=yes&matchtype=exact">ஹுலூஸ்தீர்வை</a> hulūstīrvai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுலூஸ்தீர்வை</tam> <t>hulūs-tīrvai</t></hw> , <i>n</i>. < E. <i>Hurdis</i> +. Assessment fixed in Dindigul, by Mr. Hurdis; <tam>ஹுர்டிஸ்துரையால் திண்டுக்கல் ஜில்லாவில் ஏற்படுத்தப்பட்ட தீர்வை</tam>. (<smallcap>R. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		227) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுஷார்&searchhws=yes&matchtype=exact">ஹுஷார்</a> huṣār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுஷார்</tam> <t>huṣār</t></hw> , <i>n</i>. < U. <i>hushyār</i>. 1. See <tam>உஷார்</tam>. (<smallcap>C. G</smallcap>.) 2. A word uttered as a warning meaning 'beware'; <tam>சாக்கிரதை என்று பொருள்படும் எச்சரிக்கைச் சொல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		228) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுஷியார்&searchhws=yes&matchtype=exact">ஹுஷியார்</a> huṣiyār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுஷியார்</tam> <t>huṣiyār</t></hw> , <i>n</i>. See <tam>ஹுஷார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		229) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹுஸூர்&searchhws=yes&matchtype=exact">ஹுஸூர்</a> husūr
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹுஸூர்</tam> <t>husūr</t></hw> , <i>n</i>. See <tam>ஹுசூர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		230) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹூ&searchhws=yes&matchtype=exact">ஹூ</a> hū
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹூ</tam> <t>hū</t></hw> . The compound of <tam>ஹ்</tam> and <tam>ஊ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		231) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹூணதேசம்&searchhws=yes&matchtype=exact">ஹூணதேசம்</a> hūṇatēcam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹூணதேசம்</hw> - ஹூணர்களுடைய தேசம், இத்தேசத்தவர் யவநர் ஏன வும்படுவர், ஹூணர் - வண்ணிற முடையவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		232) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹூணன்&searchhws=yes&matchtype=exact">ஹூணன்</a> hūṇaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹூணன்</tam> <t>hūṇaṉ</t></hw> , <i>n</i>. < <i>hūṇa</i>. 1. See <tam>ஊணன்¹</tam>. 2. Foreigner; <tam>அயல்நாட்டான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		233) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹூஹூ&searchhws=yes&matchtype=exact">ஹூஹூ</a> hūhū
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1335">p. 1335</a>)
+		<blockquote><p><hw>ஹூஹூ</hw> - ஒரு கந்தருவன், இவன் ஒருசாபத்தால் முதலையாய்க் கடந்து கஜேந்திரன் ஏன்னும் யானையைப் பிடித்தபோது விஷ்ணுவினாற்கொ ல்லப்பட்டவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		234) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹூஹூ&searchhws=yes&matchtype=exact">ஹூஹூ</a> hūhū
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹூஹூ</tam> <t>hūhū</t></hw> , <i>n</i>. < <i>Hūhū</i>. See <tam>ஊகூ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		235) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹூஹூவெனல்&searchhws=yes&matchtype=exact">ஹூஹூவெனல்</a> hūhūveṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹூஹூவெனல்</tam> <t>hūhū-v-eṉal</t></hw> , <i>n</i>. See <tam>கூகூவெனல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		236) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹெ&searchhws=yes&matchtype=exact">ஹெ</a> he
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹெ</tam> <t>he</t></hw> . The compound of <tam>ஹ்</tam> and <tam>எ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		237) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹெஜீப்&searchhws=yes&matchtype=exact">ஹெஜீப்</a> hejīp
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹெஜீப்</tam> <t>hejīp</t></hw> , <i>n</i>. 1. Deputy, delegate; <tam>பிரதிநிதி</tam>. 2. Mirasdar's agent for obtaining information from the Taluk office about revenue matters; <tam>தாலூக்காக் கச்சேரியினின்றும் அரசிறைவிஷயங்களை மிராசுதாரின் பொருட்டு அறிந்து வருங் காரியஸ்தன்</tam>. (<smallcap>R. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		238) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹே&searchhws=yes&matchtype=exact">ஹே</a> hē
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹே¹</tam> <t>hē</t></hw> . The compound of <tam>ஹ்</tam> and <tam>ஏ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		239) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹே&searchhws=yes&matchtype=exact">ஹே</a> hē
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹே²</tam> <t>hē</t></hw> , <i>int</i>. An interjection. See <tam>ஏ⁵</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		240) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேட்டு&searchhws=yes&matchtype=exact">ஹேட்டு</a> hēṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேட்டு</tam> <t>hēṭṭu</t></hw> , <i>n</i>. < E. <i>head</i>. Police head constable. See <tam>ஏட்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		241) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேதி&searchhws=yes&matchtype=exact">ஹேதி</a> hēti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேதி</hw> - சிருட்டிகாலத்தில் பிரமனால் படைக்கப்பட்ட ராக்ஷஸராஜன், இ வன் மனைவி காலக்நி யென்னும் பயை, புத்திரன் வித்யுத்கேசன், இ வன் மாலியவந்தன் முதலாகிய ரா க்ஷஸவமிஸத்துக்கு மூலபுருஷன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		242) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேது&searchhws=yes&matchtype=exact">ஹேது</a> hētu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேது</tam> <t>hētu</t></hw> , <i>n</i>. < <i>hētu</i>. See <tam>ஏது³</tam>, 1, 2, 3, 5, 6, 7, 8.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		243) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேதுப்ரபவதர்மம்&searchhws=yes&matchtype=exact">ஹேதுப்ரபவதர்மம்</a> hētuprapavatarmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேதுப்ரபவதர்மம்</tam> <t>hētu-prapava-tarmam</t></hw> , <i>n</i>. < id. + <i>prabhava</i> +. (Buddh.) See <tam>ஏதுநிகழ்ச்சி</tam>. (<tam>மணி</tam>. 3, 4, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		244) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேத்தி&searchhws=yes&matchtype=exact">ஹேத்தி</a> hētti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேத்தி</tam> <t>hētti</t></hw> , <i>n</i>. Leech of square sails; <tam>சதுரப்பாய்களின் பக்க விளிம்பு</tam>. (<tam>மாலுமிசா</tam>. 217.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		245) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேத்தியாலத்து&searchhws=yes&matchtype=exact">ஹேத்தியாலத்து</a> hēttiyālattu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேத்தியாலத்து</tam> <t>hētti-y-ālattu</t></hw> , <i>n</i>. < <tam>ஹேத்தி</tam> +. Leech-lines, ropes attached to the leech of a sail to hoist it by; <tam>சதுரமான பாய்களின் பக்கவோரங்களிற் கட்டியிருக்குங் கயிறு</tam>. (<tam>மாலுமிசா</tam>. 87.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		246) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேமசந்திரன்&searchhws=yes&matchtype=exact">ஹேமசந்திரன்</a> hēmacantiraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேமசந்திரன்</hw> - விசாலன், புத்திரன், சாலிவாகநசகாப்தம் ஒரு ஸம்ஸ்க்ருத கவி, இவர் தம் பெயரால் ஒரு நிக ண்டு செய்தவர், அது ஹேமசந்திர கோசம் ஏனப்படும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		247) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேமந்தம்&searchhws=yes&matchtype=exact">ஹேமந்தம்</a> hēmantam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேமந்தம்</tam> <t>hēmantam</t></hw> , <i>n</i>. < <i>hēmanta</i>. A ṛtu. See <tam>ஏமந்தருது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		248) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேமன்&searchhws=yes&matchtype=exact">ஹேமன்</a> hēmaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேமன்</hw> - ஜயத்திரதன்புத்திரன், பலிக் குப்பாட்டன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		249) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேமம்&searchhws=yes&matchtype=exact">ஹேமம்</a> hēmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேமம்</tam> <t>hēmam</t></hw> , <i>n</i>. < <i>hēman</i>. Gold. See <tam>ஏமம்³</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		250) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேமலம்ப&searchhws=yes&matchtype=exact">ஹேமலம்ப</a> hēmalampa
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3924">p. 3924</a>)
+		<blockquote><p><hw><tam>ஹேமலம்ப</tam> <t>hēmalampa</t></hw> , <i>n</i>. < <i>Hēmalamba</i>. The 31st year of the Jupiter cycle. See <tam>ஏவிளம்பி. (பஞ்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		251) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேமவடம்&searchhws=yes&matchtype=exact">ஹேமவடம்</a> hēmavaṭam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேமவடம்</hw> - மேருவுக்குத் தென்றிசை நுனியிலேயுள்ள மலைகளுளொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		252) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேமவதி&searchhws=yes&matchtype=exact">ஹேமவதி</a> hēmavati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>ஹேமவதி</tam> <t>hēmavati</t></hw> , <i>n</i>. (Mus.) A primary <i>rāga</i>; <tam>மேளகர்த்தாக்களு ளொன்று</tam>. (<tam>சங். சந்</tam>. 47.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		253) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேமாங்கன்&searchhws=yes&matchtype=exact">ஹேமாங்கன்</a> hēmāṅkaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேமாங்கன்</hw> - வசுதேவனுக்கு யோசனை யிடத்துப்பிறந்த புத்திரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		254) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேமாத்திரி&searchhws=yes&matchtype=exact">ஹேமாத்திரி</a> hēmāttiri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேமாத்திரி</hw> - மேருமலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		255) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேமாரவிந்தபரிமள நியாயம்&searchhws=yes&matchtype=exact">ஹேமாரவிந்தபரிமள நியாயம்</a> hēmāravintaparimaḷa niyāyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹேமாரவிந்தபரிமள நியாயம்</tam> <t>hemāravinta-parimaḷa-niyāyam</t></hw> , <i>n</i>. < <i>hēmāravinda</i> + <i>parimala</i> +. (Log.) A Nyāya in illustration of an excellence of one kind co-existing with an excellence of another kind, as a lotus made of gold having the fragrance of the lotus; <tam>பொன்னா லியன்ற தாமரை நறுமணமுமுடையதாய் இருப்பது போலச் சிறந்ததொன்று வேறொரு சிறப்பினையும் பெற்றுள்ளதாகக் கூறும் நெறி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		256) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேமை&searchhws=yes&matchtype=exact">ஹேமை</a> hēmai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேமை</hw> - ஒரு அப்சரஸ்திரீ.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		257) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேயம்&searchhws=yes&matchtype=exact">ஹேயம்</a> hēyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹேயம்</tam> <t>hēyam</t></hw> , <i>n</i>. < <i>hēya</i>. See <tam>ஏயம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		258) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேளனம்&searchhws=yes&matchtype=exact">ஹேளனம்</a> hēḷaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹேளனம்</tam> <t>hēḷaṉam</t></hw> , <i>n</i>. < <i>hēlana</i>. Jeer. See <tam>ஏளனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		259) <a href="/cgi-bin/app/crea_query.py?qs=ஹேஷ்யம்&searchhws=yes&matchtype=exact">ஹேஷ்யம்</a> hēṣyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>ஹேஷ்யம்</hw> பெ. 1: ஊகம்; மேலோட்டமான கணிப்பு; conjecture; a rough estimate. 'நீ ஹேஷ்யமாகத்தான் சொன்னாய், இருந்தாலும் அது உண்மையாகிவிட்டது'.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		260) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேஷ்யம்&searchhws=yes&matchtype=exact">ஹேஷ்யம்</a> hēṣyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹேஷ்யம்</tam> <t>hēṣyam</t></hw> , <i>n</i>. < <i>ēṣya</i>. 1. That which is inferred; <tam>ஊகிக்கப்பட்டது</tam>. 2. That which is desired; <tam>விரும்பப்பட்டது</tam>. 3. See <tam>ஏஷ்யம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		261) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹேஹயன்&searchhws=yes&matchtype=exact">ஹேஹயன்</a> hēhayaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹேஹயன்</hw> - சதஜித்து மூன்றாம் புத்தி ரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		262) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹேஹயர்&searchhws=yes&matchtype=exact">ஹேஹயர்</a> hēhayar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹேஹயர்</tam> <t>hēhayar</t></hw> , <i>n</i>. < <i>haihaya</i>. See <tam>ஏயர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		263) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹை&searchhws=yes&matchtype=exact">ஹை</a> hai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹை</tam> <t>hai</t></hw> . The compound of <tam>ஹ்</tam> and <tam>ஐ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		264) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹைக்கோர்ட்டு&searchhws=yes&matchtype=exact">ஹைக்கோர்ட்டு</a> haikkōrṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹைக்கோர்ட்டு</tam> <t>hai-k-kōrṭṭu</t></hw> , <i>n</i>. < E. High Court; <tam>உயர்தர நீதிமன்றம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		265) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹைக்கோர்ட்டுப்பப்பளி&searchhws=yes&matchtype=exact">ஹைக்கோர்ட்டுப்பப்பளி</a> haikkōrṭṭuppappaḷi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹைக்கோர்ட்டுப்பப்பளி</tam> <t>haikkōrṭṭu-p-pappaḷi</t></hw> , <i>n</i>. < <tam>ஹைக்கோர்ட்டு</tam> +. A kind of saree; <tam>சேலைவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		266) <a href="/cgi-bin/app/tamil-idioms_query.py?qs=ஹைதர் காலம்&searchhws=yes&matchtype=exact">ஹைதர் காலம்</a> haitar kālam
+		from <a href="/dictionaries/tamil-idioms/"><i>"Taṟkālat Tamiḻ maraputtoṭar akarāti"</i></a>
+		(<a href="/cgi-bin/app/tamil-idioms_query.py?page=353">p. 353</a>)
+		<blockquote><p><hw>ஹைதர் காலம்</hw> <nmbr>1937</nmbr> <b>1:</b> (நாகரிகக் குறைவாக இன்று கருதப்படும் பழக்கங்கள், பொருள்கள் வழக்கில் இருந்த) பழைய காலம்; (belonging to) another age; bygone era. பதினாறு முழப் புடவை கட்டுவதெல்லாம் ஹைதர் காலத்துப் பழக்கம்!/ ஊருக்குப் போகப் பெட்டி இல்லை என்றவுடன் அம்மா ஒரு ஹைதர் காலத்து பெட்டியைக் கொண்டுவந்து கொடுத்தாள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		267) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹைரம்பம்&searchhws=yes&matchtype=exact">ஹைரம்பம்</a> hairampam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹைரம்பம்</hw> - ஒருமலை, ஒது மணிபுரத்த ருகேகபிலநதிக்கு உத்பத்திஸ்த்தாந மாயுள்ளது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		268) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹைராமி&searchhws=yes&matchtype=exact">ஹைராமி</a> hairāmi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹைராமி</tam> <t>hairāmi</t></hw> , <i>n</i>. < U. <i>hairānī</i>. Trouble, annoyance; <tam>உபத்திரவம். அவன் ஹைராமி என்ன சொல்லுவேன்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		269) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஹைஹயம்&searchhws=yes&matchtype=exact">ஹைஹயம்</a> haihayam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1336">p. 1336</a>)
+		<blockquote><p><hw>ஹைஹயம்</hw> - கார்த்தவீரியார்ஜுநன் அரசாண்டதேசம் இத நர்மதாநதி தீரத்திலுள்ளது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		270) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹைஹயர்&searchhws=yes&matchtype=exact">ஹைஹயர்</a> haihayar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹைஹயர்</tam> <t>haihayar</t></hw> , <i>n</i>. < <i>haihaya</i>. See <tam>ஏயர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		271) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹைஹையெனல்&searchhws=yes&matchtype=exact">ஹைஹையெனல்</a> haihaiyeṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹைஹையெனல்</tam> <t>hai-hai-y-eṉal</t></hw> , <i>n</i>. Onom. expr. of urging vehemently or of driving fast; <tam>வெருட்டுதற் குறிப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		272) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹொ&searchhws=yes&matchtype=exact">ஹொ</a> ho
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹொ</tam> <t>ho</t></hw> . The compound of <tam>ஹ்</tam> and <tam>ஒ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		273) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோ&searchhws=yes&matchtype=exact">ஹோ</a> hō
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோ</tam> <t>hō</t></hw> . The compound of <tam>ஹ்</tam> and <tam>ஓ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		274) <a href="/cgi-bin/app/crea_query.py?qs=ஹோட்டல்&searchhws=yes&matchtype=exact">ஹோட்டல்</a> hōṭṭal
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>ஹோட்டல்</hw> பெ. காண்க: ஓட்டல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		275) <a href="/cgi-bin/app/crea_query.py?qs=ஹோதா&searchhws=yes&matchtype=exact">ஹோதா</a> hōtā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>ஹோதா</hw> பெ. 1: (ஒரு சூழலில் ஒருவருடைய) நிலை; position of authority; capacity. எந்த ஹோதாவில் அவன் இப்படிப் பேசுகிறான்?/ குடும்பத் தலைவன் என்ற ஹோதாவில் இதைச் சொல்லியிருப்பார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		276) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோதா&searchhws=yes&matchtype=exact">ஹோதா</a> hōtā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோதா</tam> <t>hōtā</t></hw> , <i>n</i>. < U. <i>uhdā</i>. Position, status; <tam>நிலைமை</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		277) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோபலி&searchhws=yes&matchtype=exact">ஹோபலி</a> hōpali
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோபலி</tam> <t>hōpali</t></hw> , <i>n</i>. Sub-division of a district; <tam>ஜில்லாவின் உட்பகுதி</tam>. (<smallcap>R. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		278) <a href="/cgi-bin/app/crea_query.py?qs=ஹோமம்&searchhws=yes&matchtype=exact">ஹோமம்</a> hōmam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>ஹோமம்</hw> பெ. 1: யாகத்திற்கான நெருப்பு; sacrificial fire. ஹோமம் வளர்த்துச் செய்யும் யாகம்/ கணபதி ஹோமம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		279) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோமம்&searchhws=yes&matchtype=exact">ஹோமம்</a> hōmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோமம்</tam> <t>hōmam</t></hw> , <i>n</i>. < <i>hōma</i>. Oblation through fire. See <tam>ஓமம்²</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		280) <a href="/cgi-bin/app/crea_query.py?qs=ஹோமியோபதி&searchhws=yes&matchtype=exact">ஹோமியோபதி</a> hōmiyōpati
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>ஹோமியோபதி</hw> பெ. 1: குறிப்பிட்ட ஒரு நோய் எந்தப் பொருளால் உண்டாகிறதோ அதையே மிகச் சிறு அளவில் மருந்தாகப் பயன்படுத்தி நோயை குணப்படுத்தும் மருத்துவ முறை; homeopathy. ஹோமியோபதி மருத்துவர்கள் ஆங்கில மருத்துவ முறைகளைக் கையாளக் கூடாது என்று அரசு அறிவித்துள்ளது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		281) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோராஶாஸ்த்ரம்&searchhws=yes&matchtype=exact">ஹோராஶாஸ்த்ரம்</a> hōrāśāstram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோராஶாஸ்த்ரம்</tam> <t>hōrā-šāstram</t></hw> , <i>n</i>. < <i>hōrā</i> +. Astrology; <tam>சோதிடம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		282) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோரை&searchhws=yes&matchtype=exact">ஹோரை</a> hōrai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோரை</tam> <t>hōrai</t></hw> , <i>n</i>. < <i>hōrā</i>. 1. See <tam>ஓரை²</tam>. 2. Half of a zodiacal sign; <tam>இராசியின் நேர்பாதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		283) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோளகம்&searchhws=yes&matchtype=exact">ஹோளகம்</a> hōḷakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோளகம்</tam> <t>hōḷakam</t></hw> , <i>n</i>. < <i>hōlakā</i>. See <tam>ஹோளி. (திவ். திருப்பா. அவ. அரும்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		284) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோளாதிகரணநியாயம்&searchhws=yes&matchtype=exact">ஹோளாதிகரணநியாயம்</a> hōḷātikaraṇaniyāyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோளாதிகரணநியாயம்</tam> <t>hōḷātikaraṇa-niyāyam</t></hw> , <i>n</i>. < <i>hōlā</i> + <i>adhi-karaṇa</i> +. A Nyāya in illustration of the principle of following an ancient custom, even though not ordained by Šāstras, as the observance of <i>hōḷi-p-paṇṭikai</i>; <tam>ஹோளிப்பண்டிகையை அனுஷ்டிப் பது போன்று சாஸ்திராதாரமின்றிச் சிஷ்டாசாரத்தை யொட்டி ஒழுகுவதைக் கூறும் நெறி. (திவ். திருப்பா. அவ.)</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		285) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோளி&searchhws=yes&matchtype=exact">ஹோளி</a> hōḷi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோளி</tam> <t>hōḷi</t></hw> , <i>n</i>. < Hind. <i>hōlī</i> < <i>hōlā</i>. See <tam>ஹோளிப்பண்டிகை. (பஞ்.)</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		286) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோளிகை&searchhws=yes&matchtype=exact">ஹோளிகை</a> hōḷikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோளிகை</tam> <t>hōḷikai</t></hw> , <i>n</i>. < <i>hōlikā</i>. See <tam>ஹோளிப்பண்டிகை. (பஞ்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		287) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோளிப்பண்டிகை&searchhws=yes&matchtype=exact">ஹோளிப்பண்டிகை</a> hōḷippaṇṭikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோளிப்பண்டிகை</tam> <t>hōḷi-p-paṇṭikai</t></hw> , <i>n</i>. < <tam>ஹோளி</tam> +. A spring festival. See <tam>காமன்பண்டிகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		288) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோளை&searchhws=yes&matchtype=exact">ஹோளை</a> hōḷai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோளை</tam> <t>hōḷai</t></hw> , <i>n</i>. < <i>hōlā</i>. See <tam>ஹோளி. (திவ். திருப்பா. அவ. அரும்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		289) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோளோத்ஸவம்&searchhws=yes&matchtype=exact">ஹோளோத்ஸவம்</a> hōḷōtsavam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோளோத்ஸவம்</tam> <t>hōḷōtsavam</t></hw> , <i>n</i>. < <i>hōlōtsava</i>. See <tam>ஹோளிப்பண்டிகை. (திவ். திருப்பா. அவ. அரும்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		290) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோவெனல்&searchhws=yes&matchtype=exact">ஹோவெனல்</a> hōveṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோவெனல்</tam> <t>hō-v-eṉal</t></hw> , <i>n</i>. Onom. expr. of (a) loud noise; <tam>பேரிரைச்சற் குறிப்பு</tam>: (b) echoing noise; <tam>பிரதித்தொனிக் குறிப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		291) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹோஹோவெனல்&searchhws=yes&matchtype=exact">ஹோஹோவெனல்</a> hōhōveṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹோஹோவெனல்</tam> <t>hōhō-v-eṉal</t></hw> , <i>n</i>. Onom. expr. of (a) loud and continued noise; <tam>தொடர்ச்சியான பேரிரைச்சலின் குறிப்பு</tam>: (b) echoing sound; <tam>பிரதித்தொனிக் குறிப்பு</tam>: (c) accomplishing in a grand manner; <tam>அதிவிமரிசையாகச் செய்தற் குறிப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		292) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹௌ&searchhws=yes&matchtype=exact">ஹௌ</a> hau
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹௌ</tam> <t>hau</t></hw> . The compound of <tam>ஹ்</tam> and <tam>ஔ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		293) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹௌதா&searchhws=yes&matchtype=exact">ஹௌதா</a> hautā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>ஹௌதா</tam> <t>hautā</t></hw> , <i>n</i>. < Arab. <i>haudā</i>. Howdah. See <tam>ஔதா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		294) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹ்&searchhws=yes&matchtype=exact">ஹ்</a> h
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹ்</tam> <t>h</t></hw> . Aspirate.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		295) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹ்ரஸ்வம்&searchhws=yes&matchtype=exact">ஹ்ரஸ்வம்</a> hrasvam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹ்ரஸ்வம்</tam> <t>hrasvam</t></hw> , <i>n</i>. < <i>hrasva</i>. 1. Defect, deficiency; <tam>குறைவு</tam>. 2. Short letter; <tam>குறில்</tam>. 3. Shortness; <tam>குள்ளம்</tam>. 4. Emptiness, non-existence; <tam>இல்லாமை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		296) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹ்ருதயம்&searchhws=yes&matchtype=exact">ஹ்ருதயம்</a> hrutayam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3920">p. 3920</a>)
+		<blockquote><p><hw><tam>ஹ்ருதயம்</tam> <t>hrutayam</t></hw> , <i>n</i>. < <i>hṛdaya</i>. Heart. See <tam>இருதயம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		297) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஹ்ருதீகரி-த்தல்&searchhws=yes&matchtype=exact">ஹ்ருதீகரி-த்தல்</a> hrutīkari-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>ஹ்ருதீகரி-த்தல்</tam> <t>hrutīkari-</t></hw> , <i>11 v. tr</i>. < <i>hṛd</i> + <i>kṛ</i>. To be mindful; to remember; <tam>மனதிலே நினைத்தல். ஈடுபடுகிற அர்த்தங்களை யெல்லாம் ஹ்ருதீ கரித்து</tam> (<tam>ஈடு</tam>, 1, 2, 6, <tam>ஜீ</tam>.).</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

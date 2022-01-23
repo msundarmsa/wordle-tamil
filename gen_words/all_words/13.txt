@@ -1,0 +1,2139 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>க்</b>
+                       <div id='no_results'>
+                                191 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்&searchhws=yes&matchtype=exact">க்</a> k
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=633">p. 633</a>)
+		<blockquote><p><hw><tam>க்</tam> <t>k</t></hw> . The first consonant being the guttural voiceless stop; <tam>நெடுக்கணக்கில் முதன்மெய்யெ ழுத்து</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/winslow_query.py?qs=க்கு&searchhws=yes&matchtype=exact">க்கு</a> kku
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw><tam>க்கு</tam></hw> ........Until.........<tam>?</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்கு-தல்&searchhws=yes&matchtype=exact">க்கு-தல்</a> kku-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1822">p. 1822</a>)
+		<blockquote><p><hw><tam>க்கு¹-தல்</tam> <t>tākku-</t></hw> , <i>5 v. intr</i>. 1. [T. <i>tāku</i>, K. <i>tāgu</i>.] To come in contact, collide, strike against, as a vessel on a rock; <tam>மோதுதல். கப்பல் பாறையில் தாக்கியது</tam>. 2. To affect, as one's interest or health; <tam>உறைத்தல். நோய் சரீரத்திலே தாக்கியது</tam>. 3. To be severe, harsh, as in reproof; <tam>கடுமையாதல்.</tam> 4. To take revenge; <tam>பழிவாங்கு தல். பழைய கோபமெல்லாம் வைத்துத் தாக்கினான்.</tam> (<smallcap>W</smallcap>.) 5. To interfere; <tam>தலையிட்டுக்கொள்ளுதல்</tam>. (<smallcap>W</smallcap>.) 6. To involve, as consequences; <tam>பலித் தல்</tam>. (<smallcap>W</smallcap>.) 7, To increase; <tam>பெருகுதல். அருளா னந்தந் தாக்கவும்</tam> (<tam>தாயு. ஆக்குவை</tam>. 1). 8. To fall heavily, as charges, expenses; to press heavily, as a burden, as responsibility; <tam>பாரமாதல்</tam>. 9. To react, rebound; <tam>அதைத்தல்</tam>. (<smallcap>W</smallcap>.) 10. To hobble, limp; <tam>நெளித்துப்போதல்</tam>. (<smallcap>W</smallcap>.) — <i>tr</i>. 1. To attack, assault; <tam>எதிர்த்தல். ஒருத்தலோ டாய் பொறி யுழுவை தாக்கிய</tam> (<tam>கலித்</tam>. 46). 2. To strike, beat, dash; <tam>அடித்தல்</tam>. 3. To cut, cut off; <tam>வெட்டு தல். அருஞ்சமம் ததையத் தாக்கி</tam> (<tam>புறநா</tam>. 126). 4. To butt; <tam>முட்டுதல். மாடு கொம்பால் தாக்கிற்று</tam>. 5. To pounce or dart upon, attack, charge; <tam>பாய்ந்துமோதுதல். பொருதகர் தாக்கற்குப் பேருந் தகைத்து</tam> (<tam>குறள்</tam>, 486). 6. To touch, strike, come in contact with, as heat; to burst on the sight, as lightning; to beat against; to penetrate, as a sting; <tam>தீண்டுதல். மருந்து தன்னைத் தாக்குதன் முன்னே</tam> (<tam>கம்பரா. வேலேற்று</tam>. 42). 7. To rest upon, depend on, lean against; <tam>பற்றியிருத்தல்</tam>. 8. To adjust or settle, as accounts; to increase the profits of an article; to make up for losses; <tam>சரிக்கட்டுதல்</tam>. 9. (Arith.) To multiply; <tam>பெருக்கு தல். நின்றதோ ரேழிற் றாக்கி நேர்பட வெட்டுக்கீந் தால் (சோதிடவிடுகவி: சங். அக.)</tam>. 10. [T. <i>tāgu</i>.] To consume, drink; <tam>குடித்தல். கள்ளை நிறையத் தாக்கிவிட்டான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷ&searchhws=yes&matchtype=exact">க்ஷ</a> kṣa
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷ</tam></hw> , <i>s. a grantha</i> letter compounded of <tam>க்</tam> &amp; <tam>ஷ</tam>. In Tamil it is represented by <tam>ட்ச</tam>, <tam>ச்ச</tam>, <tam>க்</tam> or <tam>ச்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷ&searchhws=yes&matchtype=exact">க்ஷ</a> kṣa
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷ</hw> - ஒரு ஸம்ஸ்கிருத ஏழுத்து.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷ&searchhws=yes&matchtype=exact">க்ஷ</a> kṣa
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>க்ஷ</tam> <t>kṣa</t></hw> . The compound of <tam>க்ஷ்</tam> and <tam>அ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷ&searchhws=yes&matchtype=exact">க்ஷ</a> kṣa
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=530">p. 530</a>)
+		<blockquote><p><hw><tam>க்ஷ</tam></hw> . A Grant'ha syllabic letter compounded of <tam>க்</tam> and <tam>ஷ</tam>, usually represented in Tamil by <tam>ட்ச</tam>, <tam>க்க</tam>, <tam>ச்ச</tam>, <tam>க்</tam>, or <tam>ச்</tam>, as <tam>அக்ஷரம்</tam>, <tam>அட்சரம்</tam>, <tam>அக்கரம்</tam>, <tam>தக்ஷன்</tam>, <tam>தச்சன்</tam>, <tam>க்ஷாரம்</tam>, <tam>காரம்</tam>, <tam>சாரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷணனம்&searchhws=yes&matchtype=exact">க்ஷணனம்</a> kṣaṇaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷணனம்</tam> <t>kṣaṇaṉam</t></hw> , <i>n</i>. < <tam>க்ஷணி-</tam>. Invitation; <tam>அழைப்பு</tam>. <i>Nāñ</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷணபங்கம்&searchhws=yes&matchtype=exact">க்ஷணபங்கம்</a> kṣaṇapaṅkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>க்ஷணபங்கம்</tam> <t>kṣaṇa-paṅkam</t></hw> , <i>n</i>. < <i>kṣaṇa</i> + <i>bhaṅga</i>. See <tam>கணபங்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷணபவபங்கம்&searchhws=yes&matchtype=exact">க்ஷணபவபங்கம்</a> kṣaṇapavapaṅkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷணபவபங்கம்</tam> <t>kṣaṇa-pava-paṅkam</t></hw> , <i>n</i>. < id. + <i>bhava</i> + <i>bhaṅga</i>. See <tam>கணபங்கம். சந்தி ரன் பௌத்தசமயத்தானென்றுணர்க; க்ஷணபவபங்கத் தால்</tam> (<tam>தக்கயாகப்</tam>. 183, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/crea_query.py?qs=க்ஷணம்&searchhws=yes&matchtype=exact">க்ஷணம்</a> kṣaṇam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>க்ஷணம்</hw> பெ. [அ.வ.] 1: கணம்; moment.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷணம்&searchhws=yes&matchtype=exact">க்ஷணம்</a> kṣaṇam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷணம்</tam></hw> , <tam>கணம்</tam>, <tam>சணம்</tam>, <i>s.</i> an instant, a moment. <p2><tam>த்க்ஷணமே</tam>, <tam>க்ஷணமே</tam>, the same moment.</p2> <p2><tam>க்ஷணப்பொழுது</tam>, a moment's time.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷணம்&searchhws=yes&matchtype=exact">க்ஷணம்</a> kṣaṇam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷணம்</hw> - கணம், சணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷணம்&searchhws=yes&matchtype=exact">க்ஷணம்</a> kṣaṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷணம்</tam> <t>kṣaṇam</t></hw> , <i>n</i>. < <i>kṣaṇa</i>. Moment. See <tam>கணம்⁵</tam>. (<tam>தக்கயாகப்</tam>. 183, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷணம்&searchhws=yes&matchtype=exact">க்ஷணம்</a> kṣaṇam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=530">p. 530</a>)
+		<blockquote><p><hw><tam>க்ஷணம்</tam></hw> , <i>s.</i> An instant, a moment. See <tam>கணம்</tam>, <tam>சணம்</tam>. <i>(c.)</i> <p2><tam>தக்ஷணம்</tam>, <i>s.</i> The same moment.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷணி-த்தல்&searchhws=yes&matchtype=exact">க்ஷணி-த்தல்</a> kṣaṇi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷணி-த்தல்</tam> <t>kṣaṇi-</t></hw> , <i>11 v. tr</i>. < M. <i>kṣaṇi</i>. To invite; <tam>அழைத்தல்</tam>. <i>Nāñ</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷணிகம்&searchhws=yes&matchtype=exact">க்ஷணிகம்</a> kṣaṇikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷணிகம்</tam> <t>kṣaṇikam</t></hw> , <i>n</i>. < <i>kṣaṇika</i>. See <tam>கணிகம்²</tam>. (<tam>மணி</tam>. 27, 191, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷணிகலிங்கம்&searchhws=yes&matchtype=exact">க்ஷணிகலிங்கம்</a> kṣaṇikaliṅkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷணிகலிங்கம்</tam> <t>kṣaṇika-liṅkam</t></hw> , <i>n</i>. < <i>kṣaṇika-liṅga</i>. See <tam>கணிகம்²</tam>. (<tam>மீனாட். சரித்</tam>. 1, 27.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷணிகாசலம்&searchhws=yes&matchtype=exact">க்ஷணிகாசலம்</a> kṣaṇikācalam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷணிகாசலம்</hw> - தணிகாசலம், திருத்தணி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷதசுக்கிலம்&searchhws=yes&matchtype=exact">க்ஷதசுக்கிலம்</a> kṣatacukkilam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷதசுக்கிலம்</tam> <t>kṣata-cukkilam</t></hw> , <i>n</i>. < <i>kṣata</i> +. Ulcer of the cornea; <tam>கண்களின் சவ்வி லுண்டாகும் ரோகம்</tam>. (<tam>இங். வை</tam>. 364.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷதரோகம்&searchhws=yes&matchtype=exact">க்ஷதரோகம்</a> kṣatarōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷதரோகம்</tam> <t>kṣata-rōkam</t></hw> , <i>n</i>. < id. +. See <tam>க்ஷயரோகம். (பைஷஜ.)</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷதை&searchhws=yes&matchtype=exact">க்ஷதை</a> kṣatai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷதை</tam></hw> , <i>s.</i> anything broken.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷதை&searchhws=yes&matchtype=exact">க்ஷதை</a> kṣatai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷதை</hw> - உடைந்தது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷதை&searchhws=yes&matchtype=exact">க்ஷதை</a> kṣatai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷதை</tam> <t>kṣatai</t></hw> , <i>n</i>. < <i>kṣata</i>. That which is broken or spoilt; <tam>கேடுற்றது</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷதை&searchhws=yes&matchtype=exact">க்ஷதை</a> kṣatai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=530">p. 530</a>)
+		<blockquote><p><hw><tam>க்ஷதை</tam></hw> , <i>s.</i> Any thing broken. W. p. 261. <smallcaps>KSHATA.</smallcaps> Compare <tam>அட்சதை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷத்திரியன்&searchhws=yes&matchtype=exact">க்ஷத்திரியன்</a> kṣattiriyaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷத்திரியன்</tam></hw> , <tam>சத்திரியன்</tam>, <i>s.</i> one of the Kshatriya caste.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷத்திரியன்&searchhws=yes&matchtype=exact">க்ஷத்திரியன்</a> kṣattiriyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷத்திரியன்</hw> - சத்திரியன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷத்திரியன்&searchhws=yes&matchtype=exact">க்ஷத்திரியன்</a> kṣattiriyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷத்திரியன்</tam> <t>kṣattiriyaṉ</t></hw> , <i>n</i>. < <i>kṣattriya</i>. Member of the second or military caste, one of <i>nāl-vakai-varuṇam</i>, q.v.; <tam>நால்வகைவருணத்துள் இரண்டாம் வருணத்தான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷத்திரியன்&searchhws=yes&matchtype=exact">க்ஷத்திரியன்</a> kṣattiriyaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=530">p. 530</a>)
+		<blockquote><p><hw><tam>க்ஷத்திரியன்</tam></hw> , <i>s.</i> A man of the military tribe. See <tam>சத்திரியன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷபணகன்&searchhws=yes&matchtype=exact">க்ஷபணகன்</a> kṣapaṇakaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷபணகன்</tam></hw> , <i>s.</i> Buddha; a leader of the Buddist sect.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷபணகன்&searchhws=yes&matchtype=exact">க்ஷபணகன்</a> kṣapaṇakaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷபணகன்</hw> - புத்தன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷபணகன்&searchhws=yes&matchtype=exact">க்ஷபணகன்</a> kṣapaṇakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷபணகன்</tam> <t>kṣapaṇakaṉ</t></hw> , <i>n</i>. < <i>kṣapaṇaka</i>. 1. The Buddha; <tam>புத்ததேவன்</tam>. (<smallcap>W</smallcap>.) 2. Buddhist; <tam>பௌத்தன்</tam>. 3. Jain; <tam>சைனன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷபணகன்&searchhws=yes&matchtype=exact">க்ஷபணகன்</a> kṣapaṇakaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷபணகன்</tam></hw> , <i>s.</i> Buddha, a leader of the Buddhist sect. W. p. 262. <smallcaps>KSHAPAN'AKA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷபணன்&searchhws=yes&matchtype=exact">க்ஷபணன்</a> kṣapaṇaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷபணன்</tam> <t>kṣapaṇaṉ</t></hw> , <i>n</i>. < <i>kṣapaṇa</i>. See <tam>க்ஷபணகன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷபணமதம்&searchhws=yes&matchtype=exact">க்ஷபணமதம்</a> kṣapaṇamatam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷபணமதம்</tam></hw> , <tam>சமணமதம்</tam>, <i>s.</i> the shameless sect or that of the Jainas, whose sages are said to go naked-the Tamil word, <tam>சமணமதம்</tam> is derived from this.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷபணமதம்&searchhws=yes&matchtype=exact">க்ஷபணமதம்</a> kṣapaṇamatam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷபணமதம்</hw> - சமணமதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷபணமதம்&searchhws=yes&matchtype=exact">க்ஷபணமதம்</a> kṣapaṇamatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷபணமதம்</tam> <t>kṣapaṇa-matam</t></hw> , <i>n</i>. < <i>kṣapaṇa-mata</i>. 1. Buddhism; <tam>புத்தமதம்</tam>. 2. Jainism; <tam>சைனமதம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷபணமதம்&searchhws=yes&matchtype=exact">க்ஷபணமதம்</a> kṣapaṇamatam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷபணமதம்</tam></hw> , <i>s.</i> The shameless sect or that of the Jainas, whose sages are said to go naked–The Tamil word, <tam>சமணமதம்</tam>. is derived from this.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷமாபாரமிதை&searchhws=yes&matchtype=exact">க்ஷமாபாரமிதை</a> kṣamāpāramitai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷமாபாரமிதை</tam> <t>kṣamā-pāramitai</t></hw> , <i>n</i>. < <i>kṣamā</i> +. (Buddh.) See <tam>க்ஷமை</tam>, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷமி&searchhws=yes&matchtype=exact">க்ஷமி</a> kṣami
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷமி</tam></hw> , <tam>கமி</tam>, <tam>சமி</tam>, VI. <i>v. i.</i> &amp; <i>t.</i> forbear, have patience, <tam>பொறு</tam>; 2. pardon, <tam>மன்னி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷமி&searchhws=yes&matchtype=exact">க்ஷமி</a> kṣami
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷமி</tam></hw> , <tam>க்கிறேன்</tam>, <tam>த்தேன்</tam>, <tam>ப்பேன்</tam>, <tam>க்க</tam>, <i>v. n.</i> To have patience, to forbear, <tam>பொறுக்க</tam>; [<i>ex</i> <tam>க்ஷமை</tam>.] See <tam>கமி</tam>, <tam>சமி</tam>, <i>v.</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷமி-த்தல்&searchhws=yes&matchtype=exact">க்ஷமி-த்தல்</a> kṣami-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷமி-த்தல்</tam> <t>kṣami-</t></hw> , <i>11 v. tr</i>. < <i>kṣam</i>. To bear with, endure, forgive, pardon. See <tam>சமி⁵-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷமித்தல்&searchhws=yes&matchtype=exact">க்ஷமித்தல்</a> kṣamittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷமித்தல்</hw> - பொறுத்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷமை&searchhws=yes&matchtype=exact">க்ஷமை</a> kṣamai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷமை</tam></hw> , <tam>கமை</tam>, <i>s.</i> patience, <tam>பொறுமை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷமை&searchhws=yes&matchtype=exact">க்ஷமை</a> kṣamai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷமை</hw> - பொருமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷமை&searchhws=yes&matchtype=exact">க்ஷமை</a> kṣamai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷமை</tam> <t>kṣamai</t></hw> , <i>n</i>. < <i>kṣamā</i>. 1. Patience. See <tam>கமை²</tam>. 2. (Buddh.) Patience, one of <i>taca-pāramitai</i>, q.v.; <tam>தசபாரமிதையுள் ஒன்றான பொறு மை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷமை&searchhws=yes&matchtype=exact">க்ஷமை</a> kṣamai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷமை</tam></hw> , <i>s.</i> Patience, <tam>பொறுமை</tam>. W. p. 262. <smallcaps>KSHAMA.</smallcaps> See <tam>சமை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷய&searchhws=yes&matchtype=exact">க்ஷய</a> kṣaya
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷய</tam></hw> , <i>s. (in Algebra)</i> minus, alisius; 2. the 28th year of the Hindu cycle.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷய&searchhws=yes&matchtype=exact">க்ஷய</a> kṣaya
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷய</tam> <t>kṣaya</t></hw> , <i>n</i>. < <i>kṣaya</i>. 1. The last year of the Jupiter cycle. See <tam>அட்சய. (பஞ்.)</tam>. 2. (Arith.) Minus; <tam>எண்ணின் கழிவு</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷய&searchhws=yes&matchtype=exact">க்ஷய</a> kṣaya
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷய</tam></hw> , <i>s. [in Algebra.]</i> Minus. See <tam>சய</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷயகாசம்&searchhws=yes&matchtype=exact">க்ஷயகாசம்</a> kṣayakācam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷயகாசம்</tam> <t>kṣaya-kācam</t></hw> , <i>n</i>. < <i>kṣaya</i> + <i>kāša</i>. Pulmonary tuberculosis, phthisis; <tam>காச நோய்வகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷயபோக்கியம்&searchhws=yes&matchtype=exact">க்ஷயபோக்கியம்</a> kṣayapōkkiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷயபோக்கியம்</tam> <t>kṣaya-pōkkiyam</t></hw> , <i>n</i>. < id. +. Usufructuary mortgage which is extinguished by the mortgagee realising the principal and interest by the enjoyment of the land for a stipulated term of years; <tam>வாங்கிய கடனும் வட்டியும் ஒரு காலவளவுக்குள் தீரும்படி கடன் கொடுத்தவனது அனுபவத்திற்கு நிலத்தைவிடும் ஸ்வாதீன அடைமானம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷயமாஸம்&searchhws=yes&matchtype=exact">க்ஷயமாஸம்</a> kṣayamāsam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷயமாஸம்</tam> <t>kṣaya-māsam</t></hw> , <i>n</i>. < id. +. (Astron.) Suppressed lunar month; <tam>க்ஷயப்பட்ட சாந்திரமாதம். (பஞ்.)</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷயம்&searchhws=yes&matchtype=exact">க்ஷயம்</a> kṣayam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷயம்</tam></hw> , <i>s.</i> waste, consumption, <tam>காச நோய்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷயம்&searchhws=yes&matchtype=exact">க்ஷயம்</a> kṣayam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷயம்</hw> - ஒருநோய், சிதைவு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷயம்&searchhws=yes&matchtype=exact">க்ஷயம்</a> kṣayam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷயம்</tam> <t>kṣayam</t></hw> , <i>n</i>. < <i>kṣaya</i>. 1. See <tam>சயம்³</tam>. 2. Pollution on the death of a relation within particular degrees; <tam>குறிப்பிட்ட உறவுமுறையார் இறந்ததால் உண்டாவதாகக் கருதப்படுந் தீட்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷயம்&searchhws=yes&matchtype=exact">க்ஷயம்</a> kṣayam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷயம்</tam></hw> , <i>s.</i> Loss, waste, consumption, a disease, <tam>சிதைவு</tam>. W. p. 262. <smallcaps>KSHAYA.</smallcaps>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/crea_query.py?qs=க்ஷயம், க்ஷயரோகம்&searchhws=yes&matchtype=exact">க்ஷயம், க்ஷயரோகம்</a> kṣayam, kṣayarōkam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>க்ஷயம்/க்ஷயரோகம்</hw> பெ. [அ.வ.] 1: காச நோய்; tuberculosis.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷயரோகம்&searchhws=yes&matchtype=exact">க்ஷயரோகம்</a> kṣayarōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷயரோகம்</tam> <t>kṣaya-rōkam</t></hw> , <i>n</i>. < id. +. Consumption. See <tam>சயரோகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷயி&searchhws=yes&matchtype=exact">க்ஷயி</a> kṣayi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷயி</tam></hw> , VI. <i>v. i.</i> wane, decrease, <tam>கெடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷயி&searchhws=yes&matchtype=exact">க்ஷயி</a> kṣayi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷயி</tam></hw> , <tam>க்கிறேன்</tam>, <tam>த்தேன்</tam>, <tam>ப்பேன்</tam>, <tam>க்க</tam>, <i>v. n.</i> To wane, decrease, lose, be ruined, <tam>கெட</tam>; [<i>ex</i> <tam>க்ஷயம்</tam>.]</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷயி-த்தல்&searchhws=yes&matchtype=exact">க்ஷயி-த்தல்</a> kṣayi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷயி-த்தல்</tam> <t>kṣayi-</t></hw> , <i>11 v. intr</i>. < <tam>க்ஷயம்</tam>. To decrease; to wane, as the moon; <tam>குறைதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷயித்தல்&searchhws=yes&matchtype=exact">க்ஷயித்தல்</a> kṣayittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷயித்தல்</hw> - கெடல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷவரகன்&searchhws=yes&matchtype=exact">க்ஷவரகன்</a> kṣavarakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷவரகன்</tam> <t>kṣavarakaṉ</t></hw> , <i>n</i>. < <i>kṣaurika</i>. Barber; <tam>அம்பட்டன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/crea_query.py?qs=க்ஷவரம்&searchhws=yes&matchtype=exact">க்ஷவரம்</a> kṣavaram
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>க்ஷவரம்</hw> பெ. [அ.வ.] காண்க: சவரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷவரம்&searchhws=yes&matchtype=exact">க்ஷவரம்</a> kṣavaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷவரம்</tam> <t>kṣavaram</t></hw> , <i>n</i>. < <i>kṣaura</i>. Shaving. See <tam>சௌரம்²</tam>. (<tam>பதார்த்த</tam>. 1319.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷா&searchhws=yes&matchtype=exact">க்ஷா</a> kṣā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷா</tam> <t>kṣā</t></hw> . The compound of <tam>க்ஷ்</tam> and <tam>ஆ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷாத்திரம்&searchhws=yes&matchtype=exact">க்ஷாத்திரம்</a> kṣāttiram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷாத்திரம்</tam></hw> , <i>s.</i> hatred, malice, <tam>குரோதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷாத்திரம்&searchhws=yes&matchtype=exact">க்ஷாத்திரம்</a> kṣāttiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷாத்திரம்</hw> - குரோதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷாத்திரம்&searchhws=yes&matchtype=exact">க்ஷாத்திரம்</a> kṣāttiram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷாத்திரம்</tam></hw> , <i>s.</i> Military qualification, hatred, <tam>குரோதம்</tam>. W. p. 263. <smallcaps>KSHATRA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷாத்ரம்&searchhws=yes&matchtype=exact">க்ஷாத்ரம்</a> kṣātram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷாத்ரம்</tam> <t>kṣātram</t></hw> , <i>n</i>. < <i>kṣātra</i>. 1. That which pertains to a <i>kṣattiriyaṉ</i>; <tam>க்ஷத்திரிய னுக்குரியது</tam>. 2. Enmity; <tam>பகைமை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷாந்தி&searchhws=yes&matchtype=exact">க்ஷாந்தி</a> kṣānti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷாந்தி</tam> <t>kṣānti</t></hw> , <i>n</i>. < <i>kṣānti</i>. Patience, forbearance. See <tam>க்ஷமை</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷாமகாலம்&searchhws=yes&matchtype=exact">க்ஷாமகாலம்</a> kṣāmakālam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷாமகாலம்</tam> <t>kṣāma-kālam</t></hw> , <i>n</i>. < <i>kṣāma</i>. +. Famine; season of scarcity; <tam>பஞ்சகாலம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷாமணம்&searchhws=yes&matchtype=exact">க்ஷாமணம்</a> kṣāmaṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷாமணம்</tam> <t>kṣāmaṇam</t></hw> , <i>n</i>. < <i>kṣāmaṇa</i>. Requesting one to forbear; <tam>பொறுத்துக்கொள்ள வேண்டுகை</tam>. (<tam>கோயிலொ</tam>. 41.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷாமதேவதை&searchhws=yes&matchtype=exact">க்ஷாமதேவதை</a> kṣāmatēvatai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷாமதேவதை</tam> <t>kṣāma-tēvatai</t></hw> , <i>n</i>. < <i>kṣāma</i> +. Worthless, poverty stricken person, a term used in derision; <tam>உபயோகமற்ற ஏழை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷாமம்&searchhws=yes&matchtype=exact">க்ஷாமம்</a> kṣāmam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷாமம்</tam></hw> , <i>s.</i> scarcity, famine, <tam>பஞ்சம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷாமம்&searchhws=yes&matchtype=exact">க்ஷாமம்</a> kṣāmam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷாமம்</hw> - பஞ்சம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷாமம்&searchhws=yes&matchtype=exact">க்ஷாமம்</a> kṣāmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷாமம்</tam> <t>kṣāmam</t></hw> , <i>n</i>. < <i>kṣāma</i>. Scarcity, famine; <tam>பஞ்சம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷாமம்&searchhws=yes&matchtype=exact">க்ஷாமம்</a> kṣāmam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷாமம்</tam></hw> , <i>s.</i> Scarcity, famine, <tam>பஞ்சம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷாரம்&searchhws=yes&matchtype=exact">க்ஷாரம்</a> kṣāram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷாரம்</tam></hw> , <i>s.</i> salt, <tam>உப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷாரம்&searchhws=yes&matchtype=exact">க்ஷாரம்</a> kṣāram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷாரம்</hw> - உப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷாரம்&searchhws=yes&matchtype=exact">க்ஷாரம்</a> kṣāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷாரம்</tam> <t>kṣāram</t></hw> , <i>n</i>. < <i>kṣāra</i>. See <tam>காரம்¹</tam>, 1, 2, 3.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷாரம்&searchhws=yes&matchtype=exact">க்ஷாரம்</a> kṣāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>க்ஷாரம்</tam> <t>kṣāram</t></hw> , <i>n</i>. < <i>kṣāra</i>. Sacred ashes prepared from the dung of a smoke-coloured cow; <tam>சுசீலைப்பசுவின் சாணத்தினின்று உண்டாக் கும் விபூதி</tam>. (<tam>சைவபூ. சந்</tam>. 220.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷாரம்&searchhws=yes&matchtype=exact">க்ஷாரம்</a> kṣāram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷாரம்</tam></hw> , <i>s.</i> Salt, <tam>உப்பு</tam>. W. p. 263. <smallcaps>KSHARA.</smallcaps> Compare <tam>சாரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷி&searchhws=yes&matchtype=exact">க்ஷி</a> kṣi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3926">p. 3926</a>)
+		<blockquote><p><hw><tam>க்ஷி</tam> <t>kṣi</t></hw> . The compound of <tam>க்ஷ்</tam> and <tam>இ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷிதி&searchhws=yes&matchtype=exact">க்ஷிதி</a> kṣiti
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷிதி</tam></hw> , <i>s.</i> a number, one hundred trillions.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷிதி&searchhws=yes&matchtype=exact">க்ஷிதி</a> kṣiti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷிதி</hw> - கிதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷிதி&searchhws=yes&matchtype=exact">க்ஷிதி</a> kṣiti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷிதி</tam> <t>kṣiti</t></hw> , <i>n</i>. < <i>kṣiti</i>. 1. Earth; <tam>பூமி</tam>. 2. One hundred trillions; <tam>ஒரு பேரெண்</tam>. (<tam>த. நி. போ</tam>. 25.) 3. (Mus.) A division of the fifth note of the gamut; <tam>பஞ்சமசுருதியுள் ஒருவகை</tam>. (<tam>பரத. இராக</tam>. 44.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷிதி&searchhws=yes&matchtype=exact">க்ஷிதி</a> kṣiti
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷிதி</tam></hw> , <i>s.</i> A number, one hundred trillions. See <tam>கிதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷிதிஜம்&searchhws=yes&matchtype=exact">க்ஷிதிஜம்</a> kṣitijam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷிதிஜம்</tam> <t>kṣitijam</t></hw> , <i>n</i>. < id. + <i>jyā</i>. Horizon; <tam>அடிவானம். (ஜநவிநோதினி, இமயமலை.)</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷிப்ரநக்ஷத்ரம்&searchhws=yes&matchtype=exact">க்ஷிப்ரநக்ஷத்ரம்</a> kṣipranakṣatram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷிப்ரநக்ஷத்ரம்</tam> <t>kṣipra-nakṣatram</t></hw> , <i>n</i>. < <i>kṣipra</i> +. (Astrol.) <i>Nakṣatras</i> which have quick apparent motion; <tam>வேகமான கதியுள்ள நக்ஷத்திரம். (பஞ்.)</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷிப்ரம்&searchhws=yes&matchtype=exact">க்ஷிப்ரம்</a> kṣipram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷிப்ரம்</tam> <t>kṣipram</t></hw> , <i>n</i>. < <i>kṣipram</i>. Quickness; swiftness; <tam>விரைவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷிரஸமுத்ரம்&searchhws=yes&matchtype=exact">க்ஷிரஸமுத்ரம்</a> kṣirasamutram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷிரஸமுத்ரம்</tam> <t>kṣīra-samutram</t></hw> , <i>n</i>. < id. +. The ocean of milk; <tam>பாற்கடல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீ&searchhws=yes&matchtype=exact">க்ஷீ</a> kṣī
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீ</tam> <t>kṣī</t></hw> . The compound of <tam>க்ஷ்</tam> and <tam>ஈ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீணகாலம்&searchhws=yes&matchtype=exact">க்ஷீணகாலம்</a> kṣīṇakālam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீணகாலம்</tam> <t>kṣīṇa-kālam</t></hw> , <i>n</i>. < <i>kṣīṇa</i> +. Time of decay; period of decline; <tam>நாசகாலம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீணசந்திரன்&searchhws=yes&matchtype=exact">க்ஷீணசந்திரன்</a> kṣīṇacantiraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீணசந்திரன்</tam> <t>kṣīṇa-cantiraṉ</t></hw> , <i>n</i>. < id. +. The waning moon; <tam>தேய்பிறை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீணதசை&searchhws=yes&matchtype=exact">க்ஷீணதசை</a> kṣīṇatacai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீணதசை</tam> <t>kṣīṇa-tacai</t></hw> , <i>n</i>. < id. +. 1. Weak condition of the body; <tam>தேகத்தின் பல வீனம்</tam>. 2. Destitute condition, poverty; <tam>வறுமை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷீணம்&searchhws=yes&matchtype=exact">க்ஷீணம்</a> kṣīṇam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷீணம்</tam></hw> , <tam>கீணம்</tam>, <tam>சீணம்</tam>, <i>s.</i> decay, decline; <tam>ஈனம்</tam>. <p2><tam>க்ஷீணகாலம்</tam>, time of decay.</p2> <p2><tam>க்ஷீணசந்திரன்</tam>, the waning moon.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷீணம்&searchhws=yes&matchtype=exact">க்ஷீணம்</a> kṣīṇam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷீணம்</hw> - ஈனம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீணம்&searchhws=yes&matchtype=exact">க்ஷீணம்</a> kṣīṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீணம்</tam> <t>kṣīṇam</t></hw> , <i>n</i>. < <i>kṣīṇa</i>. 1. Wasting away; decay; <tam>கேடு</tam>. (<smallcap>W</smallcap>.) 2. Weakness; <tam>பல வீனம்</tam>. 3. Emaciation; <tam>உடல்மெலிகை</tam>. (<tam>பைஷஜ</tam>. 230.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷீணம்&searchhws=yes&matchtype=exact">க்ஷீணம்</a> kṣīṇam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷீணம்</tam></hw> , <i>s.</i> Feebleness, decay, <tam>ஈனம்</tam>. See <tam>கீணம்</tam>, <tam>சீணம்</tam>. <p2><tam>க்ஷீணகாலம்</tam>, <i>s.</i> Time of decay.</p2> <p2><tam>க்ஷீணசந்திரன்</tam>, <i>s.</i> The waning moon.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீணவாதம்&searchhws=yes&matchtype=exact">க்ஷீணவாதம்</a> kṣīṇavātam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீணவாதம்</tam> <t>kṣīṇa-vātam</t></hw> , <i>n</i>. < id. + <i>vāta</i>. Wasting palsy; <tam>சதை அசைவற்று க்ஷீணிக்கச் செய்யும் நோய்</tam>. (<tam>இங். வை</tam>. 220.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/crea_query.py?qs=க்ஷீணி&searchhws=yes&matchtype=exact">க்ஷீணி</a> kṣīṇi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>க்ஷீணி</hw> வி. (க்ஷீணிக்க, க்ஷீணித்து) [அ.வ.] 1: (பலம்) குன்றுதல்; குறைதல்; decrease (in strength); decline. உடல் மிகவும் க்ஷீணித்துவிட்டது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷீணி&searchhws=yes&matchtype=exact">க்ஷீணி</a> kṣīṇi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷீணி</tam></hw> , VI. <i>v. i.</i> decay, waste away, <tam>சீரணி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷீணி&searchhws=yes&matchtype=exact">க்ஷீணி</a> kṣīṇi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷீணி</tam></hw> , <tam>க்கிறது</tam>, <tam>த்தது</tam>, <tam>க்கும்</tam>, <tam>க்க</tam>, <i>v. n.</i> To waste away, <tam>கெட்டுப்போக</tam>. <i>(Colloq.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீணி-த்தல்&searchhws=yes&matchtype=exact">க்ஷீணி-த்தல்</a> kṣīṇi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீணி-த்தல்</tam> <t>kṣīṇi-</t></hw> , <i>11 v. intr</i>. < <tam>க்ஷீணம்</tam>. 1. To waste away, perish; <tam>கேடடைதல்</tam>. 2. To decrease; <tam>குறைதல். க்ஷயரோகத்தால் உடல் க்ஷீணிக் கும்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷீணித்தல்&searchhws=yes&matchtype=exact">க்ஷீணித்தல்</a> kṣīṇittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷீணித்தல்</hw> - கெட்டுப்போதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷீரசாகரம்&searchhws=yes&matchtype=exact">க்ஷீரசாகரம்</a> kṣīracākaram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷீரசாகரம்</hw> - பாற்கடல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீரநாசினி&searchhws=yes&matchtype=exact">க்ஷீரநாசினி</a> kṣīranāciṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீரநாசினி</tam> <t>kṣīra-nāciṉi</t></hw> , <i>n</i>. < <i>kṣīra-nāšinī</i>. Lactifuge; <tam>தாய்ப்பாலை வற்றச்செய்யும் மருந்து</tam>. (<tam>இங். வை</tam>. 34.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷீரநீரம்&searchhws=yes&matchtype=exact">க்ஷீரநீரம்</a> kṣīranīram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷீரநீரம்</hw> - நீரும்பாலுங்கலந்தது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீரநீரம்&searchhws=yes&matchtype=exact">க்ஷீரநீரம்</a> kṣīranīram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீரநீரம்</tam> <t>kṣīra-nīram</t></hw> , <i>n</i>. < <i>kṣīra</i> + <i>nīra</i>. Mixture of milk and water; <tam>பாலும் நீரும் ஒன் றாகக் கலக்கை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷீரப்தி&searchhws=yes&matchtype=exact">க்ஷீரப்தி</a> kṣīrapti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷீரப்தி</hw> - பாற்கடல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷீரம்&searchhws=yes&matchtype=exact">க்ஷீரம்</a> kṣīram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷீரம்</tam></hw> , <i>s.</i> milk, <tam>பால்</tam> (see <tam>கீரம்</tam>). <p2><tam>க்ஷீரசாகரம்</tam>, the sea of milk, <tam>க்ஷீராப்தி</tam>.</p2> <p2><tam>க்ஷீராப்திதனையை</tam>, a name Lakshmi; <i>lit. (the daughter of the sea of milk.)</i></p2> <p2><tam>க்ஷீரான்னம்</tam>, milk and rice.</p2> <p2><tam>க்ஷீரோதகம்</tam>, union; <i>(lit. milk &amp; water).</i></p2> <p2><tam>க்ஷீரோதக ஞாயம்</tam>, an argument in logic, <i>a non causa, pro causa</i> founded on a sudden coincidence.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		114) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷீரம்&searchhws=yes&matchtype=exact">க்ஷீரம்</a> kṣīram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷீரம்</hw> - பால்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		115) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீரம்&searchhws=yes&matchtype=exact">க்ஷீரம்</a> kṣīram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீரம்</tam> <t>kṣīram</t></hw> , <i>n</i>. < <i>kṣīra</i>. Milk; <tam>பால்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		116) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷீரம்&searchhws=yes&matchtype=exact">க்ஷீரம்</a> kṣīram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p>*<hw><tam>க்ஷீரம்</tam></hw> , <i>s.</i> Milk, <tam>பால்</tam>. See <tam>கீரம்</tam>. <p2><tam>க்ஷீரசாகரம்</tam>, <i>s.</i> The sea of milk.</p2> <p2><tam>க்ஷீரநீரம்</tam>, <i>s.</i> Union of milk and water.</p2> <p2><tam>க்ஷீராப்தி</tam>, <i>s.</i> The sea of milk.</p2> <p2><tam>க்ஷீராப்திதனையை</tam>, <i>s.</i> An epithet of Lukshmi, <tam>இலட்சுமி</tam>; [<i>ex</i> <tam>தனையை</tam>, daughter.]</p2> <p2><tam>க்ஷீரான்னம்</tam>, <i>s.</i> Milk and rice.</p2> <p2><tam>க்ஷீரோதகம்</tam>, <i>s.</i> Union; <i>(lit.)</i> milk and water, <tam>ஐக்கியம்</tam>; [<i>ex</i> <tam>உதயம்</tam>.]</p2> <p2><tam>க்ஷீரோதகநியாயம்</tam>, <i>s.</i> An argument in logic, a <i>non causa, pro causa</i> founded on a sudden coincidence. <i>(R.)</i> <tam>அவர்கள்க்ஷீரோதகநியாயமாய்க் கலந்திருக்கிறார்கள்</tam>. They are closely knit together.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		117) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீரரோகம்&searchhws=yes&matchtype=exact">க்ஷீரரோகம்</a> kṣīrarōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீரரோகம்</tam> <t>kṣīra-rōkam</t></hw> , <i>n</i>. < id. +. Improper lactation after parturition; <tam>பிரசவித்த பின் பால் கட்டிக்கொள்ளும் நோய்</tam>. (<tam>பைஷஜ</tam>. 310.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		118) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீரவர்த்தனி&searchhws=yes&matchtype=exact">க்ஷீரவர்த்தனி</a> kṣīravarttaṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீரவர்த்தனி</tam> <t>kṣīra-varttaṉi</t></hw> , <i>n</i>. < id. +. Lactagogue; <tam>தாய்ப்பாலைச் சுரக்கச்செய்யும் மருந்து</tam>. (<tam>இங். வை</tam>. 34.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		119) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீரஸாகரம்&searchhws=yes&matchtype=exact">க்ஷீரஸாகரம்</a> kṣīrasākaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீரஸாகரம்</tam> <t>kṣīra-sākaram</t></hw> , <i>n</i>. < id. +. See <tam>க்ஷீரஸமுத்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		120) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷீரான்னம்&searchhws=yes&matchtype=exact">க்ஷீரான்னம்</a> kṣīrāṉṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷீரான்னம்</hw> - பாற்சோறு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		121) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீரான்னம்&searchhws=yes&matchtype=exact">க்ஷீரான்னம்</a> kṣīrāṉṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீரான்னம்</tam> <t>kṣīrāṉṉam</t></hw> , <i>n</i>. < <i>kṣīrānna</i>. 1. Rice cooked with milk and sweetened; <tam>பாலிற் சமைத்துத் தித்திப்புக்கலந்த அன்னவகை</tam>. 2. Cooked rice mixed with milk. See <tam>பாற்சோறு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		122) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீராப்தி&searchhws=yes&matchtype=exact">க்ஷீராப்தி</a> kṣīrāpti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீராப்தி</tam> <t>kṣīrāpti</t></hw> , <i>n</i>. < <i>kṣīrābdhi</i>. See <tam>க்ஷீரஸமுத்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		123) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷீராப்திதநயை&searchhws=yes&matchtype=exact">க்ஷீராப்திதநயை</a> kṣīrāptitanayai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷீராப்திதநயை</hw> - இலட்சுமி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		124) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீராப்திதனயை&searchhws=yes&matchtype=exact">க்ஷீராப்திதனயை</a> kṣīrāptitaṉayai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீராப்திதனயை</tam> <t>kṣīrāpti-taṉayai</t></hw> , <i>n</i>. < id. +. Lakṣmī, as born of the Ocean of Milk; <tam>இலக்குமி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		125) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீரோதகநியாயம்&searchhws=yes&matchtype=exact">க்ஷீரோதகநியாயம்</a> kṣīrōtakaniyāyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீரோதகநியாயம்</tam> <t>kṣīrōtaka-niyāyam</t></hw> , <i>n</i>. < <i>kṣīrōdaka</i> +. (Nyāya.) A Nyāya in illustration of complete union, as of milk and water; <tam>பாலுடன் நீர் சேர்ந்தாற்போல ஒன்றுபட் டிருந்தலைத் தெரிவிக்கும் நெறி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		126) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷீரோதகம்&searchhws=yes&matchtype=exact">க்ஷீரோதகம்</a> kṣīrōtakam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷீரோதகம்</hw> - ஐக்கியம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		127) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷீரோதகம்&searchhws=yes&matchtype=exact">க்ஷீரோதகம்</a> kṣīrōtakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷீரோதகம்</tam> <t>kṣīrōdakam</t></hw> , <i>n</i>. < <i>kṣīra</i> + <i>udaka</i>. Union; <tam>ஐக்கியம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		128) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷு&searchhws=yes&matchtype=exact">க்ஷு</a> kṣu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷு</tam> <t>kṣu</t></hw> . The compound of <tam>க்ஷ்</tam> and <tam>உ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		129) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷுக்குணதை&searchhws=yes&matchtype=exact">க்ஷுக்குணதை</a> kṣukkuṇatai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=724">p. 724</a>)
+		<blockquote><p><hw>க்ஷுக்குணதை</hw> - கெடுதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		130) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷுத்திரம்&searchhws=yes&matchtype=exact">க்ஷுத்திரம்</a> kṣuttiram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷுத்திரம்</tam></hw> , (<tam>குத்திரம்</tam>), <i>s.</i> smallness, littleness, <tam>சிறுமை</tam>; 2. cruelty, trick- ery, <tam>சிறுமை</tam>; 3. cruelty, trickery, <tam>கொடுமை</tam>. <p2><tam>க்ஷுத்திரதேவதை</tam>, a petty, evil &amp; cruel goddess or god.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		131) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷுத்திரம்&searchhws=yes&matchtype=exact">க்ஷுத்திரம்</a> kṣuttiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=723">p. 723</a>)
+		<blockquote><p><hw>க்ஷுத்திரம்</hw> - கொடுமை, சிறுமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		132) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷுத்திரம்&searchhws=yes&matchtype=exact">க்ஷுத்திரம்</a> kṣuttiram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p>*<hw><tam>க்ஷுத்திரம்</tam></hw> , <i>s.</i> Smallness, littleness, <tam>சிறுமை</tam>. 2. Cruelty, trickery, <tam>கொடுமை</tam>. See <tam>சூத்திரம்</tam>. W. p. 266. <smallcaps>KSHUDRA.</smallcaps> <p2><tam>க்ஷுத்திரதேவதை</tam>, <i>s.</i> A petty, evil, and cruel goddess, or god.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		133) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷுத்து&searchhws=yes&matchtype=exact">க்ஷுத்து</a> kṣuttu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷுத்து</tam></hw> , <i>s.</i> hunger. <p2><tam>க்ஷுத்பாதை</tam>, the pinch of hunger.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		134) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷுத்து&searchhws=yes&matchtype=exact">க்ஷுத்து</a> kṣuttu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=724">p. 724</a>)
+		<blockquote><p><hw>க்ஷுத்து</hw> - பசி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		135) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷுத்து&searchhws=yes&matchtype=exact">க்ஷுத்து</a> kṣuttu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷுத்து</tam> <t>kṣuttu</t></hw> , <i>n</i>. < <i>kṣudh</i>. Hunger; <tam>பசி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		136) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷுத்து&searchhws=yes&matchtype=exact">க்ஷுத்து</a> kṣuttu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷுத்து</tam></hw> , <i>s.</i> Hunger, <tam>பசி</tam>. W. p. 266. <smallcaps>KSHUD'H.</smallcaps> <p2><tam>க்ஷுத்பாதை</tam>, <i>s. (St.)</i> The pain of hunger, <tam>பசிவருத்தம்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		137) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷுத்பாதை&searchhws=yes&matchtype=exact">க்ஷுத்பாதை</a> kṣutpātai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=724">p. 724</a>)
+		<blockquote><p><hw>க்ஷுத்பாதை</hw> - பசிவருத்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		138) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷுத்பாதை&searchhws=yes&matchtype=exact">க்ஷுத்பாதை</a> kṣutpātai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷுத்பாதை</tam> <t>kṣut-pātai</t></hw> , <i>n</i>. < id. + <i>bādhā</i>. Pain of hunger; <tam>பசிவருத்தம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		139) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷுத்ரதேவதை&searchhws=yes&matchtype=exact">க்ஷுத்ரதேவதை</a> kṣutratēvatai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷுத்ரதேவதை</tam> <t>kṣutra-tēvatai</t></hw> , <i>n</i>. < <i>kṣudra</i> +. Petty, minor deity; <tam>கொடுமை யுள்ள சிறுதெய்வம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		140) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷுத்ரம்&searchhws=yes&matchtype=exact">க்ஷுத்ரம்</a> kṣutram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷுத்ரம்</tam> <t>kṣutram</t></hw> , <i>n</i>. < <i>kṣudra</i>. 1. Smallness, littleness; <tam>சிறுமை</tam>. 2. Cruelty; <tam>கொடுமை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		141) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷுத்ரஶ்வாஸம்&searchhws=yes&matchtype=exact">க்ஷுத்ரஶ்வாஸம்</a> kṣutraśvāsam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷுத்ரஶ்வாஸம்</tam> <t>kṣutra-švāsam</t></hw> , <i>n</i>. < <i>kṣudra-švāsa</i>. Asthma; <tam>சுவாசகாசம்</tam>. (<tam>பைஷஜ</tam>. 253.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		142) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷுரிகை&searchhws=yes&matchtype=exact">க்ஷுரிகை</a> kṣurikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷுரிகை</tam> <t>kṣurikai</t></hw> , <i>n</i>. < <i>Kṣurikā</i>. An Upanisad, one of 108; <tam>நூற்றெட்டுபநிடதங்களுள் ஒன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		143) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷூ&searchhws=yes&matchtype=exact">க்ஷூ</a> kṣū
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷூ</tam> <t>kṣū</t></hw> . The compound of <tam>க்ஷ்</tam> and <tam>ஊ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		144) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷூணதை&searchhws=yes&matchtype=exact">க்ஷூணதை</a> kṣūṇatai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷூணதை</tam></hw> , <i>s.</i> blemish, defect, defamation, <tam>கெடுதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		145) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷூணதை&searchhws=yes&matchtype=exact">க்ஷூணதை</a> kṣūṇatai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷூணதை</tam> <t>kṣūṇatai</t></hw> , <i>n</i>. prob. <i>nyūna-tā</i>. Blemish, defect; <tam>குற்றம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		146) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷூணதை&searchhws=yes&matchtype=exact">க்ஷூணதை</a> kṣūṇatai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷூணதை</tam></hw> , <i>s.</i> Blemish, defect; defamation, <tam>கெடுதி</tam>. <i>(R.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		147) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷெ&searchhws=yes&matchtype=exact">க்ஷெ</a> kṣe
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3927">p. 3927</a>)
+		<blockquote><p><hw><tam>க்ஷெ</tam> <t>kṣe</t></hw> . The compound of <tam>க்ஷ்</tam> and <tam>எ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		148) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷே&searchhws=yes&matchtype=exact">க்ஷே</a> kṣē
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷே</tam> <t>kṣē</t></hw> . The compound of <tam>க்ஷ்</tam> and <tam>ஏ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		149) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷேத்திரக்கியன்&searchhws=yes&matchtype=exact">க்ஷேத்திரக்கியன்</a> kṣēttirakkiyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=724">p. 724</a>)
+		<blockquote><p><hw>க்ஷேத்திரக்கியன்</hw> - ஆத்துமா.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		150) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷேத்திரக்கியன்&searchhws=yes&matchtype=exact">க்ஷேத்திரக்கியன்</a> kṣēttirakkiyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>க்ஷேத்திரக்கியன்</tam> <t>kṣēttirakkiyaṉ</t></hw> , <i>n</i>. < <i>kṣētra-jña</i>. Individual soul; <tam>ஆன்மா</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		151) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷேத்திரக்கோவை&searchhws=yes&matchtype=exact">க்ஷேத்திரக்கோவை</a> kṣēttirakkōvai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=724">p. 724</a>)
+		<blockquote><p><hw>க்ஷேத்திரக்கோவை</hw> - ஒரு நூல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		152) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷேத்திரசுத்தி&searchhws=yes&matchtype=exact">க்ஷேத்திரசுத்தி</a> kṣēttiracutti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>க்ஷேத்திரசுத்தி</tam> <t>kṣēttira-cutti</t></hw> , <i>n</i>. < <i>kṣētra</i> +. Ceremonial cleaning of a place; <tam>ஸ்தல சுத்தி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		153) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷேத்திரத்திருவெண்பா&searchhws=yes&matchtype=exact">க்ஷேத்திரத்திருவெண்பா</a> kṣēttirattiruveṇpā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷேத்திரத்திருவெண்பா</tam> <t>kṣēttira-t-tiru-veṇpā</t></hw> , <i>n</i>. < <i>kṣētra</i> +. A poem in Patiṉorān-tirumuṟai by Aiyaṭikaḷ-kāṭavarkōṉāyaṉār; <tam>ஐயடி கள்காடவர்கோனாயனார் இயற்றியதும் பதினொராந் திருமுறையி லடங்கியதுமான பிரபந்தம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		154) <a href="/cgi-bin/app/crea_query.py?qs=க்ஷேத்திரம்&searchhws=yes&matchtype=exact">க்ஷேத்திரம்</a> kṣēttiram
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>க்ஷேத்திரம்</hw> பெ. [அ.வ.] 1: புனிதத் தலம்; holy place.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		155) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷேத்திரம்&searchhws=yes&matchtype=exact">க்ஷேத்திரம்</a> kṣēttiram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=465">p. 465</a>)
+		<blockquote><p>*<hw><tam>க்ஷேத்திரம்</tam></hw> , <tam>கேத்திரம்</tam>, <i>s.</i> a sacred place. <p2><tam>க்ஷேத்திரக்கியன்</tam>, the soul, <tam>ஆத்துமா</tam>.</p2> <p2><tam>திவ்விய க்ஷேத்திரம்</tam>, a fine sacred place.</p2> <p2><tam>க்ஷேத்திர கணிதம்</tam>, Geometry.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		156) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷேத்திரம்&searchhws=yes&matchtype=exact">க்ஷேத்திரம்</a> kṣēttiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=724">p. 724</a>)
+		<blockquote><p><hw>க்ஷேத்திரம்</hw> - ஸ்தலம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		157) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷேத்திரம்&searchhws=yes&matchtype=exact">க்ஷேத்திரம்</a> kṣēttiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷேத்திரம்</tam> <t>kṣēttiram</t></hw> , <i>n</i>. < <i>kṣētra</i>. 1. See <tam>கேத்திரம். யக்ஞ க்ஷேத்திரத்தை</tam> (<tam>தக்கயாகப்</tam>. 704, <tam>உரை</tam>). 2. Collection of 12 Sālagrāma stones; <tam>பன்னிரண்டு சாளக்கிராமங்கொண்ட தொகுதி</tam>. 3. Womb; <tam>கருப்பை</tam>. 4. Wife; <tam>மனைவி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		158) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷேத்திரம்&searchhws=yes&matchtype=exact">க்ஷேத்திரம்</a> kṣēttiram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p>*<hw><tam>க்ஷேத்திரம்</tam></hw> , <i>s.</i> Field, sacred place, &c., <tam>ஸ்தலம்</tam>. See <tam>கேத்திரம்</tam>. W. p. 267. <smallcaps>KSHE'TRA.</smallcaps> <p2><tam>க்ஷேத்திரக்கோவை</tam>, <i>s.</i> A Saiva book, descriptive of sacred places, <tam>ஓர்நூல்</tam>.</p2> <p2><tam>க்ஷேத்திரக்கியன்</tam>, <i>s. (St.)</i> The soul, <tam>ஆத்துமா</tam>.</p2> <p2><tam>க்ஷேத்திரசுத்தி</tam>, <i>s.</i> The lustration of a sacred place.</p2> <p2><tam>திவ்வியக்ஷேத்திரம்</tam>, <i>s.</i> A sacred place.</p2> <p2><tam>குருக்ஷேத்திரம்</tam>, <i>s.</i> See under <tam>குரு</tam>.</p2> <p2><tam>க்ஷேத்திரகணிதம்</tam>, <i>s.</i> Geometry.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		159) <a href="/cgi-bin/app/crea_query.py?qs=க்ஷேத்திராடனம்&searchhws=yes&matchtype=exact">க்ஷேத்திராடனம்</a> kṣēttirāṭaṉam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>க்ஷேத்திராடனம்</hw> பெ. [அ.வ.] 1: புனிதத் தலங்களுக்குச் செல்லும் யாத்திரை; pilgrimage.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		160) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷேத்ரகணிதம்&searchhws=yes&matchtype=exact">க்ஷேத்ரகணிதம்</a> kṣētrakaṇitam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷேத்ரகணிதம்</tam> <t>kṣētra-kaṇitam</t></hw> , <i>n</i>. < id. +. (Math.) Geometry. See <tam>கேத்திர கணிதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		161) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷேத்ரஜன்&searchhws=yes&matchtype=exact">க்ஷேத்ரஜன்</a> kṣētrajaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷேத்ரஜன்</tam> <t>kṣētrajaṉ</t></hw> , <i>n</i>. < <i>kṣētra-ja</i>. Son born of the wife by a person duly appointed to raise up issue to the husband, one of 12 <i>puttiraṉ</i>, q.v.; <tam>தன்மனைவியிடம் வேறொரு வனாற் பிறப்பித்துக்கொண்ட புத்திரன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		162) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷேத்ரஜ்ஞன்&searchhws=yes&matchtype=exact">க்ஷேத்ரஜ்ஞன்</a> kṣētrajñaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷேத்ரஜ்ஞன்</tam> <t>kṣētrajñaṉ</t></hw> , <i>n</i>. < id. + <i>jña</i>. Soul. See <tam>கேத்திரக்கியன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		163) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷேத்ரபாலன்&searchhws=yes&matchtype=exact">க்ஷேத்ரபாலன்</a> kṣētrapālaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷேத்ரபாலன்</tam> <t>kṣētra-pālaṉ</t></hw> , <i>n</i>. < id. +. See <tam>கேத்திரபாலன்</tam>. (<smallcap>S. I. I</smallcap>. ii, 172.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		164) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷேத்ரம்&searchhws=yes&matchtype=exact">க்ஷேத்ரம்</a> kṣētram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷேத்ரம்</tam> <t>kṣētram</t></hw> , <i>n</i>. < <i>kṣētra</i>. See <tam>க்ஷேத்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		165) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷேபம்&searchhws=yes&matchtype=exact">க்ஷேபம்</a> kṣēpam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=466">p. 466</a>)
+		<blockquote><p>*<hw><tam>க்ஷேபம்</tam></hw> , occupying time. <p2><tam>காலக்ஷேபம்</tam>, passing time, entertainment.</p2> <p2><tam>ஸ</tam>(<tam>ச</tam>) <tam>த்காலக்ஷேபம்</tam>, good occupation of time.</p2> <p2><tam>வீண்காலக்ஷேபம்</tam>, killing time, <tam>விருதா காலக்ஷேமம்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		166) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷேபம்&searchhws=yes&matchtype=exact">க்ஷேபம்</a> kṣēpam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=724">p. 724</a>)
+		<blockquote><p><hw>க்ஷேபம்</hw> - காலங்கழித்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		167) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷேபம்&searchhws=yes&matchtype=exact">க்ஷேபம்</a> kṣēpam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷேபம்</tam></hw> , <i>s.</i> Occupying time, <tam>காலங்கழித்தல்</tam>. W. p. 267. <smallcaps>KSHE'PA.</smallcaps> <p2><tam>காலக்ஷேபம்</tam>, <i>s.</i> Passing time. See under <tam>காலம்</tam>.</p2> <p2><tam>வீண்காலக்ஷேபம்</tam>, <i>s.</i> Killing time.</p2> <p2><tam>சத்காலக்ஷேபம்</tam>–<tam>சற்காலக்ஷேபம்</tam>, <i>s.</i> Good occupation of time. <i>(Colloq.)</i></p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		168) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷேபி-த்தல்&searchhws=yes&matchtype=exact">க்ஷேபி-த்தல்</a> kṣēpi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>க்ஷேபி-த்தல்</tam> <t>kṣēpi-</t></hw> , <i>11 v. tr</i>. To treat with contempt; <tam>அவமதித்தல். ரேபாந்தமாகச் சொல்லிற்று பூஜ்யதாபுத்தியா லன்று, க்ஷேபிக்கிறார்</tam> (<tam>திவ். திருநெடுந்</tam>, 4, <tam>வ்யா</tam>.).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		169) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷேமதண்டுலம்&searchhws=yes&matchtype=exact">க்ஷேமதண்டுலம்</a> kṣēmataṇṭulam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷேமதண்டுலம்</tam> <t>kṣēma-taṇṭulam</t></hw> , <i>n</i>. < <i>kṣēma</i> +. 1. Articles of food presented by the bride's party to the bridegroom's party when the latter arrive at the bride's house to celebrate the marriage; <tam>பிள்ளைவீட்டுக்காரர் கலியாணத்திற்கு வந்துவுடன் பெண்வீட்டார் பிள்ளை வீட்டுக்காரர்க்கு எடுத்தனுப்பும் உணவுப்பண்டமாகிய சிறப்பு</tam>. 2. Bundle of rice and dholl for a person starting on a journey; <tam>பயணமாகும்போது சேமப்பொருளாகக் கொண்டு செல்லும் அரிசியும் பருப்பும்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		170) <a href="/cgi-bin/app/crea_query.py?qs=க்ஷேமம்&searchhws=yes&matchtype=exact">க்ஷேமம்</a> kṣēmam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=980">p. 980</a>)
+		<blockquote><p><hw>க்ஷேமம்</hw> பெ. [அ.வ.] 1: நலம்; well being; doing well. லோக க்ஷேமத்திற்காக யாகம் பண்ணுகிறோம்./ 'இவ்விடம் யாவரும் க்ஷேமம்' என்று கடிதத்தில் எழுதியிருந்தான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		171) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷேமம்&searchhws=yes&matchtype=exact">க்ஷேமம்</a> kṣēmam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=466">p. 466</a>)
+		<blockquote><p>*<hw><tam>க்ஷேமம்</tam></hw> , <tam>சேமம்</tam>, <i>s.</i> happiness, well-being, <tam>சுகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		172) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷேமம்&searchhws=yes&matchtype=exact">க்ஷேமம்</a> kṣēmam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=724">p. 724</a>)
+		<blockquote><p><hw>க்ஷேமம்</hw> - சுகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		173) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷேமம்&searchhws=yes&matchtype=exact">க்ஷேமம்</a> kṣēmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷேமம்</tam> <t>kṣēmam</t></hw> , <i>n</i>. < <i>kṣēma</i>. 1. See <tam>சேமம்</tam>, 1, 4. 2. Reserve, that which is set apart as reserve; <tam>வைப்புப்பொருள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		174) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷேமம்&searchhws=yes&matchtype=exact">க்ஷேமம்</a> kṣēmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S423">p. S423</a>)
+		<blockquote><p><hw><tam>க்ஷேமம்</tam> <t>kṣēmam</t></hw> , <i>n</i>. < <i>kṣēma</i>. Good health; <tam>சுகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		175) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷேமம்&searchhws=yes&matchtype=exact">க்ஷேமம்</a> kṣēmam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷேமம்</tam></hw> , <i>s.</i> Happiness, prosperity, <tam>சுகம்</tam>. See <tam>சேமம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		176) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷை&searchhws=yes&matchtype=exact">க்ஷை</a> kṣai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷை</tam> <t>kṣai</t></hw> . The compound of <tam>க்ஷ்</tam> and <tam>ஐ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		177) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷொ&searchhws=yes&matchtype=exact">க்ஷொ</a> kṣo
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷொ</tam> <t>kṣo</t></hw> . The compound of <tam>க்ஷ்</tam> and <tam>ஒ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		178) <a href="/cgi-bin/app/winslow_query.py?qs=க்ஷொரம்&searchhws=yes&matchtype=exact">க்ஷொரம்</a> kṣoram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=531">p. 531</a>)
+		<blockquote><p><hw><tam>க்ஷொரம்</tam></hw> , <i>s.</i> Shaving, as <tam>சௌரம்</tam>. W. p. 268. <i>KSHOURA.</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		179) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷோ&searchhws=yes&matchtype=exact">க்ஷோ</a> kṣō
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷோ</tam> <t>kṣō</t></hw> . The compound of <tam>க்ஷ்</tam> and <tam>ஓ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		180) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷோணி&searchhws=yes&matchtype=exact">க்ஷோணி</a> kṣōṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷோணி</tam> <t>kṣōṇi</t></hw> , <i>n</i>. < <i>kṣōṇī</i>. 1. Earth; <tam>பூமி</tam>. 2. Trillion; <tam>ஒரு பேரெண்</tam>. (<tam>த. நி. போ</tam>. 25.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		181) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷோபம்&searchhws=yes&matchtype=exact">க்ஷோபம்</a> kṣōpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷோபம்¹</tam> <t>kṣōpam</t></hw> , <i>n</i>. < <i>kṣōbha</i>. Disturbance, agitation; <tam>கலக்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		182) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷோபம்&searchhws=yes&matchtype=exact">க்ஷோபம்</a> kṣōpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷோபம்²</tam> <t>kṣōpam</t></hw> , <i>n</i>. Ten thousand trillions; <tam>ஒரு பேரெண்</tam>. (<tam>த. நி. போ</tam>. 25.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		183) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷோபி-த்தல்&searchhws=yes&matchtype=exact">க்ஷோபி-த்தல்</a> kṣōpi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷோபி-த்தல்</tam> <t>kṣōpi-</t></hw> , <i>11 v. intr</i>. < <i>kṣubh</i>. To faint, swoon. See <tam>சோபி²-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		184) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷோபிணி&searchhws=yes&matchtype=exact">க்ஷோபிணி</a> kṣōpiṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷோபிணி</tam> <t>kṣōpiṇi</t></hw> , <i>n</i>. < <i>kṣōbhiṇī</i>. (Mus.) A division of the seventh note of the gamut; <tam>நிஷாதஸ்வரத்துள் ஒருவகை</tam>. (<tam>பரத. இராக</tam>. 46.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		185) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷௌ&searchhws=yes&matchtype=exact">க்ஷௌ</a> kṣau
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷௌ</tam> <t>kṣau</t></hw> . The compound of <tam>க்ஷ்</tam> and <tam>ஔ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		186) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷௌமம்&searchhws=yes&matchtype=exact">க்ஷௌமம்</a> kṣaumam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷௌமம்</tam> <t>kṣaumam</t></hw> , <i>n</i>. < <i>kṣauma</i>. White silk; <tam>வெண்பட்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		187) <a href="/cgi-bin/app/fabricius_query.py?qs=க்ஷௌரம்&searchhws=yes&matchtype=exact">க்ஷௌரம்</a> kṣauram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=466">p. 466</a>)
+		<blockquote><p>*<hw><tam>க்ஷௌரம்</tam></hw> , <i>s.</i> shaving, <tam>சௌரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		188) <a href="/cgi-bin/app/kadirvelu_query.py?qs=க்ஷௌரம்&searchhws=yes&matchtype=exact">க்ஷௌரம்</a> kṣauram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=724">p. 724</a>)
+		<blockquote><p><hw>க்ஷௌரம்</hw> - சௌரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		189) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷௌரம்&searchhws=yes&matchtype=exact">க்ஷௌரம்</a> kṣauram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷௌரம்</tam> <t>kṣauram</t></hw> , <i>n</i>. < <i>kṣaura</i>. Shaving. See <tam>சௌரம்²</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		190) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷௌளம்&searchhws=yes&matchtype=exact">க்ஷௌளம்</a> kṣauḷam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3928">p. 3928</a>)
+		<blockquote><p><hw><tam>க்ஷௌளம்</tam> <t>kṣauḷam</t></hw> , <i>n</i>. Corr. of <tam>சௌளம்</tam>. See <tam>குடுமிக்கலியாணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		191) <a href="/cgi-bin/app/tamil-lex_query.py?qs=க்ஷ்&searchhws=yes&matchtype=exact">க்ஷ்</a> kṣ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3925">p. 3925</a>)
+		<blockquote><p><hw><tam>க்ஷ்</tam> <t>kṣ</t></hw> . A conjunct consonant formed by the combination of <i>k</i> with <i>ṣ</i>; <tam>'க்' 'ஷ்' இரண்டுஞ் சேர்ந்த கூட்டெழுத்து</tam>.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

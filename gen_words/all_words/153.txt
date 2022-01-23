@@ -1,0 +1,2719 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>நோ</b>
+                       <div id='no_results'>
+                                249 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/crea_query.py?qs=நோ&searchhws=yes&matchtype=exact">நோ</a> nō
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோ</hw> வி. (நோக, நொந்து) 1: (பெரும்பாலும் நிகழ்கால முற்று வடிவங்களும் 'நோக' என்னும் எச்ச வடிவமும்) (உடல், கை, கால் முதலிய உறுப்புகள்) வலித்தல்; feel pain; ache. நடந்துநடந்து கால் நோகிறது./ அம்மா தலை நோகிறது என்று படுத்துவிட்டாள்./ அவர் சொன்ன கதையைக் கேட்டு விலா நோகச் சிரித்தோம். 2: (பெரும்பாலும் இறந்தகால வடிவங்கள் மட்டும்) (ஒருவரை அல்லது ஒன்றை) குறைகூறுதல்; blame (s.o. for one's misery). இப்படியெல்லாம் சீரழிய வேண்டியிருக்கிறதே என்று விதியை நொந்தான்./ 'எய்தவன் இருக்க அம்பை நோவானேன்' என்பது பழமொழி. 3: (மனம்) புண்படுதல்; வருந்துதல்; (of feelings) get hurt. அவர் மனம் நோகும்படி நடந்துகொள்ளாதே!/ உனது பண்பற்ற பேச்சு அவளை நோகச்செய்துவிட்டது./ அபாண்டமான குற்றச்சாட்டுகளால் மனம் நொந்து பேசினார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/fabricius_query.py?qs=நோ&searchhws=yes&matchtype=exact">நோ</a> nō
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=638">p. 638</a>)
+		<blockquote><p><hw><tam>நோ</tam></hw> , <i>s.</i> pain, <tam>வேதனை</tam>; 2. sickness, <tam>வியாதி</tam>; 3. remorse, contrition; 4. weakness, decay, <tam>பலவீனம்</tam>; 5. injury as a bruise in the body or in a tree, a fruit etc., <tam>சிதைவு</tam>. <p2><tam>நோக்காடு</tam>, pain, sickness, pangs of child birth; <i>(fig.)</i> poverty.</p2> <p2><tam>நோக்காடுண்டாக</tam>, to smart, to pain as a wound; 2. to come on as labour-pains.</p2> <p2><tam>நோவுண்டாக</tam>, –<tam>எழும்ப</tam>, –<tam>க்காண</tam>, – <tam>க்கொள்ள</tam>, to ache, to pain; 2. to come on as labour-pains.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/fabricius_query.py?qs=நோ&searchhws=yes&matchtype=exact">நோ</a> nō
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=638">p. 638</a>)
+		<blockquote><p>*<hw><tam>நோ</tam></hw> , <i>s.</i> no, not, <tam>இல்லை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/fabricius_query.py?qs=நோ&searchhws=yes&matchtype=exact">நோ</a> nō
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=638">p. 638</a>)
+		<blockquote><p><hw><tam>நோ</tam></hw> , <i>irreg. v. i.</i> (<tam>நோகிறது</tam>, <tam>நொந்தது</tam>, <tam>நோவும்</tam>, <i>inf.</i> <tam>நோக</tam> or <tam>நோவ</tam>) ache, smart, feel pain, <tam>வேதனைப்படு</tam>; 2. be grieved, <tam>துக்கப்படு</tam>; 3. be reduced, grow poor; <i>v. t.</i> grumble at, complain of, <tam>நொந்துபேசு</tam>. <p2><tam>எனக்கு நோகிறது</tam>, I am pained.</p2> <p2><tam>காலை நோகிறது</tam>, my foot aches or suffers pain.</p2> <p2><tam>ஒருவனை நொந்துகொள்ள</tam>, to complain of one.</p2> <p2><tam>நொந்தழுகிப்போக</tam>, to rot.</p2> <p2><tam>நொந்திருக்க</tam>, to be poor or reduced in circumstances, to be spoiled.</p2> <p2><tam>நொந்துபோக</tam>, to grow too soft, to begin to rot as a fruit; 2. <i>(fig.)</i> to be reduced in circumstances.</p2> <p2><tam>நொந்துபோன சோறு</tam>, rice overboiled or damaged.</p2> <p2><tam>நோகப்பண்ண</tam>, to give pain, to afflict, to wound one's feelings.</p2> <p2><tam>நோகாமல்</tam>, (<tam>நோவாமல்</tam>) <tam>எடுக்க</tam>, to take up or lift up without hint or giving pain.</p2> <p2><tam>நோதல்</tam>, <i>v. n.</i> being sick; 2. <i>(prov.)</i> disease in trees, plants etc; 3. being injured, as an article of furniture, <tam>பழுதுபடல்</tam>; 4. spreading of dye, in a cloth, beyond the intended time, <tam>சாயஞ்சிதறல்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோ&searchhws=yes&matchtype=exact">நோ</a> nō
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோ</hw> - இன்னம், ஓரெழுத்து, சிதைவு, துக்கம், துன்பம், நோவென்னே வல், பலவீனம், வியாதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோ&searchhws=yes&matchtype=exact">நோ</a> nō
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1672">p. 1672</a>)
+		<blockquote><p><hw>நோ</hw> - ஓர்வகையெழுத்து, நோதல், நோ வென்னேவல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோ&searchhws=yes&matchtype=exact">நோ</a> nō
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2370">p. 2370</a>)
+		<blockquote><p><hw><tam>நோ¹</tam> <t>nō</t></hw> , The compound of <tam>ந்</tam> and <tam>ஓ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோ&searchhws=yes&matchtype=exact">நோ</a> nō
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2370">p. 2370</a>)
+		<blockquote><p><hw><tam>நோ³</tam> <t>nō</t></hw> , <i>n</i>. < <tam>நோ-</tam>. 1. [K. <i>nōta</i>.] Aching, pain, smart; <tam>வலி</tam>. 2. Distress, grief; <tam>துன் பம். நோநொந்து</tam> (<tam>குறள்</tam>, 157). 3. Illness; <tam>வியாதி</tam>. (<smallcap>W</smallcap>.) 4. Injury, bruise, as in the body, a tree, a fruit; <tam>சிதைவு</tam>. (<smallcap>W</smallcap>.) 5. Weakness, infirmity, decay; <tam>பலவீனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/winslow_query.py?qs=நோ&searchhws=yes&matchtype=exact">நோ</a> nō
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=702">p. 702</a>)
+		<blockquote><p><hw><tam>நோ</tam></hw> . A compound letter of <tam>ந்</tam> and <tam>ஓ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/winslow_query.py?qs=நோ&searchhws=yes&matchtype=exact">நோ</a> nō
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=702">p. 702</a>)
+		<blockquote><p><hw><tam>நோ</tam></hw> , <i>s.</i> Aching, an ache, a pain, a smart, <tam>வருத்தம்</tam>. 2. Sickness, <tam>வியாதி</tam>. 3. Chagrin, remorse, contrition; wounded feelings, <tam>துக்கம்</tam>. 4. Injury; a bruise in the body or in a tree, a fruit, &c., <tam>சிதைவு</tam>. 5. Weakness, infirmity, decay, <tam>பலவீனம்</tam>. <p2><tam>நோக்காடு</tam>, <i>s.</i> [<i>Gen.</i> <tam>ட்டின்</tam>.] Pain, ache, <tam>நோ</tam>. 2. Throe, throb, pang, agony, <tam>உபாதி</tam>. 3. Pangs of child-birth, <tam>கருப்பவேதனை</tam>. See <tam>இராசநோக்காடு</tam>. 4. <i>(fig.)</i> Reduced circumstances, poverty, <tam>வறுமை</tam>. 5. Wounded feelings, <tam>மனநோவு</tam>. 6. Sickness, <tam>வியாதி</tam>.</p2> <p2><tam>நோக்காடாய்ப்போக</tam>, <i>inf.</i> To be broken –as the constitution, to become sickly. 2. <i>[prov.]</i> To become poor, destitute.</p2> <p2><tam>நோக்காடுண்டாக</tam>, <i>inf.</i> To smart, to pain as a wound, &c. 2. To come on as labor-pains.</p2> <p2><tam>நோப்படுதல்</tam>, <i>v. noun.</i> Suffering pain, <tam>வருத்தப்படல்</tam>. 2. Being hurt, bruised, &c., as the flesh, a fruit, or a tree.</p2> <p2><tam>நோப்படுத்த</tam>, <i>inf.</i> To put to pain, &c.</p2> <p2><tam>நோவுண்டாக</tam>-<tam>நோவெழும்ப</tam>, <i>inf.</i> [<i>prov.</i> <tam>நோக்காண</tam>, <tam>நோக்கொள்ள</tam>.] To ache, pain be felt as pain. 2. To come on, as labor- pains.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/winslow_query.py?qs=நோ&searchhws=yes&matchtype=exact">நோ</a> nō
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=702">p. 702</a>)
+		<blockquote><p>*<hw><tam>நோ</tam></hw> , <i>s.</i> No, not, <tam>இல்லை</tam>. W. p. 489. No.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/winslow_query.py?qs=நோ&searchhws=yes&matchtype=exact">நோ</a> nō
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=702">p. 702</a>)
+		<blockquote><p><hw><tam>நோ</tam></hw> , <tam>கிறது</tam>, <tam>நொந்தது</tam>, <tam>கும்</tam>, or <tam>வும்</tam>, <tam>க</tam>, or <tam>வ</tam>, <i>v. n.</i> [<i>neg.</i> <tam>நோகாது</tam> or <tam>நோவாது</tam>.] To ache, feel pain, smart, be uneasy, <tam>வருந்த</tam>. 2. To be hurt, bruised–as the body, a tree, plant, fruit, &c., <tam>அழுகிப்போக</tam>. 3. To be grieved, to be wounded in mind, <tam>துக்கப்பட</tam>. 4. To be reduced, to grow poor, <tam>வறுமைப்பட</tam>. 5. To repine, to give expression to wounded feelings, <tam>நொந்துபேச</tam>. <i>(c.)</i> Compare <tam>நை</tam>. <tam>ஏனக்குநோகிறது</tam>. It pains me. <tam>கால்நோகிறது</tam>. My foot aches. <tam>தெய்வத்தை நொந்தென்ன நம்மைநாம் நோகவேண்டும்</tam>. Why grumble at the Deity? We should blame ourselves. <tam>ஒருவனைநொந்துகொள்ள</tam>. To complain of one. <tam>நொந்துகொடுத்தல்</tam>. Giving reluctantly, with regret, &c. <p2><tam>நொந்தகுடி</tam>, <i>s.</i> A reduced family, as <tam>நைந்தகுடி</tam>.</p2> <p2><tam>நொந்துபேச</tam>, <i>inf.</i> To complain.</p2> <p2><tam>நொந்துபோக</tam>, <i>inf.</i> To be tainted, spoiled; to be reduced in circumstances. <tam>நொந்துபோனசோறு</tam>. Boiled rice spoiled be being kept in a vessel without water. <tam>நொந்துபோனவன்</tam>. An impoverished person. <tam>நொந்துபோனேன்</tam>. I am reduced to poverty. <tam>நான்நொந்திருக்கிறவேளையில்</tam>. In a time of privation or suffering.</p2> <p2><tam>நோகாமலெடுக்க</tam>, <i>inf.</i> To lift or take up a child, or sick person, without hurt.</p2> <p2><tam>தெய்வத்தைநோக</tam>, <i>inf.</i> To complain of Providence.</p2> <p2><tam>நோதல்</tam>, <i>v. noun.</i> Being sick, or emaciated. 2. <i>[prov.]</i> Disease in trees, plants, &c., <tam>பூடுமுதலியகெடல்</tam>. 3. Being injured, as an article of furniture, <tam>பழுதுபடல்</tam>. 4. Obliteration or other defect in a marked line, a letter, figure or painting, <tam>மழுங்கல்</tam>. 5. Spreading of dye, in a cloth, beyond the intended line, <tam>சாயஞ்சிதறல்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/mcalpin_query.py?qs=நோ, நோக, நொந்து&searchhws=yes&matchtype=exact">நோ, நோக, நொந்து</a> nō, nōka, nontu
+		from <a href="/dictionaries/mcalpin/">McAlpin's <i>"A core vocabulary for Tamil"</i></a>
+		(<a href="/cgi-bin/app/mcalpin_query.py?page=45">p. 45</a>)
+		<blockquote><p><hw><tam>நோ (<tam>நோக</tam>, <tam>நொந்து</tam>)</tam></hw> noo (noova, nontu) <tam>நோ</tam> <tam>நோவ</tam>,<tam>நொந்து</tam>) feel pain, ache</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோ-தல்&searchhws=yes&matchtype=exact">நோ-தல்</a> nō-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2370">p. 2370</a>)
+		<blockquote><p><hw><tam>நோ²-தல்</tam> <t>nō-</t></hw> , <i>13 v. intr</i>. [K. <i>nō</i>, M. <i>nōka</i>.] 1. To feel pain, ache, suffer, smart; <tam>நோவுண்டாதல். கண் நொந்தது</tam>. 2. [T. <i>nogulu</i>.] To be grieved, distressed in mind; to feel aggrieved; <tam>வருந்துதல். ஊரன்மீ தீப்பறக்க நொந் தேனும் யானே</tam> (<tam>நாலடி</tam>, 389). 3. To complain; <tam>துன்பத்தைச் சொல்லுதல். நோவற்க நொந்த தறி யார்க்கு</tam> (<tam>குறள்</tam>, 877). 4. To be injured, bruised, as a plant, fruit; to be spoiled, as boiled rice; <tam>பதனழிதல். நொந்தன்னம்</tam> (<tam>பதார்த்த</tam>. 1459). 5. To be impoverished; to grow poor; <tam>வறுமைப்படுதல். நொந்த குடி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோ-தல்&searchhws=yes&matchtype=exact">நோ-தல்</a> nō-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நோ-தல்</tam> <t>nō-</t></hw> , <i>13 v. tr</i>. To hate; <tam>வெறுத்தல். ஏதிலரை நோவதெவன்</tam> (<tam>நீதிநெறிவி</tam>. 25).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்க&searchhws=yes&matchtype=exact">நோக்க</a> nōkka
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2370">p. 2370</a>)
+		<blockquote><p><hw><tam>நோக்க</tam> <t>nōkka</t></hw> , <i>part</i>. < <tam>நோக்கு-</tam>. A particle denoting comparison; <tam>ஓர் உவமவுருபு</tam>. (<tam>தொல். பொ</tam>. 286, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்கட்டாமரம்&searchhws=yes&matchtype=exact">நோக்கட்டாமரம்</a> nōkkaṭṭāmaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நோக்கட்டாமரம்</tam> <t>nōkkaṭṭā-maram</t></hw> , <i>n</i>. cf. <tam>நெய்க்கொட்டான்</tam> +. Loquat. See <tam>இலகோட்டா</tam>. (<smallcap>L</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்கனோக்கம்&searchhws=yes&matchtype=exact">நோக்கனோக்கம்</a> nōkkaṉōkkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோக்கனோக்கம்</tam> <t>nōkkaṉōkkam</t></hw> , <i>n</i>. < <tam>நோக்கு</tam> + <tam>அல்</tam> neg. +. Discernment as seeing through the mind's eye; <tam>மனத்தால் நோக்கம் நோக்கம். நோக்க னோக்க மவ்விரண்டன் மருங்கி னேதுவு மாகும்</tam> (<tam>தொல் சொல்</tam>. 93).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்கன்&searchhws=yes&matchtype=exact">நோக்கன்</a> nōkkaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2370">p. 2370</a>)
+		<blockquote><p><hw><tam>நோக்கன்</tam> <t>nōkkaṉ</t></hw> , <i>n</i>. 1. A caste; <tam>சாதிவகை</tam>. (<smallcap>E. T</smallcap>. v, 416.) 2. Pole-dancer, mountebank; <tam>கழைக்கூத்தன்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/crea_query.py?qs=நோக்கம்&searchhws=yes&matchtype=exact">நோக்கம்</a> nōkkam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோக்கம்</hw> பெ. 1: (செயலின் அல்லது செயல்பாட்டின்) இலக்கு; (எண்ணத்தின் அல்லது கருத்தின்) குறிக்கோள்; objective (of one's action); aim (of one's intention); goal. அனாதைக் குழந்தைகளுக்கு உதவுவதே எங்கள் நோக்கம்/ உற்பத்திப் பெருக்கத்தை நோக்கமாகக் கொண்ட பொருளாதாரத் திட்டங்கள்./ உன்னை மிரட்டிப் பணம் பறிக்க வேண்டும் என்ற நோக்கம் எனக்கு இல்லை. 2: (செயலை எதற்காகச் செய்ய வேண்டும் என்ற) கருத்து; intention; motive. கொலை புரிந்ததற்கு நோக்கம் இருந்திருக்கிறது./ அவர் தன் பெயரை மாற்றிக் கூறியதற்கு ஏதோ நோக்கம் இருக்க வேண்டும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/fabricius_query.py?qs=நோக்கம்&searchhws=yes&matchtype=exact">நோக்கம்</a> nōkkam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=638">p. 638</a>)
+		<blockquote><p><hw><tam>நோக்கம்</tam></hw> , <i>s.</i> looking on, glance, view, <tam>பார்வை</tam>; 2. sight, appearance, <tam>தோற் றம்</tam>; 3. aim, intention, inclination of mind, <tam>எண்ணம்</tam>; 4. eye, eye-sight, <tam>கண்</tam>; 5. beauty, <tam>அழகு</tam>; 6. height, elevation, <tam>உயர்ச்சி</tam>. <p2><tam>எந்த நோக்கமாய் அதைச் சொல்லு கிறாய்</tam>, what is your intention by saying this?</p2> <p2><tam>நோக்கமாயிருக்க</tam>, to intend, to have in view.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோக்கம்&searchhws=yes&matchtype=exact">நோக்கம்</a> nōkkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோக்கம்</hw> - அருமை, அழகு, உயர்ச்சி, ஏண்ணம், கண், காவல், புன்மை, தோற்றம், பார்வை, விருப்பம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோக்கம்&searchhws=yes&matchtype=exact">நோக்கம்</a> nōkkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1674">p. 1674</a>)
+		<blockquote><p><hw>நோக்கம்</hw> - அழகு, உயர்ச்சி, கண், பார்வை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்கம்&searchhws=yes&matchtype=exact">நோக்கம்</a> nōkkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2370">p. 2370</a>)
+		<blockquote><p><hw><tam>நோக்கம்</tam> <t>nōkkam</t></hw> , <i>n</i>. < id. [M. <i>nōkkam</i>.] 1. Eye; <tam>கண். (திவா.)</tam> 2. Eyesight, look, gaze, glance, view; <tam>பார்வை. கண் களவுகொள்ளுஞ் சிறுநோக்கம்</tam> (<tam>குறள்</tam>, 1092). 3. Aspects of a planet. See <tam>கிரகநோக்கு</tam>. 4. Appearance, expression, cast of countenance; <tam>தோற்றம்</tam>. 5. cf. <tam>ஓக்கம்</tam>. Height, elevation; <tam>உயர்ச்சி</tam>. (<smallcap>W</smallcap>.) 6. Beauty, attractiveness; <tam>அழகு. மருணோக்க மடிந்தாங்கே மயல்கூர் கிற்பாள் மன்னோ</tam> (<tam>கலித்</tam>. 10). 7. Watch; <tam>காவல். (யாழ். அக.)</tam> 8. Design, object, intention, aim, motive; <tam>கருத்து. நீ அப்படிச் செய்வதற்கு நோக்கம் என்ன</tam>? 9. Sense, intelligence; <tam>அறிவு. மருளிகொண்ட மட நோக்கம்</tam> (<tam>கலித்</tam>. 14). 10. Attention, observation; <tam>கவனம். படிப்பில் நோக்கமாயிரு</tam>. 11. Desire; <tam>விருப்பம். (யாழ். அக.)</tam> 12. Indication, sign; <tam>குறிப்பு. வானம் மழை நோக்கமாயிருக்கிறது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/winslow_query.py?qs=நோக்கம்&searchhws=yes&matchtype=exact">நோக்கம்</a> nōkkam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=702">p. 702</a>)
+		<blockquote><p><hw><tam>நோக்கம்</tam></hw> , <i>s.</i> [<i>high dialect,</i> <tam>நோக்கு</tam>.] A look, gaze, glance, view, <tam>பார்வை</tam>. 2. Design, object, purpose, intention, aim, motive, <tam>ஏண்ணம்</tam>. 3. The eye, eye-sight, <tam>கண்</tam>. 4. Appearance, aspect, expression or cast of countenance; mien, <tam>தோற்றம்</tam>. 5. Aspect, position, tendency of affairs, <tam>தன்மை</tam>. 6. Tendency, course, direction, indication, <tam>போக்கு</tam>. 7. Attractiveness, <tam>கணிசம்</tam>. 8. Desire, aspiration, <tam>விருப்பம்</tam>. 9. Attention, observation, <tam>கவனம்</tam>. 10. Favor, kindness, benignant look, <tam>கடாட்சம்</tam>. (See <tam>இராசநோக்கம்</tam>.) 11. Beauty, <tam>அழகு</tam>. 12. Height, elevation, <tam>உயர்ச்சி</tam>. 13. Aspect of a planet, <tam>கிரகநோக்கு</tam>.–The four planetary aspects, <tam>கிரகநோக்கு</tam> are 1. <tam>கால்நோக்கு</tam>, aspect of a planet in the third or sixteenth sign from that in which its influence is least; 2. <tam>அசைநோக்கு</tam>, partiality of a planet; or its aspect on the fifth or ninth sign from its own; 3. <tam>முக்கால்நோக்கு</tam>, aspect of a planet on the forth and ninth sign from its own; 4. <tam>முழுநோக்கு</tam>, full aspect of a planet, when in opposition to a sign or to another planet; an aspect wholly malignant or wholly benignant. <tam>ஏந்தநோக்கமாய்அப்படிச்சொல்லுகிறீர்</tam>. What is your intention by saying so? <p2><tam>நோக்கங்காட்ட</tam>, <i>inf.</i> To have an aspect, a tendency, as an affair, or the weather; to indicate.</p2> <p2><tam>நோக்கத்தான்</tam>, <i>appel. n.</i> One who fascinates by the eye. (<tam>நீதிநெறி</tam>.)</p2> <p2><tam>நோக்கமாயிருக்க</tam>, <i>inf.</i> To intend, purpose, have in view.</p2> <p2><tam>நோக்கமாய்த்திரிய</tam>, <i>inf.</i> To be in pursuit of, to aim at.</p2> <p2><tam>நோக்கமுள்ளவன்</tam>, <i>appel. n.</i> A man of prepossessing appearnce. 2. One favored by the Deity, or a prince.</p2> <p2><tam>நோக்கம்வைக்க</tam>, <i>inf.</i> To be benignant as <tam>திருஷ்டிவைக்க</tam>.</p2> <p2><tam>நோக்குடைப்பொருள்</tam>, <i>s.</i> Interesting matter expressed in obscure language.</p2> <p2><tam>நோக்குப்பெறுதல்</tam>, <i>v. noun.</i> Being influenced by a planet as a sign, or another planet.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/fabricius_query.py?qs=நோக்கர்&searchhws=yes&matchtype=exact">நோக்கர்</a> nōkkar
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=638">p. 638</a>)
+		<blockquote><p><hw><tam>நோக்கர்</tam></hw> , <i>s.</i> pole-dancers, <tam>கழைக்கூத்தர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோக்கர்&searchhws=yes&matchtype=exact">நோக்கர்</a> nōkkar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோக்கர்</hw> - கழைக்கூத்தர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/winslow_query.py?qs=நோக்கர்&searchhws=yes&matchtype=exact">நோக்கர்</a> nōkkar
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=702">p. 702</a>)
+		<blockquote><p><hw><tam>நோக்கர்</tam></hw> , <i>s. [pl.]</i> Pole-dancers, mounte- banks, <tam>கழைக்கூத்தர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/crea_query.py?qs=நோக்கர்கள்&searchhws=yes&matchtype=exact">நோக்கர்கள்</a> nōkkarkaḷ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோக்கர்கள்</hw> பெ. [பெ.வ.] 1: எதிர்காலத்தில் நடக்கப்போவதை முன்னரே கூறக் கூடிய அளவுக்கு ஒரு துறையில் நிகழ்வதை ஆழ்ந்து கவனிப்பவர்கள்; observers. வரும் பொதுத்தேர்தல் இந்திய அரசியலில் ஒரு பெரும் திருப்புமுனையாக அமையலாம் என்று அரசியல் நோக்கர்கள் கருதுகிறார்கள்./ உலக விளையாட்டுப் போட்டியில் ஆசிய நாடுகளுக்கு வெற்றி வாய்ப்புக் குறைவாகத்தான் இருக்கும் என்று விளையாட்டு நோக்கர்கள் கூறினர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்கலங்காரம்&searchhws=yes&matchtype=exact">நோக்கலங்காரம்</a> nōkkalaṅkāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2370">p. 2370</a>)
+		<blockquote><p><hw><tam>நோக்கலங்காரம்</tam> <t>nōkkalaṅkāram</t></hw> , <i>n</i>. < <tam>நோக்கு</tam> +. (Rhet.) A figure of speech. See <tam>தற்குறிப்பேற்றம்</tam>. (<tam>வீரசோ. அலங்</tam>. 25.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோக்கல்&searchhws=yes&matchtype=exact">நோக்கல்</a> nōkkal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோக்கல்</hw> - காணல், காத்தல், நோக்குதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோக்கல்&searchhws=yes&matchtype=exact">நோக்கல்</a> nōkkal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1674">p. 1674</a>)
+		<blockquote><p><hw>நோக்கல்</hw> - காணல், காத்தல், வியங்கோ ண்முற்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோக்கவித்தை&searchhws=yes&matchtype=exact">நோக்கவித்தை</a> nōkkavittai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோக்கவித்தை</hw> - ஒரு தந்திரவித்தை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்காச்சாவி&searchhws=yes&matchtype=exact">நோக்காச்சாவி</a> nōkkāccāvi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோக்காச்சாவி</tam> <t>nōkkā-c-cāvi</t></hw> , <i>n</i>. See <tam>நுகக்காற்சாவி</tam>. <i>Nāñ</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/fabricius_query.py?qs=நோக்காடு&searchhws=yes&matchtype=exact">நோக்காடு</a> nōkkāṭu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=638">p. 638</a>)
+		<blockquote><p><hw><tam>நோக்காடு</tam></hw> , <i>s.</i> see under <tam>நோ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோக்காடு&searchhws=yes&matchtype=exact">நோக்காடு</a> nōkkāṭu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோக்காடு</hw> - தரித்திரம், நோ,பிரசூதி நோ.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்காடு&searchhws=yes&matchtype=exact">நோக்காடு</a> nōkkāṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோக்காடு</tam> <t>nōkkāṭu</t></hw> , <i>n</i>. < <tam>நோ-</tam> +. 1. Pain, pang, agony; <tam>நோவு</tam>. 2. Pangs of child-birth. See <tam>இராசநோக்காடு</tam>. (<smallcap>W</smallcap>.) 3. Sickness, disease; <tam>வியாதி. கண்ணோக்காடாம்</tam> (<tam>பணவிடு</tam>. 300). 4. Mental worry; <tam>மனநோவு</tam>. (<smallcap>W</smallcap>.) 5. Reduced circumstances, poverty; <tam>வறுமை</tam>. (<smallcap>J</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/winslow_query.py?qs=நோக்காடு&searchhws=yes&matchtype=exact">நோக்காடு</a> nōkkāṭu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=702">p. 702</a>)
+		<blockquote><p><hw><tam>நோக்காடு</tam></hw> , <i>s.</i> Sickness, pain, &c. See under; <tam>நோ</tam>, <i>s.</i> <i>(c.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்காலுரை-த்தல்&searchhws=yes&matchtype=exact">நோக்காலுரை-த்தல்</a> nōkkālurai-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோக்காலுரை-த்தல்</tam> <t>nōkkāl-urai-</t></hw> , <i>v. intr</i>. < <tam>நோக்கு</tam> +. To communicate by mere look, as a guru; <tam>பார்வையால் உணர்த்துதல். குறு முனிக்குத் தமிழ் நோக்கா லுரைத்த வாறும்</tam> (<tam>திருவாலவா. பதிகம்</tam>. 3).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்கால்&searchhws=yes&matchtype=exact">நோக்கால்</a> nōkkāl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோக்கால்</tam> <t>nōkkāl</t></hw> , <i>n</i>. Corr. of <tam>நுகக்கால்</tam>. <i>Tinn</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/crea_query.py?qs=நோக்கி&searchhws=yes&matchtype=exact">நோக்கி</a> nōkki
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோக்கி</hw> வி.அ. 1: (குறிப்பிட்ட ஒன்றை அல்லது ஒருவரை) இலக்காகக் கொண்டு; towards; in the direction of. ஏவுகணை விண்ணை நோக்கிப் பாய்ந்தது./ அவன் திரும்பி வீட்டை நோக்கி நடந்தான்./ சத்தம் வந்த திசையை நோக்கித் திரும்பினான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/mcalpin_query.py?qs=நோக்கி&searchhws=yes&matchtype=exact">நோக்கி</a> nōkki
+		from <a href="/dictionaries/mcalpin/">McAlpin's <i>"A core vocabulary for Tamil"</i></a>
+		(<a href="/cgi-bin/app/mcalpin_query.py?page=45">p. 45</a>)
+		<blockquote><p><hw><tam>நோக்கி</tam></hw> paattu <tam>பாத்து</tam> 1. towards, to (post. + acc.) [2. cvb. of <tam>நோக்கு</tam> 'look at']</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்கிமாடை&searchhws=yes&matchtype=exact">நோக்கிமாடை</a> nōkkimāṭai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நோக்கிமாடை</tam> <t>nōkki-māṭai</t></hw> , <i>n</i>. perh. <tam>நோக்கு-</tam> +. A coin; <tam>நாணயவகை. ஶ்ரீபண்டாரத் தில் ஒடுக்கின நோக்கிமாடை ஒன்றும்</tam> (<smallcap>S. I. I</smallcap>. iv, 293).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்கியநோக்கம்&searchhws=yes&matchtype=exact">நோக்கியநோக்கம்</a> nōkkiyanōkkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோக்கியநோக்கம்</tam> <t>nōkkiya-nōkkam</t></hw> , <i>n</i>. < id. +. Seeing through the eyes; <tam>கண்களால் நோக்குகை</tam>. (<tam>தொல். சொல்</tam>. 89, <tam>இளம்பூ</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/crea_query.py?qs=நோக்கு&searchhws=yes&matchtype=exact">நோக்கு</a> nōkku
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோக்கு<sup>1</sup></hw> வி. (நோக்க, நோக்கி) [உ.வ.] 1: பார்த்தல்; see; look at. எந்தத் திசையில் நோக்கினாலும் பச்சைப்பசேலென்ற நெல் வயல்கள்/ அவள் தலை நிமிர்ந்து என்னை நோக்கினாள்./ அவனைப் பொசுக்கிவிடுவது போல் நோக்கினாள். 2: கவனித்தல்; pay attention to; have a close look at. எழுத்தாளரின் மொழி நடையை மட்டும் நோக்கும்போது என்ன புலப்படுகிறது? 3: அணுகுதல்; approach. எந்த ஒரு பிரச்சினையையும் நிதானத்துடன் நோக்கக் கற்றுக்கொள்ள வேண்டும்./ அமைப்பியல் அடிப்படையில் இந்தப் பாடலை நோக்குவோம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/crea_query.py?qs=நோக்கு&searchhws=yes&matchtype=exact">நோக்கு</a> nōkku
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோக்கு<sup>2</sup></hw> பெ. 1: கண்ணோட்டம்; point of view. உன்னுடைய நோக்கில் நீ செய்ததெல்லாம் உனக்குச் சரியாகத்தான் தெரியும்./ உலக நோக்கு என்ற ஒன்று அவர் கவிதைகளில் அறவே இல்லை./ திரைப்படங்களைப்பற்றி நீ கொண்டிருக்கும் குறுகிய நோக்கை மாற்றிக்கொள். 2: [உ.வ.] நோக்கம்; objective; goal. ஒரு ஆராய்ச்சியின் நோக்கைப் பொறுத்துத்தான் அதன் போக்கும் அமையும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/fabricius_query.py?qs=நோக்கு&searchhws=yes&matchtype=exact">நோக்கு</a> nōkku
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=638">p. 638</a>)
+		<blockquote><p><hw><tam>நோக்கு</tam></hw> , III. <i>v. t.</i> look at, look on, look toward, <tam>பார்</tam>; 2. intend, <tam>கருது</tam>; 3. keep, protect, <tam>இரட்சி</tam>; 4. countenance, <tam>கடாட்சி</tam>. <p2><tam>என்னை நோக்கிப்பார்</tam>, look at me.</p2> <p2><tam>நோக்குவித்தை</tam>, juggling, legerdemain.</p2> <p2><tam>நோக்குவித்தைக்காரன்</tam>, a juggler.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோக்கு&searchhws=yes&matchtype=exact">நோக்கு</a> nōkku
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோக்கு</hw> - அழகு, ஏண்ணம், கண், கிரக நிலைகளினேழாமிடம், தயவு, நோக் கென்னேவல், பார்வை, விருப்பம், வினோதக்கூத்து.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோக்கு&searchhws=yes&matchtype=exact">நோக்கு</a> nōkku
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1674">p. 1674</a>)
+		<blockquote><p><hw>நோக்கு</hw> - அழகு, கண், நோக்கென்னேவல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்கு&searchhws=yes&matchtype=exact">நோக்கு</a> nōkku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோக்கு²</tam> <t>nōkku</t></hw> , < <tam>நோக்கு-</tam>. <i>n</i>. [M. <i>nōkku</i>.] 1. Eye; <tam>கண். மலர்ந்த நோக்கின்</tam> (<tam>பதிற்றுப்</tam>. 65, 7). 2. Look, sight; <tam>பார்வை. செல்வர் சிறுநோக்கு நோக்குங்கால்</tam> (<tam>நாலடி</tam>, 298). 3. Beauty; <tam>அழகு. நோயிகந்து நோக்குவிளங்க</tam> (<tam>மதுரைக்</tam>. 13). 4. Meaning, intention; <tam>கருத்து. நூலவர் நோக்கு</tam> (<tam>திரிகடு</tam>. 29). 5. Knowledge; <tam>அறிவு. நுழைந்த நோக்கிற் கண்ணுள் வினைஞர்</tam> (<tam>மதுரைக்</tam>. 517). 6. Greatness; <tam>பெருமை. நோக்கிழந்தனர் வானவ ரெங்களால்</tam> (<tam>கம்பரா. கும்பக</tam>. 328). 7. Mode, style; <tam>கதி. சொன் னோக்கும் பொருணோக்கும்</tam> (<tam>அஷ்டப். திருவரங்கக். தனியன்</tam>, 2). 8. A kind of dance; <tam>வினோதக்கூத்துக் களுள் ஒன்று</tam>. (<tam>சிலப்</tam>. 3, 12, <tam>உரை</tam>.) 9. (Poet.) Attractive grace, an element of poetic art; <tam>ஓசை முதலியவற்றால் கேட்டாரை மீட்டுந் தன்னை நோக்கச் செய்யும் செய்யுளுறுப்பு</tam>. (<tam>தொல். பொ</tam>. 416.) 10. Desire; <tam>விருப்பம். (யாழ். அக.)</tam> — <i>part</i>. A particle of comparison; <tam>ஓர் உவமவுருபு</tam>. (<tam>தொல். பொ</tam>. 287.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/winslow_query.py?qs=நோக்கு&searchhws=yes&matchtype=exact">நோக்கு</a> nōkku
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோக்கு</tam></hw> , <tam>கிறேன்</tam>, <tam>நோக்கினேன்</tam>, <tam>வேன்</tam>, <tam>நோக்க</tam>, <i>v. a.</i> To look, look at, behold, view, <tam>பார்க்க</tam>. 2. To look toward, to tend toward, <tam>நேர்பார்க்க</tam>. 3. To intend, to address one's self to a business, <tam>மனஞ்செலுத்த</tam>. 4. To regard with benignity, to countenance, <tam>கடாட்சிக்க</tam>. 5. To survey, to respect, to observe, <tam>கவனிக்க</tam>. 6. To have an aspect or a bearing as a planet, <tam>கிரகம்நோக்க</tam>. 7. To keep, protect, save–as one of the five operations of deity, <tam>இரட்சிக்க</tam>. <tam>ஏன்னைநோக்கிப்பார்</tam>. Look at me. <tam>அதைநோக்கஇதுநல்லதாம்</tam>. This is better that that. <tam>மேல்நோக்குவாயு</tam>. Wind rising upwards in the body.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்கு-தல்&searchhws=yes&matchtype=exact">நோக்கு-தல்</a> nōkku-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோக்கு¹-தல்</tam> <t>nōkku-</t></hw> , <i>5 v. tr</i>. [K. <i>nōḍu</i>, M. <i>nōkkuka</i>.] 1. To see, look at, behold, view; <tam>பார்த்தல். நோக்கலின்</tam> (<tam>தொல். சொல்</tam>. 73). 2. To consider, reflect; <tam>கருதுதல். அறனோக்கி யாற்றுங் கொல் வையம்</tam> (<tam>குறள்</tam>, 189). 3. To regard, pay attention to; <tam>கவனித்தல். நச்சாமை நோக்காமை நன்று</tam> (<tam>ஏலாதி</tam>, 12). 4. To arrange, put in order; <tam>திருத்துதல். புனையிழை நோக்கியும்</tam> (<tam>கலித்</tam>. 76). 5. To keep, protect, save; <tam>பாதுகாத்தல். நோக்காது நோக்கி</tam> (<tam>சி. போ</tam>. 1, 4, <tam>வெண். பக்</tam>. 79). 6. To do, perform; <tam>செய்தல். இவற்றை மும்மை சேர் யாண்டு நோக்கு</tam> (<tam>திருவாலவா</tam>. 34, 15). 7. To resemble; <tam>ஒத்தல். இந்துநோக்கிய நுதலியை</tam> (<tam>கம்பரா. சூர்ப்ப</tam>. 96). 8. To compare; <tam>ஒப்பிட்டுப்பார்த்தல். அவனைநோக்க இவன் நல்லவன்</tam>. 9. To read; <tam>வாசித்தல். இறைவன் கொண்டாங்கது நோக்குமே</tam> (<tam>சீவக</tam>. 2586). 10. To desire; <tam>விரும்புதல். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்கு-தல்&searchhws=yes&matchtype=exact">நோக்கு-தல்</a> nōkku-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நோக்கு-தல்</tam> <t>nōkku-</t></hw> , <i>5 v. tr</i>. To supervise; <tam>கண்காணித்தல். இம்மடம் நோக்கும் திருமே னிக்கு</tam> (<smallcap>S. I. I</smallcap>. iv, 17).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோக்குக்கூத்து&searchhws=yes&matchtype=exact">நோக்குக்கூத்து</a> nōkkukkūttu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1461">p. 1461</a>)
+		<blockquote><p><hw>நோக்குக்கூத்து</hw> - பாரமும்துன்மையும்மா யமுமுதலாயினவற்றையுடையது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்குடைப்பொருள்&searchhws=yes&matchtype=exact">நோக்குடைப்பொருள்</a> nōkkuṭaipporuḷ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோக்குடைப்பொருள்</tam> <t>nōkkuṭai-p-poruḷ</t></hw> , <i>n</i>. < <tam>நோக்கு</tam> +. 1. Suggested meaning; <tam>குறிப்புப்பொருள்</tam>. 2. Interesting matter expressed in obscure language; <tam>கருகற்சொற்களாலமைந்த சுவையுடைப்பொருள்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோக்குதல்&searchhws=yes&matchtype=exact">நோக்குதல்</a> nōkkutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோக்குதல்</hw> - கடாச்சித்தல், காத்தல், தய வுசெய்தல், பார்த்தல், விரும்புதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்குபதேசம்&searchhws=yes&matchtype=exact">நோக்குபதேசம்</a> nōkkupatēcam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோக்குபதேசம்</tam> <t>nōkkupatēcam</t></hw> , <i>n</i>. < id. +. Gracious look. See <tam>நயனதீட்சை. நோக்குபதேசத்தான் . . . உபதேசித்து</tam> (<tam>திருவாலவா</tam>. 27, 46).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்குவவெல்லாமவையேபோறல்&searchhws=yes&matchtype=exact">நோக்குவவெல்லாமவையேபோறல்</a> nōkkuvavellāmavaiyēpōṟal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோக்குவவெல்லாமவையேபோறல்</tam> <t>nōkkuva-v-ellām-avaiyē-pōṟal</t></hw> , <i>n</i>. < <tam>நோக்கு-</tam> +. The state of mind of a lover when every object of his sight painfully reminds him of the multifarious charms of his sweetheart, one of ten <i>avattai</i>, q.v.; <tam>அவத்தை பத்தனுள் பார்ப்பன வெல்லாம் தான் கருதிய தலைவியின் உருவமாகவே தலைவற்குத் தோன்றும் நிலை</tam>. (<tam>நம்பியகப்</tam>. 36, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்குவித்தை&searchhws=yes&matchtype=exact">நோக்குவித்தை</a> nōkkuvittai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோக்குவித்தை</tam> <t>nōkku-vittai</t></hw> , <i>n</i>. < <tam>நோக்கு</tam> +. Conjuring trick, jugglery; <tam>கண்கட்டிவித்தை. நோக்குவித்தை காட்டுநரை</tam> (<tam>திருவாலவா</tam>. 49, 18).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/winslow_query.py?qs=நோக்குவித்தை&searchhws=yes&matchtype=exact">நோக்குவித்தை</a> nōkkuvittai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோக்குவித்தை</tam></hw> , <i>s.</i> A kind of juggling, <tam>ஓர்வித்தை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோக்கெதிர்நோக்கு-தல்&searchhws=yes&matchtype=exact">நோக்கெதிர்நோக்கு-தல்</a> nōkketirnōkku-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோக்கெதிர்நோக்கு-தல்</tam> <t>nōkketir-nōkku-</t></hw> , <i>v. intr</i>. < id. +. (Akap.) To gaze into another's eye, as lovers; <tam>தலைவன் நோக்கிய விடத்துத் தலைவி எதிர்நோக்குதல். நோக்கெதிர் நோக்குதல் தாக்கணங்கு தானைக் கொண்டன்ன துடைத்து</tam> (<tam>குறள்</tam>, 1082).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/fabricius_query.py?qs=நோசல்&searchhws=yes&matchtype=exact">நோசல்</a> nōcal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=638">p. 638</a>)
+		<blockquote><p><hw><tam>நோசல்</tam></hw> , <i>s.</i> sickness, pain, see <tam>நசல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோசல்&searchhws=yes&matchtype=exact">நோசல்</a> nōcal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோசல்</hw> - நோவு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோசல்&searchhws=yes&matchtype=exact">நோசல்</a> nōcal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோசல்</tam> <t>nōcal</t></hw> , <i>n</i>. < <tam>நோ-</tam>. Sickness, pain; <tam>நோவு</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/winslow_query.py?qs=நோசல்&searchhws=yes&matchtype=exact">நோசல்</a> nōcal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோசல்</tam></hw> , <i>s.</i> Sickness, pain. <i>(R.)</i> See <tam>நசல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/fabricius_query.py?qs=நோஞ்சல்&searchhws=yes&matchtype=exact">நோஞ்சல்</a> nōñcal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=638">p. 638</a>)
+		<blockquote><p><hw><tam>நோஞ்சல்</tam></hw> , <i>s.</i> emaciation, <tam>நோய்ஞ்சல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோஞ்சல்&searchhws=yes&matchtype=exact">நோஞ்சல்</a> nōñcal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோஞ்சல்</hw> - மெலிதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோஞ்சல்&searchhws=yes&matchtype=exact">நோஞ்சல்</a> nōñcal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோஞ்சல்</tam> <t>nōñcal</t></hw> , <i>n</i>. < <tam>நோய்³-</tam>. Emaciation; <tam>மெலிவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/winslow_query.py?qs=நோஞ்சல்&searchhws=yes&matchtype=exact">நோஞ்சல்</a> nōñcal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோஞ்சல்</tam></hw> , <i>s.</i> Emaciation. See <tam>நோய்ஞ்சல்</tam>. <i>(c.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/crea_query.py?qs=நோஞ்சான்&searchhws=yes&matchtype=exact">நோஞ்சான்</a> nōñcāṉ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோஞ்சான்</hw> பெ. 1: உடல் வலிமையற்று மெலிந்து காணப்படுவது; lean and weak person or animal. ஊட்டச் சத்து இல்லாத நோஞ்சான் குழந்தைகள்/ இந்த நோஞ்சான் மாட்டை வைத்துக்கொண்டு உழ முடியாது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோஞ்சான்&searchhws=yes&matchtype=exact">நோஞ்சான்</a> nōñcāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோஞ்சான்</tam> <t>nōñcāṉ</t></hw> , <i>n</i>. < id. Feeble, invalid person; <tam>நோய் முதலியவற்றால் மெலிந்த வன்</tam>. <i>Tinn</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோஞ்சி&searchhws=yes&matchtype=exact">நோஞ்சி</a> nōñci
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோஞ்சி</hw> - மெலிந்தவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோஞ்சி&searchhws=yes&matchtype=exact">நோஞ்சி</a> nōñci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோஞ்சி</tam> <t>nōñci</t></hw> , <i>n</i>. See <tam>நோஞ்சான். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/fabricius_query.py?qs=நோடாலம்&searchhws=yes&matchtype=exact">நோடாலம்</a> nōṭālam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோடாலம்</tam></hw> , <i>prov. fos.</i> <tam>நடலம்</tam>, which see.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோடாலம்&searchhws=yes&matchtype=exact">நோடாலம்</a> nōṭālam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோடாலம்</hw> - நூதனம், நொன்னை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோடாலம்&searchhws=yes&matchtype=exact">நோடாலம்</a> nōṭālam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோடாலம்</tam> <t>nōṭālam</t></hw> , <i>n</i>. < <tam>நடலம்</tam>. (<smallcap>J</smallcap>.) 1. Jocularity, pleasantry; <tam>உல்லாசம்</tam>. 2. Mockery, scoffing; <tam>பரிகாசம்</tam>. 3. Fastidiousness; <tam>அதிநாக ரிகம்</tam>. 4. Newness; <tam>புதுமை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/winslow_query.py?qs=நோடாலம்&searchhws=yes&matchtype=exact">நோடாலம்</a> nōṭālam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோடாலம்</tam></hw> , <i>s.</i> [<i>prov. for</i> <tam>நடலம்</tam>.] Jocularity, pleasantry, <tam>உல்லாசம்</tam>. 2. Mockery, scoffing, <tam>பரிகாசம்</tam>. 3. Squeamishness, <tam>நாகரீகம்</tam>. <i>[For the compounds, see</i> <tam>நடலம்</tam>.]</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோட்டக்காரன்&searchhws=yes&matchtype=exact">நோட்டக்காரன்</a> nōṭṭakkāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2371">p. 2371</a>)
+		<blockquote><p><hw><tam>நோட்டக்காரன்</tam> <t>nōṭṭa-k-kāraṉ</t></hw> , <i>n</i>. < <tam>நோட்டம்</tam> +. [K. <i>nōṭagāra</i>, M. <i>nōṭṭakkāran</i>.] 1. Shroff; <tam>நாணயம் பரிசோதிப்போன். நோட்டக்காரர் நெஞ்சடையக் கூப்பிடுவது</tam> (<tam>பணவிடு</tam>. 182). 2. Expert in appraising coins, gems, etc.; <tam>நாணயம் இரத்தினம் முதலியவற்றின் குணாகுணங்க ளறிந்தவன்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோட்டன்&searchhws=yes&matchtype=exact">நோட்டன்</a> nōṭṭaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோட்டன்</tam> <t>nōṭṭaṉ</t></hw> , <i>n</i>. < id. See <tam>நோட்டக்காரன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/crea_query.py?qs=நோட்டம்&searchhws=yes&matchtype=exact">நோட்டம்</a> nōṭṭam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோட்டம்</hw> பெ. 1: மதிப்பிடும் அல்லது தெரிந்துகொள்ளும் நோக்கம் கொண்ட பார்வை; (searching) glance. பாத்திரம் விற்கிற சாக்கில் வந்து திருடப்போகிற வீட்டை நோட்டம் பார்த்தனர்./ மேடையில் ஏறியவுடன் பார்வையாளர்களை ஒரு முறை நோட்டம்விட்டார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/fabricius_query.py?qs=நோட்டம்&searchhws=yes&matchtype=exact">நோட்டம்</a> nōṭṭam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோட்டம்</tam></hw> , <i>s.</i> scrutiny, examination of coins, gems etc. for valuation, <tam>பரிட் சை</tam>; 2. attempt to excel, hinder or baffle another in speech; 3. survey, criticism, as by a rival workman or artist, <tam>கணிப்பு</tam>. <p2><tam>அதன் நோட்டம் அறியான்</tam>, he does not know its value.</p2> <p2><tam>நோட்டக்காரன்</tam>, one expert in inspecting coins, a shroff.</p2> <p2><tam>நோட்டம் பார்க்க</tam>, to examine coins, gems etc., to be rigid in dealings, to survey.</p2> <p2><tam>நோட்டம் பேச</tam>, to try to baffle another in speech.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோட்டம்&searchhws=yes&matchtype=exact">நோட்டம்</a> nōṭṭam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோட்டம்</hw> - கண்ணோடியறிதல், கண் திட்டம், விலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோட்டம்&searchhws=yes&matchtype=exact">நோட்டம்</a> nōṭṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோட்டம்</tam> <t>nōṭṭam</t></hw> , <i>n</i>. perh. <tam>நாட்டம்</tam>. [K. <i>nōṭa</i>, M. <i>nōṭṭam</i>.] 1. Examination of coins; assaying; <tam>தட்டிப்பார்த்தல் முதலிய முறைகளைக் கொண்டு புரியும் நாணய சோதனை</tam>. 2. Scrutiny of gems, precious metals, etc.; <tam>மணிபொன் முதலிய வற்றின் சோதனை</tam>. 3. Value; <tam>விலை. அதின் நோட்ட மறியான்</tam>. (<smallcap>W</smallcap>.) 4. Criticism, as by a rival artist or workman; <tam>மதிப்பு</tam>. (<smallcap>W</smallcap>.) 5. Competition; <tam>போட்டி. நோட்டத்திலே விலை வைத்து விட்டார்கள்</tam>. (<smallcap>W</smallcap>.) 6. Attempt at wit; endeavour to excel, hinder or baffle another in speech; <tam>வெல்லமுயல்கை. வார்த்தைநோட்டத்தில் என்ன பலன்</tam>? (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோட்டம்&searchhws=yes&matchtype=exact">நோட்டம்</a> nōṭṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நோட்டம்</tam> <t>nōṭṭam</t></hw> , <i>n</i>. Account; <tam>கணக்கு. நோட்டத்திற் செல்லெழுதி</tam> (<tam>சரவண. பணவிடு</tam>. 84).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/winslow_query.py?qs=நோட்டம்&searchhws=yes&matchtype=exact">நோட்டம்</a> nōṭṭam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோட்டம்</tam></hw> , <i>s.</i> Scrutiny, examination of coins, gems, precious metals, or wares with discernment of their value, <tam>பணநோட்டம்</tam>. 2. Survey, review, criticism–as by a rival artist, workman, <tam>கணிப்பு</tam>. 3. Attempt at wit; endeavour to excel, to hinder or baffle another in speech, <tam>வெல்லமுயலுகை</tam>. <tam>நோட்டதிலேவிலைவைத்துவிட்டார்கள்</tam>. They have competed in the price. <tam>வார்த்தைநோட்டத்திலென்னபலன்</tam>. What will it avail to baffle one another in speech? <tam>அதின்நோட்டமறியான்</tam>. He does note know its value. <p2><tam>நோட்டக்காரன்</tam>, <i>s.</i> One expert in inspecting coins. 2. A shroff.</p2> <p2><tam>நோட்டம்பார்க்க</tam>, <i>inf.</i> To examine coins, gems, work, &c., with too great nicety. 3. To be too exact, precise or rigid, in dealings. 4. To survey, examine as a competitor or connoisseur.</p2> <p2><tam>நோட்டம்பேச</tam>, <i>inf.</i> To endeavor, to baffle another in his words.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோட்டம்பார்-த்தல்&searchhws=yes&matchtype=exact">நோட்டம்பார்-த்தல்</a> nōṭṭampār-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோட்டம்பார்-த்தல்</tam> <t>nōṭṭam-pār-</t></hw> , <i>v</i>. < <tam>நோட்டம்</tam> +. <i>tr</i>. 1. To consider the fitness of; <tam>தகுதியறிதல். (யாழ். அக.)</tam> 2. To appraise; <tam>விலை மதித்தல்</tam>. (<smallcap>W</smallcap>.) — <i>intr</i>. To be too strict in dealings; <tam>மிகக் கண்டிப்பாயிருத்தல்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோட்டம்பார்த்தல்&searchhws=yes&matchtype=exact">நோட்டம்பார்த்தல்</a> nōṭṭampārttal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோட்டம்பார்த்தல்</hw> - தகுதியறிதல்,வி லைபார்த்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோட்டம்பேசு-தல்&searchhws=yes&matchtype=exact">நோட்டம்பேசு-தல்</a> nōṭṭampēcu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோட்டம்பேசு-தல்</tam> <t>nōṭṭam-pēcu-</t></hw> , <i>v. intr</i>. < id. +. To overcome by skilful speech; <tam>பிறர் தன்வார்த்தைக்கு உட்படும்படி பேசுதல். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோட்டம்பேசுதல்&searchhws=yes&matchtype=exact">நோட்டம்பேசுதல்</a> nōṭṭampēcutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோட்டம்பேசுதல்</hw> - பிறரைத்தன்பேச் சுக் குட்படுத்தும்படி பேசல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோட்டீசு&searchhws=yes&matchtype=exact">நோட்டீசு</a> nōṭṭīcu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோட்டீசு</tam> <t>nōṭṭīcu</t></hw> , <i>n</i>. < E. Notice; <tam>அறி விப்புச்சீட்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/crea_query.py?qs=நோட்டு&searchhws=yes&matchtype=exact">நோட்டு</a> nōṭṭu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோட்டு</hw> பெ. 1: (எழுதுவதற்கான) குறிப்பேடு; notebook. கணக்கு நோட்டு/ நோட்டில் தனக்குத் தெரிந்த கோலங்களை வரைந்துவைத்திருந்தாள். 2: குறிப்பிட்ட நாணய மதிப்பு உடைய தாள்; (currency) note. ஐநூறு ரூபாய் நோட்டு இரண்டு கொடுங்கள்./ ஐந்து ரூபாய் நோட்டுக் கட்டு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோட்டு&searchhws=yes&matchtype=exact">நோட்டு</a> nōṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோட்டு</tam> <t>nōṭṭu</t></hw> , <i>n</i>. < E. <i>note</i>. 1. Promissory note; <tam>அண்டிமாண்டு</tam>. 2. King's written announcement; <tam>இராசபத்திரம்</tam>. (<smallcap>W</smallcap>.) 3. Currency note; <tam>அரசாங்கத்தார் வெளியிடும் நாணயப் பிரதிக் கடிதம். ஐந்து ரூபாய் நோட்டுக்கொடுத்தான்</tam>. 4. Note book; <tam>எழுதுவற்குரிய காகிதப் புத்தகம்</tam>. 5. (Mus.) An English tune; <tam>ஆங்கில ராகவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோட்டேபாண்ட்&searchhws=yes&matchtype=exact">நோட்டேபாண்ட்</a> nōṭṭēpāṇṭ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோட்டேபாண்ட்</tam> <t>nōṭṭēpāṇṭ</t></hw> , <i>n</i>. < E. Note of hand. See <tam>நோட்டு</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோணாவட்டம்&searchhws=yes&matchtype=exact">நோணாவட்டம்</a> nōṇāvaṭṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோணாவட்டம்</tam> <t>nōṇāvaṭṭam</t></hw> , <i>n</i>. cf. <tam>நோனாவட்டம்</tam>. See <tam>நொறுநாட்டியம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோணாவட்டியம்&searchhws=yes&matchtype=exact">நோணாவட்டியம்</a> nōṇāvaṭṭiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோணாவட்டியம்</tam> <t>nōṇāvaṭṭiyam</t></hw> , <i>adv</i>. Well, prudently, wisely; <tam>நன்றாய்</tam>. <i>Tranquebar</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோண்டல்&searchhws=yes&matchtype=exact">நோண்டல்</a> nōṇṭal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw>நோண்டல்</hw> - கீண்டல், தோண்டல், முகத்தல், வியங்கோண்முற்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோண்டல், நோண்டுதல்&searchhws=yes&matchtype=exact">நோண்டல், நோண்டுதல்</a> nōṇṭal, nōṇṭutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோண்டல், நோண்டுதல்</hw> உரித்தல், கிண்டல், கி ள்ளுதல், தோண்டல், முகத்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/crea_query.py?qs=நோண்டு&searchhws=yes&matchtype=exact">நோண்டு</a> nōṇṭu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோண்டு</hw> வி. (நோண்ட, நோண்டி) [பே.வ.] 1: (விரல், குச்சி போன்றவற்றால்) குத்தி வெளித்தள்ளுதல்; gouge out; pick (the nose, teeth, etc.). செத்த மாட்டின் கண்களைக் காகம் நோண்டிக்கொண்டிருந்தது./ 'மூக்கை நோண்டாதே, பல்லை நோண்டாதே' என்று சொல்லிக்கொண்டே இருக்க வேண்டுமா? 2: தோண்டுதல்; dig out. தரையை நோண்டிப் பிணத்தை வெளியில் எடுத்தார்கள். 3: (அவசியமில்லாத ஒன்றை) செய்தல்; rummage about. அங்கே எதை நோண்டிக்கொண்டிருக்கிறாய்?</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/fabricius_query.py?qs=நோண்டு&searchhws=yes&matchtype=exact">நோண்டு</a> nōṇṭu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோண்டு</tam></hw> , III. <i>v. t.</i> scoop out, dig out, make a hole in the ground, <tam>தோண்டு</tam>; 2. stir, <tam>கிண்டு</tam>; 3. root, grub up, <tam>பிடுங்கு</tam>; 4. pick the ears etc. <tam>குடை</tam>. <p2><tam>நோண்டியெடுக்க</tam>, to pick out, to root up, to grub up.</p2> <p2><tam>நோண்டிநோண்டிக் கேட்க</tam>, to pump one.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோண்டு-தல்&searchhws=yes&matchtype=exact">நோண்டு-தல்</a> nōṇṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோண்டு-தல்</tam> <t>nōṇṭu-</t></hw> , <i>5 v. tr</i>. cf. <tam>தோண்டு-</tam>. [M. <i>nōṇṭuka</i>.] 1. To stir, dig up, grub up, root out; <tam>கிளறுதல். (பிங்.)</tam> 2. cf. <tam>நொள்-</tam>. To bale out, scoop out; <tam>முகத்தல். (திவா.)</tam> 3. To pick off, as a scab of an ulcer; to pick out, as wax from the ear; <tam>குடைந்தெடுத்தல்</tam>. 4. To enquire minutely, endeavour to draw out by repeated questions, pump one; <tam>துருவி விசாரித் தல். நோண்டிநோண்டிக் கேட்கிறான்</tam>. (<smallcap>W</smallcap>.) 5. To pilfer; <tam>சிறுகத்திருடுதல்</tam>. (<smallcap>W</smallcap>.) 6. To pluck, as ears of grain; <tam>பயிரைக் கிள்ளுதல்</tam>. (<smallcap>J</smallcap>.) 7. To do a thing little by little; <tam>ஒருதொழிலைச் சிறிதுசிறி தாகச் செய்தல். ஏன் நோண்டிக்கொண்டிருக்கிறாய்?</tam> (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/fabricius_query.py?qs=நோதலை&searchhws=yes&matchtype=exact">நோதலை</a> nōtalai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோதலை</tam></hw> , <i>s. (prov.)</i> sickliness, emaciation, <tam>நோய்</tam>; 2. poverty, reduced circumstances, <tam>வறுமை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோதலை&searchhws=yes&matchtype=exact">நோதலை</a> nōtalai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோதலை</hw> - தரித்திரம், நோ,மெலிவு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோதலை&searchhws=yes&matchtype=exact">நோதலை</a> nōtalai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோதலை</tam> <t>nōtalai</t></hw> , <i>n</i>. < id. 1. See <tam>நோதல்</tam>, 1, 4. (<smallcap>J</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/winslow_query.py?qs=நோதலை&searchhws=yes&matchtype=exact">நோதலை</a> nōtalai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோதலை</tam></hw> , <i>s. [prov.]</i> Sickliness; wasting of a person, beast, tree, &c., emaciation, <tam>நோய்</tam>, 2. Reduced circumstances, poverty, <tam>தரித்திரம்</tam>. See <tam>நொந்தலை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோதல்&searchhws=yes&matchtype=exact">நோதல்</a> nōtal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோதல்</hw> - கேடு துக்கித்தல், துன்புறல், நோயுறல், பெலவீனம், மரத்தின் சதா, வறுமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோதல்&searchhws=yes&matchtype=exact">நோதல்</a> nōtal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw>நோதல்</hw> - நோயுறல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோதல்&searchhws=yes&matchtype=exact">நோதல்</a> nōtal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோதல்</tam> <t>nōtal</t></hw> , <i>n</i>. < <tam>நோ-</tam>. (<smallcap>J</smallcap>.) 1. Disease affecting trees or plants; <tam>பூடுமுதலியவற்றுக்கு வருங் கேடு</tam>. 2. Obliteration or other defect in a marked line, letter, figure or painting; <tam>எழுத்து முதலியவற்றின் மழுங்கல்</tam>. 3. Spreading of dye in a cloth beyond the intended line; <tam>சாயஞ்சிதறுகை</tam>. 4. Poverty; <tam>தரித்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோதிறம்&searchhws=yes&matchtype=exact">நோதிறம்</a> nōtiṟam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோதிறம்</tam> <t>nōtiṟam</t></hw> , <i>n</i>. < id. +. (Mus.) A melody-type of the <i>mullai</i> and the <i>pālai</i> classes, sung in distress; <tam>முல்லை பாலைகட்குரிய துக்கராகவகை. (பிங்.) பாண்வாய்வண்டு நோதிறம் பாட</tam> (<tam>சிலப்</tam>. 4, 75).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோனாமை&searchhws=yes&matchtype=exact">நோனாமை</a> nōṉāmai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=921">p. 921</a>)
+		<blockquote><p><hw>நோனாமை</hw> - தவமின்மை, பொறாமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோனாமை&searchhws=yes&matchtype=exact">நோனாமை</a> nōṉāmai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1703">p. 1703</a>)
+		<blockquote><p><hw>நோனாமை</hw> - தவஞ்செய்யாமை, பொறாமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோனாமை&searchhws=yes&matchtype=exact">நோனாமை</a> nōṉāmai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோனாமை</tam> <t>nōṉāmai</t></hw> , <i>n</i>. < id. + <tam>ஆ</tam> neg. 1. Non-performance of religious austerities; <tam>தவஞ்செய்யாமை. (அக. நி.)</tam> 2. Non-endurance; <tam>சகியாமை. (பிங்.)</tam> 3. Envy, grudge; <tam>அழுக்காறு. (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/winslow_query.py?qs=நோனாமை&searchhws=yes&matchtype=exact">நோனாமை</a> nōṉāmai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோனாமை</tam></hw> , <i>s.</i> Non-endurance; want of restraint, as <tam>நோலாமை</tam>. 2. Envy, grudging, <tam>பொறாமை</tam>; [<i>ex</i> <tam>நோல்</tam>.] <i>(p.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோனார்&searchhws=yes&matchtype=exact">நோனார்</a> nōṉār
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=921">p. 921</a>)
+		<blockquote><p><hw>நோனார்</hw> - தவமில்லார், பகைவர், பொ றாமையுள்ளோர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		114) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோனார்&searchhws=yes&matchtype=exact">நோனார்</a> nōṉār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோனார்</tam> <t>nōṉār</t></hw> , <i>n</i>. < id. + id. 1. Incapable persons; <tam>ஆற்றாதார். நோனா ருட்கு மூவகை நிலையும்</tam> (<tam>தொல். பொ</tam>. 72). 2. Enemies; <tam>பகைவர். (பிங்.)</tam> 3. Those who neglect religious duties; <tam>தவ மில்லாதவர். (அக. நி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		115) <a href="/cgi-bin/app/winslow_query.py?qs=நோனார்&searchhws=yes&matchtype=exact">நோனார்</a> nōṉār
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோனார்</tam></hw> , <i>appel. n. [pl.]</i>The irreligious–as <tam>நோலார்</tam>. 2. Those who envy the welfare of others, <tam>பகைவர்</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		116) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோனாவட்டம்&searchhws=yes&matchtype=exact">நோனாவட்டம்</a> nōṉāvaṭṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோனாவட்டம்</tam> <t>nōṉāvaṭṭam</t></hw> , <i>n</i>. cf. <tam>நோணா வட்டம்</tam>. See <tam>நொறுநாட்டியம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		117) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோனி&searchhws=yes&matchtype=exact">நோனி</a> nōṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோனி</tam> <t>nōṉi</t></hw> , <i>n</i>. perh. <i>yōni</i>. Pudendum muliebre; <tam>பெண்குறி</tam>. <i>Vul</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		118) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோனுதல்&searchhws=yes&matchtype=exact">நோனுதல்</a> nōṉutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=921">p. 921</a>)
+		<blockquote><p><hw>நோனுதல்</hw> - தவஞ்செய்தல், நிலைநிறுத் தல், பொறுத்தல்,விரதமனுட்டித்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		119) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோன்&searchhws=yes&matchtype=exact">நோன்</a> nōṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1704">p. 1704</a>)
+		<blockquote><p><hw>நோன்</hw> - வலிமை, பெருமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		120) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோன்-தல், நோன்றல்&searchhws=yes&matchtype=exact">நோன்-தல், நோன்றல்</a> nōṉ-tal, nōṉṟal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோன்¹-தல் [நோன்றல்]</tam> <t>nōṉ-</t></hw> , prob. <i>8 v. tr</i>. [K. <i>nōn</i>.] 1. To endure, bear; <tam>பொறுத் தல். பழையன் பட்டெனக் கண்டது நோனானாகி</tam> (<tam>அகநா</tam>. 44). 2. To reject; <tam>தள்ளுதல். (திவா.)</tam> 3. To establish; <tam>நிலைநிறுத்துதல். (பிங்.)</tam> 4. To renounce, as secular things; <tam>துறத்தல்</tam>. — <i>intr</i>. To practise austerities; <tam>தவஞ்செய்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		121) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோன்பி&searchhws=yes&matchtype=exact">நோன்பி</a> nōṉpi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=921">p. 921</a>)
+		<blockquote><p><hw>நோன்பி</hw> - தவத்தி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		122) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோன்பி&searchhws=yes&matchtype=exact">நோன்பி</a> nōṉpi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=921">p. 921</a>)
+		<blockquote><p><hw>நோன்பி</hw> - உபவாசம், தவம்,விரதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		123) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோன்பி&searchhws=yes&matchtype=exact">நோன்பி</a> nōṉpi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோன்பி</tam> <t>nōṉpi</t></hw> , <i>n</i>. < <tam>நோன்பு</tam>. Ascetic, strict observer of austerities; <tam>விரதி. வெந்திற னோன்பிகள் விழுமங் கொள்ளவும்</tam> (<tam>மணி</tam>. 3, 75).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		124) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோன்பிரு-த்தல்&searchhws=yes&matchtype=exact">நோன்பிரு-த்தல்</a> nōṉpiru-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோன்பிரு-த்தல்</tam> <t>nōṉpiru-</t></hw> , <i>v. intr</i>. < id. + <tam>இரு-</tam>. To observe ceremonial fasting; <tam>விரதங் கொள்ளுதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		125) <a href="/cgi-bin/app/crea_query.py?qs=நோன்பு&searchhws=yes&matchtype=exact">நோன்பு</a> nōṉpu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோன்பு</hw> பெ. 1: சாப்பிடும் உணவு வேளைகளைக் குறைத்தோ சில எளிய உணவை மட்டும் உண்டோ இறைவனை நினைத்துச் செய்யும் பிரார்த்தனை; விரதம்; ritualistic observance of fasting. மார்கழி நோன்பு/ வரலட்சுமி நோன்பு/ ரம்ஜான் நோன்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		126) <a href="/cgi-bin/app/fabricius_query.py?qs=நோன்பு&searchhws=yes&matchtype=exact">நோன்பு</a> nōṉpu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோன்பு</tam></hw> , <i>s.</i> (<tam>நோல்</tam>) penance, <tam>தவம்</tam>; 2. fasting, <tam>உபவாசம்</tam>. <p2><tam>நோனாமை</tam>, non-endurance, want of restraint, <tam>நோலாமை</tam>; 2. envy, grudging, <tam>பொறாமை</tam>.</p2> <p2><tam>நோனார்</tam>, the irreligious, <tam>நோலார்</tam>; 2. those who envy the welfare of others, <tam>பகைவர்</tam>.</p2> <p2><tam>நோன்பி</tam>, one rigid in austerities.</p2> <p2><tam>நோன்பிருக்க</tam>, to fast.</p2> <p2><tam>நோன்புநோற்க</tam>, to fast.</p2> <p2><tam>நோன்புபிடிக்க</tam>, to keep a fast.</p2> <p2><tam>நோன்புவிட</tam>, to break a fast, to eat after a fast.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		127) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோன்பு&searchhws=yes&matchtype=exact">நோன்பு</a> nōṉpu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோன்பு</tam> <t>nōṉpu</t></hw> , <i>n</i>. < <tam>நோன்-</tam>. [M. <i>nōnpu</i>, K. Tu. <i>nōmpu</i>.] 1. Ceremonial fasting, abstinence from food; <tam>விரதம். பூவனந் தடம்வகுத்து நோன்புமுறை போற்றி</tam> (<tam>சேதுபு. பாவநா</tam>. 19). 2. Penance, religious austerity; <tam>தவம். மாயிரு நோன்பினை யியற்றி</tam> (<tam>கந்தபு. தக்கன்மக</tam>. 5). (<tam>சூடா</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		128) <a href="/cgi-bin/app/winslow_query.py?qs=நோன்பு&searchhws=yes&matchtype=exact">நோன்பு</a> nōṉpu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோன்பு</tam></hw> , <i>s.</i> [<i>com.</i> <tam>நோம்பு</tam>.] Penance, religious austerity, <tam>தவம்</tam>. 2. Abstinence from food, fasting, &c., <tam>உபவாசம்</tam>; [<i>ex</i> <tam>நோல்</tam>.] <p2><tam>நோன்பி</tam>, <i>appel. n.</i> One who is very rigid in austerities.</p2> <p2><tam>நோன்பிருக்க</tam>, <i>inf.</i> To fast.</p2> <p2><tam>நோன்புதுறக்க</tam>–<tam>நோன்புவிட</tam>, <i>inf.</i> To break a fast, to eat after a fast.</p2> <p2><tam>நோன்புநோற்க</tam>, <i>inf.</i> To fast, to mortify the body by religious abstinence.</p2> <p2><tam>நோன்புபிடித்தல்</tam>, <i>v. noun.</i> Keeping a fast.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		129) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோன்புதுற-த்தல்&searchhws=yes&matchtype=exact">நோன்புதுற-த்தல்</a> nōṉputuṟa-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோன்புதுற-த்தல்</tam> <t>nōṉpu-tuṟa-</t></hw> , <i>v. intr</i>. < <tam>நோன்பு</tam> +. To end the ceremonial fasting; <tam>பாரணை பண்ணுதல். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		130) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோன்புதுறுத்தல்&searchhws=yes&matchtype=exact">நோன்புதுறுத்தல்</a> nōṉputuṟuttal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=921">p. 921</a>)
+		<blockquote><p><hw>நோன்புதுறுத்தல்</hw> - பாரணை பண்ணல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		131) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோன்புநோல்-தல், நோன்புநோற் றல்&searchhws=yes&matchtype=exact">நோன்புநோல்-தல், நோன்புநோற் றல்</a> nōṉpunōl-tal, nōṉpunōṟ ṟal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோன்புநோல்-தல் [நோன்புநோற்<?> றல்]</tam> <t>nōṉpu-nōl-</t></hw> , <i>v. intr</i>. < id. + <tam>நோல்-</tam>. See <tam>நோன்புபிடி-</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		132) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோன்புபிடி-த்தல்&searchhws=yes&matchtype=exact">நோன்புபிடி-த்தல்</a> nōṉpupiṭi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோன்புபிடி-த்தல்</tam> <t>nōṉpu-piṭi-</t></hw> , <i>v. intr</i>. < id. +. To observe a fast; <tam>விரதத்தை மேற் கொள்ளுதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		133) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோன்புயர்-தல்&searchhws=yes&matchtype=exact">நோன்புயர்-தல்</a> nōṉpuyar-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோன்புயர்-தல்</tam> <t>nōṉpuyar-</t></hw> , <i>v. intr</i>. < id. +. See <tam>நோன்புதுற-</tam>. (<tam>கலித்</tam>. 129, 17, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		134) <a href="/cgi-bin/app/fabricius_query.py?qs=நோன்மை&searchhws=yes&matchtype=exact">நோன்மை</a> nōṉmai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோன்மை</tam></hw> , <i>s.</i> (<tam>நோல்</tam>) penance, <tam>தவம்</tam>; 2. vigour, strength, force, <tam>வலிமை</tam>; 3. greatness, might, <tam>பெருந்தன்மை</tam>; 4. bearing, tolerance, <tam>பொறுமை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		135) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோன்மை&searchhws=yes&matchtype=exact">நோன்மை</a> nōṉmai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=921">p. 921</a>)
+		<blockquote><p><hw>நோன்மை</hw> - தவம், பெருமை, பொரு மை, வலி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		136) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோன்மை&searchhws=yes&matchtype=exact">நோன்மை</a> nōṉmai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோன்மை</tam> <t>nōṉmai</t></hw> , <i>n</i>. < <tam>நோன்-</tam>. 1. Bearing, endurance, as of affliction; tolerance; <tam>பொறுமை. மிகுசிறப்பின் வருத்தமு நோன்மையும்</tam> (<tam>பு. வெ</tam>. 10, 6, <tam>கொளு</tam>). 2. Vigour, strength, force, might; <tam>வலிமை</tam>. (<tam>பெரும்பாண்</tam>. 68.) <tam>நுவன் றிலேன் மனித னோன்மை</tam> (<tam>கம்பரா. நாகபா</tam>. 288). 3. Greatness; <tam>பெருமை. நுந்தமாமக ணோன்மை</tam> (<tam>பிரபு லிங். வசவண். வந்த</tam>. 23). 4. See <tam>நோன்பு</tam>, 2. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		137) <a href="/cgi-bin/app/winslow_query.py?qs=நோன்மை&searchhws=yes&matchtype=exact">நோன்மை</a> nōṉmai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோன்மை</tam></hw> , <i>s.</i> Bearing, endurance, tolerance, <tam>பொறுமை</tam>. 2. Religious austerity, penance, <tam>தவம்</tam>. 3. Vigor, strength, force, <tam>வலிமை</tam>. 4. Greatness, might, <tam>பெருந்தன்மை</tam>; [<i>ex</i> <tam>நோல்</tam>.] (<tam>சது</tam>.) <tam>நோன்றாள்</tam>. Strong, or mighty feet. <i>(p.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		138) <a href="/cgi-bin/app/fabricius_query.py?qs=நோன்றல்&searchhws=yes&matchtype=exact">நோன்றல்</a> nōṉṟal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோன்றல்</tam></hw> , <i>v. n.</i> rejecting secular things, <tam>துறத்தல்</tam>; 2. governing one's self etc. as <tam>நோற்றல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		139) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோன்றல்&searchhws=yes&matchtype=exact">நோன்றல்</a> nōṉṟal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=921">p. 921</a>)
+		<blockquote><p><hw>நோன்றல்</hw> - தள்ளல், நிலைநிறுத்தல், பொறுத்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		140) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோன்றல்&searchhws=yes&matchtype=exact">நோன்றல்</a> nōṉṟal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோன்றல்</tam> <t>nōṉṟal</t></hw> , <i>n</i>. < id. Patience; endurance; <tam>சகிப்பு. பேதையார் சொன்னோன்றல்</tam> (<tam>கலித்</tam>. 133).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		141) <a href="/cgi-bin/app/winslow_query.py?qs=நோன்றல்&searchhws=yes&matchtype=exact">நோன்றல்</a> nōṉṟal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோன்றல்</tam></hw> , <i>v. noun.</i> Rejecting secular things, <tam>துறத்தல்</tam>. 2. Governing one's self, &c., as <tam>நோற்றல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		142) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோன்றாள்&searchhws=yes&matchtype=exact">நோன்றாள்</a> nōṉṟāḷ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=921">p. 921</a>)
+		<blockquote><p><hw>நோன்றாள்</hw> - வலியகால்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		143) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோப்படுதல்&searchhws=yes&matchtype=exact">நோப்படுதல்</a> nōppaṭutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோப்படுதல்</hw> - காயப்படல், மெலிதல், விதனப்படுதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		144) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோப்பாளம்&searchhws=yes&matchtype=exact">நோப்பாளம்</a> nōppāḷam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோப்பாளம்</tam> <t>nōppāḷam</t></hw> , <i>n</i>. < <tam>நோ-</tam>. Irritation, anger, offence; <tam>கோபம். உள்ளதைச் சொன்னால் நொள்ளைக்கண்ணிக்கு நோப்பாளம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		145) <a href="/cgi-bin/app/fabricius_query.py?qs=நோம்பு&searchhws=yes&matchtype=exact">நோம்பு</a> nōmpu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோம்பு</tam></hw> , <i>s.</i> same as <tam>நோன்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		146) <a href="/cgi-bin/app/fabricius_query.py?qs=நோம்பு&searchhws=yes&matchtype=exact">நோம்பு</a> nōmpu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோம்பு</tam></hw> , III. <i>v. t.</i> same as <tam>நேம்பு</tam>, winnow.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		147) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோம்பு&searchhws=yes&matchtype=exact">நோம்பு</a> nōmpu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோம்பு</hw> - நோன்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		148) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோம்பு&searchhws=yes&matchtype=exact">நோம்பு</a> nōmpu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோம்பு²</tam> <t>nōmpu</t></hw> , <i>n</i>. Corr. of <tam>நோன்பு</tam>. [K. <i>nōmpi</i>, M. <i>nōmbu</i>.] See <tam>நோன்பு</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		149) <a href="/cgi-bin/app/winslow_query.py?qs=நோம்பு&searchhws=yes&matchtype=exact">நோம்பு</a> nōmpu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோம்பு</tam></hw> , <i>s.</i> [<i>com. for</i> <tam>நோன்பு</tam>.] Fasting, &c.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		150) <a href="/cgi-bin/app/winslow_query.py?qs=நோம்பு&searchhws=yes&matchtype=exact">நோம்பு</a> nōmpu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோம்பு</tam></hw> , <i>s.</i> [<i>prop.</i> <tam>நேம்பு</tam>.] To winnow.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		151) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோம்பு-தல்&searchhws=yes&matchtype=exact">நோம்பு-தல்</a> nōmpu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோம்பு¹-தல்</tam> <t>nōmpu-</t></hw> , <i>5 v. tr</i>. < <tam>நேம்பு-</tam>. To separate by winnowing, as stones from rice; <tam>கொழித்துப்பிரித்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		152) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோம்புக்கடன்&searchhws=yes&matchtype=exact">நோம்புக்கடன்</a> nōmpukkaṭaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோம்புக்கடன்</tam> <t>nōmpu-k-kaṭaṉ</t></hw> , <i>n</i>. < <tam>நோம்பு</tam> +. Vow; <tam>நேர்த்திக்கடன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		153) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோம்புக்கயிறு&searchhws=yes&matchtype=exact">நோம்புக்கயிறு</a> nōmpukkayiṟu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோம்புக்கயிறு</tam> <t>nōmpu-k-kayiṟu</t></hw> , <i>n</i>. < id. +. A sacred string. See <tam>காப்புநாண்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		154) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோம்புதல்&searchhws=yes&matchtype=exact">நோம்புதல்</a> nōmputal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோம்புதல்</hw> - நுணாவுதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		155) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோம்புமுடி&searchhws=yes&matchtype=exact">நோம்புமுடி</a> nōmpumuṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோம்புமுடி</tam> <t>nōmpu-muṭi</t></hw> , <i>n</i>. < id. +. See <tam>நோம்புமுடிச்சு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		156) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோம்புமுடிச்சு&searchhws=yes&matchtype=exact">நோம்புமுடிச்சு</a> nōmpumuṭiccu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2372">p. 2372</a>)
+		<blockquote><p><hw><tam>நோம்புமுடிச்சு</tam> <t>nōmpu-muṭiccu</t></hw> , <i>n</i>. < id. +. A pair of cylindrical pieces of gold worn on the string containing the marriage-badge; <tam>தாலிச்சரட்டில் கோக்கப்பட்ட குழாய்போன்ற பொன் னுருக்கள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		157) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோயணுகாவிதி&searchhws=yes&matchtype=exact">நோயணுகாவிதி</a> nōyaṇukāviti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோயணுகாவிதி</hw> - தேரையர் செய்த ஆரோக்கியநூல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		158) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோயணுகாவிதி&searchhws=yes&matchtype=exact">நோயணுகாவிதி</a> nōyaṇukāviti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோயணுகாவிதி</tam> <t>nōy-aṇukā-viti</t></hw> , <i>n</i>. < id. +. A treatise on hygiene by Tēraiyar; <tam>தேரையர் இயற்றிய ஒரு மருத்துவநூல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		159) <a href="/cgi-bin/app/crea_query.py?qs=நோயாளி&searchhws=yes&matchtype=exact">நோயாளி</a> nōyāḷi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோயாளி</hw> பெ. 1: நோய் உடைய அல்லது நோய்வாய்ப்பட்ட நபர்; one who has an illness; sick person; patient. அவர் எப்போதும் நோயாளிதான்/ மருத்துவர் நோயாளியிடம் கனிவாகப் பேசினார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		160) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோயாளி&searchhws=yes&matchtype=exact">நோயாளி</a> nōyāḷi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோயாளி</hw> - வியாதிக்காரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		161) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோயாளி&searchhws=yes&matchtype=exact">நோயாளி</a> nōyāḷi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோயாளி</tam> <t>nōy-āḷi</t></hw> , <i>n</i>. < id. +. Sick person, patient; invalid; <tam>பிணிப்பட்டவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		162) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோயாளிசாலை&searchhws=yes&matchtype=exact">நோயாளிசாலை</a> nōyāḷicālai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நோயாளிசாலை</tam> <t>nōyāḷi-cālai</t></hw> , <i>n</i>. < <tam>நோயாளி</tam> +. See <tam>நோவாளிமடம்</tam>. <i>Pond</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		163) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோயின்சாரம்&searchhws=yes&matchtype=exact">நோயின்சாரம்</a> nōyiṉcāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோயின்சாரம்</tam> <t>nōyiṉ-cāram</t></hw> , <i>n</i>. < id. +. A treatise on diseases; <tam>நோயைப்பற்றிய ஒரு நூல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		164) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோயின்மை&searchhws=yes&matchtype=exact">நோயின்மை</a> nōyiṉmai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோயின்மை</hw> - நாட்டுப்பெருமையாறில் ஒன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		165) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோயுற்றொழிந்தோன்&searchhws=yes&matchtype=exact">நோயுற்றொழிந்தோன்</a> nōyuṟṟoḻintōṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1461">p. 1461</a>)
+		<blockquote><p><hw>நோயுற்றொழிந்தோன்</hw> - உல்லாபன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		166) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோயுள்ளதீட்டு&searchhws=yes&matchtype=exact">நோயுள்ளதீட்டு</a> nōyuḷḷatīṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோயுள்ளதீட்டு</tam> <t>nōy-uḷḷa-tīṭṭu</t></hw> , <i>n</i>. < id. +. Painful menstruation, dysmenorrhoea; <tam>நோவோடுகூடிய மாதவிடாய்</tam>. (<smallcap>M. L</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		167) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோயெச்சம்&searchhws=yes&matchtype=exact">நோயெச்சம்</a> nōyeccam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோயெச்சம்</tam> <t>nōy-eccam</t></hw> , <i>n</i>. < id. +. Remnants of a disease; <tam>வியாதியின் சேடம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		168) <a href="/cgi-bin/app/crea_query.py?qs=நோய்&searchhws=yes&matchtype=exact">நோய்</a> nōy
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோய்</hw> பெ. 1: (மனிதனின், விலங்கின்) உடல் நலம் பாதிப்பு; வியாதி/(தாவரங்களை) வளர்ச்சி குறையச்செய்யும் பாதிப்பு; (of men, animals) disease; illness/(of plants) blight; disease. நோய்களும் நோய்களுக்கான மருந்துகளும் அதிகரித்துள்ளன./ நோயைத் தக்க சமயத்தில் தடுக்காததால் நெல் மகசூல் குறைந்துவிட்டது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		169) <a href="/cgi-bin/app/fabricius_query.py?qs=நோய்&searchhws=yes&matchtype=exact">நோய்</a> nōy
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோய்</tam></hw> , <i>s.</i> sickness, disease, <tam>வியாதி</tam>; 2. suffering, trouble, <tam>துன்பம்</tam>; 3. pain, smart, <tam>நோ</tam>. <p2><tam>நோயும் பாயுமாய்க் கிடக்க</tam>, to be bed- ridden.</p2> <p2><tam>நோயாளி</tam>, a sick person, a patient.</p2> <p2><tam>நோய்கொள்ள</tam>, -<tam>பிடிக்க</tam>, to fall sick, to become diseased.</p2> <p2><tam>நோய் விழ</tam>, to affected as a patient etc.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		170) <a href="/cgi-bin/app/fabricius_query.py?qs=நோய்&searchhws=yes&matchtype=exact">நோய்</a> nōy
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோய்</tam></hw> , III. <i>v. i.</i> be or become sickly, <tam>வியாதிப்படு</tam>; 2. become poor, worn out as lands, <tam>சாரமொழிய</tam>. <p2><tam>நோய்த்தபயிர்</tam>, sickly vegetation.</p2> <p2><tam>நோய்த்துப்போக</tam>, to become sickly, diseased.</p2> <p2><tam>நோய்ச்சல்</tam>, <i>v. n.</i> being sickly etc. as the verb.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		171) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோய்&searchhws=yes&matchtype=exact">நோய்</a> nōy
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோய்</hw> - துன்பம், வருத்தம் இது மாய யாக்கைபதினெண்குற்றத்தொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		172) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோய்&searchhws=yes&matchtype=exact">நோய்</a> nōy
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1461">p. 1461</a>)
+		<blockquote><p><hw>நோய்</hw> - அணங்கு, அருப்பம், அவலம், அழுங்கல், அபயம், உரோகம், உறுக ண், காண்டகம், குந்துகுந்தம், சிதலை சிறுமை, சூர், துனி, நடுங்கல், நிழல், நீழல், படர், பிணி, புன்கண்பைங்கூ ழ், பையுள், மடங்கல், மடி, மாரி, மு டங்கல், முடங்கு, வாதை, வியாதி வேதகை, அன்றியுந் தீராதநோயின் பெயர் ஏவ்வம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		173) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோய்&searchhws=yes&matchtype=exact">நோய்</a> nōy
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1689">p. 1689</a>)
+		<blockquote><p><hw>நோய்</hw> - துன்பம், வருத்தம், வியாதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		174) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்&searchhws=yes&matchtype=exact">நோய்</a> nōy
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோய்¹</tam> <t>nōy</t></hw> , <i>n</i>. < <tam>நோ-</tam>. 1. Malady, distemper, ailment, sickness, disease; <tam>வியாதி. நோயி கந்து நோக்குவிளங்க</tam> (<tam>மதுரைக்</tam>. 13). 2. Sorrow, grief; <tam>துக்கம். (பிங்.)</tam> 3. Affliction, trouble; <tam>துன்பம். அதிர வருவதோர் நோய்</tam> (<tam>குறள்</tam>, 429). 4. Fault; <tam>குற்றம். பகலென்னும் பண்பின்மை பாரிக்கு நோய்</tam> (<tam>குறள்</tam>, 851). 5. Dread, fear; <tam>அச்சம். நோ யுடை நுடங்குசூர்</tam> (<tam>பரிபா</tam>. 5, 4). 6. [M. <i>nōyi</i>.] Ache, pain, smart; <tam>நோவு</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		175) <a href="/cgi-bin/app/winslow_query.py?qs=நோய்&searchhws=yes&matchtype=exact">நோய்</a> nōy
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோய்</tam></hw> , <i>s.</i> Malady, distemper, disease, ailment; sickness in men, cattle, trees, or crops, <tam>நைதல்</tam>. 2. Chronic or settled disease, <tam>பழம்பிணி</tam>. 3. Suffering, trouble, affliction, distress of mind, <tam>வருத்தம்</tam>. 4. Ache, pain, smart, <tam>அழலுகை</tam>. <i>(c.)</i> <tam>நோய்கொண்டார்பேய்கொண்டார்</tam>. The diseased are like persons possessed. <tam>நோயும்பாயுமாய்கிடத்தல்</tam>. Being bedridden. <tam>நோய்க்கிடங்கொடோல்</tam>. Take sickness in time. <i>(Avv.)</i> <p2><tam>நோயாளி</tam>, <i>s.</i> A sick person, a patient. <tam>நோயாளிவிதியாளியானால்பரிகாரிபோராளியாவான்</tam>..... If the patient's destiny be goof, the doctor gets the credit of it.</p2> <p2><tam>நோயின்மை</tam>, <i>v. noun. neg.</i> Full, uninterrupted health and prosperity. <tam>நோயில்லாவாழ்வேவாழ்வு</tam>. That is prosperity which no sickness or disease interrupts.</p2> <p2><tam>நோயெச்சம்</tam>, <i>s.</i> A reduced disease. See <tam>ஏச்சம்</tam>. <i>(p.)</i></p2> <p2><tam>நோய்கொள்ள</tam>–நோய்பிடிக்க<tam></tam>, <i>inf.</i> To fall sick, to become diseased.</p2> <p2><tam>நோய்மருந்து</tam>, <i>s.</i> Giving medicine to the sick. See <tam>அறம்</tam>.</p2> <p2><tam>நோய்விழ</tam>, <i>inf.</i> To be infected as plants, &c. <tam>தன்னோய்க்குத்தானேமருந்து</tam>. The one who caused the pain can remove it; spoken of a woman who has inspired love, (<tam>குறள்</tam>.)</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		176) <a href="/cgi-bin/app/winslow_query.py?qs=நோய்&searchhws=yes&matchtype=exact">நோய்</a> nōy
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோய்</tam></hw> , <tam>க்கிறது</tam>, <tam>த்தது</tam>, <tam>க்கும்</tam>, <tam>க்க</tam>, <i>v. n. [prov.]</i> To be or become, sickly, diseased, broken in constitution, debilitated, <tam>மெலிய</tam>. 2. To be sickly as trees, crops, &c., <tam>வாட</tam>, 3. To become poor, worn out, as lands, <tam>சாரமொழிய</tam>. <i>(Jaff.)</i> <p2><tam>நோய்த்தகோழி</tam>, <i>s.</i> A sick fowl.</p2> <p2><tam>நோய்த்தபயிர்</tam>, <i>s.</i> Sickly vegetation.</p2> <p2><tam>நோய்த்துப்போக</tam>, <i>inf.</i> To become sickly, diseased, &c., as <tam>நோய்க்க</tam>.</p2> <p2><tam>நோய்ச்சல்</tam>, <i>v. noun.</i> Being sickly, &c., <i>as the verb.</i></p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		177) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்-தல்&searchhws=yes&matchtype=exact">நோய்-தல்</a> nōy-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோய்³-தல்</tam> <t>nōy-</t></hw> , <i>4 v. intr</i>. See <tam>நோய்²-</tam>. <tam>பயிர் நோய்ந்துபோய்விட்டது</tam>. <i>Tinn</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		178) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்-த்தல்&searchhws=yes&matchtype=exact">நோய்-த்தல்</a> nōy-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோய்²-த்தல்</tam> <t>nōy-</t></hw> , <i>11 v. intr</i>. < <tam>நோய்</tam>. (<smallcap>J</smallcap>.) 1. To be or become sickly or diseased; <tam>பிணி யால் வருந்துதல்</tam>. 2. To be broken in constitution; to be debilitated; <tam>மெலிதல்</tam>. 3. To wither, as trees, crops; <tam>வாடுதல்</tam>. 4. To become poor or worn out, as lands; <tam>சாரமற்றுப்போதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		179) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்காடேறுதல்&searchhws=yes&matchtype=exact">நோய்காடேறுதல்</a> nōykāṭēṟutal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோய்காடேறுதல்</tam> <t>nōy-kāṭēṟutal</t></hw> , <i>n</i>. < <tam>நோய்</tam> +. The disappearance of a disease on the approach of death; <tam>மரணத்தறுவாயில் வியாதி நீங்குகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		180) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோய்கொள்ளுதல்&searchhws=yes&matchtype=exact">நோய்கொள்ளுதல்</a> nōykoḷḷutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோய்கொள்ளுதல்</hw> - வியாதிகொள்ளுதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		181) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்க்குணக்குறி&searchhws=yes&matchtype=exact">நோய்க்குணக்குறி</a> nōykkuṇakkuṟi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நோய்க்குணக்குறி</tam> <t>nōy-k-kuṇa-k-kuṟi</t></hw> , <i>n</i>. < <tam>நோய்</tam> + <tam>குணம்</tam> +. See <tam>நோய்க்குறி</tam>. <i>Pond</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		182) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்க்குறி&searchhws=yes&matchtype=exact">நோய்க்குறி</a> nōykkuṟi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நோய்க்குறி</tam> <t>nōy-k-kuṟi</t></hw> , <i>n</i>. < id. +. Symptom of a disease; <tam>நோயின் அடையாளம்</tam>. <i>Pond</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		183) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்க்கூறுபாடு&searchhws=yes&matchtype=exact">நோய்க்கூறுபாடு</a> nōykkūṟupāṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நோய்க்கூறுபாடு</tam> <t>nōy-k-kūṟupāṭu</t></hw> , <i>n</i>. < id. +. See <tam>நோய்க்குறி</tam>. <i>Pond</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		184) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோய்ச்சல்&searchhws=yes&matchtype=exact">நோய்ச்சல்</a> nōyccal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோய்ச்சல்</hw> - நோய்கொள்ளல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		185) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்ச்சல்&searchhws=yes&matchtype=exact">நோய்ச்சல்</a> nōyccal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோய்ச்சல்</tam> <t>nōyccal</t></hw> , <i>n</i>. < id. 1. Being sickly; <tam>வியாதிப்படுகை</tam>. 2. See <tam>நோய்ஞ்சல்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		186) <a href="/cgi-bin/app/winslow_query.py?qs=நோய்ச்சல்&searchhws=yes&matchtype=exact">நோய்ச்சல்</a> nōyccal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோய்ச்சல்</tam></hw> , <i>s.</i> As <tam>நோய்ஞ்சல்</tam>. 2. See <tam>நோய்</tam>, <i>v.</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		187) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோய்ஞ்சலன்&searchhws=yes&matchtype=exact">நோய்ஞ்சலன்</a> nōyñcalaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோய்ஞ்சலன்</hw> - நோய்ஞ்சி, நோய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		188) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்ஞ்சலன்&searchhws=yes&matchtype=exact">நோய்ஞ்சலன்</a> nōyñcalaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோய்ஞ்சலன்</tam> <t>nōyñcalaṉ</t></hw> , <i>n</i>. < <tam>நோய்ஞ்சல்</tam>. See <tam>நோயாளி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		189) <a href="/cgi-bin/app/fabricius_query.py?qs=நோய்ஞ்சல்&searchhws=yes&matchtype=exact">நோய்ஞ்சல்</a> nōyñcal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோய்ஞ்சல்</tam></hw> , <i>vulg.</i> <tam>நோஞ்சல்</tam>, <i>s.</i> a sickly emaciated person, beast etc. <p2><tam>நோய்ஞ்சலன்</tam>, <tam>நோய்ஞ்சியன்</tam>, a sickly man, <tam>நோய்ஞ்சி</tam>.</p2> <p2><tam>நோய்ஞ்சித்தனம்</tam>, a sickly emaciated state.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		190) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்ஞ்சல்&searchhws=yes&matchtype=exact">நோய்ஞ்சல்</a> nōyñcal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோய்ஞ்சல்</tam> <t>nōyñcal</t></hw> , <i>n</i>. < id. 1. Sickly, emaciated person or animal; <tam>மெலிந்த-வன்-வள்-து</tam>. 2. Disease; <tam>நோய். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		191) <a href="/cgi-bin/app/winslow_query.py?qs=நோய்ஞ்சல்&searchhws=yes&matchtype=exact">நோய்ஞ்சல்</a> nōyñcal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோய்ஞ்சல்</tam></hw> , <i>s.</i> A sickly emaciated person, beast, &c., <tam>இளைப்புள்ளது</tam>. <i>(c.)</i> <tam>நோஞ்சற்பூனைமத்தைநக்குமாபோலே</tam>. Like a sickly eat licking the churning stick; <i>i. e.</i> doing a thing lazily, unprofitably. <p2><tam>நோய்ஞ்சலன்</tam>–<tam>நோஞ்சியன்</tam>, <i>s. [prov.]</i> A sickly man.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		192) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோய்ஞ்சி&searchhws=yes&matchtype=exact">நோய்ஞ்சி</a> nōyñci
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோய்ஞ்சி</hw> - வியாதிகொண்டுமெலிந்தது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		193) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்ஞ்சி&searchhws=yes&matchtype=exact">நோய்ஞ்சி</a> nōyñci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோய்ஞ்சி</tam> <t>nōyñci</t></hw> , <i>n</i>. < <tam>நோய்</tam>. See <tam>நோயாளி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		194) <a href="/cgi-bin/app/winslow_query.py?qs=நோய்ஞ்சி&searchhws=yes&matchtype=exact">நோய்ஞ்சி</a> nōyñci
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோய்ஞ்சி</tam></hw> , <i>s. [prov.]</i> A sickly person, &c., as <tam>நோய்ஞ்சல்</tam>. <p2><tam>நோஞ்சித்தனம்</tam>, <i>s.</i> A sickly emaciated state.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		195) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோய்ஞ்சியன்&searchhws=yes&matchtype=exact">நோய்ஞ்சியன்</a> nōyñciyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோய்ஞ்சியன்</hw> - நோய்ஞ்சலன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		196) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்ஞ்சியன்&searchhws=yes&matchtype=exact">நோய்ஞ்சியன்</a> nōyñciyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோய்ஞ்சியன்</tam> <t>nōyñciyaṉ</t></hw> , <i>n</i>. < <tam>நோய்ஞ்சி</tam>. See <tam>நோயாளி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		197) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோய்தீர்க்குமருந்து&searchhws=yes&matchtype=exact">நோய்தீர்க்குமருந்து</a> nōytīrkkumaruntu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1461">p. 1461</a>)
+		<blockquote><p><hw>நோய்தீர்க்குமருந்து</hw> - உரை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		198) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோய்த்தல்&searchhws=yes&matchtype=exact">நோய்த்தல்</a> nōyttal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோய்த்தல்</hw> - நோய்ச்சல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		199) <a href="/cgi-bin/app/crea_query.py?qs=நோய்நொடி&searchhws=yes&matchtype=exact">நோய்நொடி</a> nōynoṭi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோய்நொடி</hw> பெ. 1: நோயும் நோயின் பாதிப்பும்; illness and (its) effect. இப்போது நோய்நொடி வந்தால் உதவிசெய்ய யாரும் இல்லை./ நீ நோய்நொடி இன்றி வாழ வேண்டும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		200) <a href="/cgi-bin/app/tamil-idioms_query.py?qs=நோய்நொடி&searchhws=yes&matchtype=exact">நோய்நொடி</a> nōynoṭi
+		from <a href="/dictionaries/tamil-idioms/"><i>"Taṟkālat Tamiḻ maraputtoṭar akarāti"</i></a>
+		(<a href="/cgi-bin/app/tamil-idioms_query.py?page=232">p. 232</a>)
+		<blockquote><p><hw>நோய்நொடி</hw> <nmbr>1264</nmbr> <b>1:</b> (சாதாரண அல்லது பெரிய) நோய்கள்; (major or minor) ailments. எனக்கு இதுவரை நோய்நொடி என்று பெரிதாக எதுவும் வந்ததில்லை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		201) <a href="/cgi-bin/app/fabricius_query.py?qs=நோய்முகன்&searchhws=yes&matchtype=exact">நோய்முகன்</a> nōymukaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோய்முகன்</tam></hw> , <i>s.</i> Saturn, the planet;– the evil-faced, <tam>சனி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		202) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோய்முகன்&searchhws=yes&matchtype=exact">நோய்முகன்</a> nōymukaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோய்முகன்</hw> - சனி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		203) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்முகன்&searchhws=yes&matchtype=exact">நோய்முகன்</a> nōymukaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோய்முகன்</tam> <t>nōy-mukaṉ</t></hw> , <i>n</i>. < <tam>நோய்</tam> +. Saturn; <tam>சனி. (தைலவ. தைல.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		204) <a href="/cgi-bin/app/winslow_query.py?qs=நோய்முகன்&searchhws=yes&matchtype=exact">நோய்முகன்</a> nōymukaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோய்முகன்</tam></hw> , <i>s.</i> Saturn, the planet–the evil-faced, evil-omened, <tam>சனி</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		205) <a href="/cgi-bin/app/crea_query.py?qs=நோய்வாய்ப்படு&searchhws=yes&matchtype=exact">நோய்வாய்ப்படு</a> nōyvāyppaṭu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோய்வாய்ப்படு</hw> வி. (-பட, -பட்டு) 1: நோயினால் பாதிக்கப்படுதல்; நோய்க்குள்ளாதல்; fall ill; be laid up. நோய்வாய்ப்பட்டுப் படுத்தபடுக்கையாக இருந்தார்./ அவர் நோய்வாய்ப்பட்டிருந்தபோது சென்று பார்த்தேன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		206) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோய்விழுதல்&searchhws=yes&matchtype=exact">நோய்விழுதல்</a> nōyviḻutal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோய்விழுதல்</tam> <t>nōy-viḻutal</t></hw> , <i>n</i>. < id. +. Infection, as of plants; <tam>செடிகளில் வியாதிபிடிக்கை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		207) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோறு&searchhws=yes&matchtype=exact">நோறு</a> nōṟu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2374">p. 2374</a>)
+		<blockquote><p><hw><tam>நோறு</tam> <t>nōṟu</t></hw> , <i>n</i>. < T. <i>nōru</i>. Mouth; <tam>வாய்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		208) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோற்பார்&searchhws=yes&matchtype=exact">நோற்பார்</a> nōṟpār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோற்பார்</tam> <t>nōṟpār</t></hw> , <i>n</i>. < <tam>நோல்-</tam>. Ascetics, those who practise religious austerities; <tam>தவஞ் செய்வார். நோற்பாரி னோன்மை யுடைத்து</tam> (<tam>குறள்</tam>, 48).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		209) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோற்பாள்&searchhws=yes&matchtype=exact">நோற்பாள்</a> nōṟpāḷ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோற்பாள்</tam> <t>nōṟpāḷ</t></hw> , <i>n</i>. < id. (Jaina.) A female ascetic; <tam>சைன சந்நியாசினி. (சூடா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		210) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோற்பு&searchhws=yes&matchtype=exact">நோற்பு</a> nōṟpu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=921">p. 921</a>)
+		<blockquote><p><hw>நோற்பு</hw> - தவம், பொறுத்தல், விரதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		211) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோற்பு&searchhws=yes&matchtype=exact">நோற்பு</a> nōṟpu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோற்பு</tam> <t>nōṟpu</t></hw> , <i>n</i>. < id. 1. Bearing, endurance; <tam>பொறுமை</tam>. (<smallcap>W</smallcap>.) 2. Performing penance; <tam>தவஞ்செய்கை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		212) <a href="/cgi-bin/app/winslow_query.py?qs=நோற்பு&searchhws=yes&matchtype=exact">நோற்பு</a> nōṟpu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோற்பு</tam></hw> –<tam>நோற்றல்</tam>, See, <tam>நோல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		213) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோற்றல்&searchhws=yes&matchtype=exact">நோற்றல்</a> nōṟṟal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=921">p. 921</a>)
+		<blockquote><p><hw>நோற்றல்</hw> - தவஞ்செய்தல், பொறுத்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		214) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோற்றல்&searchhws=yes&matchtype=exact">நோற்றல்</a> nōṟṟal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1702">p. 1702</a>)
+		<blockquote><p><hw>நோற்றல்</hw> - தவஞ்செய்தல், பொறுத்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		215) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோலல்&searchhws=yes&matchtype=exact">நோலல்</a> nōlal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோலல்</hw> - நோற்றல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		216) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோலாதார்&searchhws=yes&matchtype=exact">நோலாதார்</a> nōlātār
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோலாதார்</hw> - தவமில்லார், பொறாமை யுள்ளோர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		217) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோலாமை&searchhws=yes&matchtype=exact">நோலாமை</a> nōlāmai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோலாமை</hw> - தவமின்மை, பொறாமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		218) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோலாமை&searchhws=yes&matchtype=exact">நோலாமை</a> nōlāmai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1695">p. 1695</a>)
+		<blockquote><p><hw>நோலாமை</hw> - தவமின்மை, பொறாமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		219) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோலாமை&searchhws=yes&matchtype=exact">நோலாமை</a> nōlāmai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நோலாமை</tam> <t>nōlāmai</t></hw> , <i>n</i>. < <tam>நோல்-</tam> + <tam>ஆ</tam> neg. Unrepentance; <tam>செய்த பாவத்துக்கு வருந்தாமை</tam>. <i>R. C</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		220) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோலாவலை&searchhws=yes&matchtype=exact">நோலாவலை</a> nōlāvalai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நோலாவலை</tam> <t>nōlāvalai</t></hw> , <i>n</i>. A kind of fishing net; <tam>மீன் பிடிக்கும் வலைவகை</tam>. (<tam>அபி. சிந்</tam>. 1017.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		221) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோலுதல்&searchhws=yes&matchtype=exact">நோலுதல்</a> nōlutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோலுதல்</hw> - நோற்றல், பொறுத்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		222) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோலை&searchhws=yes&matchtype=exact">நோலை</a> nōlai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோலை</hw> - ஏள்ளுருண்டை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		223) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோலை&searchhws=yes&matchtype=exact">நோலை</a> nōlai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோலை</tam> <t>nōlai</t></hw> , <i>n</i>. 1. Sesame ball; <tam>எள்ளு ருண்டை. புழுக்கலு நோலையும்</tam> (<tam>சிலப்</tam>. 5, 68, <tam>அரும்</tam>.). 2. A preparation of sesame seed; <tam>எட்கசிவு. அணங்குடை நோலை</tam> (<tam>பு. வெ</tam>. 3, 5).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		224) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோலோர்&searchhws=yes&matchtype=exact">நோலோர்</a> nōlōr
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோலோர்</hw> - நோலாதார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		225) <a href="/cgi-bin/app/crea_query.py?qs=நோல்&searchhws=yes&matchtype=exact">நோல்</a> nōl
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோல்</hw> வி. (நோற்க, நோற்று) 1: (நோன்பை) மேற்கொள்ளுதல்; observe (a religious fast). மார்கழி நோன்பு நோற்றாள்./ முஸ்லிம்கள் ரம்ஜானில் நோன்பு நோற்பார்கள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		226) <a href="/cgi-bin/app/fabricius_query.py?qs=நோல்&searchhws=yes&matchtype=exact">நோல்</a> nōl
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோல்</tam></hw> , V. <i>v. t.</i> do penance, <tam>தவஞ்செய்</tam>; 2. endure, <tam>சகி</tam>. <p2><tam>நோலாதார்</tam>, <tam>நோலார்</tam>, those who neglect devotional duties.</p2> <p2><tam>நோலாமை</tam>, <i>neg. v. n.</i> impatience, intolerance, <tam>பொறையின்மை</tam>, 2. want or neglect of religious austerities, <tam>தவமின்மை</tam>.</p2> <p2><tam>நோற்பு</tam>, <tam>நோற்றல்</tam>, <i>v. n.</i> bearing, endurance, performing penance.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		227) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோல்&searchhws=yes&matchtype=exact">நோல்</a> nōl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோல்²</tam> <t>nōl</t></hw> , <i>n</i>. < <tam>நோல்-</tam>. A means of attaining salvation. See <tam>கிரியை. நோக்கினைய நோலினையு முடைத்தாமால்</tam> (<tam>சிவதரு. சிவஞானயோ</tam>. 18).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		228) <a href="/cgi-bin/app/winslow_query.py?qs=நோல்&searchhws=yes&matchtype=exact">நோல்</a> nōl
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோல்</tam></hw> , <tam>நோற்கிறேன்</tam>, <tam>நோற்றேன்</tam>, <tam>நோற்பேன்</tam>, <tam>நோற்க</tam>, <i>v. a.</i> To do penance, observe abstinence, <tam>தவஞ்செய்ய</tam>. 2. To endure, suffer patiently, <tam>சகிக்க</tam>. <i>(p.)</i> <p2><tam>நோலாதார்</tam>–<tam>நோலார்</tam>, <i>appel. n. [pl.]</i> Those who neglect devotional duties, <tam>தவஞ்செய்யார்</tam>. (<tam>நீதிநெறி</tam>.)</p2> <p2><tam>நோலாமை</tam>, <i>v. noun. neg.</i> Impatience, intolerance, <tam>பொறையின்மை</tam>. 2. Want, or neglect of religious austerities, &c., <tam>தவமின்மை</tam>. (<tam>சது</tam>.)</p2> <p2><tam>நோற்பு</tam>–<tam>நோற்றல்</tam>, <i>v. noun.</i> Bearing; endurance; performing penance, &c.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		229) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோல்-தல், நோற்றல்&searchhws=yes&matchtype=exact">நோல்-தல், நோற்றல்</a> nōl-tal, nōṟṟal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோல்¹-தல் [நோற்றல்]</tam> <t>nōl-</t></hw> , <i>10 v. tr</i>. 1. To endure, suffer patiently, as hunger; <tam>பொறுத்தல். உண்ணாது நோற்பார் பெரியர்</tam> (<tam>குறள்</tam>, 160). 2. To practise; <tam>அனுஷ்டித்தல். மறவாமே நோற்பதொன் றுண்டு</tam> (<tam>குமர. பிர. நீதிநெறி</tam>. 20). — <i>intr</i>. [T. <i>nōtcu</i>, K. <i>nōn</i>, M. <i>nōlka</i>.] To do penance, practise austerities; <tam>தவஞ்செய்தல். நோற்றோ ருறைவது</tam> (<tam>மணி</tam>. 17, 65).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		230) <a href="/cgi-bin/app/fabricius_query.py?qs=நோளை&searchhws=yes&matchtype=exact">நோளை</a> nōḷai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோளை</tam></hw> , <i>s.</i> a sickly body. <p2><tam>நோளைச் சரீரம்</tam>, a body not inured to hardship.</p2> <p2><tam>நோளைச் சரீரன்</tam>, a sickly person.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		231) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோளை&searchhws=yes&matchtype=exact">நோளை</a> nōḷai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோளை</tam> <t>nōḷai</t></hw> , <i>n</i>. prob. <tam>நொள்ளை</tam>. Sickly condition, used in compound words; <tam>பிணி யுண்டநிலை. நோளைச்சரீரம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		232) <a href="/cgi-bin/app/winslow_query.py?qs=நோளை&searchhws=yes&matchtype=exact">நோளை</a> nōḷai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோளை</tam></hw> , <i>s. [in combin.]</i> A sickly body, as <tam>நோளைச்சரீரம்</tam>. <i>(R.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		233) <a href="/cgi-bin/app/fabricius_query.py?qs=நோழிகை&searchhws=yes&matchtype=exact">நோழிகை</a> nōḻikai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோழிகை</tam></hw> , <i>s.</i> a weaver's clew of yarn.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		234) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோழிகை&searchhws=yes&matchtype=exact">நோழிகை</a> nōḻikai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=921">p. 921</a>)
+		<blockquote><p><hw>நோழிகை</hw> - நூற்பந்து.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		235) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோழிகை&searchhws=yes&matchtype=exact">நோழிகை</a> nōḻikai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1699">p. 1699</a>)
+		<blockquote><p><hw>நோழிகை</hw> - நூலின்றார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		236) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோழிகை&searchhws=yes&matchtype=exact">நோழிகை</a> nōḻikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோழிகை</tam> <t>nōḻikai</t></hw> , <i>n</i>. perh. <tam>நாழிகை</tam>. Weaver's clew of yarn; <tam>நெசவுநூலின் தாறு</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		237) <a href="/cgi-bin/app/winslow_query.py?qs=நோழிகை&searchhws=yes&matchtype=exact">நோழிகை</a> nōḻikai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோழிகை</tam></hw> , <i>s.</i> A weaver's clew of yarn, <tam>நூல்தாறு</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		238) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோவல்&searchhws=yes&matchtype=exact">நோவல்</a> nōval
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோவல்</tam> <t>nōval</t></hw> , <i>n</i>. Bread; <tam>அப்பம். (அக. நி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		239) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோவாளி&searchhws=yes&matchtype=exact">நோவாளி</a> nōvāḷi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=920">p. 920</a>)
+		<blockquote><p><hw>நோவாளி</hw> - நோவுள்ளான், மிடியன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		240) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோவாளி&searchhws=yes&matchtype=exact">நோவாளி</a> nōvāḷi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோவாளி</tam> <t>nōvāḷi</t></hw> , <i>n</i>. < <tam>நோவு</tam> +. 1. See <tam>நோயாளி</tam>. (<smallcap>W</smallcap>.) 2. Poor man; <tam>மிடியன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		241) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோவாளிமடம்&searchhws=yes&matchtype=exact">நோவாளிமடம்</a> nōvāḷimaṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S341">p. S341</a>)
+		<blockquote><p><hw><tam>நோவாளிமடம்</tam> <t>nōvāḷi-maṭam</t></hw> , <i>n</i>. < <tam>நோவாளி</tam> +. Hospital; <tam>வைத்தியசாலை</tam>. <i>Pond</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		242) <a href="/cgi-bin/app/crea_query.py?qs=நோவு&searchhws=yes&matchtype=exact">நோவு</a> nōvu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=650">p. 650</a>)
+		<blockquote><p><hw>நோவு</hw> பெ. 1: வலி; ache; pain. உடல் நோவு தீர வெந்நீரில் குளி. 2: பிரசவ வலி; labour pains. நோவு ஏற்பட்டு வெகு நேரமாகியும் குழந்தை பிறக்கவில்லை. 3: [வ.வ.] நோய்; illness; ailment. உடம்புக்கு ஏதாவது நோவா?</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		243) <a href="/cgi-bin/app/fabricius_query.py?qs=நோவு&searchhws=yes&matchtype=exact">நோவு</a> nōvu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=639">p. 639</a>)
+		<blockquote><p><hw><tam>நோவு</tam></hw> , <i>v. n.</i> (<tam>நோ</tam>), a smart, pain <tam>வலி</tam>; 2. sickness, <tam>நோய்</tam>. <p2><tam>நோவு நின்றுப்போயிற்று</tam>, the pain is over.</p2> <p2><tam>நோவாளன்</tam>, <tam>நோவாளி</tam>, a sickness.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		244) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோவு&searchhws=yes&matchtype=exact">நோவு</a> nōvu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=921">p. 921</a>)
+		<blockquote><p><hw>நோவு</hw> - நோய், மஞ்சள், மெலிவு, வருத்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		245) <a href="/cgi-bin/app/kadirvelu_query.py?qs=நோவு&searchhws=yes&matchtype=exact">நோவு</a> nōvu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1698">p. 1698</a>)
+		<blockquote><p><hw>நோவு</hw> - நோய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		246) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோவு&searchhws=yes&matchtype=exact">நோவு</a> nōvu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோவு</tam> <t>nōvu</t></hw> , <i>n</i>. < <tam>நோ-</tam>. [K. M. Tu. <i>nōvu</i>.] 1. Pain, hurt, anguish; <tam>வலி</tam>. 2. Mental anguish; <tam>துன்பம். (திவா.)</tam> 3. Disease; <tam>வியாதி</tam>. 4. Labour pains; <tam>பிரசவவேதனை. ஈன்றக்கா னோவும்</tam> (<tam>நாலடி</tam>, 201). 5. Pity; <tam>இரக்கம். தாம் நோவுபடா நிற்பர். (ஈடு)</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		247) <a href="/cgi-bin/app/winslow_query.py?qs=நோவு&searchhws=yes&matchtype=exact">நோவு</a> nōvu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=703">p. 703</a>)
+		<blockquote><p><hw><tam>நோவு</tam></hw> , <i>s.</i> Pain, hurt, anguish, as <tam>நோ</tam>. 2. Disease, as <tam>நோய்</tam>. <i>(c.)</i> <tam>நோயற்றவாழ்வும் குறைவற்றசெல்வமுமாயிருக்கவேண்டும்</tam>. May you have prosperity without deficiency; <i>a form of well wishing.</i> <p2><tam>நோவாளி</tam>, <i>s.</i> A sick person, as <tam>நோயாளி</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		248) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோவுசாத்து-தல்&searchhws=yes&matchtype=exact">நோவுசாத்து-தல்</a> nōvucāttu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோவுசாத்து-தல்</tam> <t>nōvu-cāttu-</t></hw> , <i>v. intr</i>. < <tam>நோவு</tam> +. To suffer from disease, as eminent religious persons; <tam>பெரியோர் நோய்வாய்ப் படுதல். ஶ்ரீயமுனைத்துறைவர் திருமேனியிலே நோவு சாத்திக்கொண்டிருக்க</tam> (<tam>குருபரம்</tam>. 241). <i>Vaiṣṇ</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		249) <a href="/cgi-bin/app/tamil-lex_query.py?qs=நோவெடுத்தல்&searchhws=yes&matchtype=exact">நோவெடுத்தல்</a> nōveṭuttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2373">p. 2373</a>)
+		<blockquote><p><hw><tam>நோவெடுத்தல்</tam> <t>nōveṭuttal</t></hw> , <i>n</i>. < id. +. Commencement of labour pains; <tam>பிரசவவேதனை யுண்டாகை</tam>.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

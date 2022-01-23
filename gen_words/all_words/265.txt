@@ -1,0 +1,1009 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>ஜி</b>
+                       <div id='no_results'>
+                                78 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜி&searchhws=yes&matchtype=exact">ஜி</a> ji
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜி¹</tam> <t>ji</t></hw> . The compound of <tam>ஜ்</tam> and <tam>இ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜி&searchhws=yes&matchtype=exact">ஜி</a> ji
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜி²</tam> <t>ji</t></hw> , <i>part</i>. < Hind. <i>jī</i>. A honorary suffix added to the names of persons by North Indians; <tam>பெயர்களின் முடிவில் மரியாதைக்குறியாக வடநாட்டார் சேர்த்து வழங்குஞ் சொல். மகாத்மாஜி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிகண்டி&searchhws=yes&matchtype=exact">ஜிகண்டி</a> jikaṇṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிகண்டி</tam> <t>jikaṇṭi</t></hw> , <i>n</i>. prob. <i>šikhaṇḍin. Loc</i>. 1. Troublesome person. See <tam>சிகண்டி¹</tam>, 7. 2. Miser. See <tam>சிகண்டி¹</tam>, 8.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/crea_query.py?qs=ஜிகினா&searchhws=yes&matchtype=exact">ஜிகினா</a> jikiṉā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=975">p. 975</a>)
+		<blockquote><p><hw>ஜிகினா</hw> பெ. 1: (மாலை முதலியவற்றில் அழகுபடுத்துவதற்காகச் சுற்றப்படும்) பளபளப்பான தகர இழை; tinsel. ஜிகினா சுற்றிய ரோஜாப் பூ மாலை/ ஜிகினா ஒட்டப்பட்ட தலைப்பாகையுடன் மேடையில் தோன்றினான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிகினா&searchhws=yes&matchtype=exact">ஜிகினா</a> jikiṉā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிகினா</tam> <t>jikiṉā</t></hw> , <i>n</i>. < U. <i>ciknā</i>. Foliated tinsel. See <tam>குருநாத்தகடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிகினாவேலை&searchhws=yes&matchtype=exact">ஜிகினாவேலை</a> jikiṉāvēlai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிகினாவேலை</tam> <t>jikiṉā-vēlai</t></hw> , <i>n</i>. < <tam>ஜிகினா</tam> +. Embroidery work with <i>jikiṉā</i>; <tam>ஜிகினாவாற் செய் யப்பட்ட பூவேலை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிகினி&searchhws=yes&matchtype=exact">ஜிகினி</a> jikiṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிகினி</tam> <t>jikiṉi</t></hw> , <i>n</i>. cf. <tam>ஜகினி</tam>. perh. T. <i>ḍzakkinīḍu</i>. Stingy, miserly person; <tam>உலோபி</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிகுடு&searchhws=yes&matchtype=exact">ஜிகுடு</a> jikuṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிகுடு</tam> <t>jikuṭu</t></hw> , <i>n</i>. [K. <i>sikku</i>.] Stickiness, as of oil, etc. See <tam>சிக்கு³</tam>, 8. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிகுண்டு&searchhws=yes&matchtype=exact">ஜிகுண்டு</a> jikuṇṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிகுண்டு</tam> <t>jikuṇṭu</t></hw> , <i>n</i>. See <tam>ஜிகுடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிஞ்ஜிரா&searchhws=yes&matchtype=exact">ஜிஞ்ஜிரா</a> jiñjirā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஜிஞ்ஜிரா</tam> <t>jiñjirā</t></hw> , <i>n</i>. A musical instrument; <tam>கஞ்சிரா</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிஞ்ஞாசு&searchhws=yes&matchtype=exact">ஜிஞ்ஞாசு</a> jiññācu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஜிஞ்ஞாசு</tam> <t>jiññācu</t></hw> , <i>n</i>. < <i>jijñasu</i>. One who is desirous of knowing the Truth; <tam>உண்மையை அறிய விரும்புவோன்</tam>. (<tam>விசாரசந்</tam>. 322.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிதம்&searchhws=yes&matchtype=exact">ஜிதம்</a> jitam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிதம்</tam> <t>jitam</t></hw> , <i>n</i>. < <i>jita</i>. That which is won, subdued or conquered; <tam>வெல்லப்பட்டது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிதேந்திரியன்&searchhws=yes&matchtype=exact">ஜிதேந்திரியன்</a> jitēntiriyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிதேந்திரியன்</tam> <t>jitēntiriyaṉ</t></hw> , <i>n</i>. < id. + <i>indriya</i>. One who has subdued his senses. See <tam>சிதேந்திரியன்</tam>. (<tam>ஶ்ரீ ரீவசன</tam>. 19.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜித்தன்&searchhws=yes&matchtype=exact">ஜித்தன்</a> jittaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜித்தன்</tam> <t>jittaṉ</t></hw> , <i>n</i>. < T. <i>jittu</i>. Cunning rogue; deceitful person; <tam>மாய்மாலக்காரன். பாவாடைஜித்தன்</tam> (<tam>பிரதாப. விலா</tam>. 40).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜிந்தகி&searchhws=yes&matchtype=exact">ஜிந்தகி</a> jintaki
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜிந்தகி</tam></hw> , <tam>சிந்தகி</tam>, <i>s. (Pers.)</i> property, life, <tam>உடைமை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிந்தகி&searchhws=yes&matchtype=exact">ஜிந்தகி</a> jintaki
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிந்தகி</tam> <t>jintaki</t></hw> , <i>n</i>. < Persn. <i>zindagī</i>. Property; <tam>உடைமை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/winslow_query.py?qs=ஜிந்தகி&searchhws=yes&matchtype=exact">ஜிந்தகி</a> jintaki
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜிந்தகி</tam></hw> , <i>s.</i> Property. See <tam>சிந்தகி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜினன்&searchhws=yes&matchtype=exact">ஜினன்</a> jiṉaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜினன்</tam> <t>jiṉaṉ</t></hw> , <i>n</i>. < <i>jina</i>. See <tam>சினன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜினாலயம்&searchhws=yes&matchtype=exact">ஜினாலயம்</a> jiṉālayam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜினாலயம்</tam> <t>jiṉālayam</t></hw> , <i>n</i>. < <i>jinālaya</i>. Jain temple; <tam>அருகக்கடவுளின் கோயில்</tam>. (<tam>மணி</tam>. 3, 87, <tam>அரும்</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜினுசு&searchhws=yes&matchtype=exact">ஜினுசு</a> jiṉucu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜினுசு</tam> <t>jiṉucu</t></hw> , <i>n</i>. See <tam>ஜின்சு</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜின்&searchhws=yes&matchtype=exact">ஜின்</a> jiṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜின்</tam> <t>jiṉ</t></hw> , <i>n</i>. < Arab. <i>jin</i>. Evil spirit, goblin; <tam>பிசாசு</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜின்சு&searchhws=yes&matchtype=exact">ஜின்சு</a> jiṉcu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜின்சு</tam></hw> , <i>s.</i> kinds, goods, see <tam>சினுசு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜின்சு&searchhws=yes&matchtype=exact">ஜின்சு</a> jiṉcu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜின்சு</tam> <t>jiṉcu</t></hw> , <i>n</i>. < Arab. <i>jins</i>. Species, kinds; <tam>தினுசு</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/winslow_query.py?qs=ஜின்சு&searchhws=yes&matchtype=exact">ஜின்சு</a> jiṉcu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜின்சு</tam></hw> , <i>s.</i> Kinds, goods. See <tam>சினுசு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/crea_query.py?qs=ஜிப்பா&searchhws=yes&matchtype=exact">ஜிப்பா</a> jippā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=975">p. 975</a>)
+		<blockquote><p><hw>ஜிப்பா</hw> பெ. 1: கழுத்து வழியாக அணிந்துகொள்ளும் இறுக்கம் இல்லாத சட்டை; a kind of loose-fitting shirt that is pulled over the head.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிப்பா&searchhws=yes&matchtype=exact">ஜிப்பா</a> jippā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிப்பா</tam> <t>jippā</t></hw> , <i>n</i>. See <tam>ஜுப்பா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/crea_query.py?qs=ஜிமிக்கி&searchhws=yes&matchtype=exact">ஜிமிக்கி</a> jimikki
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜிமிக்கி</hw> பெ. 1: (காதில் உள்ள தோடு போன்றவற்றுடன் இணைத்துத் தொங்கும்படியாக மாட்டிக்கொள்ளும்) சிறு குடை வடிவத்தில் இருக்கும் ஒரு காதணி; bell-shaped pendant attached to an ear-ring.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜிமிக்கி&searchhws=yes&matchtype=exact">ஜிமிக்கி</a> jimikki
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜிமிக்கி</tam></hw> , <i>s.</i> see <tam>சிமிக்கி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிமிக்கி&searchhws=yes&matchtype=exact">ஜிமிக்கி</a> jimikki
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிமிக்கி</tam> <t>jimikki</t></hw> , <i>n</i>. < Hind. <i>jhumkī</i>. Bell-shaped pendant of an ear-ring; <tam>ஒருவகைக் காதணியின் உறுப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/winslow_query.py?qs=ஜிமிக்கி&searchhws=yes&matchtype=exact">ஜிமிக்கி</a> jimikki
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜிமிக்கி</tam></hw> , <i>s.</i> An ornament. See <tam>சிமிக்கி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிமிக்கிப்பூ&searchhws=yes&matchtype=exact">ஜிமிக்கிப்பூ</a> jimikkippū
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிமிக்கிப்பூ</tam> <t>jimikki-p-pū</t></hw> , <i>n</i>. < <tam>ஜிமிக்கி</tam> + <tam>பூ³</tam>. Mountain passion flower. See <tam>சிமிக்கிப்பூ</tam>, 2. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிம்கானா&searchhws=yes&matchtype=exact">ஜிம்கானா</a> jimkāṉā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிம்கானா</tam> <t>jimkāṉā</t></hw> , <i>n</i>. < U. <i>gend</i> + U. <i>khāna</i>. 1. Gymkhana, place of public resort where facilities for athletics and games are provided; <tam>ஜனங்கள் விளையாடுதற்குக் கூடும் இடம்</tam>. 2. Meeting for sports; <tam>தேகப்பயிற்சி செய்யக் கூடுங் கூட்டம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிம்பு-தல்&searchhws=yes&matchtype=exact">ஜிம்பு-தல்</a> jimpu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிம்பு-தல்</tam> <t>jimpu-</t></hw> , <i>5 v. tr</i>. < <tam>சிம்பு¹-</tam>. 1. To pull forcibly; <tam>ஒன்றைப்பற்றி வலிமையுடன் இழத் தல்</tam>. 2. To raise, as with a lever; <tam>நெம்புதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிம்மா&searchhws=yes&matchtype=exact">ஜிம்மா</a> jimmā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிம்மா</tam> <t>jimmā</t></hw> , <i>n</i>. < Arab. <i>zimmā</i>. Charge, possession; <tam>கைப்பற்று</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிம்மி&searchhws=yes&matchtype=exact">ஜிம்மி</a> jimmi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிம்மி</tam> <t>jimmi</t></hw> , <i>n</i>. < U. <i>zimmi</i>. Non-Muslim subject of a Muslim government, who, by the payment of a capitation tax, becomes entitled to security of life and property; <tam>முகம்மதிய ராஜ்யத்தில் தலைவரி செலுத்தி அதன் பயனாகத் துன் புறுத்தப்படாது வாழும் முகம்மதியனல்லாத குடி</tam>. (<smallcap>R. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜியாரத்&searchhws=yes&matchtype=exact">ஜியாரத்</a> jiyārat
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜியாரத்</tam> <t>jiyārat</t></hw> , <i>n</i>. < Arab. <i>ziyārat</i>. A ceremony observed on the second day following the death of a Muhammadan; <tam>முகம்மதியருள் இறந்தவர்பொருட்டு மூன்றாநாள் நடத்துஞ் சடங்கு</tam>. <i>Muham</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/crea_query.py?qs=ஜியோமிதி&searchhws=yes&matchtype=exact">ஜியோமிதி</a> jiyōmiti
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜியோமிதி</hw> பெ. "கணி." 1: வடிவகணிதம்; geometry.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிராயதி&searchhws=yes&matchtype=exact">ஜிராயதி</a> jirāyati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிராயதி</tam> <t>jirāyati</t></hw> , <i>n</i>. < Arab. <i>zirāyat</i>. (<smallcap>C. G</smallcap>.) 1. Arable land, land fit for cultivation and not requiring artificial irrigation; <tam>பயிரிடுதற்குத் தகுதியான நிலம்</tam>. 2. Agriculture; cultivation; <tam>வியவசாயம்</tam>. 3. Ryotwari land; <tam>ரயத்வாரி நிலம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜிராயத்&searchhws=yes&matchtype=exact">ஜிராயத்</a> jirāyat
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜிராயத்</tam></hw> , <i>s. (Pers.)</i> agriculture, <tam>சாகுபடி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிராயத்&searchhws=yes&matchtype=exact">ஜிராயத்</a> jirāyat
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3874">p. 3874</a>)
+		<blockquote><p><hw><tam>ஜிராயத்</tam> <t>jirāyat</t></hw> , <i>n</i>. < Arab. <i>zirāyat</i>. See <tam>ஜிராயதி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/winslow_query.py?qs=ஜிராயத்&searchhws=yes&matchtype=exact">ஜிராயத்</a> jirāyat
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜிராயத்</tam></hw> , <i>s. (Pers.)</i> Cultivation, agriculture, <tam>சாகுபடி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிராயத்து&searchhws=yes&matchtype=exact">ஜிராயத்து</a> jirāyattu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிராயத்து</tam> <t>jirāyattu</t></hw> , <i>n</i>. See <tam>ஜிராயதி</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிராயித்&searchhws=yes&matchtype=exact">ஜிராயித்</a> jirāyit
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிராயித்</tam> <t>jirāyit</t></hw> , <i>n</i>. See <tam>ஜிராயதி</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிரிகி&searchhws=yes&matchtype=exact">ஜிரிகி</a> jiriki
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிரிகி</tam> <t>jiriki</t></hw> , <i>n</i>. Sky-blue bindweed. See <tam>காக்கட்டான்</tam>, 2. (<tam>பைஷஜ</tam>. 56.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிறாயதி&searchhws=yes&matchtype=exact">ஜிறாயதி</a> jiṟāyati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிறாயதி</tam> <t>jiṟāyati</t></hw> , <i>n</i>. See <tam>ஜிராயதி</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/crea_query.py?qs=ஜிலுஜிலு-என்று&searchhws=yes&matchtype=exact">ஜிலுஜிலு-என்று</a> jilujilu-eṉṟu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜிலுஜிலு-என்று</hw> வி.அ. காண்க: சிலுசிலு-என்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிலுஜிலு-த்தல்&searchhws=yes&matchtype=exact">ஜிலுஜிலு-த்தல்</a> jilujilu-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிலுஜிலு-த்தல்</tam> <t>jilu-jilu-</t></hw> , <i>11 v. intr</i>. 1. See <tam>சிலுசிலு-</tam>, 6, 7. 2. To be pleasant; <tam>இனிமையாதல்</tam>. 3. To be brilliant; <tam>ஒளிவிடு தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிலுஜிலுப்பு&searchhws=yes&matchtype=exact">ஜிலுஜிலுப்பு</a> jilujiluppu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிலுஜிலுப்பு</tam> <t>jilujiluppu</t></hw> , <i>n</i>. < <tam>ஜிலுஜிலு-</tam>. 1. Coolness. See <tam>சிலுசிலுப்பு</tam>, 1. 2. Pleasantness; <tam>இனிமை</tam>. 3. Brilliance; <tam>காந்தி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிலுஜிலெனல்&searchhws=yes&matchtype=exact">ஜிலுஜிலெனல்</a> jilujileṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிலுஜிலெனல்</tam> <t>jilujileṉal</t></hw> , <i>n</i>. 1. See <tam>ஜில்லெனல்</tam>. 2. Expr. of (a) being pleasant; <tam>இனிமையாதற் குறிப்பு</tam>: (b) being brilliant; <tam>ஒளி விடுதற் குறிப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/crea_query.py?qs=ஜிலேபி&searchhws=yes&matchtype=exact">ஜிலேபி</a> jilēpi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜிலேபி</hw> பெ. 1: மைதா மாவை முறுக்குப் போல எண்ணெய்யில் பொரித்து எடுத்துச் சீனிப் பாகில் போட்டுத் தயாரிக்கும் இனிப்புப் பண்டம்; a sweetmeat made by twisting maize flour paste into oil and dipped in sugar treacle.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிலேபி&searchhws=yes&matchtype=exact">ஜிலேபி</a> jilēpi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிலேபி</tam> <t>jilēpi</t></hw> , <i>n</i>. < Hind. <i>jalēbī</i>. A sweetmeat made of sugar, ghee and flour of black gram; <tam>உளுந்துமா நெய் சருக்கரை முதலியவற்றாலான பண்ணிகாரவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/crea_query.py?qs=ஜில்-என்று, ஜில்-என்ற&searchhws=yes&matchtype=exact">ஜில்-என்று, ஜில்-என்ற</a> jil-eṉṟu, jil-eṉṟa
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜில்-என்று/-என்ற</hw> வி.அ./பெ.அ. காண்க: சில்-என்று/-என்ற.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜில்பா&searchhws=yes&matchtype=exact">ஜில்பா</a> jilpā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜில்பா</tam> <t>jilpā</t></hw> , <i>n</i>. < Persn. <i>zulf</i>. See <tam>சிலுப்பா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/crea_query.py?qs=ஜில்லா&searchhws=yes&matchtype=exact">ஜில்லா</a> jillā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜில்லா</hw> பெ. [அ.வ.] 1: மாவட்டம்; district.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜில்லா&searchhws=yes&matchtype=exact">ஜில்லா</a> jillā
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜில்லா</tam></hw> , <i>s.</i> see <tam>சில்லா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜில்லா&searchhws=yes&matchtype=exact">ஜில்லா</a> jillā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜில்லா</tam> <t>jillā</t></hw> , <i>n</i>. < Arab. <i>zilā</i>. District made up of several taluqs placed under a collector for purposes of land revenue; <tam>வரிவசூலின் பொருட்டுப் பிரிக்கப்பட்டதும் பல தாலூக்காக்களை யுடையதுமான மாகாணப்பகுதி</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/winslow_query.py?qs=ஜில்லா&searchhws=yes&matchtype=exact">ஜில்லா</a> jillā
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜில்லா</tam></hw> , <i>s.</i> Zillah. See <tam>சில்லா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜில்லாப்போக்கிரி&searchhws=yes&matchtype=exact">ஜில்லாப்போக்கிரி</a> jillāppōkkiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜில்லாப்போக்கிரி</tam> <t>jillā-p-pōkkiri</t></hw> , <i>n</i>. < <tam>ஜில்லா</tam> +. Notorious rogue. See <tam>கசபோக்கிரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/crea_query.py?qs=ஜில்லிடு&searchhws=yes&matchtype=exact">ஜில்லிடு</a> jilliṭu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜில்லிடு</hw> வி. (ஜில்லிட, ஜில்லிட்டு) காண்க: சில்லிடு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜில்லிடு-தல்&searchhws=yes&matchtype=exact">ஜில்லிடு-தல்</a> jilliṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜில்லிடு-தல்</tam> <t>jil-l-iṭu-</t></hw> , <i>v. intr</i>. < <tam>ஜில்லு</tam> + <tam>இடு-</tam>. To become extremely cold. See <tam>சில்லிடு-</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜில்லு&searchhws=yes&matchtype=exact">ஜில்லு</a> jillu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜில்லு</tam> <t>jillu</t></hw> , <i>n</i>. < T. <i>jillu</i>. Extreme cold; <tam>மிக்க குளிர்ச்சி. சோற்றுக்கு ஜில்லு வந்துவிட்டது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜில்லெனல்&searchhws=yes&matchtype=exact">ஜில்லெனல்</a> jilleṉal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜில்லெனல்</tam></hw> , <i>s.</i> see <tam>சில்லெனல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜில்லெனல்&searchhws=yes&matchtype=exact">ஜில்லெனல்</a> jilleṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜில்லெனல்</tam> <t>jil-l-eṉal</t></hw> , <i>n</i>. See <tam>சில்லெனல்</tam>, (a), (b), (c), (d).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/winslow_query.py?qs=ஜில்லெனல்&searchhws=yes&matchtype=exact">ஜில்லெனல்</a> jilleṉal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜில்லெனல்</tam></hw> , <i>v. noun.</i> Being very cold, chill. See <tam>சில்லெனல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜில்ஹாது&searchhws=yes&matchtype=exact">ஜில்ஹாது</a> jilhātu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜில்ஹாது</tam> <t>jilhātu</t></hw> , <i>n</i>. < Arab. <i>julhāda</i>. The eleventh month of the Muhammadan calendar; <tam>முகம்மதியர் வழங்கும் மாதங்களிற் பதி னொன்றாவது</tam>. (<tam>பெரியவரு</tam>. 28.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜில்ஹேது&searchhws=yes&matchtype=exact">ஜில்ஹேது</a> jilhētu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜில்ஹேது</tam> <t>jilhētu</t></hw> , <i>n</i>. < Arab. <i>julhaj</i>. The twelfth month of the Muhammadan calendar; <tam>முகம்மதியர் வழங்கும் மாதங்களிற் பன்னிரண்டாவது</tam>. (<tam>பெரியவரு</tam>. 28.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிவ்வாடு-தல்&searchhws=yes&matchtype=exact">ஜிவ்வாடு-தல்</a> jivvāṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிவ்வாடு-தல்</tam> <t>jivvāṭu-</t></hw> , <i>v. intr</i>. 1. To swing from aerial roots or from ropes attached to trees; <tam>மரத்தின் விழுதை அல்லது அதிற் கட்டிய கயிற்றைப் பற்றிக்கொண்டு ஊசலாடுதல்</tam>. 2. To hang loose; <tam>பற்றுவிட்டு ஆட்டங்கொடுத் தல். மேற்கூரையின் மரத்துண்டுகள் ஜிவ்வாடு கின்றன</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிவ்வெனல்&searchhws=yes&matchtype=exact">ஜிவ்வெனல்</a> jivveṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஜிவ்வெனல்</tam> <t>jiv-v-eṉal</t></hw> , <i>n</i>. Expr. of being smooth and spongy; <tam>பஞ்சுபோல் மெத் தென்றிருத்தற்குறிப்பு. மெத்தை ஜிவ்வென்றிருக் கிறது</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிஷ்ணு&searchhws=yes&matchtype=exact">ஜிஷ்ணு</a> jiṣṇu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிஷ்ணு</tam> <t>jiṣṇu</t></hw> , <i>n</i>. < <i>jiṣṇu</i>. Viṣṇu. See <tam>விஷ்ணு</tam>, 1. (<smallcap>S. I. I</smallcap>. ii, 530.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிஹாத்&searchhws=yes&matchtype=exact">ஜிஹாத்</a> jihāt
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஜிஹாத்</tam> <t>jihāt</t></hw> , <i>n</i>. prob. Arab. <i>jihād</i>. Jihād, religious war by Muhammadans; <tam>முகம் மதியர் மதவிஷயமாகப் புரியும் போர்</tam>. <i>Muham</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிஹ்வா&searchhws=yes&matchtype=exact">ஜிஹ்வா</a> jihvā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிஹ்வா</tam> <t>jihvā</t></hw> , <i>n</i>. < <i>jihvā</i>. Tongue. See <tam>சிகுவை</tam>, 1. <tam>ஸப்த ஜிஹ்வா</tam> (<tam>தக்கயாகப்</tam>. 475, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிஹ்வாகண்டரோகம்&searchhws=yes&matchtype=exact">ஜிஹ்வாகண்டரோகம்</a> jihvākaṇṭarōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிஹ்வாகண்டரோகம்</tam> <t>jihvā-kaṇṭa-rōkam</t></hw> , <i>n</i>. < id. + <i>khaṇḍa</i> +. Cracked tongue, a disease; <tam>நாக்குவெடிப்புநோய்</tam>. (<tam>பைஷஜ</tam>. 245.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிஹ்வாசாபலம்&searchhws=yes&matchtype=exact">ஜிஹ்வாசாபலம்</a> jihvācāpalam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிஹ்வாசாபலம்</tam> <t>jihvā-cāpalam</t></hw> , <i>n</i>. < id. + <i>cāpala</i>. Desire to eat indiscriminately; <tam>கண்டதை யெல்லாம் உண்ணவேண்டு மென்ற விருப்பம்</tam>. <i>Brāh</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிஹ்வாதாபிதரோகம்&searchhws=yes&matchtype=exact">ஜிஹ்வாதாபிதரோகம்</a> jihvātāpitarōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிஹ்வாதாபிதரோகம்</tam> <t>jihvā-tāpita-rōkam</t></hw> , <i>n</i>. < id. + <i>tāpita</i> +. Inflammation of the tongue; <tam>நாக்குவீங்கும் நோய்</tam>. (<tam>பைஷஜ</tam>. 245.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிஹ்வாரோகம்&searchhws=yes&matchtype=exact">ஜிஹ்வாரோகம்</a> jihvārōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிஹ்வாரோகம்</tam> <t>jihvā-rōkam</t></hw> , <i>n</i>. < id. +. Disease of the tongue; <tam>நாக்கிலுண்டாகும் வியாதி</tam>. (<tam>பைஷஜ</tam>. 245.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிஹ்வாலஜகரோகம்&searchhws=yes&matchtype=exact">ஜிஹ்வாலஜகரோகம்</a> jihvālajakarōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிஹ்வாலஜகரோகம்</tam> <t>jihvālajaka-rōkam</t></hw> , <i>n</i>. < id. + prob. <i>alasaka</i> + <i>rōga</i>. Ulcer of the tongue; <tam>நாக்குப்புண்</tam>. (<tam>பைஷஜ</tam>. 245.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிஹ்வாஸ்தம்பவாதம்&searchhws=yes&matchtype=exact">ஜிஹ்வாஸ்தம்பவாதம்</a> jihvāstampavātam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிஹ்வாஸ்தம்பவாதம்</tam> <t>jihvā-stampa-vātam</t></hw> , <i>n</i>. < id. + <i>stambha</i> +. Paralysis of the tongue; <tam>நாக்கை அசையவொட்டாது செய்யும் வாத நோய்</tam>. (<tam>பைஷஜ</tam>. 245.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜிஹ்வை&searchhws=yes&matchtype=exact">ஜிஹ்வை</a> jihvai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3875">p. 3875</a>)
+		<blockquote><p><hw><tam>ஜிஹ்வை</tam> <t>jihvai</t></hw> , <i>n</i>. < <i>jihvā</i>. Tongue. See <tam>சிகுவை</tam>, 1.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

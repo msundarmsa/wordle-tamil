@@ -1,0 +1,659 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>ரே</b>
+                       <div id='no_results'>
+                                43 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரே&searchhws=yes&matchtype=exact">ரே</a> rē
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரே</tam> <t>rē</t></hw> . The compound of <tam>ர்</tam> and <tam>ஏ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேகடி&searchhws=yes&matchtype=exact">ரேகடி</a> rēkaṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேகடி</tam> <t>rēkaṭi</t></hw> , <i>n</i>. < T. <i>rēgaḍi</i> < U. <i>rēgar</i>. Black cotton soil; <tam>கரிசல்நிலம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/fabricius_query.py?qs=ரேகம்&searchhws=yes&matchtype=exact">ரேகம்</a> rēkam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=836">p. 836</a>)
+		<blockquote><p><hw><tam>ரேகம்</tam></hw> , <tam>திரேகம்</tam>, <i>s. vulg.</i> for <tam>தேகம்</tam>, the body.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேகம்&searchhws=yes&matchtype=exact">ரேகம்</a> rēkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேகம்</tam> <t>rēkam</t></hw> , <i>n</i>. See <tam>தேகம்</tam>, 1. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/winslow_query.py?qs=ரேகம்&searchhws=yes&matchtype=exact">ரேகம்</a> rēkam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=908">p. 908</a>)
+		<blockquote><p><hw><tam>ரேகம்</tam></hw> , <i>s.</i> [<i>vul. for</i> <tam>திரேகம்</tam>. The body.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேகா&searchhws=yes&matchtype=exact">ரேகா</a> rēkā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேகா</tam> <t>rēkā</t></hw> , <i>n</i>. < <i>rēkhā</i>. See <tam>ரேகை</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேகாசாஸ்திரம்&searchhws=yes&matchtype=exact">ரேகாசாஸ்திரம்</a> rēkācāstiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேகாசாஸ்திரம்</tam> <t>rēkā-cāstiram</t></hw> , <i>n</i>. < id. +. Palmistry; <tam>கைரேகையாற் பலனறியும் நூல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேகாமூலம்&searchhws=yes&matchtype=exact">ரேகாமூலம்</a> rēkāmūlam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேகாமூலம்</tam> <t>rēkā-mūlam</t></hw> , <i>n</i>. < id. +. Documentary evidence; <tam>பத்திரமூலமான ஆதாரம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேகாம்சம்&searchhws=yes&matchtype=exact">ரேகாம்சம்</a> rēkāmcam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேகாம்சம்</tam> <t>rēkāmcam</t></hw> , <i>n</i>. < id. + <i>aṃša</i>. Longitude; <tam>குறிப்பிட்டரேகைக்குந் துவக்கமாகக் கொண்ட ரேகைக்கும் இடைப்பட்ட கோணத்தின் பரி மாணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/crea_query.py?qs=ரேகை&searchhws=yes&matchtype=exact">ரேகை</a> rēkai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரேகை</hw> பெ. 1: மனிதர்களின் கை, கால் விரல்களின் உட்புறத்தில் ஒருவருக்கொருவர் வேறுபட்டு அமைந்திருக்கிற கோடுகள்; line (on the palm or on the sole). குற்றவாளிகளைக் கண்டுபிடிக்கக் கைரேகைகளைப் பயன்படுத்துகிறார்கள்./ கைரேகை ஜோசியம்/ [உரு வ.] அவன் முகத்தில் கவலையின் ரேகைகள் தெரிந்தன. 2: (பொதுவாகக் கூட்டுச்சொற்களில்) பாகைக் கோடு; imaginary line drawn on the map of earth. அட்சரேகை/ தீர்க்கரேகை/ பூமத்தியரேகை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேகை&searchhws=yes&matchtype=exact">ரேகை</a> rēkai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேகை</tam> <t>rēkai</t></hw> , <i>n</i>. < <i>rekhā</i>. 1. See <tam>இரேகை</tam>. 2. Meridian; <tam>கோளங்களில் துருவத்தின் வழியே செல்வதாகக் கருதப்படுங் கோடு</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேகை&searchhws=yes&matchtype=exact">ரேகை</a> rēkai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S403">p. S403</a>)
+		<blockquote><p><hw><tam>ரேகை</tam> <t>rēkai</t></hw> , <i>n</i>. A coin; <tam>நாணயவகை</tam>. (<smallcap>I. M. P. S. A</smallcap>. 115.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேகைசாஸ்திரம்&searchhws=yes&matchtype=exact">ரேகைசாஸ்திரம்</a> rēkaicāstiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேகைசாஸ்திரம்</tam> <t>rēkai-cāstiram</t></hw> , <i>n</i>. < <tam>ரேகை</tam> +. See <tam>ரேகாசாஸ்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/crea_query.py?qs=ரேக்கு&searchhws=yes&matchtype=exact">ரேக்கு</a> rēkku
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரேக்கு</hw> பெ. [அ.வ.] 1: (தங்கத்தின்) தகடு; a thin strip (of gold); (gold) leaf.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேக்கு&searchhws=yes&matchtype=exact">ரேக்கு</a> rēkku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேக்கு</tam> <t>rēkku</t></hw> , <i>n</i>. < U. <i>rēk</i>. 1. Petal of flowers; <tam>பூவிதழ்</tam>. 2. Foil of metal; <tam>தங்கம் முதலிய வற்றின் மெல்லிய தகடு. தங்கரேக்காற் சமைத்திட்ட பாரக் கொங்கைக்குறியும்</tam> (<tam>தனிப்பா</tam>. i, 378, 21).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேக்ளா&searchhws=yes&matchtype=exact">ரேக்ளா</a> rēkḷā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேக்ளா</tam> <t>rēkḷā</t></hw> , <i>n</i>. < U. <i>rēkḷa</i>. See <tam>ரேக்ளாவண்டி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/crea_query.py?qs=ரேக்ளா வண்டி&searchhws=yes&matchtype=exact">ரேக்ளா வண்டி</a> rēkḷā vaṇṭi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரேக்ளா வண்டி</hw> பெ. 1: ஒருவர் அமர்ந்து வேகமாகச் செல்லக் கூடிய ஒற்றைக் குதிரை அல்லது ஒற்றை மாட்டு வண்டி; small, slim built, fast moving cart with one seat drawn by a horse or bullock.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேக்ளாவண்டி&searchhws=yes&matchtype=exact">ரேக்ளாவண்டி</a> rēkḷāvaṇṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேக்ளாவண்டி</tam> <t>rēkḷā-vaṇṭi</t></hw> , <i>n</i>. < <tam>ரேக்ளா</tam> +. A kind of single bullock-cart with only one seat; <tam>ஒருவன் மாத்திரம் உட்கார இடமுள்ள ஒற்றை மாட்டுவண்டிவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேங்கு-தல்&searchhws=yes&matchtype=exact">ரேங்கு-தல்</a> rēṅku-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேங்கு-தல்</tam> <t>rēṅku-</t></hw> , <i>5 v. intr</i>. [T. K. <i>rēgu</i>.] To rage; to be angry; <tam>சினமூளுதல்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேசகம்&searchhws=yes&matchtype=exact">ரேசகம்</a> rēcakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேசகம்</tam> <t>rēcakam</t></hw> , <i>n</i>. < <i>rēcaka</i>. 1. See <tam>இரேசகம்</tam>. 2. Croton. See <tam>நேர்வாளம்</tam>. 3. Saltpetre; <tam>வெடியுப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேணு&searchhws=yes&matchtype=exact">ரேணு</a> rēṇu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S403">p. S403</a>)
+		<blockquote><p><hw><tam>ரேணு</tam> <t>rēṇu</t></hw> , <i>n</i>. < <i>rēṇu</i>. Dust; <tam>பொடி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரேணுகை&searchhws=yes&matchtype=exact">ரேணுகை</a> rēṇukai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1220">p. 1220</a>)
+		<blockquote><p><hw>ரேணுகை</hw> - பரஸுராமன்தாய், ஜமதக் நிபாரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரேணுமதி&searchhws=yes&matchtype=exact">ரேணுமதி</a> rēṇumati
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1220">p. 1220</a>)
+		<blockquote><p><hw>ரேணுமதி</hw> - நகுலன்பாரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேதஸ்&searchhws=yes&matchtype=exact">ரேதஸ்</a> rētas
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேதஸ்</tam> <t>rētas</t></hw> , <i>n</i>. < <i>rētas</i>. See <tam>இரேதசு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேந்தா&searchhws=yes&matchtype=exact">ரேந்தா</a> rēntā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேந்தா</tam> <t>rēntā</t></hw> , <i>n</i>. A needle used in embroidery work; <tam>சித்திரப்பின்னற்குரிய ஊசி வகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேந்தாத்தையல்&searchhws=yes&matchtype=exact">ரேந்தாத்தையல்</a> rēntāttaiyal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேந்தாத்தையல்</tam> <t>rēntā-t-taiyal</t></hw> , <i>n</i>. < <tam>ரேந்தா</tam> +. Lace-work; <tam>பூவேலைத்தையல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/crea_query.py?qs=ரேந்தை&searchhws=yes&matchtype=exact">ரேந்தை</a> rēntai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரேந்தை</hw> பெ. "இலங்." 1: ரவிக்கை, பாவாடை முதலிய பெண்களின் ஆடைகளில் இணைக்கப்படும் வேலைப்பாடு கொண்ட பின்னல் துணி; lace. பாவாடைக்கு ரேந்தை வைத்துத் தை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேந்தை&searchhws=yes&matchtype=exact">ரேந்தை</a> rēntai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3431">p. 3431</a>)
+		<blockquote><p><hw><tam>ரேந்தை</tam> <t>rēntai</t></hw> , <i>n</i>. < id. See <tam>ரேந்தாத்தையல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/crea_query.py?qs=ரேழி&searchhws=yes&matchtype=exact">ரேழி</a> rēḻi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரேழி</hw> பெ. [பே.வ.] 1: முன் பக்கத்து வாசலுக்கும் முதல் கட்டுக்கும் இடையில் நடைபாதை போல அமைந்திருக்கும் பகுதி; narrow passage between the entrance and the living room (of old houses).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேழி&searchhws=yes&matchtype=exact">ரேழி</a> rēḻi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரேழி</tam> <t>rēḻi</t></hw> , <i>n</i>. See <tam>இரேழி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேவணாத்தியர்&searchhws=yes&matchtype=exact">ரேவணாத்தியர்</a> rēvaṇāttiyar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரேவணாத்தியர்</tam> <t>rēvaṇāttiyar</t></hw> , <i>n</i>. A Vīra-Šaiva author. See <tam>இரேவணாராத்தியர்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/winslow_query.py?qs=ரேவணாத்தியர்&searchhws=yes&matchtype=exact">ரேவணாத்தியர்</a> rēvaṇāttiyar
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=908">p. 908</a>)
+		<blockquote><p>*<hw><tam>ரேவணாத்தியர்</tam></hw> , <i>s.</i> A Saiva ascetic- author of a metrical lexicon, called after his name, <tam>ரேவணாத்தியர்சூத்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேவணாத்தியர்சூத்திரம்&searchhws=yes&matchtype=exact">ரேவணாத்தியர்சூத்திரம்</a> rēvaṇāttiyarcūttiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரேவணாத்தியர்சூத்திரம்</tam> <t>rēvaṇāttiyar-cūttiram</t></hw> , <i>n</i>. < <tam>ரேவணாத்தியர்</tam> +. A lexicon. See <tam>அகராதிநிகண்டு</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/crea_query.py?qs=ரேவதி&searchhws=yes&matchtype=exact">ரேவதி</a> rēvati
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரேவதி</hw> பெ. 1: இருபத்தேழு நட்சத்திரங்களுள் கடைசி நட்சத்திரம்; the twentyseventh star.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரேவதி&searchhws=yes&matchtype=exact">ரேவதி</a> rēvati
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1220">p. 1220</a>)
+		<blockquote><p><hw>ரேவதி</hw> - ரைவதபர்வதமீதில்தகமரைத் தடாகத்திற் பிறந்த ஒரு நந்யகை. இவளை பரமஸன். ஏன்னு முனிவர் ஏடுத்து வளர்த்தார், இவள் புத்ரன் ரைவதமநு. <tam>2</tam> பலராமர் பாரி, ரேவதன் புத் திரி. இவள் சர்யாதிபௌத்ரனாகிய ரைவதன்புத்ரன், குகுத்மிபுத்திரியெ னவும் படுவள். <tam>3</tam> நக்ஷத்திரங்களுளொன்று. <tam>4</tam> ஹரிஷ்டன் பிப்பலன் ஏன் போர்க்குத்தாய் மத்ரன் பாரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேவதி&searchhws=yes&matchtype=exact">ரேவதி</a> rēvati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரேவதி</tam> <t>rēvati</t></hw> , <i>n</i>. < <i>rēvatī</i>. The 27th <i>nakṣatra</i>; <tam>இருபத்தேழாம் நக்ஷத்திரம்</tam>. (<tam>நாமதீப</tam>. 111.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரேவந்தன்&searchhws=yes&matchtype=exact">ரேவந்தன்</a> rēvantaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1220">p. 1220</a>)
+		<blockquote><p><hw>ரேவந்தன்</hw> - ஒரு குஹ்யகன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேவல்சின்னி&searchhws=yes&matchtype=exact">ரேவல்சின்னி</a> rēvalciṉṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரேவல்சின்னி</tam> <t>rēvalciṉṉi</t></hw> , <i>n</i>. < Mhr. <i>rēval-cinnī</i> < U. <i>rēvand-cīnī</i>. 1. See <tam>இரேவற்சின்னி</tam>, 1. (<smallcap>M. M</smallcap>. 363.) 2. See <tam>இரேவற்சின்னி</tam>, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/fabricius_query.py?qs=ரேவு&searchhws=yes&matchtype=exact">ரேவு</a> rēvu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>ரேவு</tam></hw> , <i>s. (Tel.)</i> see <tam>இரேவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேவு&searchhws=yes&matchtype=exact">ரேவு</a> rēvu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரேவு</tam> <t>rēvu</t></hw> , <i>n</i>. [T. K. <i>rēvu</i>.] 1. Landing place; ford; port; harbour; <tam>இறங்குதுறை</tam>. (<smallcap>C. G</smallcap>.) 2. Custom-house; <tam>ஆயத்துறை</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/winslow_query.py?qs=ரேவு&searchhws=yes&matchtype=exact">ரேவு</a> rēvu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=908">p. 908</a>)
+		<blockquote><p><hw><tam>ரேவு</tam></hw> , <i>s. [Tel.]</i> A port, &c. See <tam>இரேவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரேவுத்துறை&searchhws=yes&matchtype=exact">ரேவுத்துறை</a> rēvuttuṟai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரேவுத்துறை</tam> <t>rēvu-t-tuṟai</t></hw> , <i>n</i>. < <tam>ரேவு</tam> +. See <tam>ரேவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/crea_query.py?qs=ரேஷன்&searchhws=yes&matchtype=exact">ரேஷன்</a> rēṣaṉ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரேஷன்</hw> பெ. 1: அத்தியாவசியமான உணவுப் பொருள்களாகிய அரிசி, சர்க்கரை, எண்ணெய் முதலியவற்றை நியாய விலையில் குடும்பத்துக்கு இவ்வளவு என்று நிர்ணயித்து விற்பனைசெய்யும் முறை/மேற்குறிப்பிட்ட முறையில் விற்பனைசெய்யப்படும் பொருள்; rationing/fixed quantity of food and other essential items (supplied at fair price shops run by the government). ரேஷன் வாங்கப் போய் இரண்டு மணி நேரமாயிற்று.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

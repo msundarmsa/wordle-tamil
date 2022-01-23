@@ -1,0 +1,1419 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>ஜீ</b>
+                       <div id='no_results'>
+                                119 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீ&searchhws=yes&matchtype=exact">ஜீ</a> jī
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீ¹</tam> <t>jī</t></hw> . The compound of <tam>ஜ்</tam> and <tam>ஈ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீ&searchhws=yes&matchtype=exact">ஜீ</a> jī
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீ²</tam> <t>jī</t></hw> , <i>part</i>. < Hind. <i>jī</i>. See <tam>ஜி²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீடி&searchhws=yes&matchtype=exact">ஜீடி</a> jīṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீடி</tam> <t>jīṭi</t></hw> , <i>n</i>. Gangway ladder; <tam>கப்பல்களில் ஏறவும் இறங்கவும் உதவும் ஏணி</tam>. (<smallcap>M. N</smallcap>avi. 207.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீதகாரன்&searchhws=yes&matchtype=exact">ஜீதகாரன்</a> jītakāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீதகாரன்</tam> <t>jīta-kāraṉ</t></hw> , <i>n</i>. < <tam>ஜீதம்</tam> + <tam>காரன்¹</tam>. See <tam>ஜீதம்கார்</tam>. (<smallcap>R. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீதம்&searchhws=yes&matchtype=exact">ஜீதம்</a> jītam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீதம்</tam> <t>jītam</t></hw> , <i>n</i>. < T. <i>jītamu</i>. Pay, salary; <tam>சம்பளம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீதம்கார்&searchhws=yes&matchtype=exact">ஜீதம்கார்</a> jītamkār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீதம்கார்</tam> <t>jītam-kār</t></hw> , <i>n</i>. < <tam>ஜீதம்</tam> +. Paid servant, one who works for wages; <tam>சம்பளத்துக்கு வேலை செய்யும் ஆள்</tam>. (<smallcap>R. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/crea_query.py?qs=ஜீனி&searchhws=yes&matchtype=exact">ஜீனி</a> jīṉi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீனி</hw> பெ. காண்க: சீனி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜீனி&searchhws=yes&matchtype=exact">ஜீனி</a> jīṉi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜீனி</tam></hw> , <i>s.</i> a saddle, see <tam>சீனி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீனி&searchhws=yes&matchtype=exact">ஜீனி</a> jīṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீனி¹</tam> <t>jīṉi</t></hw> , <i>n</i>. < Persn. <i>zīn</i>. Saddle; <tam>சேணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீனி&searchhws=yes&matchtype=exact">ஜீனி</a> jīṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீனி²</tam> <t>jīṉi</t></hw> , <i>n</i>. prob. <tam>சீனம்</tam>. White sugar. See <tam>சீனி¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/winslow_query.py?qs=ஜீனி&searchhws=yes&matchtype=exact">ஜீனி</a> jīṉi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜீனி</tam></hw> , <i>s.</i> A saddle. See <tam>சீனி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீப்&searchhws=yes&matchtype=exact">ஜீப்</a> jīp
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீப்</tam> <t>jīp</t></hw> , <i>n</i>. < E. <i>jib</i>. Triangular sail set on the jib-stay; <tam>பாய்மரவுச்சியிலிருந்து கப்பலின் முற்பக்கங்கட்டியிருக்கும் கயிற்றிலிடும் முக்கோண வடிவுள்ள பாய்</tam>. (<tam>மாலுமிசா</tam>. 214.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீப்சவாய்&searchhws=yes&matchtype=exact">ஜீப்சவாய்</a> jīpcavāy
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீப்சவாய்</tam> <t>jīp-cavāy</t></hw> , <i>n</i>. < <tam>ஜீப்</tam> +. Jib-stay; <tam>பாய்மர வுச்சியிலிருந்து கப்பலின் முற்பக்கத்திற் கட்டியிருக்குங் கயிறு</tam>. (<smallcap>M. N</smallcap>avi. 215.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீப்தாமான்&searchhws=yes&matchtype=exact">ஜீப்தாமான்</a> jīptāmāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீப்தாமான்</tam> <t>jīp-tāmāṉ</t></hw> , <i>n</i>. < id. +. Jib-sheet; <tam>ஜீப்பின் கீழ்மூலையிற் கட்டுங் கயிறு</tam>. (<smallcap>M. N</smallcap>avi. 215.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீப்பு&searchhws=yes&matchtype=exact">ஜீப்பு</a> jīppu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீப்பு</tam> <t>jīppu</t></hw> , <i>n</i>. See <tam>ஜீப்</tam>. (<tam>மாலுமிசா</tam>. 198.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீப்பூம்&searchhws=yes&matchtype=exact">ஜீப்பூம்</a> jīppūm
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீப்பூம்</tam> <t>jīppūm</t></hw> , <i>n</i>. < E. <i>jib-boom</i>. Jib-boom, the spar extending beyond the bow-sprit; <tam>முன்னணிய உத்திரத்திலிருந்து வெளிப்புறஞ் செல்லும் பறுவான்</tam>. (<tam>மாலுமிசா</tam>. 214.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீப்பூம்காயி&searchhws=yes&matchtype=exact">ஜீப்பூம்காயி</a> jīppūmkāyi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீப்பூம்காயி</tam> <t>jīppūm-kāyi</t></hw> , <i>n</i>. < id. + E. <i>guy</i>. Jib-boom guy, wire ropes for supporting the jib-boom sideways; <tam>முன்னணியத்தின் உத்திரத்தையும் அணியத்தின்கீழுள்ள உத்திரங்களையுங் கட்டுங் கயிறு</tam>. (<tam>மாலுமிசா</tam>. 209.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஜீமுதன்&searchhws=yes&matchtype=exact">ஜீமுதன்</a> jīmutaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>ஜீமுதன்</hw> - வியோமன்மகன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீமூதப்பிரயத்னம்&searchhws=yes&matchtype=exact">ஜீமூதப்பிரயத்னம்</a> jīmūtappirayatṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீமூதப்பிரயத்னம்</tam> <t>jīmūta-p-pirayatṉam</t></hw> , <i>n</i>. < <tam>ஜீமூதம்</tam> +. Uninterrupted effort; unceasing effort; <tam>இடைவிடாப் பெருமுயற்சி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீமூதமாக&searchhws=yes&matchtype=exact">ஜீமூதமாக</a> jīmūtamāka
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீமூதமாக</tam> <t>jīmūtam-āka</t></hw> , <i>adv</i>. < <tam>ஜீமூதம்</tam> +. 1. Uninterruptedly; <tam>இடைவிடாமல்</tam>. 2. Ardently; <tam>மும்முரமாய்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீமூதம்&searchhws=yes&matchtype=exact">ஜீமூதம்</a> jīmūtam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீமூதம்</tam> <t>jīmūtam</t></hw> , < <i>jīmūta</i>. <i>n</i>. Cloud; <tam>மேகம்</tam>. — <i>adv</i>. See <tam>ஜீமூதமாக</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஜீமூதலாகநன்&searchhws=yes&matchtype=exact">ஜீமூதலாகநன்</a> jīmūtalākanaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>ஜீமூதலாகநன்</hw> - தன் தேகத்தை கருட னுக்கு ஆகாரமாகக்கொடுத்து ஒரு நாககுமாரனைக் காப்பாற்றின ஒரு வித்தியாதரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீயங்கார்&searchhws=yes&matchtype=exact">ஜீயங்கார்</a> jīyaṅkār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீயங்கார்</tam> <t>jīyaṅ-kār</t></hw> , <i>n</i>. < <tam>ஜீயர்</tam> + T. <i>gāru</i>. See <tam>ஜீயர்</tam>, 1. (Insc.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/crea_query.py?qs=ஜீயர்&searchhws=yes&matchtype=exact">ஜீயர்</a> jīyar
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீயர்</hw> பெ. 1: வைணவ மடத்தின் தலைவருக்கான பெயர்; title of the head of Vaishnava mutt.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீயர்&searchhws=yes&matchtype=exact">ஜீயர்</a> jīyar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீயர்</tam> <t>jīyar</t></hw> , <i>n</i>. prob. <i>jī</i>. [K. <i>jīya</i>.] 1. Vaiṣṇava ascetic; <tam>வைஷ்ணவ சந்நியாசி</tam>. 2. Great person, as the religious head of a mutt; <tam>பெரி யார். புஷ்பகிரி ஜீயர்</tam> (<smallcap>I. M. P. C</smallcap>g. 96).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீரகம்&searchhws=yes&matchtype=exact">ஜீரகம்</a> jīrakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீரகம்</tam> <t>jīrakam</t></hw> , <i>n</i>. < <i>jīraka</i>. Cumin. See <tam>சீரகம்¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/crea_query.py?qs=ஜீரணம்&searchhws=yes&matchtype=exact">ஜீரணம்</a> jīraṇam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீரணம்</hw> பெ. 1: செரித்தல்; செரிமானம்; digestion. எளிதில் ஜீரணம் ஆவதற்காகத் தாம்பூலம் போட்டுக்கொள்வார்கள்./ ஜீரணக் கோளாறு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீரணம்&searchhws=yes&matchtype=exact">ஜீரணம்</a> jīraṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீரணம்</tam> <t>jīraṇam</t></hw> , <i>n</i>. See <tam>ஜீர்ணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/crea_query.py?qs=ஜீரணி&searchhws=yes&matchtype=exact">ஜீரணி</a> jīraṇi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீரணி</hw> வி. (ஜீரணிக்க, ஜீரணித்து) 1: (உணவுப் பொருள்கள்) செரித்தல்; digest. இந்த இளம் வயதில் எதைச் சாப்பிட்டாலும் வயிறு ஜீரணிக்கும்./ [உரு வ.] இந்தத் தோல்வியை எப்படித்தான் ஜீரணித்துக்கொண்டானோ?</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீரணி-த்தல்&searchhws=yes&matchtype=exact">ஜீரணி-த்தல்</a> jīraṇi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஜீரணி-த்தல்</tam> <t>jīraṇi-</t></hw> , <i>11 v. tr</i>. < <i>jīrṇa</i>. To digest; <tam>சீரணமாக்குதல். ஒருவாய் சாதம் உண் டாலும் நீ ஜீரணியாய்</tam> (<tam>சர்வசமய. பக்</tam>. 191).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/crea_query.py?qs=ஜீரா&searchhws=yes&matchtype=exact">ஜீரா</a> jīrā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீரா</hw> பெ. 1: சீனிப் பாகு; syrup made by boiling sugar with water.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீரா&searchhws=yes&matchtype=exact">ஜீரா</a> jīrā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீரா¹</tam> <t>jīrā</t></hw> , <i>n</i>. < T. <i>jīra</i>. Crack or cut in a gem, flaw in a precious stone; <tam>ஒருவகை இரத்தினக் குற்றம்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீரா&searchhws=yes&matchtype=exact">ஜீரா</a> jīrā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீரா²</tam> <t>jīrā</t></hw> , <i>n</i>. < U. <i>sīrā</i>. 1. Treacle; <tam>வெல் லப்பாகு</tam>. 2. A sweetmeat made of sugar, ghee and wheat flour; <tam>கோதுமை ரவை சர்க்கரை நெய் முதலியவற்றாலாகிய ஒருவகை இனிய உணவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீரா&searchhws=yes&matchtype=exact">ஜீரா</a> jīrā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீரா³</tam> <t>jīrā</t></hw> , <i>n</i>. < U. <i>zīrāh</i>. See <tam>சீரா³</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீரை&searchhws=yes&matchtype=exact">ஜீரை</a> jīrai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீரை</tam> <t>jīrai</t></hw> , <i>n</i>. See <tam>ஜீரா¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீர்ணம்&searchhws=yes&matchtype=exact">ஜீர்ணம்</a> jīrṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீர்ணம்</tam> <t>jīrṇam</t></hw> , <i>n</i>. < <i>jīrṇa</i>. (<smallcap>C. G</smallcap>.) 1. Decrepitude, degeneration; <tam>சிதிலம். புஸ்தகம் ஜீர்ணமாக இருக்கிறது</tam>. 2. Digestion; <tam>செரிக்கை. உண்டது இன்னும் ஜீர்ணமாக வில்லை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீர்ணோத்தாரணம்&searchhws=yes&matchtype=exact">ஜீர்ணோத்தாரணம்</a> jīrṇōttāraṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீர்ணோத்தாரணம்</tam> <t>jīrṇōttāraṇam</t></hw> , <i>n</i>. < id. + <i>uddhāraṇa</i>. Reconstruction, as of a building out of repair; restoration; <tam>கோயில் முதலியன சிதிலமானவற்றைப் புதுப்பிக்கை</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவகன்&searchhws=yes&matchtype=exact">ஜீவகன்</a> jīvakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீவகன்</tam> <t>jīvakaṉ</t></hw> , <i>n</i>. < <i>Jīvaka</i>. The hero of Cīvaka-cintāmaṇi. See <tam>சீவகன்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவகளை&searchhws=yes&matchtype=exact">ஜீவகளை</a> jīvakaḷai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீவகளை</tam> <t>jīva-kaḷai</t></hw> , <i>n</i>. < <tam>ஜீவன்</tam> + <tam>களை⁵</tam>. Glow of life. See <tam>சீவகளை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவகாதகம்&searchhws=yes&matchtype=exact">ஜீவகாதகம்</a> jīvakātakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீவகாதகம்</tam> <t>jīva-kātakam</t></hw> , <i>n</i>. < <i>jīva</i> + <i>ghātaka</i>. 1. That which destroys life; <tam>உயிரை அழிப்பது</tam>. 2. Mischievous child; <tam>துஷ்டக்குழந்தை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவகாந்திகம்&searchhws=yes&matchtype=exact">ஜீவகாந்திகம்</a> jīvakāntikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீவகாந்திகம்</tam> <t>jīva-kāntikam</t></hw> , <i>n</i>. < id. + <i>kānta</i>. Animal magnetism; <tam>ஜீவர்களிடத்துண் டாம் வசியசக்தி</tam>. (<tam>ஈச்சுரநிச்சயம்</tam>, 82.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவகாருண்யம்&searchhws=yes&matchtype=exact">ஜீவகாருண்யம்</a> jīvakāruṇyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவகாருண்யம்</hw> பெ. 1: உயிரினங்களிடம் காட்டும் இரக்கம்; compassion for all living creatures. பிராணிகளை வதைக்காதீர்கள், அவற்றிடம் ஜீவகாருண்யத்துடன் நடந்துகொள்ளுங்கள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவகாருண்யம்&searchhws=yes&matchtype=exact">ஜீவகாருண்யம்</a> jīvakāruṇyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீவகாருண்யம்</tam> <t>jīva-kāruṇyam</t></hw> , <i>n</i>. < id. + <i>kāruṇya</i>. See <tam>சீவகாருண்ணியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவகாலம்&searchhws=yes&matchtype=exact">ஜீவகாலம்</a> jīvakālam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீவகாலம்</tam> <t>jīva-kālam</t></hw> , <i>n</i>. < id. +. Lifetime. See <tam>சீவகாலம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவகோசம்&searchhws=yes&matchtype=exact">ஜீவகோசம்</a> jīvakōcam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீவகோசம்</tam> <t>jīva-kōcam</t></hw> , <i>n</i>. < id. + <i>kōša</i>. Body; <tam>உடம்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவகோடி&searchhws=yes&matchtype=exact">ஜீவகோடி</a> jīvakōṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீவகோடி</tam> <t>jīva-kōṭi</t></hw> , <i>n</i>. < id. + <i>kōṭi</i>. The animal world. See <tam>சீவகோடி. மன்னு ஜீவகோடிக ளெல்லாம் வான்கதி மருவ</tam> (<tam>இரக்ஷணிய. பாயி</tam>. 3).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவக்கிராஹமாக&searchhws=yes&matchtype=exact">ஜீவக்கிராஹமாக</a> jīvakkirāhamāka
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஜீவக்கிராஹமாக</tam> <t>jīva-k-kirāhamāka</t></hw> , <i>adv</i>. < <i>jīva</i> +. Captured alive; <tam>உயிரோடு பிடித்து</tam>. (<smallcap>S. I. I</smallcap>. viii, 189.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவசரிதை&searchhws=yes&matchtype=exact">ஜீவசரிதை</a> jīvacaritai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீவசரிதை</tam> <t>jīva-caritai</t></hw> , <i>n</i>. < id. +. Biography; <tam>ஒருவரது வாழ்நாட் சரித்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவசிருஷ்டி&searchhws=yes&matchtype=exact">ஜீவசிருஷ்டி</a> jīvaciruṣṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீவசிருஷ்டி</tam> <t>jīva-ciruṣṭi</t></hw> , <i>n</i>. < id. +. Animate creation; <tam>உயிருள்ளவற்றைச் சிருஷ் டிக்கை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவதஶை&searchhws=yes&matchtype=exact">ஜீவதஶை</a> jīvataśai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவதஶை</tam> <t>jīva-tašai</t></hw> , <i>n</i>. < <i>jīva</i> +. Lifetime. See <tam>சீவதசை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவதாரகன்&searchhws=yes&matchtype=exact">ஜீவதாரகன்</a> jīvatārakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவதாரகன்</tam> <t>jīva-tārakaṉ</t></hw> , <i>n</i>. < id. +. Saviour; <tam>உயிர்களைக் காப்போன். ஜீவதாரகர் செய்ய வாய்த் துவரிதழ் திறந்து</tam> (<tam>இரக்ஷணிய</tam>. 228).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவத்விபாகம்&searchhws=yes&matchtype=exact">ஜீவத்விபாகம்</a> jīvatvipākam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3876">p. 3876</a>)
+		<blockquote><p><hw><tam>ஜீவத்விபாகம்</tam> <t>jīvat-vipākam</t></hw> , <i>n</i>. < <i>jīvad-vibhāga</i>. Partition of ancestral property by a father among his sons (<smallcap>R. F</smallcap>.). See <tam>சீவத்விபாகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவநதி&searchhws=yes&matchtype=exact">ஜீவநதி</a> jīvanati
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவநதி</hw> பெ. 1: நீர் வற்றாத நதி; perennial river.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவநதி&searchhws=yes&matchtype=exact">ஜீவநதி</a> jīvanati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவநதி</tam> <t>jīva-nati</t></hw> , <i>n</i>. < <i>jīva</i> +. 1. Perennial river; <tam>வற்றாதோடும் ஆறு</tam>. (<smallcap>C. G</smallcap>.) 2. Life-stream; <tam>ஜீவர்களின் பரம்பரை. ஜீவநதி நீர்தரும் செழுங்குடம்</tam> (<tam>இரக்ஷணிய</tam>. 67).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவநாடி&searchhws=yes&matchtype=exact">ஜீவநாடி</a> jīvanāṭi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவநாடி</hw> பெ. [அ.வ.] காண்க: உயிர்நாடி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவந்தன்&searchhws=yes&matchtype=exact">ஜீவந்தன்</a> jīvantaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவந்தன்</tam> <t>jīvantaṉ</t></hw> , <i>n</i>. < <i>jīvat</i>. Living person. See <tam>சீவந்தன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவந்தரன்&searchhws=yes&matchtype=exact">ஜீவந்தரன்</a> jīvantaraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவந்தரன்</tam> <t>jīvantaraṉ</t></hw> , <i>n</i>. < <i>jīvaṃ-dhara</i>. See <tam>ஜீவகன்</tam>. (<tam>சீவக. சீவகசரிதம், பக்</tam>. 47.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவந்திகை&searchhws=yes&matchtype=exact">ஜீவந்திகை</a> jīvantikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவந்திகை</tam> <t>jīvantikai</t></hw> , <i>n</i>. perh. <i>jīvantikā</i>. A goddess worshipped on the fifth day after the birth of a child; <tam>பிள்ளை பிறந்த ஆறாம் நாள் வணங்கப்படுந் தெய்வம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவனம்&searchhws=yes&matchtype=exact">ஜீவனம்</a> jīvaṉam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவனம்</hw> பெ. 1: பிழைப்பு; living; livelihood. இப்போதும் கஷ்ட ஜீவனம்தான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜீவனம்&searchhws=yes&matchtype=exact">ஜீவனம்</a> jīvaṉam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p>*<hw><tam>ஜீவனம்</tam></hw> , <i>s.</i> livelihood etc. see <tam>சீவனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவனம்&searchhws=yes&matchtype=exact">ஜீவனம்</a> jīvaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவனம்</tam> <t>jīvaṉam</t></hw> , <i>n</i>. < <i>jīvana</i>. Livelihood or subsistence. See <tam>சீவனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/winslow_query.py?qs=ஜீவனம்&searchhws=yes&matchtype=exact">ஜீவனம்</a> jīvaṉam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜீவனம்</tam></hw> , <i>s.</i> Livelihood, &c. See <tam>சீவனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவனஹேது&searchhws=yes&matchtype=exact">ஜீவனஹேது</a> jīvaṉahētu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவனஹேது</tam> <t>jīvaṉa-hētu</t></hw> , <i>n</i>. < id. +. 1. Profession, means of livelihood. See <tam>சீவனோபாயம்</tam>. 2. The source or cause of life; <tam>உயிர் வாழ்தற்குரிய காரணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவனாம்சம்&searchhws=yes&matchtype=exact">ஜீவனாம்சம்</a> jīvaṉāmcam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவனாம்சம்</hw> பெ. 1: மனைவி, சிறு வயதில் உள்ள குழந்தைகள், இயலாத நிலையில் உள்ள பெற்றோர் ஆகியோரைப் பராமரிக்க மறுக்கும் ஒருவர் நீதிமன்ற உத்தரவுப்படி ஜீவனத்திற்காகக் கொடுக்க வேண்டிய தொகை; maintenance (allowance). 2: [அ.வ.] பிழைப்பு; livelihood. ஜீவனாம்சத்துக்கு ஏதாவது ஒரு தொழில் செய்துதானே ஆக வேண்டும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவனாம்சம்&searchhws=yes&matchtype=exact">ஜீவனாம்சம்</a> jīvaṉāmcam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவனாம்சம்</tam> <t>jīvaṉāmcam</t></hw> , <i>n</i>. < id. +. Maintenance (<smallcap>R. F</smallcap>.). See <tam>சீவனாமிசம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவனோபாயம்&searchhws=yes&matchtype=exact">ஜீவனோபாயம்</a> jīvaṉōpāyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவனோபாயம்</hw> பெ. [அ.வ.] 1: பிழைப்பு நடத்த வழி; means of living.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவனோபாயம்&searchhws=yes&matchtype=exact">ஜீவனோபாயம்</a> jīvaṉōpāyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவனோபாயம்</tam> <t>jīvaṉōpāyam</t></hw> , <i>n</i>. < id. +. See <tam>சீவனோபாயம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவனௌஷதம்&searchhws=yes&matchtype=exact">ஜீவனௌஷதம்</a> jīvaṉauṣatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவனௌஷதம்</tam> <t>jīvaṉauṣatam</t></hw> , <i>n</i>. < id. +. Drug that revives life, <i>Elixir vitae</i>; <tam>உயிர்ப்பிக்கும் மருந்து</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவன்&searchhws=yes&matchtype=exact">ஜீவன்</a> jīvaṉ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவன்</hw> பெ. 1: உயிர்; sign of life; life. இன்னும் ஜீவன் போகவில்லை./ குழந்தைக்காகத்தான் இந்த ஜீவனை வைத்துக்கொண்டிருக்கிறேன். 2: உயிர்வாழ்பவர் அல்லது உயிர்வாழ்வது; human being; life; creature. இந்த வருமானத்தில் ஐந்து ஜீவன்கள் உயிர்வாழ வேண்டும்./ வாயில்லா ஜீவனைத் துன்புறுத்தாதே. 3: (உயிரோடிருப்பவை பெற்றிருக்கும்) சக்தி; strength or energy (that a person has). அந்தக் குழந்தைக்கு அழக்கூட ஜீவன் இல்லை, என்ன கொடுமை! 4: உயிரோட்டம்; (of story, painting, etc.) soul; liveliness; spirit. ஜீவன் நிறைந்த நாடகம்/ ஜீவன் இல்லாத கவிதை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜீவன்&searchhws=yes&matchtype=exact">ஜீவன்</a> jīvaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p>*<hw><tam>ஜீவன்</tam></hw> , see <tam>சீவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஜீவன்&searchhws=yes&matchtype=exact">ஜீவன்</a> jīvaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>ஜீவன்</hw> - சீவன்</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவன்&searchhws=yes&matchtype=exact">ஜீவன்</a> jīvaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவன்</tam> <t>jīvaṉ</t></hw> , <i>n</i>. < <i>jīva</i>. 1. Individual soul. See <tam>சீவன்</tam>, 1. 2. Living creature. See <tam>சீவன்</tam>, 2. <tam>வாயில்லாத ஜீவன்</tam>. 3. Life. See <tam>சீவன்</tam>, 3. <tam>ஜீவனுள்ளோருக் கெல்லாம் தாயானவள்</tam> (<tam>விவிலி. ஆதி</tam>. 20, 2). 4. Energy, strength. See <tam>சீவன்</tam>, 4. <tam>அதைச்செய்ய அவனுக்கு ஜீவனில்லை</tam>. 5. Jupiter. See <tam>சீவன்</tam>, 5. <tam>ஜீவ வார ஏகாதசி. (பஞ்.)</tam> 6. See <tam>ஜீவாளம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/winslow_query.py?qs=ஜீவன்&searchhws=yes&matchtype=exact">ஜீவன்</a> jīvaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜீவன்</tam></hw> , <i>s.</i> Life, &c. See <tam>சீவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவன்முக்தர்&searchhws=yes&matchtype=exact">ஜீவன்முக்தர்</a> jīvaṉmuktar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவன்முக்தர்</tam> <t>jīvaṉ-muktar</t></hw> , <i>n</i>. < <i>jīvan-mukta</i>. 1. Perfected souls who have obtained final deliverance. See <tam>சீவன்முத்தர்</tam>. 2. Persons of great spiritual wisdom; <tam>பரமஞானிகள்</tam>. (<tam>இரக்ஷ ணிய</tam>. 202.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவன்முக்தி&searchhws=yes&matchtype=exact">ஜீவன்முக்தி</a> jīvaṉmukti
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவன்முக்தி</hw> பெ. 1: மற்றொரு பிறவி என்பதே இல்லாமல் இந்தப் பிறவியிலேயே மோட்சம் அடைவது; attaining liberation while alive or in this birth itself.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவன்முத்தி&searchhws=yes&matchtype=exact">ஜீவன்முத்தி</a> jīvaṉmutti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவன்முத்தி</tam> <t>jīvaṉ-mutti</t></hw> , <i>n</i>. < <i>jīvan-mukti</i>. Final deliverance. See <tam>சீவன்முத்தி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவபத்தினி&searchhws=yes&matchtype=exact">ஜீவபத்தினி</a> jīvapattiṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவபத்தினி</tam> <t>jīva-pattiṉi</t></hw> , <i>n</i>. < <i>jīva-patnī</i>. Woman whose husband is alive; <tam>சுமங்கலி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவபயம்&searchhws=yes&matchtype=exact">ஜீவபயம்</a> jīvapayam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவபயம்</tam> <t>jīva-payam</t></hw> , <i>n</i>. < <i>jīva</i> + <i>bhaya</i>. Fear of losing life; <tam>உயிர்போவதில் உண்டாம் அச்சம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவபரமாணு&searchhws=yes&matchtype=exact">ஜீவபரமாணு</a> jīvaparamāṇu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவபரமாணு</tam> <t>jīva-paramāṇu</t></hw> , <i>n</i>. < id. +. Nucleus of life; <tam>ஆன்மாவாகிய பரமாணு</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவபலி&searchhws=yes&matchtype=exact">ஜீவபலி</a> jīvapali
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவபலி</tam> <t>jīva-pali</t></hw> , <i>n</i>. < id. + <i>bali</i>. 1. See <tam>உயிர்ப்பலி</tam>. 2. Sacrifice of ones life; <tam>தன் னுயிரைப் பலி கொடுக்கை</tam>. (<tam>விவிலி. ரோம</tam>. 12, 1.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவபிதிருகன்&searchhws=yes&matchtype=exact">ஜீவபிதிருகன்</a> jīvapitirukaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவபிதிருகன்</tam> <t>jīva-pitirukaṉ</t></hw> , <i>n</i>. < <i>jīva-pitṛka</i>. One whose father is alive; <tam>உயிருட னிருக்கும் தகப்பனை யுடையான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவபுஸ்தகம்&searchhws=yes&matchtype=exact">ஜீவபுஸ்தகம்</a> jīvapustakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவபுஸ்தகம்</tam> <t>jīva-pustakam</t></hw> , <i>n</i>. < <i>jīva</i> +. The Book of Life; <tam>நல்வினையை மிகுதியாகச் செய்யும் ஜீவர்களின் பெயர்களைப் பதியும் புஸ்தகம். ஜீவபுஸ்தகத்திலிருந்து அவர்கள் பேர் கிறுக்கப்பட்டுப் போவதாக</tam> (<tam>விவிலி. சங்</tam>. 69, 28).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவப்பிராணி&searchhws=yes&matchtype=exact">ஜீவப்பிராணி</a> jīvappirāṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவப்பிராணி</tam> <t>jīva-p-pirāṇi</t></hw> , <i>n</i>. < id. +. Animal, living being; <tam>உயிருள்ள ஜந்து</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவமானம்&searchhws=yes&matchtype=exact">ஜீவமானம்</a> jīvamāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவமானம்</tam> <t>jīva-māṉam</t></hw> , <i>n</i>. < id. +. Lifetime. See <tam>சீவதசை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவமுத்திப்படம்&searchhws=yes&matchtype=exact">ஜீவமுத்திப்படம்</a> jīvamuttippaṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவமுத்திப்படம்</tam> <t>jīva-mutti-p-paṭam</t></hw> , <i>n</i>. < id. + <tam>முத்தி</tam> +. A kind of backgammon; <tam>காய் வைத்தாடுங் கட்டான்களுள்ள படவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவரக்ஷகன்&searchhws=yes&matchtype=exact">ஜீவரக்ஷகன்</a> jīvarakṣakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவரக்ஷகன்</tam> <t>jīva-rakṣakaṉ</t></hw> , <i>n</i>. < id. +. Saviour of lives; <tam>உயிர்களைக் காப்பாற்றுபவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவரக்ஷணம்&searchhws=yes&matchtype=exact">ஜீவரக்ஷணம்</a> jīvarakṣaṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவரக்ஷணம்</tam> <t>jīva-rakṣaṇam</t></hw> , <i>n</i>. < id. +. Protection of lives; <tam>உயிர்களைப் பாதுகாக்கை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவரக்ஷை&searchhws=yes&matchtype=exact">ஜீவரக்ஷை</a> jīvarakṣai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவரக்ஷை</tam> <t>jīva-rakṣai</t></hw> , <i>n</i>. < id. + <i>rakṣā</i>. 1. See <tam>ஜீவரக்ஷணம்</tam>. 2. Salvation; <tam>மோட்சம். ஜீவரக்ஷை நல்கவரு ஞானகுரு</tam> (<tam>இரக்ஷணிய</tam>. 324).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவராசி&searchhws=yes&matchtype=exact">ஜீவராசி</a> jīvarāci
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவராசி</hw> பெ. [அ.வ.] 1: உயிரினம்; living creatures. கடலில் எத்தனையோ கோடி ஜீவராசிகள் வாழ்கின்றன.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜீவரேக்கு&searchhws=yes&matchtype=exact">ஜீவரேக்கு</a> jīvarēkku
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜீவரேக்கு</tam></hw> , <i>s.</i> the finishing lines in sta- tuary or jewelry; the last touches which give the appearance of life, <tam>சிற்பத் தீர்மான வேலை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஜீவரேக்கு&searchhws=yes&matchtype=exact">ஜீவரேக்கு</a> jīvarēkku
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>ஜீவரேக்கு</hw> - சீவரேக்கு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவரேக்கு&searchhws=yes&matchtype=exact">ஜீவரேக்கு</a> jīvarēkku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவரேக்கு</tam> <t>jīva-rēkku</t></hw> , <i>n</i>. < id. +. 1. Finishing touches in statuary or jewellery. See <tam>சீவரேக்கு</tam>, 1. (<smallcap>W</smallcap>.) 2. Foil; <tam>வர்ணத்தகடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/winslow_query.py?qs=ஜீவரேக்கு&searchhws=yes&matchtype=exact">ஜீவரேக்கு</a> jīvarēkku
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜீவரேக்கு</tam></hw> , <i>s.</i> See <tam>சீவரேக்கு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஜீவலன்&searchhws=yes&matchtype=exact">ஜீவலன்</a> jīvalaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>ஜீவலன்</hw> - ருதுபர்ணன்சாரதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவவாக்கு&searchhws=yes&matchtype=exact">ஜீவவாக்கு</a> jīvavākku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவவாக்கு</tam> <t>jīva-vākku</t></hw> , <i>n</i>. < id. +. Life-giving word; <tam>உயிரைத் தளிர்ப்பிக்குஞ் சொல். யான்சொல் ஜீவவாக்கதனைக் கேட்டோர்</tam> (<tam>இரக்ஷணிய</tam>. 166).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவவிருட்சம்&searchhws=yes&matchtype=exact">ஜீவவிருட்சம்</a> jīvaviruṭcam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவவிருட்சம்</tam> <t>jīva-viruṭcam</t></hw> , <i>n</i>. < id. +. The Tree of Life; <tam>ஜீவனை நிலைத்திருக்கச்செய்யுங் கனியைக் கொண்டதாய் ஏதேன் தோட்டத்திலிருந்த தாகக் கூறப்பட்ட மரம். தேவனாகிய கர்த்தர் தோட்டத்தின் நடுவிலே ஜீவவிருட்சத்தையும் நன்மை தீமை அறியத்தக்க விருட்சத்தையும் பூமியிலிருந்து முளைக்கப் பண்ணினார்</tam> (<tam>விவிலி. ஆதி</tam>. 2, 9).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவாணு&searchhws=yes&matchtype=exact">ஜீவாணு</a> jīvāṇu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3877">p. 3877</a>)
+		<blockquote><p><hw><tam>ஜீவாணு</tam> <t>jīvāṇu</t></hw> , <i>n</i>. < <i>jīvāṇu</i>. Protoplasm; <tam>ஜீவாதாரமானதும் பாகுபோன்றதுமான சத்து</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவாணுப்பிரதானம்&searchhws=yes&matchtype=exact">ஜீவாணுப்பிரதானம்</a> jīvāṇuppiratāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீவாணுப்பிரதானம்</tam> <t>jīvāṇu-p-piratāṉam</t></hw> , <i>n</i>. < <tam>ஜீவாணு</tam> +. See <tam>ஜீவபரமாணு</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவாதாரம்&searchhws=yes&matchtype=exact">ஜீவாதாரம்</a> jīvātāram
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவாதாரம்</hw> பெ. 1: ஒருவருடைய வாழ்க்கைக்கு அடிப்படையாக அமைவது; that which is fundamental; mainstay; source and sustenance. மனிதனின் ஜீவாதார உரிமைகளைப் பறிப்பதாக இருக்கிறது இந்தச் சட்டம் என்று விமர்சித்தார்./ இந்தத் தொழில்தான் எனக்கு ஜீவாதாரமாக இருக்கிறது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவாதிபதி&searchhws=yes&matchtype=exact">ஜீவாதிபதி</a> jīvātipati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீவாதிபதி</tam> <t>jīvātipati</t></hw> , <i>n</i>. < <i>jīva</i> + <i>adhi-pati</i>. Christ, the Prince of Life; <tam>ஜீவசிரேஷ்ட ரான கிறிஸ்துநாதர். ஜீவாதிபதியைக் கொலைசெய்தீர் கள்</tam> (<tam>விவிலி. அப்</tam>. 3, 15).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவாதிபன்&searchhws=yes&matchtype=exact">ஜீவாதிபன்</a> jīvātipaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீவாதிபன்</tam> <t>jīvātipaṉ</t></hw> , <i>n</i>. < id. + <i>adhipa</i>. See <tam>ஜீவாதிபதி. ஜீவாதிபன் கருணை மல்கியதிறத்தில்</tam> (<tam>இரக்ஷணிய</tam>. 139).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவாது&searchhws=yes&matchtype=exact">ஜீவாது</a> jīvātu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீவாது</tam> <t>jīvātu</t></hw> , <i>n</i>. < <i>jīvātu</i>. See <tam>ஜீவனௌஷதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவாத்மா&searchhws=yes&matchtype=exact">ஜீவாத்மா</a> jīvātmā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீவாத்மா</tam> <t>jīvātmā</t></hw> , <i>n</i>. < <i>jīvātmā</i>. See <tam>சீவான்மா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவாத்மா, ஜீவாத்துமா&searchhws=yes&matchtype=exact">ஜீவாத்மா, ஜீவாத்துமா</a> jīvātmā, jīvāttumā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவாத்(து)மா</hw> பெ. "தத்." 1: தனி மனித ஆன்மா; individual soul.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவாந்தம்&searchhws=yes&matchtype=exact">ஜீவாந்தம்</a> jīvāntam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீவாந்தம்</tam> <t>jīvāntam</t></hw> , <i>adv</i>. < <i>jīva</i> + <i>anta</i>. To the end of life; <tam>உயிருள்ளவரை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜீவானம்&searchhws=yes&matchtype=exact">ஜீவானம்</a> jīvāṉam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜீவானம்</tam></hw> , <i>s.</i> same as <tam>சீவானம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஜீவானம்&searchhws=yes&matchtype=exact">ஜீவானம்</a> jīvāṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>ஜீவானம்</hw> - சீவானம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவாளம்&searchhws=yes&matchtype=exact">ஜீவாளம்</a> jīvāḷam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீவாளம்</tam> <t>jīvāḷam</t></hw> , <i>n</i>. < <i>jīvāla</i>. 1. Piece of cord or wire attached to the strings of <i>tampūru</i> for regulating sound. See <tam>சீவாளம்</tam>. (<smallcap>W</smallcap>.) 2. See <tam>சீவன்</tam>, 3, 4.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/winslow_query.py?qs=ஜீவாளம்&searchhws=yes&matchtype=exact">ஜீவாளம்</a> jīvāḷam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜீவாளம்</tam></hw> , <i>s.</i> See <tam>சீவாளம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவாஸ்திகாயம்&searchhws=yes&matchtype=exact">ஜீவாஸ்திகாயம்</a> jīvāstikāyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீவாஸ்திகாயம்</tam> <t>jīvāstikāyam</t></hw> , <i>n</i>. < <i>jīvāstikāya</i>. (Jaina). Jīva or ātman, the conscious sentient principle, one of <i>pañcāsti-kāyam</i>, q.v.; <tam>பஞ்சாஸ்திகாயத் தொன்றான ஆன்மா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவி&searchhws=yes&matchtype=exact">ஜீவி</a> jīvi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவி<sup>1</sup></hw> வி. (ஜீவிக்க, ஜீவித்து) 1: உயிர்வாழ்தல்; live; keep alive. இந்தச் சூழ்நிலையிலும் ஜீவித்திருப்பது ஆச்சரியம்தான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவி&searchhws=yes&matchtype=exact">ஜீவி</a> jīvi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவி<sup>2</sup></hw> பெ. [அ.வ.] 1: உயிர்வாழ்வது; உயிரினம்; living creature. இப்படி ஒரு ஜீவியை நான் பார்த்ததே இல்லை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவி-த்தல்&searchhws=yes&matchtype=exact">ஜீவி-த்தல்</a> jīvi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஜீவி-த்தல்</tam> <t>jīvi-</t></hw> , <i>11 v. tr</i>. < <i>jīva</i>. To eat, consume; <tam>உண்ணுதல். வெண்ணெயைக் களவிலே ஜீவித்தாயென்று</tam> (<tam>திவ். பெரியாழ்</tam>. 2, 3, 9, <tam>வ்யா. பக்</tam>. 297).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		114) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவிதப்பற்று&searchhws=yes&matchtype=exact">ஜீவிதப்பற்று</a> jīvitappaṟṟu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஜீவிதப்பற்று</tam> <t>jīvita-p-paṟṟu</t></hw> , <i>n</i>. < <i>jīvita</i> +. Land granted tax-free for maintenance; <tam>ஜீவனா தாரமாக விடப்பட்ட இறையிலிநிலம்</tam>. (<smallcap>M. E. R</smallcap>. 556 of 1919-<smallcap>B</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		115) <a href="/cgi-bin/app/crea_query.py?qs=ஜீவிதம்&searchhws=yes&matchtype=exact">ஜீவிதம்</a> jīvitam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw>ஜீவிதம்</hw> பெ. [அ.வ.] 1: உயிர்வாழ்தல்; வாழ்க்கை; life; living.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		116) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவிதம்&searchhws=yes&matchtype=exact">ஜீவிதம்</a> jīvitam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீவிதம்</tam> <t>jīvitam</t></hw> , <i>n</i>. < <i>jīvita</i>. 1. Life; <tam>வாணாள்</tam>. 2. See <tam>சீவிதம்</tam>, 2, 3. <tam>இவ்வூர் ஜீவித முடைய சேனாபதிகள்</tam> (<smallcap>S. I. I</smallcap>. iii, 67, 38).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		117) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவிதேசன்&searchhws=yes&matchtype=exact">ஜீவிதேசன்</a> jīvitēcaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீவிதேசன்</tam> <t>jīvitēcaṉ</t></hw> , <i>n</i>. < id. + <i>iša</i>. 1. Lord or master of life; <tam>உயிர்களுக்குத் தலைவனாக இருப்பவன்</tam>. 2. Lover; <tam>அன்பன்</tam>. 3. Husband; <tam>கணவன்</tam>. 4. Yama; <tam>இயமன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		118) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவியசரிதை&searchhws=yes&matchtype=exact">ஜீவியசரிதை</a> jīviyacaritai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீவியசரிதை</tam> <t>jīviya-caritai</t></hw> , <i>n</i>. < <tam>ஜீவியம்</tam> +. See <tam>ஜீவசரிதை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		119) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜீவியம்&searchhws=yes&matchtype=exact">ஜீவியம்</a> jīviyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3878">p. 3878</a>)
+		<blockquote><p><hw><tam>ஜீவியம்</tam> <t>jīviyam</t></hw> , <i>n</i>. < <i>jīvya</i>. Life, existence. See <tam>சீவிதம்</tam>, 1.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,659 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>ரி</b>
+                       <div id='no_results'>
+                                43 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரி&searchhws=yes&matchtype=exact">ரி</a> ri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3427">p. 3427</a>)
+		<blockquote><p><hw><tam>ரி¹</tam> <t>ri</t></hw> . The compound of <tam>ர்</tam> and <tam>இ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரி&searchhws=yes&matchtype=exact">ரி</a> ri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3427">p. 3427</a>)
+		<blockquote><p><hw><tam>ரி²</tam> <t>ri</t></hw> , <i>n</i>. < <i>ṛṣabha</i>. (Mus.) The symbol of <i>riṣabham</i>, the second note of the gamut; <tam>ரிஷ பச்சுரத்தின் எழுத்து. (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிகாமி&searchhws=yes&matchtype=exact">ரிகாமி</a> rikāmi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிகாமி</tam> <t>rikāmi</t></hw> , <i>n</i>. < U. <i>rikāmī</i> < <i>rikta- karman</i>. Unemployed person; <tam>வேலையற்றவன். கச்சேரியில் வேலை காலியாயிருக்கிறது: ஆனால் ரிகாமி ஒருவனுமில்லை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிக்&searchhws=yes&matchtype=exact">ரிக்</a> rik
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3427">p. 3427</a>)
+		<blockquote><p><hw><tam>ரிக்</tam> <t>rik</t></hw> , <i>n</i>. < <i>ṛk</i>. See <tam>ருக்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிக்-ஷா&searchhws=yes&matchtype=exact">ரிக்-ஷா</a> rik-ṣā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிக்-ஷா</tam> <t>rikṣā</t></hw> , <i>n</i>. < <i>rickshaw</i> < Japanese <i>jinrikiṣa</i>. Rickshaw; <tam>ஆள் இழுத்துச்செல்லும் சவாரிவண்டிவகை</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிக்-ஷாவாலா&searchhws=yes&matchtype=exact">ரிக்-ஷாவாலா</a> rik-ṣāvālā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிக்-ஷாவாலா</tam> <t>rikṣā-vālā</t></hw> , <i>n</i>. < <tam>ரிக்-ஷா</tam> +. Rikshaw-puller; <tam>ரிக்-ஷாவண்டி யிழுப்பவன்</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிக்ததசை&searchhws=yes&matchtype=exact">ரிக்ததசை</a> riktatacai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3427">p. 3427</a>)
+		<blockquote><p><hw><tam>ரிக்ததசை</tam> <t>rikta-tacai</t></hw> , <i>n</i>. < <i>rikta</i> + <i>dašā</i>. State of destitution; <tam>வறுமைநிலை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிக்தை&searchhws=yes&matchtype=exact">ரிக்தை</a> riktai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3427">p. 3427</a>)
+		<blockquote><p><hw><tam>ரிக்தை</tam> <t>riktai</t></hw> , <i>n</i>. < <i>riktā</i>. See <tam>ரித்ததிதி. (பஞ்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/crea_query.py?qs=ரிக்ஷா&searchhws=yes&matchtype=exact">ரிக்ஷா</a> rikṣā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரிக்ஷா</hw> பெ. 1: (இயந்திர விசையால் அல்லது மிதிப்பதால் நகரும்) இரண்டு பேர் அமர்ந்துசெல்லக் கூடிய மூன்று சக்கர வாகனம்; rickshaw. வாடகை ரிக்ஷா/ ரிக்ஷாக்காரர்களுக்கு வங்கியின்மூலம் கடன் உதவி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிங்கின்கயிறு&searchhws=yes&matchtype=exact">ரிங்கின்கயிறு</a> riṅkiṉkayiṟu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S403">p. S403</a>)
+		<blockquote><p><hw><tam>ரிங்கின்கயிறு</tam> <t>riṅkiṉ-kayiṟu</t></hw> , <i>n</i>. < E. <i>rigging</i> +. Rigging; <tam>கப்பல்களின் பாய்களை விரிக்கவுஞ் சுருக்கவும் உதவுங் கயிறு</tam>. (<smallcap>M. N</smallcap>avi.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிடபம்&searchhws=yes&matchtype=exact">ரிடபம்</a> riṭapam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிடபம்</tam> <t>riṭapam</t></hw> , <i>n</i>. See <tam>ரிஷபம்</tam>. (<tam>சிலப்</tam>. 3, 26, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரித்ததிதி&searchhws=yes&matchtype=exact">ரித்ததிதி</a> rittatiti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரித்ததிதி</tam> <t>ritta-titi</t></hw> , <i>n</i>. < <i>rikta-tithi</i>. A common term for the fourth, ninth and fourteenth <i>titi</i> of the lunar fortnight; <tam>சதுர்த்தி, நவமி, சதுர்த்தசி என்ற திதிகளைக் குறிக்கும் பொதுச்சொல். (பஞ்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரித்தன்&searchhws=yes&matchtype=exact">ரித்தன்</a> rittaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரித்தன்</tam> <t>rittaṉ</t></hw> , <i>n</i>. < <i>rikta</i>. Destitute or poor man; <tam>ஏழை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரிபு&searchhws=yes&matchtype=exact">ரிபு</a> ripu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1219">p. 1219</a>)
+		<blockquote><p><hw>ரிபு</hw> - யதுவினது நான்காம்புத்திரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிபு&searchhws=yes&matchtype=exact">ரிபு</a> ripu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிபு</tam> <t>ripu</t></hw> , <i>n</i>. < <i>ripu</i>. Enemy; <tam>பகைவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரிபுஞ்ஜ்யன்&searchhws=yes&matchtype=exact">ரிபுஞ்ஜ்யன்</a> ripuñjyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1219">p. 1219</a>)
+		<blockquote><p><hw>ரிபுஞ்ஜ்யன்</hw> - ப்ருஹத்ரதன் வம்ஸத்தும கததேசராஜர்களுள் கடையரசன். இவன் தனது மந்த்ரி ஸுக்ரீநகனாற் கொல்லப்பட்டவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரியாயத்&searchhws=yes&matchtype=exact">ரியாயத்</a> riyāyat
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரியாயத்</tam> <t>riyāyat</t></hw> , <i>n</i>. Abatement of assessment; <tam>வரியின் தள்ளுபடி</tam>. (<smallcap>R. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிவாசு&searchhws=yes&matchtype=exact">ரிவாசு</a> rivācu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிவாசு</tam> <t>rivācu</t></hw> , <i>n</i>. See <tam>ரிவாஜா</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிவாஜா&searchhws=yes&matchtype=exact">ரிவாஜா</a> rivājā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிவாஜா</tam> <t>rivājā</t></hw> , <i>n</i>. < Arab. <i>riwāj</i>. Custom, practice, usage; <tam>வழக்கம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/fabricius_query.py?qs=ரிவாஜ்&searchhws=yes&matchtype=exact">ரிவாஜ்</a> rivāj
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=836">p. 836</a>)
+		<blockquote><p><hw><tam>ரிவாஜ்</tam></hw> , <i>s. (Ar.)</i> practice, custom, usage, <tam>வழக்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிவாஜ்&searchhws=yes&matchtype=exact">ரிவாஜ்</a> rivāj
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிவாஜ்</tam> <t>rivāj</t></hw> , <i>n</i>. See <tam>ரிவாஜா</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/winslow_query.py?qs=ரிவாஜ்&searchhws=yes&matchtype=exact">ரிவாஜ்</a> rivāj
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=908">p. 908</a>)
+		<blockquote><p><hw><tam>ரிவாஜ்</tam></hw> , <i>s. [Arab.]</i> Practice, custom, usage, <tam>வழக்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிவாஸ்&searchhws=yes&matchtype=exact">ரிவாஸ்</a> rivās
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிவாஸ்</tam> <t>rivās</t></hw> , <i>n</i>. See <tam>ரிவாஜா</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஶ்யமூகம்&searchhws=yes&matchtype=exact">ரிஶ்யமூகம்</a> riśyamūkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிஶ்யமூகம்</tam> <t>rišya-mūkam</t></hw> , <i>n</i>. < <i>Ṛšyamūka</i>. A hill in the Deccan which was the temporary abode of Sugrīva; <tam>தக்காணத்தில் சுக்கிரீவன் சில காலம் வசித்ததாகச் சொல்லப்படும் ஒரு மலை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷபச்சுழி&searchhws=yes&matchtype=exact">ரிஷபச்சுழி</a> riṣapaccuḻi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிஷபச்சுழி</tam> <t>riṣapa-c-cuḻi</t></hw> , <i>n</i>. < <tam>ரிஷபம்</tam> +. A kind of hair-curl in cattle; <tam>மாட்டுச்சுழிவகை. (பெ. மாட்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷபதீபம்&searchhws=yes&matchtype=exact">ரிஷபதீபம்</a> riṣapatīpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S403">p. S403</a>)
+		<blockquote><p><hw><tam>ரிஷபதீபம்</tam> <t>riṣapa-tīpam</t></hw> , <i>n</i>. < <i>ṛṣabha</i> +. A kind of temple lamp; <tam>கோயில்தீபவகை</tam>. (<tam>தமிழ்விடு. முகவுரை, பக்</tam>. 12.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷபதேவர்&searchhws=yes&matchtype=exact">ரிஷபதேவர்</a> riṣapatēvar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S403">p. S403</a>)
+		<blockquote><p><hw><tam>ரிஷபதேவர்</tam> <t>riṣapa-tēvar</t></hw> , <i>n</i>. < id. +. The holy bull Nanti; <tam>நந்திதேவர்</tam>. (<smallcap>M. E. R</smallcap>. 215 of 1924.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷபப்ரிய&searchhws=yes&matchtype=exact">ரிஷபப்ரிய</a> riṣapapriya
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S403">p. S403</a>)
+		<blockquote><p><hw><tam>ரிஷபப்ரிய</tam> <t>riṣapa-priya</t></hw> , <i>n</i>. prob. id. +. (Mus.) A primary <i>rāga</i>; <tam>மேளகர்த்தாக்களு ளொன்று</tam>. (<tam>சங். சந்</tam>. 47.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/crea_query.py?qs=ரிஷபம்&searchhws=yes&matchtype=exact">ரிஷபம்</a> riṣapam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரிஷபம்</hw> பெ. 1: [உ.வ.] (சிவபெருமானின் வாகனமாகக் கூறப்படும்) காளை; bull (as the mount of Siva). கோயிலில் ரிஷப வாகனத்தில் சுவாமி புறப்பாடு தொடங்கியது. 2: "சோதி." காளையைக் குறியீட்டு வடிவமாக உடைய இரண்டாவது ராசி; second constellation of the zodiac having the bull as its sign; Taurus.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/fabricius_query.py?qs=ரிஷபம்&searchhws=yes&matchtype=exact">ரிஷபம்</a> riṣapam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=836">p. 836</a>)
+		<blockquote><p>*<hw><tam>ரிஷபம்</tam></hw> , <i>s.</i> a bull, <tam>இடபம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷபம்&searchhws=yes&matchtype=exact">ரிஷபம்</a> riṣapam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிஷபம்</tam> <t>riṣapam</t></hw> , <i>n</i>. < <i>ṛṣabha</i>. 1. Bull; <tam>எருது</tam>. 2. See <tam>இடபம்</tam>, 2. 3. Nandi. See <tam>இடபம்</tam>, 3. 4. Taurus. See <tam>இடபம்</tam>, 4. 5. See <tam>இடபம்</tam>, 5. 6. (Mus.) Second note of the gamut, of three divisions, viz., <i>tayāvati, rañcaṉi, rattikai</i>; <tam>தயாவதி, ரஞ்சனி, ரத்திகை என்ற மூவகைப் பட்ட இராண்டாம் சுருதி</tam>. (<tam>பரத. இராக</tam>. 41.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/winslow_query.py?qs=ரிஷபம்&searchhws=yes&matchtype=exact">ரிஷபம்</a> riṣapam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=908">p. 908</a>)
+		<blockquote><p>*<hw><tam>ரிஷபம்</tam></hw> , <i>s.</i> A bull, &c. See <tam>இடபம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷபவாகனதேவர்&searchhws=yes&matchtype=exact">ரிஷபவாகனதேவர்</a> riṣapavākaṉatēvar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S403">p. S403</a>)
+		<blockquote><p><hw><tam>ரிஷபவாகனதேவர்</tam> <t>riṣapa-vākaṉa-tēvar</t></hw> , <i>n</i>. < id. + <i>vahana</i> +. 1. Šiva, as riding a bull; <tam>சிவபெருமான்</tam>. 2. See <tam>ரிஷபதேவர்</tam>. (<smallcap>M. E. R</smallcap>. 182 of 1925.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷபவீதி&searchhws=yes&matchtype=exact">ரிஷபவீதி</a> riṣapavīti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிஷபவீதி</tam> <t>riṣapa-vīti</t></hw> , <i>n</i>. < id. +. Portion of the zodiac comprising Pisces, Aries, Virgo and Libra; <tam>மீனம், மேஷம், கன்னி, துலாம் என்ற ராசிகளைக்கொண்ட வானவீதி</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷபஸ்வாமி&searchhws=yes&matchtype=exact">ரிஷபஸ்வாமி</a> riṣapasvāmi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிஷபஸ்வாமி</tam> <t>riṣapa-svāmi</t></hw> , <i>n</i>. < id. +. A <i>tīrttaṅkarar</i>. See <tam>விருஷபர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/crea_query.py?qs=ரிஷி&searchhws=yes&matchtype=exact">ரிஷி</a> riṣi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரிஷி</hw> பெ. 1: முனிவர்; sage. வேதகால ரிஷி போல இருந்தார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷி&searchhws=yes&matchtype=exact">ரிஷி</a> riṣi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிஷி</tam> <t>riṣi</t></hw> , <i>n</i>. < <i>ṛṣi</i>. Sage; saint; <tam>முனிவன். ரிஷிகர்ப்பம் ராத்தங்காது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷிகர்ப்பம்&searchhws=yes&matchtype=exact">ரிஷிகர்ப்பம்</a> riṣikarppam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிஷிகர்ப்பம்</tam> <t>riṣi-karppam</t></hw> , <i>n</i>. < id. +. Matter of great urgency, as the delivery of a child immediately after conception caused by a <i>riṣi</i>; <tam>மிகவும் அவசரமானது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷிபஞ்சமி&searchhws=yes&matchtype=exact">ரிஷிபஞ்சமி</a> riṣipañcami
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிஷிபஞ்சமி</tam> <t>riṣi-pañcami</t></hw> , <i>n</i>. < id. +. 1. The fifth <i>titi</i> of the waxing moon of the lunar month <i>pāttirapatam</i>, as sacred to the seven ṛṣis; <tam>சப்தரிஷிகளுக்குரிய பாத்திரபதமாதத்துச் சுக்ல பக்ஷபஞ்சமி</tam>. 2. See <tam>ரிஷிபஞ்சமிவிரதம். (பஞ்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷிபஞ்சமிவிரதம்&searchhws=yes&matchtype=exact">ரிஷிபஞ்சமிவிரதம்</a> riṣipañcamiviratam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிஷிபஞ்சமிவிரதம்</tam> <t>riṣipañcami-viratam</t></hw> , <i>n</i>. < <tam>ரிஷிபஞ்சமி</tam> +. A fast observed on the <i>riṣipañcami</i> day by women past the age of menopause; <tam>பூப்புநீங்கிய முதுமகளிரால் ரிஷிபஞ்சமி யன்று செய்யப்படும் விரதவகை</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/crea_query.py?qs=ரிஷிமூலம்&searchhws=yes&matchtype=exact">ரிஷிமூலம்</a> riṣimūlam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரிஷிமூலம்</hw> பெ. 1: ஒரு முனிவரின் பிறப்பு, குலம், குடும்பம் முதலிய விவரம்; ancestry and parentage of sages. நதிமூலம், ரிஷிமூலம் பார்க்கக்கூடாது என்பார்கள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷிமூலம்&searchhws=yes&matchtype=exact">ரிஷிமூலம்</a> riṣimūlam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிஷிமூலம்</tam> <t>riṣi-mūlam</t></hw> , <i>n</i>. < <tam>ரிஷி</tam> +. 1. The ancestry or parentage of sages; <tam>முனிவரின் பிறப்பு. ரிஷிமூலம் நதிமூலம் விசாரிக்கலாகாது</tam>. 2. See <tam>ருஷிமூலம்</tam>, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரிஷீகேசன்&searchhws=yes&matchtype=exact">ரிஷீகேசன்</a> riṣīkēcaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3428">p. 3428</a>)
+		<blockquote><p><hw><tam>ரிஷீகேசன்</tam> <t>riṣīkēcaṉ</t></hw> , <i>n</i>. < <i>hṛṣīkēša</i>. See <tam>இருடீகேசன்</tam>.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

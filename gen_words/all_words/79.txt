@@ -1,0 +1,2509 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>தை</b>
+                       <div id='no_results'>
+                                228 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/crea_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=580">p. 580</a>)
+		<blockquote><p><hw>தை<sup>1</sup></hw> வி. (தைக்க, தைத்து) 1: (துணி முதலியவற்றில்) ஊசியை இரு புறமும் மாறிமாறிச் செலுத்தி நூலை இழுத்து இணைத்தல் அல்லது பொருத்துதல்; stitch; sew. இந்தச் செருப்பைத் தைக்க எவ்வளவு கூலி கேட்கிறாய்?/ அவர் பலா இலைகளைத் தைத்து அதில் சாப்பாடு போட்டார். 2: (தைப்பதன்மூலம் ஒன்றை) உண்டாக்குதல்; தயாரித்தல்; make (sth. by stitching). செருப்புத் தைப்பவர்களுக்கு வேலைவாய்ப்பு பெருகியுள்ளது. 3: (அம்பு, முள் போன்ற கூரிய நுனியை உடைய பொருள்கள்) குத்துதல்; (of pointed object) prick; pierce; (of thorn) run into. அம்பு தைத்த இடத்தில் மருந்து போட்டுக் கட்டினாள்./ காலில் முள் தைத்துவிட்டது./ [உரு வ.] "நீ படித்தவன்தானா?" என்று அவர் கேட்ட கேள்வி நெஞ்சில் சுருக்கென்று தைத்தது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/crea_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=580">p. 580</a>)
+		<blockquote><p><hw>தை<sup>2</sup></hw> பெ. 1: பத்தாவது தமிழ் மாதத்தின் பெயர்; the name of the tenth Tamil month, i.e., mid January to mid February.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/fabricius_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=564">p. 564</a>)
+		<blockquote><p><hw><tam>தை</tam></hw> , <i>s.</i> January, <tam>தை மாதம்</tam>; 2. a sound in beating time, <tam>தாளக்குறிப்பு</tam>; 3. the 8th lunar asterism, <tam>பூரம்</tam>; 4. Capricorn of the Zodiac, <tam>மகரராசி</tam>. <p2><tam>தைச்சங்கிரமம்</tam>, the entrance of the sun into Capricorn.</p2> <p2><tam>தைப்பிறப்பு</tam>, new year's day astronomically, when rice boiled with milk and sugar or jaggery is offered to the Sun who at that time commences his course northward.</p2> <p2><tam>தைப்பிறை</tam>, the new moon as seen in January, observed to ascertain whether the year will be fruitful.</p2> <p2><tam>தைப்பொங்கல்</tam>, the festival of boiling rice in cow's milk, see <tam>தைப்பிறப்பு</tam>.</p2> <p2><tam>தையறம்</tam>, the drying up of the rivers in January.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/fabricius_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=564">p. 564</a>)
+		<blockquote><p><hw><tam>தை</tam></hw> , II. <i>v. t.</i> adorn, beautify, <tam>அலங்கரி</tam>. <p2><tam>தைதல்</tam>, <i>v. n.</i> embellishment.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/fabricius_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=564">p. 564</a>)
+		<blockquote><p><hw><tam>தை</tam></hw> , VI. <i>v. t.</i> sew, stitch, <tam>துன்னு</tam>; 2. nail, fasten with nails pin, <tam>கடாவு</tam>; 3. net with a netting needle, <tam>வலை பின்னு</tam>; 4. (with <tam>தொகை</tam>) close an account, <tam>தொகைகதை</tam>; <i>v. i.</i> run in as a thorn, pierce as an arrow, <tam>குத்து</tam>; 2. strike, affect, pierce the mind, <tam>உறுத்து</tam>. <p2><tam>என்காலிலே முள் தைத்தது</tam>, I ran a thorn into my foot.</p2> <p2><tam>அம்பு தைத்தவன்</tam>, a person wounded with an arrow.</p2> <p2><tam>அந்தச்சொல் அவன் மனதிலே தைத்து</tam>, that word made a deep impression on his mind.</p2> <p2><tam>தைப்பான்</tam>, a needle; 2. one who sews.</p2> <p2><tam>தைப்பு</tam>, <tam>தைத்தல்</tam>, <i>v. n.</i> sewing, fastening, nailing; 2. piercing.</p2> <p2><tam>தைப்பை</tam>, a garment made by sewing.</p2> <p2><tam>தையல்</tam>, <i>v. n.</i> sewing, stitch, suture.</p2> <p2><tam>தையல் தைக்க</tam>, to sew.</p2> <p2><tam>தையல் பிரிக்க</tam>, to rip or unravel needle-work.</p2> <p2><tam>தையல் விட்டுப்போயிற்று</tam>, -<tam>பிரிந்துபோ யிற்று</tam>, the seam of the garment is ripped.</p2> <p2><tam>தையல் வேலை</tam>, needle-work.</p2> <p2><tam>தையற்காரன்</tam>, (<i>fem.</i> <tam>தையற்காரி</tam>) a tailor, a knitter.</p2> <p2><tam>தையற்பை</tam>, <tam>தையற்பெட்டி</tam>, a bag, a work basket or box containing things for needle-work.</p2> <p2><tam>ஒட்டுத்தையல்</tam>, patching, mending.</p2> <p2><tam>கட்டுத்தையல்</tam>, wrapping round a knob.</p2> <p2><tam>கெட்டித்தையல்</tam>, a double seam.</p2> <p2><tam>பீற்றல் தைக்க</tam>, to mend a rent in a garment, <tam>கந்தைபொத்த</tam>.</p2> <p2><tam>பெரும்படித் தையல்</tam>, coarse sewing.</p2> <p2><tam>மடித்துத் தைக்க</tam>, to hem.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தை</hw> - ஓரெழுத்து, ஒருமாதம், தாளக் குறிப்பினொன்று, தைக்கத்தக்கவை, தையென்னேவல், பூசநாள், மகர ராசி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1628">p. 1628</a>)
+		<blockquote><p><hw>தை</hw> - ஓர்வகையெழுத்து, ஓர்மாதம், தை யென்னேவல், பூசநாள், மகரராசி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/mcalpin_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/mcalpin/">McAlpin's <i>"A core vocabulary for Tamil"</i></a>
+		(<a href="/cgi-bin/app/mcalpin_query.py?page=40">p. 40</a>)
+		<blockquote><p><hw><tam>தை</tam></hw> 6. tey- <tam>தெய்</tam> sew, stitch, make (a dress, etc.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2073">p. 2073</a>)
+		<blockquote><p><hw><tam>தை¹</tam> <t>tai</t></hw> . The compound of <tam>த்</tam> and <tam>ஐ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தை³</tam> <t>tai</t></hw> , <i>n</i>. < <tam>தை-</tam>. 1. Decoration, embellishment; <tam>அலங்காரம். தைபுனை மாது</tam> (<tam>நிகண்டு</tam>. <smallcap>M</smallcap>ss.). 2. Sewing; <tam>தையல். (தைலவ. தைல.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தை⁴</tam> <t>tai</t></hw> , <i>n</i>. (Mus.) Onom. expr. of beating time; <tam>ஒரு தாளக்குறிப்பு. (அரு. நி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தை⁵</tam> <t>tai</t></hw> , <i>n</i>. < <i>taiṣī</i>. [M. <i>tai</i>.] 1. The 9th Tamil month, January-February; <tam>ஒரு மாதம். தைஇத்திங்கட் டண்ணிய தரினும்</tam> (<tam>குறுந்தொ</tam>. 196). 2. Capricorn in the zodiac; <tam>மகரராசி</tam>. 3. The 8th <i>nakṣatra</i>. See <tam>பூசம். (சூடா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தை⁶</tam> <t>tai</t></hw> , <i>n</i>. Young plant or tree; <tam>மரக் கன்று. தைத்தெங்கு</tam>. <i>Nāñ</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தை⁷</tam> <t>tai</t></hw> , <i>n</i>. See <tam>தைவேளை. (மூ. அ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/winslow_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p><hw><tam>தை</tam></hw> . A syllabic letter, compounded of <tam>த்</tam> and <tam>ஐ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/winslow_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p><hw><tam>தை</tam></hw> , <i>s.</i> January, the month, <tam>ஓர்மாதம்</tam>. 2. A sound in beating time, <tam>தாளக்குறிப்பினொன்று</tam>. <i>(c.)</i> 3. The eighth lunar asterism, as <tam>பூசம்</tam>. 4. Capricorn of the Zodiac, <tam>மகரவிராசி</tam>. 5. <i>(R.)</i> Juice and root of <tam>தைவிளை</tam>, which see. <tam>தையீனாப்புல்லுமில்லைமாசியீனாமரமுமில்லை</tam>...... There is no graminious plant, but ears in January, and no tree that does not blos- som in february. <p2><tam>தைக்குரக்கன்</tam>, <i>s. [prov.]</i> Watching millet sown in January.</p2> <p2><tam>தைச்சங்கிரமம்</tam>, <i>s.</i> The entrance of the sun into Capricorn. See <tam>சங்கிரமம்</tam>, <tam>சங்கிராந்தி</tam>.</p2> <p2><tam>தைச்செவ்வாய்</tam>, <i>s. [prov.]</i> A Tuesday in January, auspicious.</p2> <p2><tam>தைப்பிறப்பு</tam>, <i>s.</i> [<i>com.</i> <tam>தைமாதப்பிறப்பு</tam>.] New year's day, astronomically; observed by boiling rice, to propitiate the favor of the sun, supposed to commence, at that time, his course north- ward.</p2> <p2><tam>தைப்பிறை</tam>, <i>s.</i> The new moon as seen in January, observed to ascertain whe- ther the year will be fruitful.</p2> <p2><tam>தைப்பூசம்</tam>, <i>s.</i> The day when the moon is in the <tam>பூசம்</tam>, in January, being an auspicious time for eating the first rice, bathing, and taking oblations to the temple.</p2> <p2><tam>தைப்பொங்கல்</tam>, <i>s.</i> The festival of boiling rice in cow's milk. See <tam>தைப்பிறப்பு</tam>.</p2> <p2><tam>தையறம்</tam>, <i>s. [prov.]</i> The drying up of the rivers in January.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/winslow_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p><hw><tam>தை</tam></hw> , <tam>கிறேன்</tam>, <tam>ந்தேன்</tam>, <tam>வேன்</tam>, <tam>ய</tam>, <i>v. a.</i> To adorn, to beautify, <tam>அலங்கரிக்க</tam>. (<tam>சது</tam>.) <p2><tam>தைதல்</tam>, <i>v. noun.</i> Embellishment.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/winslow_query.py?qs=தை&searchhws=yes&matchtype=exact">தை</a> tai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p><hw><tam>தை</tam></hw> , <tam>க்கிறேன்</tam>, <tam>த்தேன்</tam>, <tam>ப்பேன்</tam>, <tam>க்க</tam>, <i>v. a.</i> To sew, stitch, seam, make, as an article of dress, by sewing; to mend, &c., <tam>துன்ன</tam>. 2. To nail, to fasten boards, beams, &c., with nails, spikes, or pegs; to pin, to skewer, to run leaves together, <tam>ஆணிமுதலியனதைக்க</tam>. 3. To net with a netting needle, <tam>வலைபின்ன</tam>. 4. [<i>with</i> <tam>தொகை</tam>.] To cast or add up; to close an account, as <tam>தொகைதைக்க</tam>. As <i>v. n.</i> <tam>க்கிறது</tam>, <tam>த்தது</tam>, <tam>க்கும்</tam>, <tam>க்க</tam>,– <i>in the 3d pers. neut.</i> To pierce, to penetrate; to enter–as a thorn, arrow, bail or shot, <tam>முள்ளுமுதலியஏற</tam>, 2. <i>(fig.)</i> To strike, or pierce the mind–as a remonstrance, reproof or sarcasm; to cause pain, re- morse, &c., <tam>மனதிற்பதிய</tam>. 3. To light on one, as the fascinating looks of a lover or the blighting looks of an unlucky person, <tam>திருஷ்டிபட</tam>, <i>(c.)</i> <tam>அவன்காலுக்குவிலங்குதைக்கப்பட்டது</tam>. His feet are fastened with chains. <tam>அவன்சொல்லவனுக்குதைத்தது</tam>. His word cut to the heart. <tam>கண்ணுக்குத்தைத்தது</tam>. It was charming or attractive to the sight. <p2><tam>தைப்பான்</tam>, <i>appel. n.</i> A needle, <tam>ஊசி</tam>. 2. One who sewa, <tam>தையற்காரன்</tam>.</p2> <p2><tam>தைப்பை</tam>, <i>s.</i> A garment made by sewing, <tam>சட்டை</tam>. (<tam>சது</tam>.)</p2> <p2><tam>தையல்</tam>, <i>v. noun.</i> Sewing, stitch, seam. <tam>தையல்விட்டுப்போயிற்று</tam>–<tam>தையல்பிரிந்துபோயிற்று</tam>. The seam of the garment is ripped.</p2> <p2><tam>தையல்வேலை</tam>, <i>s.</i> Stitching, needle work. <tam>பெரும்படித்தையல்</tam>. Coarse sewing. <tam>சிறுதையல்</tam>. Nice or neat sewing. <tam>கெட்டித்தையல்</tam>. A double seam.</p2> <p2><tam>தையலூசி</tam>, <i>s.</i> A sewing needle, in distinction from one for knitting.</p2> <p2><tam>தையல்தைக்க</tam>, <i>inf.</i> To sew.</p2> <p2><tam>தையல்பிரிக்க</tam>. <i>inf.</i> To rip open a seam.</p2> <p2><tam>தையற்காரன்</tam>, <i>s.</i> [<i>fem.</i> <tam>தையற்காரி</tam>.] A tailor, a seamster, a sewer. 2. A knitter.</p2> <p2><tam>தையற்பை</tam>, <i>s.</i> A bag, as <tam>தையற்பெட்டி</tam>.</p2> <p2><tam>தையற்பெட்டி</tam>, <i>s.</i> A work basket or box containing things for needle work.</p2> <p2><tam>பீற்றல்தைக்க</tam>, <i>inf.</i> [<i>also</i> <tam>கந்தைபொத்த</tam>.] To mend a rent in a garment.</p2> <p2><tam>வலைதைக்க</tam>, <i>inf.</i> To mend nets.</p2> <p2><tam>தைப்பு</tam>–<tam>தைத்தல்</tam>, <i>v. noun.</i> Sewing, nailing, joining two things together by sewing, or nailing, <tam>தைக்கை</tam>. 2. Stitching, piercing, <tam>உருவுகை</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தை-த்தல்&searchhws=yes&matchtype=exact">தை-த்தல்</a> tai-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தை²-த்தல்</tam> <t>tai-</t></hw> , <i>11 v</i>. [M. <i>taikka</i>.] <i>tr</i>. 1. To sew, stitch; <tam>தையலிடுதல். (சூடா.)</tam> 2. To nail, fasten beams with nails, spikes or pegs; to pin; <tam>ஆணிமுதலியன அடித்தல். படத் திற்கு ஆணி தைத்தாயிற்றா?</tam> 3. To plait or stitch, as leaves into plate; <tam>இலை முதலியன குத்தியிணைத்தல்</tam>. 4. To join; <tam>பொருத்துதல். பலகை தைத்து</tam> (<tam>பாரத. கிருட்டிண</tam>. 102). 5. To pierce, penetrate, prick, as a thorn, an arrow; <tam>முண்முதலியன ஊடுருவுதல். மேனிதைத்த வேளசரங்கள்</tam> (<tam>கம்பரா. உலாவியல்</tam>. 15). 6. To tie, weave, as a wreath; <tam>மாலைதொடுத்தல். தொடலை தைஇய மடவரன் மகளே</tam> (<tam>ஐங்குறு</tam>. 361). 7. To string, as beads; <tam>கோத்தல். அவிரிழை முத்தந் தைஇ மின்னுமிழ் பிலங்க</tam> (<tam>பதிற்றுப்</tam>. 39, 15). 8. To adorn, decorate; <tam>அலங்கரித்தல். தைஇய மகளிர்</tam> (<tam>கலித்</tam>. 27, 19). 9. To make, create; <tam>நிருமித் தல். வல்லவன் றைஇய பாவைகொல்</tam> (<tam>கலித்</tam>. 56). 10. To set, enchase; <tam>பதித்தல். திகழொளி முத்தங் கரும்பாகத் தைஇ</tam> (<tam>கலித்</tam>. 80, 4). 11. To place, put, as a mark on the forehead; <tam>இடுதல். திலகந் தைஇய தேங்கமழ் திருநுதல்</tam> (<tam>திருமுரு</tam>. 24). 12. To wear, put on; <tam>உடுத்துதல். ஏர்தழை தைஇ</tam> (<tam>கலித்</tam>. 125, 12). 13. To paint; <tam>சித்திரித்தல். அணிவரி தைஇயும்</tam> (<tam>கலித்</tam>. 76, 2). 14. To surround, cover, encircle; <tam>சூழ்தல். சீர்மிகு முத்தந் தைஇய நார்முடி</tam> (<tam>பதிற்றுப்</tam>. 39, 16). 15. To make a net; <tam>வலைபின்னுதல்</tam>. (<smallcap>W</smallcap>.) 16. To close, shut; <tam>அடைத்தல். (யாழ். அக.)</tam> — <i>intr</i>. 1. To enter, dart; <tam>உட்பிரவேசித்தல். அவ்வழித் தைத்தது பூதம்</tam> (<tam>கம்பரா. திருவவ</tam>. 88). 2. To pierce the mind; to rankle; to cause pain; <tam>மனத்திலுறைத்தல். அவன் சொன்னசொல் என் மனத் திற் றைத்தது</tam>. 3. To alight, rest, as the fascinating looks of an unlucky person; <tam>திருஷ்டி படுதல்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைக்கா&searchhws=yes&matchtype=exact">தைக்கா</a> taikkā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைக்கா</tam> <t>taikkā</t></hw> , <i>n</i>. < Persn. <i>takya</i>. 1. The place where a Muhammadan saint is interred; <tam>மகமதியப் பெரியோர்களின் சமாதியிடம்</tam>. 2. Fakir's hut; <tam>பக்கிரிகளின் இருப்பிடம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைக்கால்&searchhws=yes&matchtype=exact">தைக்கால்</a> taikkāl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைக்கால்</tam> <t>taikkāl</t></hw> , <i>n</i>. < id. See <tam>தைக்கா</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைக்குரக்கன்&searchhws=yes&matchtype=exact">தைக்குரக்கன்</a> taikkurakkaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைக்குரக்கன்</tam> <t>tai-k-kurakkaṉ</t></hw> , <i>n</i>. prob. <tam>தை⁵</tam> + <tam>குரக்கன்</tam>. Watching of the crop raised in January; <tam>தைமாதப்பயிரைக் காக்கை</tam>. (<smallcap>J</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைசசம்&searchhws=yes&matchtype=exact">தைசசம்</a> taicacam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைசசம்</hw> - உலோகம், நெய், பலம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைசசம்&searchhws=yes&matchtype=exact">தைசசம்</a> taicacam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைசசம்</tam> <t>taicacam</t></hw> , <i>n</i>. < <i>taijasa</i>. 1. See <tam>தைசதம்</tam>, 1. 2. See <tam>தைசதவகங்காரம். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைசசம்&searchhws=yes&matchtype=exact">தைசசம்</a> taicacam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S323">p. S323</a>)
+		<blockquote><p><hw><tam>தைசசம்</tam> <t>taicacam</t></hw> , <i>n</i>. < <i>taijasa</i>. Metal; <tam>உலோகம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைசசாவர்த்தினி&searchhws=yes&matchtype=exact">தைசசாவர்த்தினி</a> taicacāvarttiṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைசசாவர்த்தினி</hw> - உலோக முருக்குங் குகை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைசதன்&searchhws=yes&matchtype=exact">தைசதன்</a> taicataṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைசதன்</tam> <t>taicataṉ</t></hw> , <i>n</i>. < <i>taijasa</i>. The individual soul that identifies itself with its <i>cūṭcumacarīram</i>; <tam>சூக்குமவுடலை யானென்று அபிமா னிக்குஞ் சீவன். இவ்வுடன் மருவுஞ் சீவர்க் கிலங்கு தைசதனென்றாகும்</tam> (<tam>கைவல். தத்</tam>. 39).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/fabricius_query.py?qs=தைசதம்&searchhws=yes&matchtype=exact">தைசதம்</a> taicatam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=564">p. 564</a>)
+		<blockquote><p>*<hw><tam>தைசதம்</tam></hw> , <i>s.</i> belonging to fire, <tam>அக்கினி சம்பந்தம்</tam>; 2. one of the three active powers (<tam>அகங்காரம்</tam>) of the incor- porated soul, the three are <tam>பூதாதிய கங்காரம்</tam>, <tam>வைகரியங்காரம்</tam> &amp; <tam>தைசதா கங்காரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைசதம்&searchhws=yes&matchtype=exact">தைசதம்</a> taicatam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைசதம்</hw> - அக்கினி சம்பந்தம், மகரரா சி, மூவாங்காரத் தொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைசதம்&searchhws=yes&matchtype=exact">தைசதம்</a> taicatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைசதம்</tam> <t>taicatam</t></hw> , <i>n</i>. < <i>taijasa</i>. 1. That which is related to light; <tam>தேயுசம்பந்தமானது</tam>. (<tam>சி. சி</tam>. 2, 58, <tam>சிவாக்</tam>.) 2. Vigour, strength; <tam>பலம். (யாழ். அக.)</tam> 3. See <tam>தைசதவகங்காரம். மனமது தைசதத்தின் வந்து</tam> (<tam>சி. சி</tam>. 2, 60). 4. Ghee; <tam>நெய். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைசதம்&searchhws=yes&matchtype=exact">தைசதம்</a> taicatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S323">p. S323</a>)
+		<blockquote><p><hw><tam>தைசதம்</tam> <t>taicatam</t></hw> , <i>n</i>. prob. <i>taiṣa</i>. The zodiacal sign capricorn; <tam>மகரராசி. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/winslow_query.py?qs=தைசதம்&searchhws=yes&matchtype=exact">தைசதம்</a> taicatam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p>*<hw><tam>தைசதம்</tam></hw> , <i>s.</i> Belonging to fire, powerful, intense, <tam>அக்கினிசம்பந்தம்</tam>. W. p. 385. <smallcaps>TAIJASA.</smallcaps> 2. One of the three <tam>அகங்காரம்</tam>, or active powers of the incorporated soul, that connected with <tam>சாத்துவிதம்</tam> quality. The three <tam>அகங்காரம்</tam> as given in <tam>சிவஞானசித்தி</tam>, are <tam>பூதாதியகங்காரம்</tam>, <tam>வைகரியகங்காரம்</tam>, <tam>தைசதஅகங்காரம்</tam>, which see in their places. <p2><tam>தைசதஅகங்காரம்</tam>–<tam>தைசதாகங்காரம்</tam>, <i>s.</i> The first of the three <tam>அகங்காரம்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/winslow_query.py?qs=தைசதம்&searchhws=yes&matchtype=exact">தைசதம்</a> taicatam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=975">p. 975</a>)
+		<blockquote><p>*<hw><tam>தைசதம்</tam></hw> , <tam>சாத்துவிதம்</tam> make <tam>சாத்துவிகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைசதவகங்காரம்&searchhws=yes&matchtype=exact">தைசதவகங்காரம்</a> taicatavakaṅkāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைசதவகங்காரம்</tam> <t>taicata-v-akaṅkāram</t></hw> , <i>n</i>. < id. +. 1. (Sāṅkhya.) <i>Ahaṃkāra</i> in which <i>rajōguṇa</i> is dominant; <tam>இராசதகுணம் மேலிட்ட அகங்காரம்</tam>. 2. (Šaiva.) <i>Ahaṃkāra</i> in which the <i>satva guṇa</i> is dominant, one of <i>akaṅkāra-t-tirayam</i>, q.v.; <tam>அகங்காரத்திரயத்துள் சத்துவகுணம் மேலிட்டது</tam>. (<tam>சி. போ. பா</tam>. 2, 2.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைசதாங்காரம்&searchhws=yes&matchtype=exact">தைசதாங்காரம்</a> taicatāṅkāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைசதாங்காரம்</tam> <t>taicatāṅkāram</t></hw> , <i>n</i>. < id. +. See <tam>தைசதவகங்காரம்</tam>. (<tam>சி. சி</tam>. 2, 60, <tam>மறை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைசம்&searchhws=yes&matchtype=exact">தைசம்</a> taicam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைசம்</tam> <t>taicam</t></hw> , <i>n</i>. < <i>tiṣya</i>. A <i>nakṣatra</i>. See <tam>பூசம். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைச்சங்கிரமம்&searchhws=yes&matchtype=exact">தைச்சங்கிரமம்</a> taiccaṅkiramam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைச்சங்கிரமம்</tam> <t>tai-c-caṅkiramam</t></hw> , <i>n</i>. < id. +. See <tam>தைச்சங்கிராந்தி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைச்சங்கிராந்தி&searchhws=yes&matchtype=exact">தைச்சங்கிராந்தி</a> taiccaṅkirānti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைச்சங்கிராந்தி</tam> <t>tai-c-caṅkirānti</t></hw> , <i>n</i>. < id. +. The entrance of the Sun into Capricorn; <tam>சூரியன் மகரராசியிற் செல்லும் தைமாதத் தின் முதல்நாள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைஞ்சை&searchhws=yes&matchtype=exact">தைஞ்சை</a> taiñcai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைஞ்சை</tam> <t>taiñcai</t></hw> , <i>n</i>. < <tam>தஞ்சாவூர்</tam>. Tanjore. See <tam>தஞ்சாவூர். தைஞ்சையழகர்</tam> (<smallcap>S. I. I</smallcap>. ii, 204).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைதம்&searchhws=yes&matchtype=exact">தைதம்</a> taitam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைதம்</tam> <t>taitam</t></hw> , <i>n</i>. Tip of the finger; <tam>விரல் நுனி. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைதல்&searchhws=yes&matchtype=exact">தைதல்</a> taital
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைதல்</hw> - அலங்கரித்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைதல்&searchhws=yes&matchtype=exact">தைதல்</a> taital
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1628">p. 1628</a>)
+		<blockquote><p><hw>தைதல்</hw> - அலங்கரித்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைதிலம்&searchhws=yes&matchtype=exact">தைதிலம்</a> taitilam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைதிலம்</hw> - காண்டாமிருகம், தைதுலம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைதிலம்&searchhws=yes&matchtype=exact">தைதிலம்</a> taitilam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைதிலம்</tam> <t>taitilam</t></hw> , <i>n</i>. < <i>taitila</i>. (<tam>யாழ். அக</tam>.) 1. Rhinoceros; <tam>காண்டாமிருகம்</tam>. 2. See <tam>தைதுலம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/fabricius_query.py?qs=தைதுலம்&searchhws=yes&matchtype=exact">தைதுலம்</a> taitulam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=564">p. 564</a>)
+		<blockquote><p>*<hw><tam>தைதுலம்</tam></hw> , <tam>தைதுலை</tam>, <i>s.</i> the 4th astro- logical karna, <tam>ஓர்கரணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைதுலம்&searchhws=yes&matchtype=exact">தைதுலம்</a> taitulam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைதுலம்</tam> <t>taitulam</t></hw> , <i>n</i>. < <i>taitila</i>. (Astrol.) A division of time, one of eleven <i>karaṇam</i>, q.v.; <tam>கரணம் பதினொன்றிலொன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/winslow_query.py?qs=தைதுலம்&searchhws=yes&matchtype=exact">தைதுலம்</a> taitulam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p>*<hw><tam>தைதுலம்</tam></hw> –<tam>தைதுலை</tam>, <i>s.</i> (<i>St.</i> <tam>தைதிலம்</tam>.) The fourth astrological karna. <tam>ஓர்கரணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைதுலம், தைதுலை&searchhws=yes&matchtype=exact">தைதுலம், தைதுலை</a> taitulam, taitulai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைதுலம், தைதுலை</hw> கழுதைக்கரணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைதுலை&searchhws=yes&matchtype=exact">தைதுலை</a> taitulai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைதுலை</tam> <t>taitulai</t></hw> , <i>n</i>. See <tam>தைதுலம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைதேயர்&searchhws=yes&matchtype=exact">தைதேயர்</a> taitēyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைதேயர்</hw> - இராக்கதர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தல்&searchhws=yes&matchtype=exact">தைத்தல்</a> taittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைத்தல்</hw> - அடைதல், அறைதல், கண க்குப்பூட்டுதல், தையல்செய்தல், படுதல், பொருத்துதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தல்&searchhws=yes&matchtype=exact">தைத்தல்</a> taittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1452">p. 1452</a>)
+		<blockquote><p><hw>தைத்தல்</hw> - அத்து, துன்மம், பொல்லம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தல்&searchhws=yes&matchtype=exact">தைத்தல்</a> taittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1628">p. 1628</a>)
+		<blockquote><p><hw>தைத்தல்</hw> - துன்னல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைத்தியகரன்&searchhws=yes&matchtype=exact">தைத்தியகரன்</a> taittiyakaraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைத்தியகரன்</tam> <t>taittiya-karaṉ</t></hw> , <i>n</i>. < <i>daitya</i> + <i>hara</i>. Šiva, as the slayer of the Daityas; <tam>[தைத் தியர்களைக் கொல்வோன்] சிவன்</tam>. (<tam>இலிங்கபு</tam>. 41, 3).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியகுரு&searchhws=yes&matchtype=exact">தைத்தியகுரு</a> taittiyakuru
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைத்தியகுரு</hw> - சுக்கிரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைத்தியகுரு&searchhws=yes&matchtype=exact">தைத்தியகுரு</a> taittiyakuru
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைத்தியகுரு</tam> <t>taittiya-kuru</t></hw> , <i>n</i>. < id. +. See <tam>தைத்தியமந்திரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியசேனை&searchhws=yes&matchtype=exact">தைத்தியசேனை</a> taittiyacēṉai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைத்தியசேனை</hw> - தேவசேனையின் தம க்கை, அரிஷ்ட நேமிமகள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியதேவன்&searchhws=yes&matchtype=exact">தைத்தியதேவன்</a> taittiyatēvaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைத்தியதேவன்</hw> - வருணன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைத்தியதேவன்&searchhws=yes&matchtype=exact">தைத்தியதேவன்</a> taittiyatēvaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைத்தியதேவன்</tam> <t>taittiya-tēvaṉ</t></hw> , <i>n</i>. < id. +. Varuṇa, the Sea-god; <tam>வருணன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியநிசூதநன்&searchhws=yes&matchtype=exact">தைத்தியநிசூதநன்</a> taittiyanicūtanaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைத்தியநிசூதநன்</hw> - விட்டுணு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியபுரோகிதன்&searchhws=yes&matchtype=exact">தைத்தியபுரோகிதன்</a> taittiyapurōkitaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைத்தியபுரோகிதன்</hw> - சுக்கிரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைத்தியபுரோகிதன்&searchhws=yes&matchtype=exact">தைத்தியபுரோகிதன்</a> taittiyapurōkitaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைத்தியபுரோகிதன்</tam> <t>taittiya-purōkitaṉ</t></hw> , <i>n</i>. < id. +. See <tam>தைத்தியமந்திரி. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியமதநம்&searchhws=yes&matchtype=exact">தைத்தியமதநம்</a> taittiyamatanam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைத்தியமதநம்</hw> - கரணைச்செடி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைத்தியமதனம்&searchhws=yes&matchtype=exact">தைத்தியமதனம்</a> taittiyamataṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2074">p. 2074</a>)
+		<blockquote><p><hw><tam>தைத்தியமதனம்</tam> <t>taittiya-mataṉam</t></hw> , <i>n</i>. A tuberous-rooted herb; <tam>கருணைச்செடி. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியமந்திரி&searchhws=yes&matchtype=exact">தைத்தியமந்திரி</a> taittiyamantiri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைத்தியமந்திரி</hw> - சுக்கிரன்,தைத்திய பு ரோகிதன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைத்தியமந்திரி&searchhws=yes&matchtype=exact">தைத்தியமந்திரி</a> taittiyamantiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைத்தியமந்திரி</tam> <t>taittiya-mantiri</t></hw> , <i>n</i>. < <i>daitya</i> +. Cukkiraṉ, as the counsellor of the Daityas; <tam>[தைத்தியரின் குரு] சுக்கிரன். (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியமாதுரு&searchhws=yes&matchtype=exact">தைத்தியமாதுரு</a> taittiyamāturu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைத்தியமாதுரு</hw> - திதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியயுகம்&searchhws=yes&matchtype=exact">தைத்தியயுகம்</a> taittiyayukam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைத்தியயுகம்</hw> - சதுர்யுகங்கொண்டது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைத்தியயுகம்&searchhws=yes&matchtype=exact">தைத்தியயுகம்</a> taittiyayukam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S323">p. S323</a>)
+		<blockquote><p><hw><tam>தைத்தியயுகம்</tam> <t>taittiya-yukam</t></hw> , <i>n</i>. perh. <i>daitya</i> +. Cycle of four yugas; <tam>சதுர்யுகம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/fabricius_query.py?qs=தைத்தியர்&searchhws=yes&matchtype=exact">தைத்தியர்</a> taittiyar
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=564">p. 564</a>)
+		<blockquote><p>*<hw><tam>தைத்தியர்</tam></hw> , <i>s.</i> the Asuras or Titans of Hindu mythology, <tam>திதிமைந்தர்</tam>. <p2><tam>தைத்தியமந்திரி</tam>, Sukrachari as the counsellor of the Daityas.</p2> <p2><tam>தைத்தியாரி</tam>, Vishnu, the destroyer of Asuras.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியர்&searchhws=yes&matchtype=exact">தைத்தியர்</a> taittiyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைத்தியர்</hw> - அசுரர்,திதிமைந்தர், திதி தாமாதி காரத்தால் சந்தியாகாலத் திலே காசிபரை வலாற் காரமாகப் புணர்ந்து இரணியாக்ஷன் இரணிய கசிபன் ஏன்னும் இரண்டு புத்திர ரைப் பெற்றாள். சந்தியாகாலத்திற் பிறந்தமையால் இருவரு மக்ரூர கு ணமுள்ள இரணியாக்ஷனை விஷ்ணு வராஹாவதாரத்திலும் இரணியகசி பனை நரசிங்காவதாரத்திலும் கொன் றார். திதிவயிற்றில் சிங்கிகை யென் றொரு புத்திரியும் பிறந்தாள். இவர் வழிவந்தோரும் தைத்தியர் ஏனப் படுவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியர்&searchhws=yes&matchtype=exact">தைத்தியர்</a> taittiyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>தைத்தியர்</hw> - அசுரர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைத்தியர்&searchhws=yes&matchtype=exact">தைத்தியர்</a> taittiyar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைத்தியர்</tam> <t>taittiyar</t></hw> , <i>n</i>. < <i>daitya</i>. Asuras, as sons of Diti, one of <i>patiṉeṇkaṇam</i>, q.v.; <tam>திதி என்பவளின் புத்திரர்களும் பதினெண்கணத்துள் ஒரு வகையினருமான அசுரர். (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/winslow_query.py?qs=தைத்தியர்&searchhws=yes&matchtype=exact">தைத்தியர்</a> taittiyar
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p>*<hw><tam>தைத்தியர்</tam></hw> , <i>s.</i> The Asuras, <tam>அசுரர்</tam>, or Titans, of Hindu mythology, <tam>திதிமைந்தர்</tam>. See <tam>திதி</tam>. W. p. 424. <smallcaps>DAITYA.</smallcaps> <p2><tam>தைத்தியபுரோகிதன்</tam>–<tam>தைத்தியமந்திரி</tam>, <i>s.</i> Venus the planet, or the regent of the planet as counsellor of the Asuras, <tam>சுக்கிரன்</tam>.</p2> <p2><tam>தைத்தியாரி</tam>, <i>s.</i> Vishnu, <tam>விஷ்ணு</tam>; [<i>ex</i> <tam>அரி</tam>.] destroyer.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியவநம்&searchhws=yes&matchtype=exact">தைத்தியவநம்</a> taittiyavanam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைத்தியவநம்</hw> - சரசுவதி நதிக்கரையி லுள்ள காமியகாவனத்துக்குப் போகு முன்னே பாண்டவர்கள் வாசஞ் செய்தவனம். வேதவியாசர் பாண்ட வர்களுக்கு வெளிப்பட்டு உபதேசித்த வனம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியாகோராத்திரம்&searchhws=yes&matchtype=exact">தைத்தியாகோராத்திரம்</a> taittiyākōrāttiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைத்தியாகோராத்திரம்</hw> - ஒரு வருடம் அது அசுரக்கோரிராப்பகல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைத்தியாகோராத்திரம்&searchhws=yes&matchtype=exact">தைத்தியாகோராத்திரம்</a> taittiyākōrāttiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S323">p. S323</a>)
+		<blockquote><p><hw><tam>தைத்தியாகோராத்திரம்</tam> <t>taittiyākōrāttiram</t></hw> , <i>n</i>. < id. + <i>ahōrātra</i>. Year; <tam>வருடம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்தியாரி&searchhws=yes&matchtype=exact">தைத்தியாரி</a> taittiyāri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைத்தியாரி</hw> - திருமால்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைத்தியாரி&searchhws=yes&matchtype=exact">தைத்தியாரி</a> taittiyāri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைத்தியாரி</tam> <t>taittiyāri</t></hw> , <i>n</i>. < <i>Daityāri</i>. Viṣṇu, as the enemy of Daityas; <tam>[தைத்தியர்களுக்குச் சத் துரு] திருமால். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்திரம்&searchhws=yes&matchtype=exact">தைத்திரம்</a> taittiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைத்திரம்</hw> - சிச்சிலிக்குருவி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைத்திரம்&searchhws=yes&matchtype=exact">தைத்திரம்</a> taittiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைத்திரம்</tam> <t>taittiram</t></hw> , <i>n</i>. < <i>tittiri</i>. A kind of king-fisher. See <tam>மீன்கொத்தி. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைத்திரியன்&searchhws=yes&matchtype=exact">தைத்திரியன்</a> taittiriyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைத்திரியன்</tam> <t>taittiriyaṉ</t></hw> , <i>n</i>. < <i>taittirīya</i>. A follower of the Taittirīya recension of the Yajur-vēda; <tam>எசுர்வேதத்தில் தைத்திரிய சாகையைச் சேர்ந்தவன். ஐந்தழலோம்பு தைத்திரியன்</tam> (<tam>திவ். பெரியதி</tam>. 5, 5, 9).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/fabricius_query.py?qs=தைத்திரியம்&searchhws=yes&matchtype=exact">தைத்திரியம்</a> taittiriyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=564">p. 564</a>)
+		<blockquote><p>*<hw><tam>தைத்திரியம்</tam></hw> , <i>s.</i> the second of the four Vedas; 2. one of the Upanishads.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்திரியம்&searchhws=yes&matchtype=exact">தைத்திரியம்</a> taittiriyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைத்திரியம்</hw> - இரண்டாம்வேதம், உப நிடத முப்பத்திரண்டி னொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்திரியம்&searchhws=yes&matchtype=exact">தைத்திரியம்</a> taittiriyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>தைத்திரியம்</hw> - ஓர்வேதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/winslow_query.py?qs=தைத்திரியம்&searchhws=yes&matchtype=exact">தைத்திரியம்</a> taittiriyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p>*<hw><tam>தைத்திரியம்</tam></hw> , <i>s.</i> The second of the four Vedas. <tam>இரண்டாம்வேதம்</tam>; also one of the Upanishads. See <tam>உபநிடதம்</tam>. W. p. 385. <smallcaps>TAITTIRIYA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைத்திரீயம்&searchhws=yes&matchtype=exact">தைத்திரீயம்</a> taittirīyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைத்திரீயம்</tam> <t>taittirīyam</t></hw> , <i>n</i>. < <i>taittirīya</i>. 1. A recension of the Yajur-vēda; <tam>எசுர்வேத சாகை களுள் ஒன்று</tam>. (<smallcap>T. A. S</smallcap>. II, i, 3.) 2. An Upaniṣad, one of <i>tacōpaniṭatam</i>, q. v.; <tam>உபநிடதம் பத்தனுள் ஒன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைத்ரீயகன்&searchhws=yes&matchtype=exact">தைத்ரீயகன்</a> taitrīyakaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைத்ரீயகன்</hw> - இரண்டாம் வேதானு சாரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைநம்&searchhws=yes&matchtype=exact">தைநம்</a> tainam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைநம்</hw> - ஏளிமை, தீனத்துவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைந்நீராடல்&searchhws=yes&matchtype=exact">தைந்நீராடல்</a> tainnīrāṭal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைந்நீராடல்</tam> <t>tai-n-nīrāṭal</t></hw> , <i>n</i>. < <tam>தை⁵</tam> +. Ceremonial ablution of maidens in the lunar month of Tai; <tam>சாந்திரமானத் திஷ்யமாதத்தில் கன் னிப் பெண்கள் நீராடுஞ்சடங்கு. இன்ன பண்பினின் றைந்நீராடல்</tam> (<tam>பரிபா</tam>. 11, 134).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைனம்&searchhws=yes&matchtype=exact">தைனம்</a> taiṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைனம்</hw> - தினம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/fabricius_query.py?qs=தைனாத்து&searchhws=yes&matchtype=exact">தைனாத்து</a> taiṉāttu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=565">p. 565</a>)
+		<blockquote><p><hw><tam>தைனாத்து</tam></hw> , <i>s. (Ar.)</i> appointment, attendance, service; also the person. <p2><tam>தைனாத்துச்சேவகன்</tam>, a volunteer peon.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைனாத்து&searchhws=yes&matchtype=exact">தைனாத்து</a> taiṉāttu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2077">p. 2077</a>)
+		<blockquote><p><hw><tam>தைனாத்து</tam> <t>taiṉāttu</t></hw> , <i>n</i>. < U. <i>taināt</i>. (<smallcap>C. G</smallcap>.) 1. Appointment; <tam>நியமனம்</tam>. 2. Peon, personal attendant; <tam>சேவகன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/winslow_query.py?qs=தைனாத்து&searchhws=yes&matchtype=exact">தைனாத்து</a> taiṉāttu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p><hw><tam>தைனாத்து</tam></hw> , <i>s. (Arab.)</i> Appointment, attendance, service; also the person. <p2><tam>தைனாத்துச்சேவகன்</tam>, <i>s.</i> A volunteer peon.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைனாத்துச்சேவகன்&searchhws=yes&matchtype=exact">தைனாத்துச்சேவகன்</a> taiṉāttuccēvakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2077">p. 2077</a>)
+		<blockquote><p><hw><tam>தைனாத்துச்சேவகன்</tam> <t>taiṉāttu-c-cēvakaṉ</t></hw> , <i>n</i>. < id. +. A volunteer peon; <tam>தொழில் கற்றுக்கொள்ளும்பொருட்டுச் சம்பளமில்லாமல் வேலை பார்க்குஞ் சேவகன்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/fabricius_query.py?qs=தைனியம்&searchhws=yes&matchtype=exact">தைனியம்</a> taiṉiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=565">p. 565</a>)
+		<blockquote><p>*<hw><tam>தைனியம்</tam></hw> , <i>s.</i> same as <tam>தயினியம்</tam>, lowness, humbleness; covetousness. <p2><tam>தைனியவசனம்</tam>, submissive language.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைனியம்&searchhws=yes&matchtype=exact">தைனியம்</a> taiṉiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைனியம்</hw> - உலோகம், கீழ்மை, தாழ் மை, பொருளாசை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைனியம்&searchhws=yes&matchtype=exact">தைனியம்</a> taiṉiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2077">p. 2077</a>)
+		<blockquote><p><hw><tam>தைனியம்</tam> <t>taiṉiyam</t></hw> , <i>n</i>. < <i>dainya</i>. 1. Poverty, affliction, depression; <tam>எளிமை</tam>. 2. Meanness; <tam>கீழ்மை</tam>. (<smallcap>W</smallcap>.) 3. Covetousness; <tam>உலோபம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/winslow_query.py?qs=தைனியம்&searchhws=yes&matchtype=exact">தைனியம்</a> taiṉiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p>*<hw><tam>தைனியம்</tam></hw> , <i>s.</i> [<i>also</i> <tam>தயினியம்</tam>.] Lowness, humbleness, submissiveness, <tam>ஏளிமை</tam>. 2. Nigardliness, covetousness, <tam>உலோபம்</tam>. W. p. 425. <smallcaps>DAINYA.</smallcaps> <p2><tam>தைனியவசனம்</tam>, <i>s.</i> Submissive language, <tam>வணக்கமானசொல்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைப்பான்&searchhws=yes&matchtype=exact">தைப்பான்</a> taippāṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைப்பான்</hw> - ஊசி, தையற்காரன், </p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைப்பான்&searchhws=yes&matchtype=exact">தைப்பான்</a> taippāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைப்பான்</tam> <t>taippāṉ</t></hw> , <i>n</i>. < <tam>தை-. (யாழ். அக.)</tam> 1. Needle; <tam>ஊசி</tam>. 2. Tailor; <tam>தையற்காரன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைப்பிறப்பு&searchhws=yes&matchtype=exact">தைப்பிறப்பு</a> taippiṟappu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைப்பிறப்பு</tam> <t>tai-p-piṟappu</t></hw> , <i>n</i>. < <tam>தை⁵</tam> +. <tam>தைச்சங்கிராந்தி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைப்பு&searchhws=yes&matchtype=exact">தைப்பு</a> taippu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைப்பு</hw> - தையல்செய்தல், பொருத்துதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைப்புமுத்து&searchhws=yes&matchtype=exact">தைப்புமுத்து</a> taippumuttu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S323">p. S323</a>)
+		<blockquote><p><hw><tam>தைப்புமுத்து</tam> <t>taippu-muttu</t></hw> , <i>n</i>. perh. <tam>தை-</tam> + <tam>பூ</tam> +. A kind of pearl; <tam>முத்துவகை</tam>. (<smallcap>S. I. I</smallcap>. ii, 34.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைப்பூசம்&searchhws=yes&matchtype=exact">தைப்பூசம்</a> taippūcam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைப்பூசம்</hw> - தைமாதத்துப் பூசத்திருநாள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைப்பூசம்&searchhws=yes&matchtype=exact">தைப்பூசம்</a> taippūcam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைப்பூசம்</tam> <t>tai-p-pūcam</t></hw> , <i>n</i>. < id. +. The full moon in the month of Tai, a day of festival; <tam>தைமாசத்துப் பௌர்ணிமையோடுகூடிய பூசத் திரு விழா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைப்பை&searchhws=yes&matchtype=exact">தைப்பை</a> taippai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>தைப்பை</hw> - சட்டை, வினைமுற்ற.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைப்பை&searchhws=yes&matchtype=exact">தைப்பை</a> taippai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைப்பை</tam> <t>tai-p-pai</t></hw> , <i>n</i>. < <tam>தை-</tam> +. Coat, jacket, as sewn; <tam>சட்டை. (அக. நி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/winslow_query.py?qs=தைப்பை&searchhws=yes&matchtype=exact">தைப்பை</a> taippai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p><hw><tam>தைப்பை</tam></hw> , <i>s.</i> See <tam>தை</tam>, <i>v. a.</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைப்பொங்கல்&searchhws=yes&matchtype=exact">தைப்பொங்கல்</a> taippoṅkal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைப்பொங்கல்</tam> <t>tai-p-poṅkal</t></hw> , <i>n</i>. < <tam>தை⁵</tam> +. Hindu festival on the first day of Tai, celebrated with <i>poṅkal</i>; <tam>தைப்பிறப்பன்று பொங்க லிட்டுக் கொண்டாடப்படும் சங்கிராந்திப்பண்டிகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைமாதம்&searchhws=yes&matchtype=exact">தைமாதம்</a> taimātam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1452">p. 1452</a>)
+		<blockquote><p><hw>தைமாதம்</hw> - தைடம், பௌடம், மகரரவி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தையறம்&searchhws=yes&matchtype=exact">தையறம்</a> taiyaṟam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தையறம்</hw> - தைவறப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தையறம்&searchhws=yes&matchtype=exact">தையறம்</a> taiyaṟam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தையறம்</tam> <t>tai-y-aṟam</t></hw> , <i>n</i>. < <tam>தை⁵</tam> +. Drought in the month of Tai; <tam>தைமாசத்து வறட்சி</tam>. (<smallcap>J</smallcap>.) (<tam>யாழ். அக</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		114) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தையற்காரன்&searchhws=yes&matchtype=exact">தையற்காரன்</a> taiyaṟkāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தையற்காரன்</tam> <t>taiyaṟ-kāraṉ</t></hw> , <i>n</i>. < id. +. [M. <i>taiyalkāran</i>.] 1. Tailor; <tam>தைப்போன்</tam>. 2. Knitter; <tam>பின்னல்வேலை செய்வோன்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		115) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தையற்காரர்&searchhws=yes&matchtype=exact">தையற்காரர்</a> taiyaṟkārar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1452">p. 1452</a>)
+		<blockquote><p><hw>தையற்காரர்</hw> - துன்னர், பொல்லர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		116) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தையற்பெட்டி&searchhws=yes&matchtype=exact">தையற்பெட்டி</a> taiyaṟpeṭṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தையற்பெட்டி</tam> <t>taiyaṟ-peṭṭi</t></hw> , <i>n</i>. < id. +. Work-basket, box containing articles for needlework; <tam>தையற்கருவி அடங்கிய பெட்டி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		117) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தையலூசி&searchhws=yes&matchtype=exact">தையலூசி</a> taiyalūci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தையலூசி</tam> <t>taiyal-ūci</t></hw> , <i>n</i>. < id. +. Sewing needle; <tam>தைத்தற்குரிய ஊசி</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		118) <a href="/cgi-bin/app/crea_query.py?qs=தையல்&searchhws=yes&matchtype=exact">தையல்</a> taiyal
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=580">p. 580</a>)
+		<blockquote><p><hw>தையல்<sup>1</sup></hw> பெ. 1: தைக்கப்பட்ட ஆடைகளில் உள்ள நூல் பின்னல்; (துணி, தோல் போன்றவற்றில் இரு துண்டுகளை அல்லது கிழிசலை) இணைத்திருக்கும் நூல் இணைப்பு; stitching. சட்டைத் தையல் பிரிந்திருக்கிறது./ செருப்பில் தையல் சரியாக இல்லை. 2: துணியை ஆடையாகத் தைக்கும் தொழில்; tailoring; sewing. இப்போது தையல் படித்துக்கொண்டிருக்கிறாள். 3: (அறுவைச் சிகிச்சையின்போது) தோலை நரம்பால் சேர்த்துத் தைத்தல்; (in surgery) suture. காயம் ஏற்பட்ட இடத்தில் பத்துத் தையல்கள் போடப்பட்டுள்ளன./ என் நெற்றியில் போடப்பட்ட தையலை நாளை பிரிப்பார்கள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		119) <a href="/cgi-bin/app/crea_query.py?qs=தையல்&searchhws=yes&matchtype=exact">தையல்</a> taiyal
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=580">p. 580</a>)
+		<blockquote><p><hw>தையல்<sup>2</sup></hw> பெ. [உ.வ.] 1: பெண்; woman. தையல் மேல் கொண்ட மையல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		120) <a href="/cgi-bin/app/fabricius_query.py?qs=தையல்&searchhws=yes&matchtype=exact">தையல்</a> taiyal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=564">p. 564</a>)
+		<blockquote><p><hw><tam>தையல்</tam></hw> , <i>s.</i> beauty, <tam>அழகு</tam>; 2. woman, <tam>பெண்</tam>; 3. <i>v. n.</i> of <tam>தை</tam> VI.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		121) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தையல்&searchhws=yes&matchtype=exact">தையல்</a> taiyal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தையல்</hw> - அழகு, தைப்பு, பெண்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		122) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தையல்&searchhws=yes&matchtype=exact">தையல்</a> taiyal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>தையல்</hw> - அழகு, தைத்தல், பெண், வி யங்கோண்முற்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		123) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தையல்&searchhws=yes&matchtype=exact">தையல்</a> taiyal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தையல்</tam> <t>taiyal</t></hw> , <i>n</i>. < <tam>தை-</tam>. [M. <i>taiyal</i>.] 1. Sewing, stitching; <tam>தைப்பு</tam>. 2. Needlework, embroidery; <tam>தையல்வேலை</tam>. 3. Lace; <tam>அலங் காரத்துணி</tam>. <i>Loc</i>. 4. That which is adorned, decorated; <tam>புனையப்படுவது</tam>. (<tam>திருக்கோ</tam>. 60, <tam>கொளு</tam>.) 5. Symmetrical beauty or gracefulness; <tam>கட்டழகு. (திவா.)</tam> 6. Woman; <tam>பெண். தையா றம்பலந் தின் றியோ</tam> (<tam>கலித்</tam>. 65, 13). 7. Cloud; <tam>மேகம். தானே மழைபொழி தையலுமாய் நிற்கும்</tam> (<tam>திருமந்</tam>. 10).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		124) <a href="/cgi-bin/app/winslow_query.py?qs=தையல்&searchhws=yes&matchtype=exact">தையல்</a> taiyal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p><hw><tam>தையல்</tam></hw> , <i>s.</i> Beauty, fairness, gracefulness, handsomeness, <tam>அழகு</tam>. 2. One of the fair sex, a woman, <tam>பெண்</tam>. (<tam>சது</tam>.) See <tam>தை</tam>, <i>v. a.</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		125) <a href="/cgi-bin/app/crea_query.py?qs=தையல் இயந்திரம்&searchhws=yes&matchtype=exact">தையல் இயந்திரம்</a> taiyal iyantiram
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=580">p. 580</a>)
+		<blockquote><p><hw>தையல் இயந்திரம்</hw> பெ. 1: ஆடை முதலியவற்றைத் தைப்பதற்கான இயந்திரம்; sewing machine.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		126) <a href="/cgi-bin/app/crea_query.py?qs=தையல் இலை&searchhws=yes&matchtype=exact">தையல் இலை</a> taiyal ilai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=580">p. 580</a>)
+		<blockquote><p><hw>தையல் இலை</hw> பெ. 1: (உணவுப் பொருள்களை வைப்பதற்கு) ஈர்க்குச்சி கொண்டு ஒன்றோடு ஒன்று இணைத்த சில மரங்களின் காய்ந்த இலைகள்; dry broad leaves of certain trees joined together by thin ribs of palm (used for serving food, etc.).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		127) <a href="/cgi-bin/app/crea_query.py?qs=தையல்காரன்&searchhws=yes&matchtype=exact">தையல்காரன்</a> taiyalkāraṉ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=580">p. 580</a>)
+		<blockquote><p><hw>தையல்காரன்</hw> பெ. 1: ஆடை தைக்கும் தொழில் செய்பவன்; tailor.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		128) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தையல்பாகன்&searchhws=yes&matchtype=exact">தையல்பாகன்</a> taiyalpākaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தையல்பாகன்</tam> <t>taiyal-pākaṉ</t></hw> , <i>n</i>. < <tam>தையல்</tam> +. Siva, as having Pārvatī on His left; <tam>[பார்வதிதேவியை இடப்பாகத்துடையவன்] சிவன். தையல்பாகனுஞ் சதுமுகக் கடவுளுங் கூடி</tam> (<tam>கம்பரா. அகலிகை</tam>. 19).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		129) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தையான்&searchhws=yes&matchtype=exact">தையான்</a> taiyāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தையான்</tam> <t>taiyāṉ</t></hw> , <i>n</i>. < <tam>தை-</tam>. Tailor; <tam>தையற் காரன்</tam>. (Insc.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		130) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தையெனல்&searchhws=yes&matchtype=exact">தையெனல்</a> taiyeṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தையெனல்</tam> <t>tai-y-eṉal</t></hw> , <i>n</i>. Onom. expr. of musical sound; <tam>இசைக்குறிப்பு. தையெனக் கோவலர் தனிக்குழ லிசைகேட்டு</tam> (<tam>கலித்</tam>. 118, 13).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		131) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைரியக்காரன்&searchhws=yes&matchtype=exact">தைரியக்காரன்</a> tairiyakkāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைரியக்காரன்</tam> <t>tairiya-k-kāraṉ</t></hw> , <i>n</i>. < <tam>தைரியம்¹</tam> +. See <tam>தைரியசாலி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		132) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைரியசாலி&searchhws=yes&matchtype=exact">தைரியசாலி</a> tairiyacāli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைரியசாலி</tam> <t>tairiya-cāli</t></hw> , <i>n</i>. < id. +. Courageous man, self-confident person; <tam>மனத் துணிவுள்ளவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		133) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைரியஞ்சொல்-தல், தைரியஞ்சொலு-தல்&searchhws=yes&matchtype=exact">தைரியஞ்சொல்-தல், தைரியஞ்சொலு-தல்</a> tairiyañcol-tal, tairiyañcolu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைரியஞ்சொல்(லு)-தல்</tam> <t>tairiyañ-col-</t></hw> , <i>v. intr</i>. < id. +. To encourage by advice; <tam>ஊக்கங் கொடுத்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		134) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைரியநாதசுவாமிகள்&searchhws=yes&matchtype=exact">தைரியநாதசுவாமிகள்</a> tairiyanātacuvāmikaḷ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைரியநாதசுவாமிகள்</tam> <t>tairiya-nāta-cuvāmikaḷ</t></hw> , <i>n</i>. < id. +. Father Constantius Beschi. See <tam>வீரமாமுனிவர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		135) <a href="/cgi-bin/app/crea_query.py?qs=தைரியம்&searchhws=yes&matchtype=exact">தைரியம்</a> tairiyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=580">p. 580</a>)
+		<blockquote><p><hw>தைரியம்</hw> பெ. (-ஆக, -ஆன) 1: பயம் இல்லாத தன்மை; (மனத்தில்) துணிவு; courage; boldness. அதிகாரத்தை எதிர்க்கத் தைரியம் வேண்டும்./ தைரியமாக வாழக் கற்றுக்கொள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		136) <a href="/cgi-bin/app/fabricius_query.py?qs=தைரியம்&searchhws=yes&matchtype=exact">தைரியம்</a> tairiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=564">p. 564</a>)
+		<blockquote><p>*<hw><tam>தைரியம்</tam></hw> , <tam>தயிரியம்</tam>, <i>s.</i> courage, boldness, <tam>துணிவு</tam>; 2. a horse's trot. <p2><tam>தைரியசாலி</tam>, <tam>தைரியவான்</tam>, a bold, brave, daring person, <tam>தைரியக் காரன்</tam>.</p2> <p2><tam>தைரியங் கொடுக்க</tam>, to embolden, to encourage, to animate.</p2> <p2><tam>தைரியங்கொள்ள</tam>, <tam>தைரியப்பட</tam>, to take courage, to cheer up, to be en- couraged.</p2> <p2><tam>தைரியஞ் சொல்ல</tam>, to encourage by advice.</p2> <p2><tam>மனத்தைரியம்</tam>, <tam>நெஞ்சுதைரியம்</tam>, courage, fortitude.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		137) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைரியம்&searchhws=yes&matchtype=exact">தைரியம்</a> tairiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைரியம்</hw> - குதிரையின் கெச்சைநடை, திடம்,பலம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		138) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைரியம்&searchhws=yes&matchtype=exact">தைரியம்</a> tairiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2075">p. 2075</a>)
+		<blockquote><p><hw><tam>தைரியம்¹</tam> <t>tairiyam</t></hw> , <i>n</i>. < <i>dhairya</i>. Courage, self-confidence; <tam>மனத்துணிவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		139) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைரியம்&searchhws=yes&matchtype=exact">தைரியம்</a> tairiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைரியம்²</tam> <t>tairiyam</t></hw> , <i>n</i>. < <i>dhaurya</i>. Trot of a horse; <tam>குதிரையின் பெருமித நடை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		140) <a href="/cgi-bin/app/winslow_query.py?qs=தைரியம்&searchhws=yes&matchtype=exact">தைரியம்</a> tairiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p>*<hw><tam>தைரியம்</tam></hw> , <i>s.</i> [<i>sometimes</i> <tam>தயிரியம்</tam>.] Steadiness, courage, encouragement, con- fidence, &c., <tam>துணிவு</tam>, W. p. 447. <smallcaps>DHAIRYA.</smallcaps> 2. A horse's trot, <tam>குதிரையின்கெச்சைநடை</tam>. <i>(Sa. Dhowrya.)</i> <p2><tam>தைரியக்காரன்</tam>–<tam>தைரியசாலி</tam>, <i>s.</i> A courageous person.</p2> <p2><tam>தைரியங்கொடுக்க</tam>, <i>inf.</i> To animate, to encourage, to embolden.</p2> <p2><tam>தைரியங்கொள்ள</tam>–<tam>தைரியப்பட</tam>, <i>inf.</i> To take courage, to be encouraged, to cheer up.</p2> <p2><tam>தைரியஞ்சொல்ல</tam>, <i>inf.</i> To encourage by advice.</p2> <p2><tam>தைரியலட்சுமி</tam>, <i>s.</i> Lukshmi, as the goddess of valor. See <tam>இலட்சுமி</tam>.</p2> <p2><tam>தைரியவான்</tam>, <i>s.</i> A courageous man, as <tam>தைரியசாலி</tam>.</p2> <p2><tam>மனத்தைரியம்</tam>, <i>s.</i> Fortitude, courage.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		141) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைரியலக்ஷ்மி&searchhws=yes&matchtype=exact">தைரியலக்ஷ்மி</a> tairiyalakṣmi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைரியலக்ஷ்மி</tam> <t>tairiya-lakṣmi</t></hw> , <i>n</i>. < <i>dhairya</i> +. Goddess of Courage; <tam>தைரியத்தின் அதி தேவதையாகிய திரு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		142) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைரியலட்சுமி&searchhws=yes&matchtype=exact">தைரியலட்சுமி</a> tairiyalaṭcumi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைரியலட்சுமி</hw> - அட்ட லட்சுமிகளிலொருத்தி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		143) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைரியவான்&searchhws=yes&matchtype=exact">தைரியவான்</a> tairiyavāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைரியவான்</tam> <t>tairiyavāṉ</t></hw> , <i>n</i>. < <i>dhairyavān</i> nom. sing. of <i>dhairyavat</i>. Bold, courageous person; <tam>தைரியமுள்ளோன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		144) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலகிட்டம்&searchhws=yes&matchtype=exact">தைலகிட்டம்</a> tailakiṭṭam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலகிட்டம்</hw> - ஏண்ணெய்க்காப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		145) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலக்காப்பு&searchhws=yes&matchtype=exact">தைலக்காப்பு</a> tailakkāppu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலக்காப்பு</tam> <t>taila-k-kāppu</t></hw> , <i>n</i>. < <tam>தைலம்</tam> +. 1. Anointing an idol with fragrant oil; <tam>சுவாமி திருமேனியில் எண்ணெய்சாத்துகை</tam>. 2. Inunction; <tam>எண்ணெய் தேய்த்துக்கொள்ளுகை</tam>. <i>Vaiṣṇ</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		146) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலக்காரன்&searchhws=yes&matchtype=exact">தைலக்காரன்</a> tailakkāraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலக்காரன்</hw> - ஏண்ணெய் வாணிபன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		147) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலக்காரன்&searchhws=yes&matchtype=exact">தைலக்காரன்</a> tailakkāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலக்காரன்</tam> <t>taila-k-kāraṉ</t></hw> , <i>n</i>. < id. +. 1. Oil-monger; <tam>எண்ணெய் வாணிகன். (யாழ். அக.)</tam> 2. Apothecary; <tam>வைத்தியன்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		148) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலங்கூட்டு-தல்&searchhws=yes&matchtype=exact">தைலங்கூட்டு-தல்</a> tailaṅkūṭṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலங்கூட்டு-தல்</tam> <t>tailaṅ-kūṭṭu-</t></hw> , <i>v. intr</i>. < id. +. To distil essential oil; <tam>தைலமிறக்கு தல்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		149) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலசௌரிகை&searchhws=yes&matchtype=exact">தைலசௌரிகை</a> tailacaurikai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலசௌரிகை</hw> - வௌவால்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		150) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலசௌரிகை&searchhws=yes&matchtype=exact">தைலசௌரிகை</a> tailacaurikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலசௌரிகை</tam> <t>taila-caurikai</t></hw> , <i>n</i>. < <i>taila</i> + <i>caurikā</i>. 1. Cockroach, <i>Blatta orientalis</i>; <tam>கரப்புப்பூச்சி</tam>. 2. Bat; <tam>வவ்வால். (மூ. அ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		151) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலத்தோணி&searchhws=yes&matchtype=exact">தைலத்தோணி</a> tailattōṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S323">p. S323</a>)
+		<blockquote><p><hw><tam>தைலத்தோணி</tam> <t>taila-t-tōṇi</t></hw> , <i>n</i>. < <tam>தைலம்</tam> +. A longish tub for preserving dead body in medicated oil; <tam>எண்ணெய்த்தொட்டி. தைலத் தோணி வளர்த்துமி னென்னச் சொன்னான்</tam> (<tam>கம்பரா. யுத்த. இராவணன்சோக</tam>. 61).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		152) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலபர்ணிகம்&searchhws=yes&matchtype=exact">தைலபர்ணிகம்</a> tailaparṇikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலபர்ணிகம்</hw> - வெண்சந்தநம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		153) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலபர்ணிகம்&searchhws=yes&matchtype=exact">தைலபர்ணிகம்</a> tailaparṇikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலபர்ணிகம்</tam> <t>taila-parṇikam</t></hw> , <i>n</i>. < <i>taila-parṇika</i>. White sandalwood; <tam>வெண்சந்தனம். (மூ. அ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		154) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலபிபீலிகை&searchhws=yes&matchtype=exact">தைலபிபீலிகை</a> tailapipīlikai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலபிபீலிகை</hw> - செவ்வெறும்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		155) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலபிபீலிகை&searchhws=yes&matchtype=exact">தைலபிபீலிகை</a> tailapipīlikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலபிபீலிகை</tam> <t>taila-pipīlikai</t></hw> , <i>n</i>. < <i>taila</i> +. A kind of red ant; <tam>செவ்வெறும்புவகை. (மூ. அ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		156) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலபீதம்&searchhws=yes&matchtype=exact">தைலபீதம்</a> tailapītam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலபீதம்</hw> - தயிலபீதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		157) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலபீதம்&searchhws=yes&matchtype=exact">தைலபீதம்</a> tailapītam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலபீதம்</tam> <t>taila-pītam</t></hw> , <i>n</i>. < id. +. Gum of the country fig; <tam>அத்திப் பிசின். (மூ. அ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		158) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலமாட்டு-தல்&searchhws=yes&matchtype=exact">தைலமாட்டு-தல்</a> tailamāṭṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலமாட்டு-தல்</tam> <t>tailam-āṭṭu-</t></hw> , <i>v. intr</i>. < <tam>தைலம்</tam> +. 1. To anoint the head or body; <tam>எண்ணெய்க்காப்பிடுதல்</tam>. 2. To preserve a corpse by immersing it in oil, embalm; <tam>பிரேதத்தைத் தைலத்தால் சேமித்துவைத்தல். தைலமாட்டுபடலம். (கம்பரா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		159) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலமாட்டுதல்&searchhws=yes&matchtype=exact">தைலமாட்டுதல்</a> tailamāṭṭutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலமாட்டுதல்</hw> - ஏண்ணெயபிஷேகம் பண்ணல், பிரேதாலங்காரம் பண்ணல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		160) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலமாலி&searchhws=yes&matchtype=exact">தைலமாலி</a> tailamāli
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலமாலி</hw> - திரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		161) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலமிடுதல்&searchhws=yes&matchtype=exact">தைலமிடுதல்</a> tailamiṭutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலமிடுதல்</hw> - ஏண்ணெய் பொருத்து தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		162) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலமிறக்கு-தல்&searchhws=yes&matchtype=exact">தைலமிறக்கு-தல்</a> tailamiṟakku-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலமிறக்கு-தல்</tam> <t>tailam-iṟakku-</t></hw> , <i>v</i>. < id. +. <i>intr</i>. To extract or distil medicinal or fragrant oils; <tam>தைலம் வடித்தல்</tam>. — <i>tr</i>. To deprive one of strength, physical or mental; <tam>சத்தியை வாங்கி விடுதல்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		163) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலமிறக்குதல்&searchhws=yes&matchtype=exact">தைலமிறக்குதல்</a> tailamiṟakkutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலமிறக்குதல்</hw> - ஏண்ணெய்வடித்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		164) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலமெடு-த்தல்&searchhws=yes&matchtype=exact">தைலமெடு-த்தல்</a> tailameṭu-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலமெடு-த்தல்</tam> <t>tailam-eṭu-</t></hw> , <i>v. tr</i>. < id. +. See <tam>தைலமிறக்கு-. அவனைத் தைலமெடுத்து விட்டான்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		165) <a href="/cgi-bin/app/crea_query.py?qs=தைலம்&searchhws=yes&matchtype=exact">தைலம்</a> tailam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=580">p. 580</a>)
+		<blockquote><p><hw>தைலம்</hw> பெ. 1: (மேல்பூச்சு மருந்தாக அல்லது வாசனைப் பொருளாகப் பயன்படுத்த) சில தாவரங்களிலிருந்தோ சில விலங்குகளிலிருந்தோ எடுத்துப் பக்குவப்படுத்தித் தயாரிக்கப்படும் எண்ணெய்; oil-like extract from certain flora and fauna; medicinal oil. வாசனைத் தைலங்கள்/ சந்தனத் தைலம்/ உடும்புத் தைலம் 2: (தலைவலி முதலியவற்றிற்கு) மேல்பூச்சு மருந்தாகப் பயன்படும் களிம்பு; balm (for headache, etc.). தலைவலித் தைலம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		166) <a href="/cgi-bin/app/fabricius_query.py?qs=தைலம்&searchhws=yes&matchtype=exact">தைலம்</a> tailam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=564">p. 564</a>)
+		<blockquote><p>*<hw><tam>தைலம்</tam></hw> , <tam>தயிலம்</tam>, <i>s.</i> oil, <tam>எண்ணெய்</tam>; 2. medicinal or essential oil, balsam, unguent, ointment, <tam>மருந்தெண்ணெய்</tam>; 3. sap, <tam>சாரம்</tam>; 4. <i>(fig.)</i> strength, <tam>சத்து</tam>. <p2><tam>இந்தமரம் தைலஞ்செத்தது</tam>, this tree has lost its juice or strength.</p2> <p2><tam>தைலக்காப்பு</tam>, <tam>தைலாபிஷேகம்</tam>, anointing an idol with fragrant oil.</p2> <p2><tam>தைலங்கூட்ட</tam>, to distil essential oil.</p2> <p2><tam>தைலபீதம்</tam>, the gum of the fig tree, <tam>அத்திப்பிசின்</tam>.</p2> <p2><tam>தைலம்இட</tam>, -<tam>பூச</tam>, to rub oil on the body.</p2> <p2><tam>தைலம் இறக்க</tam>, -<tam>எடுக்க</tam>, -<tam>வடிக்க</tam>, to distil oil, to make oil, ointment orbalm; 2. to deprive one of his ability.</p2> <p2><tam>பரிமளதைலம்</tam>, a sweet ointment, a perfume.</p2> <p2><tam>பரிமளகூந்தல்தைலம்</tam>, a fragrant hair- oil.</p2> <p2><tam>தைலி</tam>, <tam>தைலிகன்</tam>, an oil-monger.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		167) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலம்&searchhws=yes&matchtype=exact">தைலம்</a> tailam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=839">p. 839</a>)
+		<blockquote><p><hw>தைலம்</hw> - விரனுனி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		168) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலம்&searchhws=yes&matchtype=exact">தைலம்</a> tailam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலம்</hw> - சத்து, சாரம், தயிலம்,ஏள் ளெண்ணெய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		169) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலம்&searchhws=yes&matchtype=exact">தைலம்</a> tailam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலம்</tam> <t>tailam</t></hw> , <i>n</i>. < <i>taila</i>. 1. Sesame oil; <tam>நல்லெண்ணெய். (சூடா.)</tam> 2. Castor oil; <tam>ஆமணக் கெண்ணெய். (மூ. அ.)</tam> 3. Oil, unguent; <tam>எண் ணெய்</tam>. 4. Fragrant oil; <tam>வாசனைப் பண்டங்களு ளொன்று</tam>. (<tam>சிலப்</tam>. 14, 108, <tam>உரை</tam>.) 5. Essential vegetable oil, balsam, medicinal oil; <tam>கூட்டெண் ணெய்</tam>. (<smallcap>W</smallcap>.) 6. Sap of a tree or plant; <tam>மரச் சத்து</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		170) <a href="/cgi-bin/app/winslow_query.py?qs=தைலம்&searchhws=yes&matchtype=exact">தைலம்</a> tailam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p>*<hw><tam>தைலம்</tam></hw> , <i>s.</i> [<i>also</i> <tam>தயிலம்</tam>.] Gingely oil; oil from Sesamum, <tam>நல்லெண்ணெய்</tam>. W. p. 385. <smallcaps>TAILA.</smallcaps> 2. Oil, unquent, <tam>ஏண்ணெய்</tam>. 3. Fragrant oil, essential vegetable oil, balsam, medicinal oil, tincture, <tam>மருந்தெண்ணெய்</tam>. 4. An oil or balsam for anointing, <tam>அபிஷேகதைலம்</tam>. 5. The sap of a tree or plant, <tam>சாரம்</tam>, 6. <i>(fig.)</i> Strength, <tam>சத்து</tam>. <i>(c.)</i> <tam>இந்தமரந்தைலஞ்செத்தது</tam>. The tree has lost its juice or strength. <p2><tam>தைலக்காப்பு</tam>, <i>v. noun.</i> Anointing an idol, &c., with fragrant oil. See <tam>ஏண்ணெய்க்காப்பு</tam>.</p2> <p2><tam>தைலக்காரன்</tam>, <i>s.</i> An apothecary, <tam>தைலம்விற்போன்</tam>.</p2> <p2><tam>தைலங்கூட்ட</tam>, <i>inf.</i> To distil essen- tial oil.</p2> <p2><tam>தைலபீதம்</tam>, <i>s.</i> The gum of the red wooded or country fig-tree, <tam>அத்திப்பிசின்</tam>, Ficus racemosa.</p2> <p2><tam>தைலமாட்ட</tam>, <i>inf.</i> To anoint the head or body, <tam>ஏண்ணெய்க்காப்பிட</tam>. 2. To embalm a dead body, <tam>பிரேதாலங்காரம்பண்ண</tam>. <i>(p.)</i></p2> <p2><tam>தைலமிட</tam>–<tam>தைலம்பூச</tam>, <i>inf.</i> To rub oil on the body.</p2> <p2><tam>தைலமிறக்க</tam>–<tam>தைலமெடுக்க</tam>, <i>inf.</i> To extract or distil medicinal or fragrant oils. 2. To deprive one of ability, bodily, pecuniary, &c., <tam>சத்தெடுக்க</tam>.</p2> <p2><tam>தைலம்வடிக்க</tam>, <i>inf.</i> As <tam>தைலமிறக்க</tam>.</p2> <p2><tam>தைலாபிஷேகம்</tam>, <i>s.</i> As <tam>தைலக்காப்பு</tam>.</p2> <p2><tam>பரிமளதைலம்</tam>, <i>s.</i> Sweet ointment, perfume.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		171) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலவருக்கச்சுருக்கம்&searchhws=yes&matchtype=exact">தைலவருக்கச்சுருக்கம்</a> tailavarukkaccurukkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலவருக்கச்சுருக்கம்</tam> <t>taila-varukka-c-curukkam</t></hw> , <i>n</i>. < id. +. A medical treatise in Tamil by Tēraiyar; <tam>தேரையர் இயற்றிய தமிழ் வைத்தியநூல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		172) <a href="/cgi-bin/app/fabricius_query.py?qs=தைலா&searchhws=yes&matchtype=exact">தைலா</a> tailā
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=564">p. 564</a>)
+		<blockquote><p><hw><tam>தைலா</tam></hw> , <i>s. (Port.)</i> a wooden box, a trunk, <tam>மரப்பெட்டி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		173) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலா&searchhws=yes&matchtype=exact">தைலா</a> tailā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலா</tam> <t>tailā</t></hw> , <i>n</i>. < U. <i>thailē</i>. Wooden box, trunk; <tam>மரப்பெட்டி</tam>. (<smallcap>J</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		174) <a href="/cgi-bin/app/winslow_query.py?qs=தைலா&searchhws=yes&matchtype=exact">தைலா</a> tailā
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p><hw><tam>தைலா</tam></hw> , <i>s. (Port.)</i> A wooden box, trunk, <tam>மரப்பெட்டி</tam>, <i>(Jaffna usage.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		175) <a href="/cgi-bin/app/fabricius_query.py?qs=தைலாங்குருவி&searchhws=yes&matchtype=exact">தைலாங்குருவி</a> tailāṅkuruvi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=564">p. 564</a>)
+		<blockquote><p><hw><tam>தைலாங்குருவி</tam></hw> , <i>s.</i> a small bird, <tam>தகைவி லான் குருவி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		176) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலாங்குருவி&searchhws=yes&matchtype=exact">தைலாங்குருவி</a> tailāṅkuruvi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலாங்குருவி</hw> - தகைவிலான் குருவி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		177) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலாங்குருவி&searchhws=yes&matchtype=exact">தைலாங்குருவி</a> tailāṅkuruvi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலாங்குருவி</tam> <t>tailāṅ-kuruvi</t></hw> , <i>n</i>. Swallow. See <tam>தகைவிலாங்குருவி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		178) <a href="/cgi-bin/app/winslow_query.py?qs=தைலாங்குருவி&searchhws=yes&matchtype=exact">தைலாங்குருவி</a> tailāṅkuruvi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p><hw><tam>தைலாங்குருவி</tam></hw> , <i>s.</i> A small bird. See <tam>தகைவிலான்குருவி</tam>, <i>(c.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		179) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலாபிஷேகம்&searchhws=yes&matchtype=exact">தைலாபிஷேகம்</a> tailāpiṣēkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலாபிஷேகம்</tam> <t>tailāpiṣēkam</t></hw> , <i>n</i>. < <i>taila</i> +. See <tam>தைலக்காப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		180) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலாம்புகை&searchhws=yes&matchtype=exact">தைலாம்புகை</a> tailāmpukai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலாம்புகை</hw> - துரிஞ்சில்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		181) <a href="/cgi-bin/app/fabricius_query.py?qs=தைலி&searchhws=yes&matchtype=exact">தைலி</a> taili
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=565">p. 565</a>)
+		<blockquote><p><hw><tam>தைலி</tam></hw> , <i>s.</i> a <i>(Hind.)</i> purse, <tam>பணப்பை</tam>; 2. see under <tam>தைலம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		182) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலி&searchhws=yes&matchtype=exact">தைலி</a> taili
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலி¹</tam> <t>taili</t></hw> , <i>n</i>. < U. <i>thailī</i>. Purse, pouch; <tam>பணப்பை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		183) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலி&searchhws=yes&matchtype=exact">தைலி</a> taili
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலி²</tam> <t>taili</t></hw> , <i>n</i>. < <i>tailin</i>. See <tam>தைலக்காரன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		184) <a href="/cgi-bin/app/winslow_query.py?qs=தைலி&searchhws=yes&matchtype=exact">தைலி</a> taili
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p><hw><tam>தைலி</tam></hw> , <i>s. (Hind.)</i> A purse, <tam>பணப்பை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		185) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலி, தைலிகன்&searchhws=yes&matchtype=exact">தைலி, தைலிகன்</a> taili, tailikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலி, தைலிகன்</hw> வாணிபன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		186) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலிகன்&searchhws=yes&matchtype=exact">தைலிகன்</a> tailikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலிகன்</tam> <t>tailikaṉ</t></hw> , <i>n</i>. < <i>tailika</i>. See <tam>தைலக்காரன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		187) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைலீநம்&searchhws=yes&matchtype=exact">தைலீநம்</a> tailīnam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைலீநம்</hw> - ஏள்விளைநிலம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		188) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைலேமரம்&searchhws=yes&matchtype=exact">தைலேமரம்</a> tailēmaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைலேமரம்</tam> <t>tailē-maram</t></hw> , <i>n</i>. A kind of catamaran; <tam>கடலில் ஓடும் கட்டுமரவகை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		189) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவகருமம்&searchhws=yes&matchtype=exact">தைவகருமம்</a> taivakarumam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவகருமம்</hw> - தகனப்பலி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		190) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவகருமம்&searchhws=yes&matchtype=exact">தைவகருமம்</a> taivakarumam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைவகருமம்</tam> <t>taiva-karumam</t></hw> , <i>n</i>. < <i>daiva</i> +. Holocaust; <tam>தகனபலி. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		191) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவகி&searchhws=yes&matchtype=exact">தைவகி</a> taivaki
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவகி</hw> - தேவகி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		192) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவகோவிதன்&searchhws=yes&matchtype=exact">தைவகோவிதன்</a> taivakōvitaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவகோவிதன்</hw> - தைவபண்டிதன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		193) <a href="/cgi-bin/app/fabricius_query.py?qs=தைவதம்&searchhws=yes&matchtype=exact">தைவதம்</a> taivatam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=565">p. 565</a>)
+		<blockquote><p>*<hw><tam>தைவதம்</tam></hw> , <i>s.</i> divinity, <tam>தெய்வதம்</tam>; 2. the 6th note of the musical scale. <i>Note:-</i> the seven notes are 1. <tam>சட்ஜமம்</tam>; 2. <tam>ரிஷபம்</tam>; 3. <tam>காந்தாரம்</tam>; 4. <tam>மந்தரம்</tam>; 5. <tam>பஞ்சமம்</tam>; 6. <tam>தைவதம்</tam> &amp; 7. <tam>நிஷா தம்</tam>. The initials of these are taken to denote the gamut as <tam>ச</tam>, <tam>ரி</tam>, <tam>க</tam>, <tam>ம</tam>, <tam>ப</tam>, <tam>த</tam>, <tam>நி</tam>. The octave is sometimes called <tam>நிஷாத சட்ஜமம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		194) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவதம்&searchhws=yes&matchtype=exact">தைவதம்</a> taivatam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவதம்</hw> - தெய்வதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		195) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவதம்&searchhws=yes&matchtype=exact">தைவதம்</a> taivatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைவதம்</tam> <t>taivatam</t></hw> , <i>n</i>. < <i>daivata</i>. 1. Deity; <tam>தெய்வம்</tam>. 2. Worship of a deity; <tam>தெய்வா ராதனை</tam>. (<tam>தைலவ. பாயி</tam>. 16.) 3. (Mus.) The sixth note of the gamut, one of <i>capta-curam</i>, q. v.; <tam>சப்தசுரத் தொன்று</tam>. (<tam>சிலப்</tam>. 3. 26, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		196) <a href="/cgi-bin/app/winslow_query.py?qs=தைவதம்&searchhws=yes&matchtype=exact">தைவதம்</a> taivatam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p>*<hw><tam>தைவதம்</tam></hw> , <i>s.</i> Divinity. See <tam>தெய்வதம்</tam>. 2. See <tam>நிஷாதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		197) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவதீபம்&searchhws=yes&matchtype=exact">தைவதீபம்</a> taivatīpam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவதீபம்</hw> - கண்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		198) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவதீபம்&searchhws=yes&matchtype=exact">தைவதீபம்</a> taivatīpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைவதீபம்</tam> <t>taiva-tīpam</t></hw> , <i>n</i>. < <i>daiva</i> +. Eyes, as god-given light; <tam>[தெய்வம் அருளிய விளக்கு] கண்கள். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		199) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவம்&searchhws=yes&matchtype=exact">தைவம்</a> taivam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவம்</hw> - பாக்கியம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		200) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவம்&searchhws=yes&matchtype=exact">தைவம்</a> taivam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைவம்</tam> <t>taivam</t></hw> , <i>n</i>. < <i>daiva</i>. 1. Deity. See <tam>தெய்வம்</tam>, 1. 2. See <tam>தைவிகலிங்கம்</tam>. (<tam>சைவச. பொது</tam>. 432.) 3. Divine form; <tam>தெய்வத்தின் வடிவு. அகண்டமுந் தைவமே</tam> (<tam>சி. போ</tam>. 12, 4, 1).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		201) <a href="/cgi-bin/app/fabricius_query.py?qs=தைவரல்&searchhws=yes&matchtype=exact">தைவரல்</a> taivaral
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=565">p. 565</a>)
+		<blockquote><p><hw><tam>தைவரல்</tam></hw> , <tam>தைவருதல்</tam>, <i>v. n.</i> shampooing, particle in softly pressing limbs with the hands, <tam>தடவுதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		202) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவரல்&searchhws=yes&matchtype=exact">தைவரல்</a> taivaral
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைவரல்</tam> <t>taivaral</t></hw> , <i>n</i>. < <tam>தைவா-</tam>. Harmonising with the key-note, one of eight <i>kalai-t-toḻil</i>, q. v.; <tam>கலைத்தொழில் எட்டனுள் அனுசுருதி யேற்றுகை. பரிவட்டணை யாராய்த றைவரல்</tam> (<tam>சிலப்</tam>. 7, 1).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		203) <a href="/cgi-bin/app/winslow_query.py?qs=தைவரல்&searchhws=yes&matchtype=exact">தைவரல்</a> taivaral
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p><hw><tam>தைவரல்</tam></hw> –<tam>தைவருதல்</tam>, <i>v. noun.</i> Shampooing, softly pressing and stroking the limbs with the hands. See <tam>தடவர</tam>. <i>(p.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		204) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவரல், தைவருதல்&searchhws=yes&matchtype=exact">தைவரல், தைவருதல்</a> taivaral, taivarutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவரல், தைவருதல்</hw> தடவல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		205) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவலேககன்&searchhws=yes&matchtype=exact">தைவலேககன்</a> taivalēkakaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவலேககன்</hw> - சோதிடன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		206) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவலேககன்&searchhws=yes&matchtype=exact">தைவலேககன்</a> taivalēkakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைவலேககன்</tam> <t>taiva-lēkakaṉ</t></hw> , <i>n</i>. < <i>daiva</i> +. Astronomer; astrologer; <tam>சோதிடன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		207) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவவாணி&searchhws=yes&matchtype=exact">தைவவாணி</a> taivavāṇi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவவாணி</hw> - தேவவாக்கு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		208) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவா-தல், தைவருதல்&searchhws=yes&matchtype=exact">தைவா-தல், தைவருதல்</a> taivā-tal, taivarutal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2076">p. 2076</a>)
+		<blockquote><p><hw><tam>தைவா-தல் [தைவருதல்]</tam> <t>tai-vā-</t></hw> , <i>13 v. tr</i>. 1. To shampoo, rub, massage; <tam>வருடுதல். சீறடி கல்லா விளையர் மெல்லத் தைவர</tam> (<tam>சிறுபாண்</tam>. 33). 2. To touch, adjust; <tam>தொட்டுச் சீர்ப்படுத்தல். ஊழணி தைவரல்</tam> (<tam>தொல். பொ</tam>. 262). 3. To spread, extend, pervade; <tam>தடவிவருதல். விசும்பு தைவரு வளி யும்</tam> (<tam>புறநா</tam>. 2). 4. To wipe off, clean by dusting; <tam>மாசு நீக்குதல். தைவரு நவமணிச் சயிலம்</tam> (<tam>பாரத. வாரணா</tam>. 4). 5. To harmonise with the key-note; <tam>அனுசுருதி யேற்றுதல்</tam>. (<tam>சீவக</tam>. 657, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		209) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவாகரி&searchhws=yes&matchtype=exact">தைவாகரி</a> taivākari
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவாகரி</hw> - சனி, நமன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		210) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவாகரி&searchhws=yes&matchtype=exact">தைவாகரி</a> taivākari
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S323">p. S323</a>)
+		<blockquote><p><hw><tam>தைவாகரி</tam> <t>taivākari</t></hw> , <i>n</i>. < <i>daivākari</i>. (<tam>யாழ். அக</tam>.) 1. Saturn; <tam>சனி</tam>. 2. Yama; <tam>யமன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		211) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவி&searchhws=yes&matchtype=exact">தைவி</a> taivi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2077">p. 2077</a>)
+		<blockquote><p><hw><tam>தைவி</tam> <t>taivi</t></hw> , <i>n</i>. See <tam>தைவிகம்</tam>, 1. <tam>தைவி சின்ன முரைத்திடக் கேள்</tam> (<tam>விநாயகபு</tam>. 83, 75).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		212) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவிகம்&searchhws=yes&matchtype=exact">தைவிகம்</a> taivikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவிகம்</hw> - தேவச்செயலாய்ச்சம்பவிப்பது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		213) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவிகம்&searchhws=yes&matchtype=exact">தைவிகம்</a> taivikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1452">p. 1452</a>)
+		<blockquote><p><hw>தைவிகம்</hw> - தேவசம்பந்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		214) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவிகம்&searchhws=yes&matchtype=exact">தைவிகம்</a> taivikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2077">p. 2077</a>)
+		<blockquote><p><hw><tam>தைவிகம்</tam> <t>taivikam</t></hw> , <i>n</i>. < <i>daivika</i>. 1. The supernatural; that which relates to the gods; <tam>தெய்வத்தன்மை யுள்ளது. புத்தகமிங்கு நண்ணும் புதுமை தைவிகமாம்</tam> (<tam>திருவாத. பு. திருவடி</tam>. 17). 2. Affliction caused by supernatural agencies. See <tam>ஆதிதைவிகம். தைவிக மாதிய மூன்றில்</tam> (<tam>சிவதரு. கோபு</tam>. 62). 3. See <tam>தைவிகலிங்கம். சயம்புவுந் தைவிகமும்</tam> (<tam>சைவச. பொது</tam>. 431).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		215) <a href="/cgi-bin/app/winslow_query.py?qs=தைவிகம்&searchhws=yes&matchtype=exact">தைவிகம்</a> taivikam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p>*<hw><tam>தைவிகம்</tam></hw> –<tam>தைவீகம்</tam>, <i>s.</i> Relating to the gods, divine, <tam>தெவீகம்</tam>. W. p. 426. <smallcaps>DAIVIKA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		216) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவிகலிங்கம்&searchhws=yes&matchtype=exact">தைவிகலிங்கம்</a> taivikaliṅkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2077">p. 2077</a>)
+		<blockquote><p><hw><tam>தைவிகலிங்கம்</tam> <t>taivika-liṅkam</t></hw> , <i>n</i>. < id. +. Lingam set up by gods for worship, one of <i>parārtta-liṅkam</i>, q. v.; <tam>பரார்த்தலிங்கவகைகளுள் தேவர்களால் தாபிக்கப் பெற்றது</tam>. (<tam>சைவச. பொது</tam>. 431, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		217) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவியம்&searchhws=yes&matchtype=exact">தைவியம்</a> taiviyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S323">p. S323</a>)
+		<blockquote><p><hw><tam>தைவியம்</tam> <t>taiviyam</t></hw> , <i>n</i>. < <i>daivya</i>. Act of God; <tam>தெய்வச்சொல். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		218) <a href="/cgi-bin/app/fabricius_query.py?qs=தைவிளை&searchhws=yes&matchtype=exact">தைவிளை</a> taiviḷai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=565">p. 565</a>)
+		<blockquote><p><hw><tam>தைவிளை</tam></hw> , <tam>தைவேளை</tam>, <i>s.</i> the name of a plant, <i>cleome felina,</i> <tam>அசகண்டர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		219) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவிளை&searchhws=yes&matchtype=exact">தைவிளை</a> taiviḷai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவிளை</hw> - தைவேளை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		220) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவிளை&searchhws=yes&matchtype=exact">தைவிளை</a> taiviḷai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2077">p. 2077</a>)
+		<blockquote><p><hw><tam>தைவிளை</tam> <t>taiviḷai</t></hw> , <i>n</i>. See <tam>தைவேளை. (மூ. அ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		221) <a href="/cgi-bin/app/winslow_query.py?qs=தைவிளை&searchhws=yes&matchtype=exact">தைவிளை</a> taiviḷai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p><hw><tam>தைவிளை</tam></hw> –<tam>தைவேளை</tam>, <i>s.</i> The name of a plant called <tam>அசகண்டர்</tam>, Cleome felina. <i>L.</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		222) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவீகம்&searchhws=yes&matchtype=exact">தைவீகம்</a> taivīkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவீகம்</hw> - தெய்வத்தன்மை, தெய்வ வழியாய் வருவது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		223) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவீகம்&searchhws=yes&matchtype=exact">தைவீகம்</a> taivīkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2077">p. 2077</a>)
+		<blockquote><p><hw><tam>தைவீகம்</tam> <t>taivīkam</t></hw> , <i>n</i>. See <tam>தைவிகம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		224) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவேத்தனம்&searchhws=yes&matchtype=exact">தைவேத்தனம்</a> taivēttaṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவேத்தனம்</hw> - தேவேத்தனம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		225) <a href="/cgi-bin/app/fabricius_query.py?qs=தைவேத்தினம்&searchhws=yes&matchtype=exact">தைவேத்தினம்</a> taivēttiṉam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=565">p. 565</a>)
+		<blockquote><p>*<hw><tam>தைவேத்தினம்</tam></hw> , <i>s.</i> divine interposition, <tam>தெய்வேத்தனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		226) <a href="/cgi-bin/app/winslow_query.py?qs=தைவேத்தினம்&searchhws=yes&matchtype=exact">தைவேத்தினம்</a> taivēttiṉam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=629">p. 629</a>)
+		<blockquote><p><hw><tam>தைவேத்தினம்</tam></hw> , <i>s.</i> Divine interposition, &c., as <tam>தெய்லேத்தினம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		227) <a href="/cgi-bin/app/kadirvelu_query.py?qs=தைவேளை&searchhws=yes&matchtype=exact">தைவேளை</a> taivēḷai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=840">p. 840</a>)
+		<blockquote><p><hw>தைவேளை</hw> - அசகண்டர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		228) <a href="/cgi-bin/app/tamil-lex_query.py?qs=தைவேளை&searchhws=yes&matchtype=exact">தைவேளை</a> taivēḷai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2077">p. 2077</a>)
+		<blockquote><p><hw><tam>தைவேளை</tam> <t>tai-vēḷai</t></hw> , <i>n</i>. perh. <tam>தை⁵</tam> +. Black Vailay, s. sh., <i>Gynandropsis pentaphylla</i>; <tam>நாய்க் கடுகுச்செடி</tam>. (<smallcap>M. M</smallcap>. 936.)</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,3639 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>ஶ</b>
+                       <div id='no_results'>
+                                341 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ&searchhws=yes&matchtype=exact">ஶ</a> śa
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ</tam> <t><?></t></hw> <?>v. The compound of <tam>ஶ்</tam> and <tam>அ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶகடம்&searchhws=yes&matchtype=exact">ஶகடம்</a> śakaṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶகடம்</tam> <t>šakaṭam</t></hw> , <i>n</i>. < <i>šakaṭa</i>. See <tam>சகடம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶகம்&searchhws=yes&matchtype=exact">ஶகம்</a> śakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶகம்</tam> <t>šakam</t></hw> , <i>n</i>. < <i>šaka</i>. See <tam>சகம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶகலம்&searchhws=yes&matchtype=exact">ஶகலம்</a> śakalam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶகலம்</tam> <t>šakalam</t></hw> , <i>n</i>. < <i>šakala</i>. Piece, fragment. See <tam>சகலம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶகவர்ஷம்&searchhws=yes&matchtype=exact">ஶகவர்ஷம்</a> śakavarṣam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶகவர்ஷம்</tam> <t>šaka-varṣam</t></hw> , <i>n</i>. < <i>šaka-varṣa</i>. See <tam>சகாப்தம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶகாரம்&searchhws=yes&matchtype=exact">ஶகாரம்</a> śakāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶகாரம்</tam> <t>šakāram</t></hw> , <i>n</i>. < M. <i>šakāram</i>. Abuse. See <tam>சகாரம்</tam>. <i>Nāñ</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶகுந்தம்&searchhws=yes&matchtype=exact">ஶகுந்தம்</a> śakuntam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶகுந்தம்</tam> <t>šakuntam</t></hw> , <i>n</i>. < <i>šakunta</i>. See <tam>சகுந்தம்¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶகுந்தலை&searchhws=yes&matchtype=exact">ஶகுந்தலை</a> śakuntalai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶகுந்தலை</tam> <t>šakuntalai</t></hw> , <i>n</i>. < <i>Šakuntalā</i>. Šakuntalā, wife of Duṣyanta and daughter of Mēnakā by Višvāmitra, who was brought up by the sage Kaṇva as his daughter; <tam>விசுவா மித்திரருக்கு மேனகை என்னும் அப்ஸரஸினிடம் பிறந்தவளும் கண்வமுனிவரால் வளர்க்கப்பட்டவளும் துஷ்யந்தனுக்கு மனைவியுமான ஒரு பெண்மணி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶகுனம்&searchhws=yes&matchtype=exact">ஶகுனம்</a> śakuṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶகுனம்</tam> <t>šakuṉam</t></hw> , <i>n</i>. < <i>šakuna</i>. See <tam>சகுனம்¹</tam>, 1, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶகுனி&searchhws=yes&matchtype=exact">ஶகுனி</a> śakuṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶகுனி</tam> <t>šakuṉi</t></hw> , <i>n</i>. < <i>Šakuni</i>. See <tam>சகுனி¹</tam>, 4.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶக்தன்&searchhws=yes&matchtype=exact">ஶக்தன்</a> śaktaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶக்தன்</tam> <t>šaktaṉ</t></hw> , <i>n</i>. < <i>Šakta</i>. Strong, powerful person. See <tam>சக்திமான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶக்தி&searchhws=yes&matchtype=exact">ஶக்தி</a> śakti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶக்தி</tam> <t>šakti</t></hw> , <i>n</i>. < <i>šakti</i>. See <tam>சத்தி⁴</tam>, 1, 2, 6-12.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶக்யம்&searchhws=yes&matchtype=exact">ஶக்யம்</a> śakyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶக்யம்</tam> <t>šakyam</t></hw> , <i>n</i>. < <i>šakya</i>. That which is possible. See <tam>சக்கியம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶக்ரன்&searchhws=yes&matchtype=exact">ஶக்ரன்</a> śakraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶக்ரன்</tam> <t>šakraṉ</t></hw> , <i>n</i>. < <i>šakra</i>. Indra. See <tam>சக்கிரன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶங்கம்&searchhws=yes&matchtype=exact">ஶங்கம்</a> śaṅkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶங்கம்</tam> <t>šaṅkam</t></hw> , <i>n</i>. < <i>šaṅkha</i>. See <tam>சங்கம்³</tam>, 1, 4, 5, 6.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶங்கரன்&searchhws=yes&matchtype=exact">ஶங்கரன்</a> śaṅkaraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶங்கரன்</tam> <t>šaṅkaraṉ</t></hw> , <i>n</i>. < <i>Šaṅ-kara</i>. See <tam>சங்கரன்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶங்கினி&searchhws=yes&matchtype=exact">ஶங்கினி</a> śaṅkiṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶங்கினி</tam> <t>šaṅkiṉi</t></hw> , <i>n</i>. < <i>šaṅkhinī</i>. See <tam>சங்கினி</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶங்கு&searchhws=yes&matchtype=exact">ஶங்கு</a> śaṅku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶங்கு</tam> <t>šaṅku</t></hw> , <i>n</i>. < <i>šaṅku</i>. Spike, stake, pole, peg. See <tam>சங்கு⁵</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶங்கை&searchhws=yes&matchtype=exact">ஶங்கை</a> śaṅkai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶங்கை</tam> <t>šaṅkai</t></hw> , <i>n</i>. < <i>šaṅkā</i>. See <tam>சங்கை¹</tam>. <tam>இன்றாக ஒரு ப்ரமாதம் புகுருகைக்கு ஶங்கை யில்லை யிறே</tam> (<tam>ஈடு</tam>, 3, 9, 9).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶசி&searchhws=yes&matchtype=exact">ஶசி</a> śaci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶசி</tam> <t>šaci</t></hw> , <i>n</i>. < <i>Šacī</i>. Indrāṇī. wife of Indra; <tam>இந்திராணி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶசீதேவி&searchhws=yes&matchtype=exact">ஶசீதேவி</a> śacītēvi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶசீதேவி</tam> <t>šacī-tēvi</t></hw> , <i>n</i>. < id. + <i>dēvī</i>. See <tam>சி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶடகோபன்&searchhws=yes&matchtype=exact">ஶடகோபன்</a> śaṭakōpaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶடகோபன்</tam> <t>šaṭakōpaṉ</t></hw> , <i>n</i>. < <i>Šaṭha-kōpa</i>. Nammāḻvār. See <tam>சடகோபன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶடாரி&searchhws=yes&matchtype=exact">ஶடாரி</a> śaṭāri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶடாரி</tam> <t>šaṭāri</t></hw> , <i>n</i>. < <i>Šaṭhāri</i>. 1. See <tam>சடகோபம்</tam>. 2. See <tam>சடகோபன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶதகம்&searchhws=yes&matchtype=exact">ஶதகம்</a> śatakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶதகம்</tam> <t>šatakam</t></hw> , <i>n</i>. < <i>šataka</i>. A poem of 100 stanzas. See <tam>சதகம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶதமகன்&searchhws=yes&matchtype=exact">ஶதமகன்</a> śatamakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶதமகன்</tam> <t>šata-makaṉ</t></hw> , <i>n</i>. < <i>Šata-makha</i>. Indra. See <tam>சதக்கிரது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶதமானம்&searchhws=yes&matchtype=exact">ஶதமானம்</a> śatamāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶதமானம்</tam> <t>šatamāṉam</t></hw> , <i>n</i>. < <i>šata-māna</i>. 1. Hundred years of age; <tam>நூறுபிராயம். சதமானம் ஜீவித்திருக்க வேணும்</tam>. 2. Century; <tam>நூற்றாண்டு</tam>. <i>Mod</i>. 3. Percentage; <tam>நூற்றிலொருபங்கு</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶதம்&searchhws=yes&matchtype=exact">ஶதம்</a> śatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶதம்</tam> <t>šatam</t></hw> , <i>n</i>. < <i>šata</i>. Hundred. See <tam>சதம்¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶதாங்கம்&searchhws=yes&matchtype=exact">ஶதாங்கம்</a> śatāṅkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶதாங்கம்</tam> <t>šatāṅkam</t></hw> , <i>n</i>. < <i>šatāṅga</i>. Chariot. See <tam>சதாங்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶதாபிஷேகம்&searchhws=yes&matchtype=exact">ஶதாபிஷேகம்</a> śatāpiṣēkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶதாபிஷேகம்</tam> <t>šatāpiṣēkam</t></hw> , <i>n</i>. < <i>šatābhi- ṣēka</i>. Ceremony performed when a man has lived a thousand lunar months. See <tam>சதாபிஷேகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶத்ரு&searchhws=yes&matchtype=exact">ஶத்ரு</a> śatru
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶத்ரு</tam> <t>šatru</t></hw> , <i>n</i>. < <i>šatru</i>. Enemy. See <tam>சத்துரு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶநி&searchhws=yes&matchtype=exact">ஶநி</a> śani
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶநி</tam> <t>šani</t></hw> , <i>n</i>. < <i>Šani</i>. Saturn; <tam>சனி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶநைஶ்சரன்&searchhws=yes&matchtype=exact">ஶநைஶ்சரன்</a> śanaiścaraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶநைஶ்சரன்</tam> <t>šanaišcaraṉ</t></hw> , <i>n</i>. < <i>šanaišcara</i>. Saturn; <tam>சனி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶந்தனு&searchhws=yes&matchtype=exact">ஶந்தனு</a> śantaṉu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶந்தனு</tam> <t>šantaṉu</t></hw> , <i>n</i>. < <i>Šantanu</i>. A king of the Lunar Race. See <tam>சந்தனு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶபதம்&searchhws=yes&matchtype=exact">ஶபதம்</a> śapatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶபதம்</tam> <t>šapatam</t></hw> , <i>n</i>. < <i>šapatha</i>. See <tam>சபதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶபரன்&searchhws=yes&matchtype=exact">ஶபரன்</a> śaparaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶபரன்</tam> <t>šaparaṉ</t></hw> , <i>n</i>. < <i>šabara</i>. Hunter. See <tam>சபரன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶபரம்&searchhws=yes&matchtype=exact">ஶபரம்</a> śaparam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶபரம்</tam> <t>šaparam</t></hw> , <i>n</i>. < <i>šaphara</i>. Carp. See <tam>சபரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶபரி&searchhws=yes&matchtype=exact">ஶபரி</a> śapari
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶபரி</tam> <t>šapari</t></hw> , <i>n</i>. < <i>Šabarī</i>. A huntress devoted to Rāma. See <tam>சபரி¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶபி-த்தல்&searchhws=yes&matchtype=exact">ஶபி-த்தல்</a> śapi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶபி-த்தல்</tam> <t>šapi-</t></hw> , <i>11 v. tr</i>. < <i>šap</i>. To curse. See <tam>சபி¹-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶப்தம்&searchhws=yes&matchtype=exact">ஶப்தம்</a> śaptam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶப்தம்</tam> <t>šaptam</t></hw> , <i>n</i>. < <i>šabda</i>. See <tam>சத்தம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶப்தஶாஸ்த்ரம்&searchhws=yes&matchtype=exact">ஶப்தஶாஸ்த்ரம்</a> śaptaśāstram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶப்தஶாஸ்த்ரம்</tam> <t>šapta-šāstram</t></hw> , <i>n</i>. < id. +. Grammar; <tam>வியாகரணசாஸ்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶமனம்&searchhws=yes&matchtype=exact">ஶமனம்</a> śamaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶமனம்</tam> <t>šamaṉam</t></hw> , <i>n</i>. < <i>šamana</i>. Calming, subsiding. See <tam>சமனம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶமம்&searchhws=yes&matchtype=exact">ஶமம்</a> śamam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶமம்</tam> <t>šamam</t></hw> , <i>n</i>. < <i>šama</i>. Calmness, peace of mind. See <tam>சமம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶமீ&searchhws=yes&matchtype=exact">ஶமீ</a> śamī
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶமீ</tam> <t>šamī</t></hw> , <i>n</i>. < <i>šamī</i>. Indian mesquit. See <tam>சமீ²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶம்&searchhws=yes&matchtype=exact">ஶம்</a> śam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶம்</tam> <t>šam</t></hw> , <i>n</i>. < <i>šam</i>. Prosperity. See <tam>சம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶம்பு&searchhws=yes&matchtype=exact">ஶம்பு</a> śampu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3885">p. 3885</a>)
+		<blockquote><p><hw><tam>ஶம்பு</tam> <t>šampu</t></hw> , <i>n</i>. < <i>Šambhu</i>. Šiva. See <tam>சம்பு²</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶயனம்&searchhws=yes&matchtype=exact">ஶயனம்</a> śayaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶயனம்</tam> <t>šayaṉam</t></hw> , <i>n</i>. < <i>šayana</i>. See <tam>சயனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶரணம்&searchhws=yes&matchtype=exact">ஶரணம்</a> śaraṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶரணம்</tam> <t>šaraṇam</t></hw> , <i>n</i>. < <i>šaraṇa</i>. Shelter, refuge. See <tam>சரணம்²</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶரணாகதன்&searchhws=yes&matchtype=exact">ஶரணாகதன்</a> śaraṇākataṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶரணாகதன்</tam> <t>šaraṇākataṉ</t></hw> , <i>n</i>. < <i>šaraṇā- gata</i>. Refugee. See <tam>சரணாகதன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶரணாகதி&searchhws=yes&matchtype=exact">ஶரணாகதி</a> śaraṇākati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶரணாகதி</tam> <t>šaraṇākati</t></hw> , <i>n</i>. < <i>šaraṇāgati</i>. Taking shelter; seeking refuge. See <tam>சரணாகதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶரணார்த்தி&searchhws=yes&matchtype=exact">ஶரணார்த்தி</a> śaraṇārtti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶரணார்த்தி</tam> <t>šaraṇārtti</t></hw> , <i>n</i>. < <i>šaraṇārthin</i>. See <tam>சரணார்த்தி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶரண்யன்&searchhws=yes&matchtype=exact">ஶரண்யன்</a> śaraṇyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶரண்யன்</tam> <t>šaraṇyaṉ</t></hw> , <i>n</i>. < <i>šaraṇya</i>. 1. One who is capable of affording refuge; <tam>சரணமாக அடையத் தக்கவன்</tam>. 2. Saviour. See <tam>சரணியன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶரத்காலம்&searchhws=yes&matchtype=exact">ஶரத்காலம்</a> śaratkālam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶரத்காலம்</tam> <t>šarat-kālam</t></hw> , <i>n</i>. < <i>šarat-kāla</i>. Autumnal season. See <tam>சரத்ருது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶரபம்&searchhws=yes&matchtype=exact">ஶரபம்</a> śarapam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶரபம்</tam> <t>šarapam</t></hw> , <i>n</i>. < <i>šarabha</i>. See <tam>சரபம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶரம்&searchhws=yes&matchtype=exact">ஶரம்</a> śaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶரம்</tam> <t>šaram</t></hw> , <i>n</i>. < <i>šara</i>. 1. Arrow. See <tam>சரம்²</tam>, 1. 2. Kaus. See <tam>சரம்²</tam>, 4.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶரவணம்&searchhws=yes&matchtype=exact">ஶரவணம்</a> śaravaṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶரவணம்</tam> <t>šaravaṇam</t></hw> , <i>n</i>. < <i>šara-vaṇa</i>. See <tam>சரவணம்</tam>, 1, 4.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶரவ்யம்&searchhws=yes&matchtype=exact">ஶரவ்யம்</a> śaravyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶரவ்யம்</tam> <t>šaravyam</t></hw> , <i>n</i>. < <i>šaravya</i>. Target. See <tam>சரவியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶராஸனம்&searchhws=yes&matchtype=exact">ஶராஸனம்</a> śarāsaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶராஸனம்</tam> <t>šarāsaṉam</t></hw> , <i>n</i>. < <i>šarāsana</i>. Bow. See <tam>சராசனம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶரீரம்&searchhws=yes&matchtype=exact">ஶரீரம்</a> śarīram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶரீரம்</tam> <t>šarīram</t></hw> , <i>n</i>. < <i>šarīra</i>. Body. See <tam>சரீரம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶரீரி&searchhws=yes&matchtype=exact">ஶரீரி</a> śarīri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶரீரி</tam> <t>šarīri</t></hw> , <i>n</i>. < <i>šarīrin</i>. Soul. See <tam>சரீரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶர்க்கரை&searchhws=yes&matchtype=exact">ஶர்க்கரை</a> śarkkarai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶர்க்கரை</tam> <t>šarkkarai</t></hw> , <i>n</i>. < <i>šarkarā</i>. Sugar. See <tam>சர்க்கரை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶர்மா&searchhws=yes&matchtype=exact">ஶர்மா</a> śarmā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶர்மா</tam> <t>šarmā</t></hw> , <i>n</i>. < <i>šarmā</i> nom. sing. of <i>šarman</i>. A title suffixed to the names of Brahmins. See <tam>சர்மா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶர்வன்&searchhws=yes&matchtype=exact">ஶர்வன்</a> śarvaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶர்வன்</tam> <t>šarvaṉ</t></hw> , <i>n</i>. < <i>Šarva</i>. Šiva. See <tam>சர்வன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶர்வரி&searchhws=yes&matchtype=exact">ஶர்வரி</a> śarvari
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶர்வரி</tam> <t>šarvari</t></hw> , <i>n</i>. < <i>šarvarī</i>. Night. See <tam>சருவரி</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶர்வாணி&searchhws=yes&matchtype=exact">ஶர்வாணி</a> śarvāṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶர்வாணி</tam> <t>šarvāṇi</t></hw> , <i>n</i>. < <i>Šarvāṇī</i>. Pārvatī. See <tam>சர்வாணி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶலபம்&searchhws=yes&matchtype=exact">ஶலபம்</a> śalapam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶலபம்</tam> <t>šalapam</t></hw> , <i>n</i>. < <i>šalabha</i>. Locust. See <tam>சலபம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶலாகை&searchhws=yes&matchtype=exact">ஶலாகை</a> śalākai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶலாகை</tam> <t>šalākai</t></hw> , <i>n</i>. < <i>šalākā</i>. See <tam>சலாகை¹</tam>, 1, 3.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶல்யம்&searchhws=yes&matchtype=exact">ஶல்யம்</a> śalyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶல்யம்</tam> <t>šalyam</t></hw> , <i>n</i>. < <i>šalya</i>. 1. Sharp point or head of a weapon. See <tam>சல்லியம்¹</tam>, 6. 2. Disturbance, trouble. See <tam>சல்லியம்¹</tam>, 8. 3. Debt; <tam>கடன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶவம்&searchhws=yes&matchtype=exact">ஶவம்</a> śavam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶவம்</tam> <t>šavam</t></hw> , <i>n</i>. < <i>šava</i>. Corpse, carcass. See <tam>சவம்¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶஶம்&searchhws=yes&matchtype=exact">ஶஶம்</a> śaśam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶஶம்</tam> <t>šašam</t></hw> , <i>n</i>. < <i>šaša</i>. Hare. See <tam>சசம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶஶவிஷாணம்&searchhws=yes&matchtype=exact">ஶஶவிஷாணம்</a> śaśaviṣāṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶஶவிஷாணம்</tam> <t>šaša-viṣāṇam</t></hw> , <i>n</i>. < <i>šaša</i> +. Hare's horn, a term illustrative of non-existence. See <tam>சசவிஷாணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶஶாங்கன்&searchhws=yes&matchtype=exact">ஶஶாங்கன்</a> śaśāṅkaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶஶாங்கன்</tam> <t>šašāṅkaṉ</t></hw> , <i>n</i>. < <i>Šašāṅka</i>. Mcon; <tam>சந்திரன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶஶி&searchhws=yes&matchtype=exact">ஶஶி</a> śaśi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶாஶி</tam> <t>šaši</t></hw> , <i>n</i>. < <i>Šašī</i> nom. sing. of <i>šašin</i>. Moon. See <tam>சசி¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶஷ்பம்&searchhws=yes&matchtype=exact">ஶஷ்பம்</a> śaṣpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶஷ்பம்</tam> <t>šaṣpam</t></hw> , <i>n</i>. < <i>šaṣpa</i>. 1. Tender grass. See <tam>சட்பம்</tam>, 1. 2. See <tam>சஷ்பம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶஸ்த்ரம்&searchhws=yes&matchtype=exact">ஶஸ்த்ரம்</a> śastram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶஸ்த்ரம்</tam> <t>šastram</t></hw> , <i>n</i>. < <i>šastra</i>. Weapon. See <tam>சஸ்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶஸ்யம்&searchhws=yes&matchtype=exact">ஶஸ்யம்</a> śasyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶஸ்யம்</tam> <t>šasyam</t></hw> , <i>n</i>. < <i>šasya</i>. 1. Vegetable; <tam>காய்கறி</tam>. 2. See <tam>சசியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶா&searchhws=yes&matchtype=exact">ஶா</a> śā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶா</tam> <t>šā</t></hw> . The compound of <tam>ஶ்</tam> and <tam>ஆ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாகம்&searchhws=yes&matchtype=exact">ஶாகம்</a> śākam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶாகம்</tam> <t>šākam</t></hw> , <i>n</i>. < <i>šāka</i>. See <tam>சாகம்³</tam>, 1, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாகை&searchhws=yes&matchtype=exact">ஶாகை</a> śākai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶாகை</tam> <t>šākai</t></hw> , <i>n</i>. < <i>šākhā</i>. See <tam>சாகை¹</tam>, 1, 4, 6.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாக்தன்&searchhws=yes&matchtype=exact">ஶாக்தன்</a> śāktaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶாக்தன்</tam> <t>šāktaṉ</t></hw> , <i>n</i>. < <i>šākta</i>. Follower of the Šākta religion; <tam>சாக்த மதத்தவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாக்தம்&searchhws=yes&matchtype=exact">ஶாக்தம்</a> śāktam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶாக்தம்</tam> <t>šāktam</t></hw> , <i>n</i>. < <i>šākta</i>. The religion which holds Šakti to be the Supreme Being; <tam>சக்தியே பரதெய்வமென்ற கொள்கையை யுடைய மதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாக்யமுனி&searchhws=yes&matchtype=exact">ஶாக்யமுனி</a> śākyamuṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶாக்யமுனி</tam> <t>šākya-muṉi</t></hw> , <i>n</i>. < <i>Šākya-muni</i>. The Buddha. See <tam>சாக்கியமுனி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாட்யம்&searchhws=yes&matchtype=exact">ஶாட்யம்</a> śāṭyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶாட்யம்</tam> <t>šāṭyam</t></hw> , <i>n</i>. < <i>šāṭhya</i>. See <tam>சாட்டியம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாநா&searchhws=yes&matchtype=exact">ஶாநா</a> śānā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாநா</tam> <t>šānā</t></hw> , <i>adv</i>. < T. <i>šānā</i>. Excessively; profusely; <tam>மிகுதியாக</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாந்தம்&searchhws=yes&matchtype=exact">ஶாந்தம்</a> śāntam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶாந்தம்</tam> <t>šāntam</t></hw> , <i>n</i>. < <i>šānta</i>. See <tam>சாந்தம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாந்தி&searchhws=yes&matchtype=exact">ஶாந்தி</a> śānti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶாந்தி</tam> <t>šānti</t></hw> , <i>n</i>. < <i>šānti</i>. See <tam>சாந்தி</tam>, 1, 2, 3, 4.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாந்திகம்&searchhws=yes&matchtype=exact">ஶாந்திகம்</a> śāntikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3886">p. 3886</a>)
+		<blockquote><p><hw><tam>ஶாந்திகம்</tam> <t>šāntikam</t></hw> , <i>n</i>. < <i>šāntika</i>. Propitiatory rite performed to avert evil. See <tam>சாந்திகம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாந்திபாடம்&searchhws=yes&matchtype=exact">ஶாந்திபாடம்</a> śāntipāṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாந்திபாடம்</tam> <t>šānti-pāṭam</t></hw> , <i>n</i>. < <i>šānti-pāṭha</i>. Vēdic passages recited before commencing and after completing the chanting of the Vēdas or Upaniṣads; <tam>வேதோபநிடதங்களை ஓதத் தொடங்கு முன்னும் ஓதிமுடித்த பின்னும் சொல்லும் வேதவாக்கியம்</tam>. <i>Brāh</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாபம்&searchhws=yes&matchtype=exact">ஶாபம்</a> śāpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாபம்</tam> <t>šāpam</t></hw> , <i>n</i>. < <i>šāpa</i>. See <tam>சாபம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாம்பவன்&searchhws=yes&matchtype=exact">ஶாம்பவன்</a> śāmpavaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாம்பவன்</tam> <t>šāmpavaṉ</t></hw> , <i>n</i>. < <i>Šāmbhava</i>. See <tam>சாம்பவன்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாம்பவி&searchhws=yes&matchtype=exact">ஶாம்பவி</a> śāmpavi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாம்பவி</tam> <t>šāmpavi</t></hw> , <i>n</i>. < <i>Šāmbhavī</i>. See <tam>சாம்பவி¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாரதா&searchhws=yes&matchtype=exact">ஶாரதா</a> śāratā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாரதா</tam> <t>šāratā</t></hw> , <i>n</i>. < <i>šāradā</i>. Sarasvatī; <tam>சரசுவதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாரதாம்பா&searchhws=yes&matchtype=exact">ஶாரதாம்பா</a> śāratāmpā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாரதாம்பா</tam> <t>šāratāmpā</t></hw> , <i>n</i>. < <i>šāradāmbā</i>. See <tam>ஶாரதா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாரிகை&searchhws=yes&matchtype=exact">ஶாரிகை</a> śārikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாரிகை</tam> <t>šārikai</t></hw> , <i>n</i>. < <i>šārikā</i>. Myna. See <tam>சாரிகை²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாரீரம்&searchhws=yes&matchtype=exact">ஶாரீரம்</a> śārīram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாரீரம்</tam> <t>šārīram</t></hw> , <i>n</i>. < <i>šārīra</i>. See <tam>சாரீரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶார்த்தூலம்&searchhws=yes&matchtype=exact">ஶார்த்தூலம்</a> śārttūlam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶார்த்தூலம்</tam> <t>šārttūlam</t></hw> , <i>n</i>. < <i>šārdūla</i>. Tiger. See <tam>சார்த்தூலம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶார்வரி&searchhws=yes&matchtype=exact">ஶார்வரி</a> śārvari
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶார்வரி</tam> <t>šārvari</t></hw> , <i>n</i>. < <i>Šārvarī</i>. See <tam>சார்வரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாலி&searchhws=yes&matchtype=exact">ஶாலி</a> śāli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாலி</tam> <t>šāli</t></hw> , <i>n</i>. < <i>šāli</i>. A superior species of paddy. See <tam>சாலி¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாலை&searchhws=yes&matchtype=exact">ஶாலை</a> śālai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாலை</tam> <t>šālai</t></hw> , <i>n</i>. < <i>šālā</i>. See <tam>சாலை¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶால்மலி&searchhws=yes&matchtype=exact">ஶால்மலி</a> śālmali
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶால்மலி</tam> <t>šālmali</t></hw> , <i>n</i>. < <i>šālmali</i>. 1. The silk-cotton tree. See <tam>இலவு¹</tam>. 2. An annular continent. See <tam>இலவந்தீவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாஶ்வதம்&searchhws=yes&matchtype=exact">ஶாஶ்வதம்</a> śāśvatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாஶ்வதம்</tam> <t>šāšvatam</t></hw> , <i>n</i>. < <i>šāšvata</i>. See <tam>சாசுவதம்</tam>, 1, 2, 3.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாஸனம்&searchhws=yes&matchtype=exact">ஶாஸனம்</a> śāsaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாஸனம்</tam> <t>šāsaṉam</t></hw> , <i>n</i>. < <i>šāsana</i>. See <tam>சாசனம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாஸனை&searchhws=yes&matchtype=exact">ஶாஸனை</a> śāsaṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாஸனை</tam> <t>šāsaṉai</t></hw> , <i>n</i>. < <i>šāsanā</i>. See <tam>சாசனம்¹</tam>, 1, 6.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாஸ்தா&searchhws=yes&matchtype=exact">ஶாஸ்தா</a> śāstā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாஸ்தா</tam> <t>šāstā</t></hw> , <i>n</i>. < <i>šāstā</i> nom. sing. of <i>šāstṛ</i>. A village deity. See <tam>சாஸ்தா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாஸ்த்ரம்&searchhws=yes&matchtype=exact">ஶாஸ்த்ரம்</a> śāstram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாஸ்த்ரம்</tam> <t>šāstram</t></hw> , <i>n</i>. < <i>šāstra</i>. See <tam>சாஸ்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாஸ்த்ரி&searchhws=yes&matchtype=exact">ஶாஸ்த்ரி</a> śāstri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாஸ்த்ரி</tam> <t>šāstri</t></hw> , <i>n</i>. < <i>šāstrin</i>. See <tam>சாஸ்திரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாஸ்த்ரீயம்&searchhws=yes&matchtype=exact">ஶாஸ்த்ரீயம்</a> śāstrīyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாஸ்த்ரீயம்</tam> <t>šāstrīyam</t></hw> , <i>n</i>. < <i>šastrīya</i>. See <tam>சாஸ்திரீயம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶாஸ்த்ரோக்தம்&searchhws=yes&matchtype=exact">ஶாஸ்த்ரோக்தம்</a> śāstrōktam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶாஸ்த்ரோக்தம்</tam> <t>šāstrōktam</t></hw> , <i>n</i>. < <i>šast- rōkta</i>. That which is in accordance with the rules of the Šāstras; <tam>வேதசாஸ்திர விதிப்படி யுள் ளது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶி&searchhws=yes&matchtype=exact">ஶி</a> śi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶி</tam> <t>ši</t></hw> . The compound of <tam>ஶ்</tam> and <tam>இ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிகாமணி&searchhws=yes&matchtype=exact">ஶிகாமணி</a> śikāmaṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிகாமணி</tam> <t>šikāmaṇi</t></hw> , <i>n</i>. < <i>šikhā-maṇi</i>. See <tam>சிகாமணி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிகை&searchhws=yes&matchtype=exact">ஶிகை</a> śikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிகை</tam> <t>šikai</t></hw> , <i>n</i>. < <i>šikhā</i>. Tuft of hair. See <tam>சிகை¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிக்ஷி-த்தல்&searchhws=yes&matchtype=exact">ஶிக்ஷி-த்தல்</a> śikṣi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶிக்ஷி-த்தல்</tam> <t>šikṣi-</t></hw> , <i>11 v. tr</i>. < <i>šikṣ</i>. See <tam>சிக்ஷி-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிக்ஷி-த்தல்&searchhws=yes&matchtype=exact">ஶிக்ஷி-த்தல்</a> śikṣi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S421">p. S421</a>)
+		<blockquote><p><hw><tam>ஶிக்ஷி-த்தல்</tam> <t>šikṣi-</t></hw> , <i>11 v. tr</i>. < <i>šikṣ</i>. To refine, clarify; <tam>பரிஷ்கரித்தல். ரஹஸ்யார்த்தங்களை ஶிக்ஷித்தார்</tam> (<tam>ரஹஸ்ய</tam>. 43).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிக்ஷை&searchhws=yes&matchtype=exact">ஶிக்ஷை</a> śikṣai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶிக்ஷை</tam> <t>šikṣai</t></hw> , <i>n</i>. < <i>šikṣā</i>. See <tam>சிக்ஷை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		114) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிஞ்ஜிதம்&searchhws=yes&matchtype=exact">ஶிஞ்ஜிதம்</a> śiñjitam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிஞ்ஜிதம்</tam> <t>šiñjitam</t></hw> , <i>n</i>. < <i>šiñjita</i>. 1. The twang of a bow; <tam>வில்லின் நாணொலி</tam>. 2. Tinkling of ornaments. See <tam>சிஞ்சிதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		115) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிதிலம்&searchhws=yes&matchtype=exact">ஶிதிலம்</a> śitilam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிதிலம்</tam> <t>šitilam</t></hw> , <i>n</i>. < <i>šithila</i>. Crumbling. See <tam>சிதிலம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		116) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிம்ஶுபாவ்ருக்ஷம்&searchhws=yes&matchtype=exact">ஶிம்ஶுபாவ்ருக்ஷம்</a> śimśupāvrukṣam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிம்ஶுபாவ்ருக்ஷம்</tam> <t>šimšupā-vrukṣam</t></hw> , <i>n</i>. < <i>šiṃšupā</i> +. A tree. See <tam>சிஞ்சுபம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		117) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிரஸ்&searchhws=yes&matchtype=exact">ஶிரஸ்</a> śiras
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிரஸ்</tam> <t>širas</t></hw> , <i>n</i>. < <i>širas</i>. Head. See <tam>சிரசு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		118) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிரீஷம்&searchhws=yes&matchtype=exact">ஶிரீஷம்</a> śirīṣam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிரீஷம்</tam> <t>širīṣam</t></hw> , <i>n</i>. < <i>širīṣa</i>. A kind of tree. See <tam>காட்டுவாகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		119) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிரோமணி&searchhws=yes&matchtype=exact">ஶிரோமணி</a> śirōmaṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிரோமணி</tam> <t>širō-maṇi</t></hw> , <i>n</i>. < <i>širō-maṇi</i>. See <tam>சிரோமணி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		120) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிலம்&searchhws=yes&matchtype=exact">ஶிலம்</a> śilam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிலம்</tam> <t>šilam</t></hw> , <i>n</i>. < <i>šila</i>. Seed-grain fallen from ears of corn; <tam>தானேயுதிர்ந்த தானியமணி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		121) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிலா&searchhws=yes&matchtype=exact">ஶிலா</a> śilā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிலா</tam> <t>šilā</t></hw> , <i>n</i>. < <i>šilā</i>. Rock, stone; <tam>கல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		122) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிலீமுகம்&searchhws=yes&matchtype=exact">ஶிலீமுகம்</a> śilīmukam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிலீமுகம்</tam> <t>šilīmukam</t></hw> , <i>n</i>. < <i>šilīmukha</i>. See <tam>சிலீமுகம்</tam>, 1, 2, 4.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		123) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶில்பம்&searchhws=yes&matchtype=exact">ஶில்பம்</a> śilpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶில்பம்</tam> <t>šilpam</t></hw> , <i>n</i>. < <i>šilpa</i>. See <tam>சிற்பம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		124) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶில்பி&searchhws=yes&matchtype=exact">ஶில்பி</a> śilpi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶில்பி</tam> <t>šilpi</t></hw> , <i>n</i>. < <i>šilpin</i>. See <tam>சிற்பி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		125) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிவன்&searchhws=yes&matchtype=exact">ஶிவன்</a> śivaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிவன்</tam> <t>šivaṉ</t></hw> , <i>n</i>. < <i>Šiva</i>. See <tam>சிவன்¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		126) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிவம்&searchhws=yes&matchtype=exact">ஶிவம்</a> śivam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிவம்</tam> <t>šivam</t></hw> , <i>n</i>. < <i>šiva</i>. 1. See <tam>சிவம்</tam>. 2. See <tam>சிவன்¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		127) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிஶிரம்&searchhws=yes&matchtype=exact">ஶிஶிரம்</a> śiśiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிஶிரம்</tam> <t>šiširam</t></hw> , <i>n</i>. < <i>šišira</i>. The dewy season. See <tam>சிசிரருது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		128) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிஶு&searchhws=yes&matchtype=exact">ஶிஶு</a> śiśu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிஶு</tam> <t>šišu</t></hw> , <i>n</i>. < <i>šišu</i>. Child. See <tam>சிசு¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		129) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிஶ்நம்&searchhws=yes&matchtype=exact">ஶிஶ்நம்</a> śiśnam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிஶ்நம்</tam> <t>šišnam</t></hw> , <i>n</i>. < <i>šišna</i>. See <tam>சிசினம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		130) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிஷ்டம்&searchhws=yes&matchtype=exact">ஶிஷ்டம்</a> śiṣṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிஷ்டம்</tam> <t>šiṣṭam</t></hw> , <i>n</i>. < <i>šiṣṭa</i>. See <tam>சிஷ்டம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		131) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிஷ்டர்&searchhws=yes&matchtype=exact">ஶிஷ்டர்</a> śiṣṭar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிஷ்டர்</tam> <t>šiṣṭar</t></hw> , <i>n</i>. < <i>šiṣṭa</i>. Great men who strictly observe the prescribed rules of conduct; <tam>ஆசாரங்களில் தவறாத பெரியோர்</tam>. 2. See <tam>சிட்டர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		132) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிஷ்டாசாரம்&searchhws=yes&matchtype=exact">ஶிஷ்டாசாரம்</a> śiṣṭācāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3887">p. 3887</a>)
+		<blockquote><p><hw><tam>ஶிஷ்டாசாரம்</tam> <t>šiṣṭācāram</t></hw> , <i>n</i>. < id. + <i>ācāra</i>. See <tam>சிஷ்டாசாரம். ஶிஷ்டாசார முண்டு காணும்; ஶ்ரீஜனகராஜன் திருமகள் அனுஷ்டித்தாள் காணும்</tam> (<tam>ஈடு</tam>, 5, 3, 7).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		133) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶிஷ்யன்&searchhws=yes&matchtype=exact">ஶிஷ்யன்</a> śiṣyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶிஷ்யன்</tam> <t>šiṣyaṉ</t></hw> , <i>n</i>. < <i>šiṣya</i>. See <tam>சிஷ்யன் வஸிஷ்ட ஶிஷ்யன் ஒரு ஸ்திரீ நிமித்தமாக இப்படிப் படுவதே</tam> (<tam>ஈடு</tam>, 2, 4, 2).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		134) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶீ&searchhws=yes&matchtype=exact">ஶீ</a> śī
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶீ</tam> <t>šī</t></hw> . The compound of <tam>ஶ்</tam> and <tam>ஈ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		135) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶீகரம்&searchhws=yes&matchtype=exact">ஶீகரம்</a> śīkaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶீகரம்</tam> <t>šīkaram</t></hw> , <i>n</i>. < <i>šīkara</i>. See <tam>சீகரம்¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		136) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶீக்ரம்&searchhws=yes&matchtype=exact">ஶீக்ரம்</a> śīkram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶீக்ரம்</tam> <t>šīkram</t></hw> , <i>n</i>. < <i>šīghra</i>. See <tam>சீக்கிரம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		137) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶீதகிரணன்&searchhws=yes&matchtype=exact">ஶீதகிரணன்</a> śītakiraṇaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶீதகிரணன்</tam> <t>šīta-kiraṇaṉ</t></hw> , <i>n</i>. < <i>šīta</i> + <i>kiraṇa</i>. Moon; <tam>சந்திரன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		138) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶீதமண்டலி&searchhws=yes&matchtype=exact">ஶீதமண்டலி</a> śītamaṇṭali
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶீதமண்டலி</tam> <t>šīta-maṇṭali</t></hw> , <i>n</i>. < id. + <i>maṇḍalī</i>. 1. A poisonous insect, whose sting is considered fatal; <tam>கடித்தால் மரணத்தை உண் டாக்கக் கூடிய ஒரு விஷப்பூச்சி</tam>. 2. See <tam>சீதமண்டலி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		139) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶீதம்&searchhws=yes&matchtype=exact">ஶீதம்</a> śītam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶீதம்</tam> <t>šītam</t></hw> , <i>n</i>. < <i>šīta</i>. See <tam>சீதம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		140) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶீதலம்&searchhws=yes&matchtype=exact">ஶீதலம்</a> śītalam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶீதலம்</tam> <t>šītalam</t></hw> , <i>n</i>. < <i>šītala</i>. See <tam>சீதளம்¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		141) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶீதளம்&searchhws=yes&matchtype=exact">ஶீதளம்</a> śītaḷam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶீதளம்</tam> <t>šītaḷam</t></hw> , <i>n</i>. < id. See <tam>சீதளம்¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		142) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶீலம்&searchhws=yes&matchtype=exact">ஶீலம்</a> śīlam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶீலம்</tam> <t>šīlam</t></hw> , <i>n</i>. < <i>šīla</i>. See <tam>சீலம்</tam>, 1, 2, 3.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		143) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶு&searchhws=yes&matchtype=exact">ஶு</a> śu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶு</tam> <t>šu</t></hw> . The compound of <tam>ஶ்</tam> and <tam>உ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		144) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுகன்&searchhws=yes&matchtype=exact">ஶுகன்</a> śukaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுகன்</tam> <t>šukaṉ</t></hw> , <i>n</i>. < <i>Šuka</i>. See <tam>சுகன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		145) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுகம்&searchhws=yes&matchtype=exact">ஶுகம்</a> śukam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுகம்</tam> <t>šukam</t></hw> , <i>n</i>. < <i>šuka</i>. Parrot. See <tam>சுகம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		146) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுக்தி&searchhws=yes&matchtype=exact">ஶுக்தி</a> śukti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுக்தி</tam> <t>šukti</t></hw> , <i>n</i>. < <i>šukti</i>. See <tam>சுத்தி⁴</tam>, 1, 2, 3.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		147) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுக்திகாரஜதநியாயம்&searchhws=yes&matchtype=exact">ஶுக்திகாரஜதநியாயம்</a> śuktikārajataniyāyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுக்திகாரஜதநியாயம்</tam> <t>šuktikā-rajata-niyāyam</t></hw> , <i>n</i>. < <i>šuktikā</i> + <i>rajata</i> +. A Nyāya in illustration of false understanding, as mistaking white conch-shell for silver; <tam>சிப்பியை வெள்ளியென்று உணர்வதுபோலும் பொய்யுணர் வைக் காட்டும் நியாயம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		148) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுக்ரன்&searchhws=yes&matchtype=exact">ஶுக்ரன்</a> śukraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுக்ரன்</tam> <t>šukraṉ</t></hw> , <i>n</i>. < <i>Šukra</i>. See <tam>சுக்கிரன்</tam>, 1, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		149) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுக்ரம்&searchhws=yes&matchtype=exact">ஶுக்ரம்</a> śukram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுக்ரம்</tam> <t>šukram</t></hw> , <i>n</i>. < <i>šukra</i>. A disease affecting the pupil of the eye; <tam>கருவிழியின் நோய்வகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		150) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுக்ல&searchhws=yes&matchtype=exact">ஶுக்ல</a> śukla
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுக்ல</tam> <t>šukla</t></hw> , <i>n</i>. < <i>šukla</i>. See <tam>சுக்கில</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		151) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுக்லபக்ஷம்&searchhws=yes&matchtype=exact">ஶுக்லபக்ஷம்</a> śuklapakṣam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுக்லபக்ஷம்</tam> <t>šukla-pakṣam</t></hw> , <i>n</i>. < <i>šukla</i> +. See <tam>சுக்கிலபட்சம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		152) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுக்லம்&searchhws=yes&matchtype=exact">ஶுக்லம்</a> śuklam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுக்லம்</tam> <t>šuklam</t></hw> , <i>n</i>. < <i>šukla</i>. See <tam>சுக்கிலம்</tam>, 1, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		153) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுசி&searchhws=yes&matchtype=exact">ஶுசி</a> śuci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுசி</tam> <t>šuci</t></hw> , <i>n</i>. < <i>šuci</i>. Purity. See <tam>சுசி</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		154) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுண்டன்&searchhws=yes&matchtype=exact">ஶுண்டன்</a> śuṇṭaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுண்டன்</tam> <t>šuṇṭaṉ</t></hw> , <i>n</i>. < <i>šuṇṭha</i>. Ignorant man. See <tam>சுண்டன்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		155) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுண்டி&searchhws=yes&matchtype=exact">ஶுண்டி</a> śuṇṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுண்டி</tam> <t>šuṇṭi</t></hw> , <i>n</i>. < <i>šuṇṭhī</i>. See <tam>சுண்டி²</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		156) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுத்தம்&searchhws=yes&matchtype=exact">ஶுத்தம்</a> śuttam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுத்தம்</tam> <t>šuttam</t></hw> , <i>n</i>. < <i>šuddha</i>. See <tam>சுத்தம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		157) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுத்தி&searchhws=yes&matchtype=exact">ஶுத்தி</a> śutti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுத்தி</tam> <t>šutti</t></hw> , <i>n</i>. < <i>šuddhi</i>. See <tam>சுத்தி²</tam>, 1, 2, 3.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		158) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுபம்&searchhws=yes&matchtype=exact">ஶுபம்</a> śupam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுபம்</tam> <t>šupam</t></hw> , <i>n</i>. < <i>šubha</i>. See <tam>சுபம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		159) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுபஸ்வீகரணம்&searchhws=yes&matchtype=exact">ஶுபஸ்வீகரணம்</a> śupasvīkaraṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுபஸ்வீகரணம்</tam> <t>šupa-svīkaraṇam</t></hw> , <i>n</i>. < id. + <i>svī-karaṇa</i>. See <tam>ஶுபஸ்வீகாரம்</tam>. <i>Brāh</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		160) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுபஸ்வீகாரம்&searchhws=yes&matchtype=exact">ஶுபஸ்வீகாரம்</a> śupasvīkāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுபஸ்வீகாரம்</tam> <t>šupa-svīkāram</t></hw> , <i>n</i>. < id. + <i>svī-kāra</i>. An auspicious ceremony after the close of funeral ceremonies. See <tam>சுபசுவீகாரம்</tam>. <i>Brāh</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		161) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுப்ரம்&searchhws=yes&matchtype=exact">ஶுப்ரம்</a> śupram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுப்ரம்</tam> <t>šupram</t></hw> , <i>n</i>. < <i>šubhra</i>. 1. Whiteness. See <tam>சுப்பிரம்</tam>, 1. 2. Purity. See <tam>சுப்பிரம்</tam>, 2. 3. Clearness; <tam>தெளிவு</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		162) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுல்கம்&searchhws=yes&matchtype=exact">ஶுல்கம்</a> śulkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுல்கம்</tam> <t>šulkam</t></hw> , <i>n</i>. < <i>šulka</i>. 1. Tax; <tam>வரி</tam>. 2. See <tam>சுல்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		163) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுஶ்ரூஷை&searchhws=yes&matchtype=exact">ஶுஶ்ரூஷை</a> śuśrūṣai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுஶ்ரூஷை</tam> <t>šušrūṣai</t></hw> , <i>n</i>. < <i>šušrūṣā</i>. See <tam>சிசுரூஷை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		164) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶுஷ்கம்&searchhws=yes&matchtype=exact">ஶுஷ்கம்</a> śuṣkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶுஷ்கம்</tam> <t>šuṣkam</t></hw> , <i>n</i>. < <i>šuṣka</i>. 1. See <tam>சுட்கம்</tam>, 1, 2, 4, 5. 2. That which is boiled down; <tam>வற்றினது</tam>. 3. That which is dry; <tam>ஈர மற்றது</tam>. 4. Economy; <tam>செட்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		165) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶூ&searchhws=yes&matchtype=exact">ஶூ</a> śū
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶூ</tam> <t>šū</t></hw> . The compound of <tam>ஶ்</tam> and <tam>ஊ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		166) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶூத்ரன்&searchhws=yes&matchtype=exact">ஶூத்ரன்</a> śūtraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶூத்ரன்</tam> <t>šūtraṉ</t></hw> , <i>n</i>. < <i>šūdra</i>. See <tam>சூத்திரன்¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		167) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶூந்யதிதி&searchhws=yes&matchtype=exact">ஶூந்யதிதி</a> śūnyatiti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶூந்யதிதி</tam> <t>šūnya-titi</t></hw> , <i>n</i>. < <i>šūnya-tithi</i>. 1. A day on which neither <i>titi</i> is fit for the performance of <i>šrāddha</i>; <tam>சிராத்தஞ் செய்தற்குரிய திதியமையாத நாள்</tam>. 2. See <tam>சூனியதிதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		168) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶூந்யம்&searchhws=yes&matchtype=exact">ஶூந்யம்</a> śūnyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶூந்யம்</tam> <t>šūnyam</t></hw> , <i>n</i>. < <i>šūnya</i>. See <tam>சூனியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		169) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶூரன்&searchhws=yes&matchtype=exact">ஶூரன்</a> śūraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶூரன்</tam> <t>šūraṉ</t></hw> , <i>n</i>. < <i>šūra</i>. 1. Warrior; strong man. See <tam>சூரன்¹</tam>, 1. 2. An Asura. See <tam>சூரன்¹</tam>, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		170) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶூர்ப்பணகா&searchhws=yes&matchtype=exact">ஶூர்ப்பணகா</a> śūrppaṇakā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶூர்ப்பணகா</tam> <t>šūrppaṇakā</t></hw> , <i>n</i>. < <i>Šūrpaṇakhā</i>. A Rākṣasī. See <tam>சூர்ப்பணகா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		171) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶூர்ப்பம்&searchhws=yes&matchtype=exact">ஶூர்ப்பம்</a> śūrppam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3888">p. 3888</a>)
+		<blockquote><p><hw><tam>ஶூர்ப்பம்</tam> <t>šūrppam</t></hw> , <i>n</i>. < <i>šūrpa</i>. Winnow. See <tam>சூர்ப்பம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		172) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶூலம்&searchhws=yes&matchtype=exact">ஶூலம்</a> śūlam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶூலம்</tam> <t>šūlam</t></hw> , <i>n</i>. < <i>šūla</i>. See <tam>சூலம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		173) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶூலி&searchhws=yes&matchtype=exact">ஶூலி</a> śūli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶூலி</tam> <t>šūli</t></hw> , <i>n</i>. < <i>šūlī</i> nom. sing. of <i>šūlin</i>. See <tam>சூலி²</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		174) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶெ&searchhws=yes&matchtype=exact">ஶெ</a> śe
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶெ</tam> <t>še</t></hw> . The compound of <tam>ஶ்</tam> and <tam>எ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		175) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶே&searchhws=yes&matchtype=exact">ஶே</a> śē
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶே</tam> <t>šē</t></hw> . The compound of <tam>ஶ்</tam> and <tam>ஏ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		176) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேகரம்&searchhws=yes&matchtype=exact">ஶேகரம்</a> śēkaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶேகரம்</tam> <t>šēkaram</t></hw> , <i>n</i>. < <i>šēkhara</i>. Diadem, crown. See <tam>சேகரம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		177) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேஷகாரன்&searchhws=yes&matchtype=exact">ஶேஷகாரன்</a> śēṣakāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶேஷகாரன்</tam> <t>šēṣa-kāraṉ</t></hw> , <i>n</i>. < <tam>ஶேஷம்</tam> + <tam>காரன்¹</tam>. Nephew; <tam>மருகன்</tam>. <i>Nāñ</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		178) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேஷக்ரியை&searchhws=yes&matchtype=exact">ஶேஷக்ரியை</a> śēṣakriyai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶேஷக்ரியை</tam> <t>šēṣa-kriyai</t></hw> , <i>n</i>. < <i>šēṣa</i> + <i>kriyā</i>. See <tam>சேஷக்கிரியை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		179) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேஷத்யாஜ்யம்&searchhws=yes&matchtype=exact">ஶேஷத்யாஜ்யம்</a> śēṣatyājyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶேஷத்யாஜ்யம்</tam> <t>šēṣa-tyājyam</t></hw> , <i>n</i>. < <i>šēṣa</i> +. The unexpired period of <i>tiyācciyam</i> running into next day. See <tam>சேஷத்தியாச்சியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		180) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேஷத்வம்&searchhws=yes&matchtype=exact">ஶேஷத்வம்</a> śēṣatvam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶேஷத்வம்</tam> <t>šēṣatvam</t></hw> , <i>n</i>. < <i>šēṣa-tva</i>. Being a bondservant; <tam>அடிமைத்தன்மை</tam>. <i>Vaiṣṇ</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		181) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேஷன்&searchhws=yes&matchtype=exact">ஶேஷன்</a> śēṣaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶேஷன்</tam> <t>šēṣaṉ</t></hw> , <i>n</i>. < <i>Šēṣa</i>. See <tam>சேஷன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		182) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேஷபூதன்&searchhws=yes&matchtype=exact">ஶேஷபூதன்</a> śēṣapūtaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶேஷபூதன்</tam> <t>šēṣa-pūtaṉ</t></hw> , <i>n</i>. < <i>šēṣa-bhūta. Vaiṣṇ</i>. 1. Bondservant; <tam>அடிமையாயிருப்பவன்</tam>. 2. See <tam>சேஷபூதன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		183) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேஷம்&searchhws=yes&matchtype=exact">ஶேஷம்</a> śēṣam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶேஷம்</tam> <t>šēṣam</t></hw> , <i>n</i>. < <i>šēṣa</i>. See <tam>சேடம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		184) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேஷம்&searchhws=yes&matchtype=exact">ஶேஷம்</a> śēṣam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S421">p. S421</a>)
+		<blockquote><p><hw><tam>ஶேஷம்</tam> <t>šēṣam</t></hw> , <i>n</i>. < <i>šēṣa</i>. Anything subordinate or appurtenant to; <tam>ஒன்றனைச் சார்ந் தது. கீழிற்பாட்டுக்கு ஶேஷமாயிருக்கிறது இப்பாட்டு</tam> (<tam>ஈடு</tam>, 1, 3, 7).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		185) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேஷலோகம்&searchhws=yes&matchtype=exact">ஶேஷலோகம்</a> śēṣalōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶேஷலோகம்</tam> <t>šēṣa-lōkam</t></hw> , <i>n</i>. < <i>šēṣa-lōka</i>. 1. The nether world, as the world of serpents; <tam>பாதாளம்</tam>. 2. Great depth; <tam>அதிக ஆழம்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		186) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேஷஶாயி&searchhws=yes&matchtype=exact">ஶேஷஶாயி</a> śēṣaśāyi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶேஷஶாயி</tam> <t>šēṣa-šāyi</t></hw> , <i>n</i>. < <i>Šēṣa-šāyin</i>. Viṣṇu, as recumbent on the serpent Šēṣa. See <tam>சேஷசாயி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		187) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேஷஹோமம்&searchhws=yes&matchtype=exact">ஶேஷஹோமம்</a> śēṣahōmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶேஷஹோமம்</tam> <t>šēṣa-hōmam</t></hw> , <i>n</i>. < <i>šēṣa-hōma</i>. The concluding ceremonies in a marriage, performed late in the night of the fourth day and before the dawn of the fifth day; <tam>விவாகத்தின் நான்காநாள் இரவில் ஐந்தாநாள் உதயத்துக்குமுன் செய்யும் ஓமச்சடங்கு</tam>. <i>Brāh</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		188) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேஷி&searchhws=yes&matchtype=exact">ஶேஷி</a> śēṣi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶேஷி</tam> <t>šēṣi</t></hw> , <i>n</i>. < <i>šēṣin</i>. See <tam>சேஷி</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		189) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶேஷி-த்தல்&searchhws=yes&matchtype=exact">ஶேஷி-த்தல்</a> śēṣi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S421">p. S421</a>)
+		<blockquote><p><hw><tam>ஶேஷி-த்தல்</tam> <t>šēṣi-</t></hw> , <i>11 v. intr</i>. < id. To be left over; <tam>எஞ்சியிருத்தல். துக்கமே ஶேஷித்து விட்டது</tam> (<tam>திவ். திருநெடுந்</tam>. 23, <tam>வ்யா</tam>.).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		190) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶை&searchhws=yes&matchtype=exact">ஶை</a> śai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶை</tam> <t>šai</t></hw> . The compound of <tam>ஶ்</tam> and <tam>ஐ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		191) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶைதில்யம்&searchhws=yes&matchtype=exact">ஶைதில்யம்</a> śaitilyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶைதில்யம்</tam> <t>šaitilyam</t></hw> , <i>n</i>. < <i>šaithilya</i>. State of decay; <tam>சிதிலமாயிருக்கை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		192) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶைத்யம்&searchhws=yes&matchtype=exact">ஶைத்யம்</a> śaityam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶைத்யம்</tam> <t>šaityam</t></hw> , <i>n</i>. < <i>šaitya</i>. Cold. See <tam>சைத்தியம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		193) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶைலம்&searchhws=yes&matchtype=exact">ஶைலம்</a> śailam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶைலம்</tam> <t>šailam</t></hw> , <i>n</i>. < <i>šaila</i>. Mountain; hill. See <tam>சைலம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		194) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶைலி&searchhws=yes&matchtype=exact">ஶைலி</a> śaili
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶைலி</tam> <t>šaili</t></hw> , <i>n</i>. < <i>šailī</i>. See <tam>சைலி</tam>, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		195) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶைலேயம்&searchhws=yes&matchtype=exact">ஶைலேயம்</a> śailēyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶைலேயம்</tam> <t>šailēyam</t></hw> , <i>n</i>. < <i>šailēya</i>. Stick lac; <tam>கொம்பரக்கு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		196) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶைவன்&searchhws=yes&matchtype=exact">ஶைவன்</a> śaivaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶைவன்</tam> <t>šaivaṉ</t></hw> , <i>n</i>. < <i>šaiva</i>. See <tam>சைவன்</tam>, 1, 3.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		197) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶைவம்&searchhws=yes&matchtype=exact">ஶைவம்</a> śaivam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶைவம்</tam> <t>šaivam</t></hw> , <i>n</i>. < <i>šaiva</i>. See <tam>சைவம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		198) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶைவலம்&searchhws=yes&matchtype=exact">ஶைவலம்</a> śaivalam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶைவலம்</tam> <t>šaivalam</t></hw> , <i>n</i>. < <i>šaivala</i>. Duckweed. See <tam>சைவலம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		199) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶைஶவம்&searchhws=yes&matchtype=exact">ஶைஶவம்</a> śaiśavam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶைஶவம்</tam> <t>šaišavam</t></hw> , <i>n</i>. < <i>šaišava</i>. Infancy. See <tam>சைசவம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		200) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶொ&searchhws=yes&matchtype=exact">ஶொ</a> śo
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶொ</tam> <t>šo</t></hw> . The compound of <tam>ஶ்</tam> and <tam>ஒ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		201) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோ&searchhws=yes&matchtype=exact">ஶோ</a> śō
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶோ</tam> <t>šō</t></hw> . The compound of <tam>ஶ்</tam> and <tam>ஓ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		202) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோகம்&searchhws=yes&matchtype=exact">ஶோகம்</a> śōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶோகம்</tam> <t>šōkam</t></hw> , <i>n</i>. < <i>šōka</i>. See <tam>சோகம்¹</tam>, 1, 2, 3, 4.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		203) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோணகாரி&searchhws=yes&matchtype=exact">ஶோணகாரி</a> śōṇakāri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶோணகாரி</tam> <t>šōṇa-kāri</t></hw> , <i>n</i>. < <i>šōṇa-kārin</i>. Rubefacient; <tam>பூசிய இடத்தைச் சிவக்கச் செய்து எரிச்ச லுண்டுபண்ணும் மருந்து</tam>. (<tam>இங். வை</tam>. 33.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		204) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோணம்&searchhws=yes&matchtype=exact">ஶோணம்</a> śōṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶோணம்</tam> <t>šōṇam</t></hw> , <i>n</i>. < <i>šōṇa</i>. Red; <tam>சிவப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		205) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோணிதம்&searchhws=yes&matchtype=exact">ஶோணிதம்</a> śōṇitam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶோணிதம்</tam> <t>šōṇitam</t></hw> , <i>n</i>. < <i>šōṇita</i>. See <tam>சுரோணிதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		206) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோதனபத்ரம்&searchhws=yes&matchtype=exact">ஶோதனபத்ரம்</a> śōtaṉapatram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶோதனபத்ரம்</tam> <t>šōtaṉa-patram</t></hw> , <i>n</i>. < <i>šōdhana-patra</i>. Table of errata. See <tam>சோதனபத்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		207) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோதனை&searchhws=yes&matchtype=exact">ஶோதனை</a> śōtaṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶோதனை</tam> <t>šōtaṉai</t></hw> , <i>n</i>. < <i>šōdhanā</i>. See <tam>சோதனை¹</tam>, 1, 2, 3, 4.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		208) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோதி-த்தல்&searchhws=yes&matchtype=exact">ஶோதி-த்தல்</a> śōti-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶோதி-த்தல்</tam> <t>šōti-</t></hw> , <i>11 v. tr</i>. < <i>šōdha</i>. See <tam>சோதி¹-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		209) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோபனம்&searchhws=yes&matchtype=exact">ஶோபனம்</a> śōpaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶோபனம்</tam> <t>šōpaṉam</t></hw> , <i>n</i>. < <i>šōbhana</i>. See <tam>சோபனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		210) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோபனாக்ஷதை&searchhws=yes&matchtype=exact">ஶோபனாக்ஷதை</a> śōpaṉākṣatai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶோபனாக்ஷதை</tam> <t>šōpaṉākṣatai</t></hw> , <i>n</i>. < <i>šobhanākṣatā</i>. See <tam>சோபனாட்சதை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		211) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோபி-த்தல்&searchhws=yes&matchtype=exact">ஶோபி-த்தல்</a> śōpi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶோபி-த்தல்</tam> <t>šōpi-</t></hw> , <i>11 v. intr</i>. < <i>šōbhā</i>. See <tam>சோபி¹-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		212) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோபை&searchhws=yes&matchtype=exact">ஶோபை</a> śōpai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3889">p. 3889</a>)
+		<blockquote><p><hw><tam>ஶோபை¹</tam> <t>šōpai</t></hw> , <i>n</i>. < <i>šōbhā</i>. See <tam>சோபை¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		213) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோபை&searchhws=yes&matchtype=exact">ஶோபை</a> śōpai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3890">p. 3890</a>)
+		<blockquote><p><hw><tam>ஶோபை²</tam> <t>šōpai</t></hw> , <i>n</i>. < <i>šōpha</i>. See <tam>சோபை². (பைஷஜ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		214) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோஷணம்&searchhws=yes&matchtype=exact">ஶோஷணம்</a> śōṣaṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3890">p. 3890</a>)
+		<blockquote><p><hw><tam>ஶோஷணம்</tam> <t>šōṣaṇam</t></hw> , <i>n</i>. < <i>šōṣaṇa</i>. 1. Dryness; becoming dry; <tam>வரட்டுகை</tam>. 2. See <tam>சோஷணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		215) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோஷி-த்தல்&searchhws=yes&matchtype=exact">ஶோஷி-த்தல்</a> śōṣi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3890">p. 3890</a>)
+		<blockquote><p><hw><tam>ஶோஷி-த்தல்</tam> <t>šōṣi-</t></hw> , <i>11 v. tr. & intr</i>. < <i>šoṣa</i>. See <tam>சோஷி-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		216) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶோஷை&searchhws=yes&matchtype=exact">ஶோஷை</a> śōṣai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3890">p. 3890</a>)
+		<blockquote><p><hw><tam>ஶோஷை</tam> <t>šōṣai</t></hw> , <i>n</i>. < <i>šōṣa</i>. See <tam>சோஷை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		217) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶௌ&searchhws=yes&matchtype=exact">ஶௌ</a> śau
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3890">p. 3890</a>)
+		<blockquote><p><hw><tam>ஶௌ</tam> <t>šau</t></hw> . The compound of <tam>ஶ்</tam> and <tam>ஔ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		218) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶௌசம்&searchhws=yes&matchtype=exact">ஶௌசம்</a> śaucam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3890">p. 3890</a>)
+		<blockquote><p><hw><tam>ஶௌசம்</tam> <t>šaucam</t></hw> , <i>n</i>. < <i>šauca</i>. See <tam>சௌசம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		219) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶௌசம்பண்ணு-தல்&searchhws=yes&matchtype=exact">ஶௌசம்பண்ணு-தல்</a> śaucampaṇṇu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3890">p. 3890</a>)
+		<blockquote><p><hw><tam>ஶௌசம்பண்ணு-தல்</tam> <t>šaucam-paṇṇu-</t></hw> , <i>v. intr</i>. < <tam>சௌசம்</tam> +. To cleanse oneself after evacuation; <tam>மலங்கழித்தபின் மலவாயிலைக் கழுவு தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		220) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶௌரி&searchhws=yes&matchtype=exact">ஶௌரி</a> śauri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3890">p. 3890</a>)
+		<blockquote><p><hw><tam>ஶௌரி</tam> <t>šauri</t></hw> , <i>n</i>. < <i>Šauri</i>. Kṛṣṇa; <tam>கிருஷ்ணன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		221) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶௌர்யம்&searchhws=yes&matchtype=exact">ஶௌர்யம்</a> śauryam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3890">p. 3890</a>)
+		<blockquote><p><hw><tam>ஶௌர்யம்</tam> <t>šauryam</t></hw> , <i>n</i>. < <i>šaurya</i>. Heroism, valour. See <tam>சௌரியம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		222) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்&searchhws=yes&matchtype=exact">ஶ்</a> ś
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்</tam> <t>š</t></hw> . Palatal sibilant.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		223) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்மஶானம்&searchhws=yes&matchtype=exact">ஶ்மஶானம்</a> śmaśāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்மஶானம்</tam> <t>šmašāṉam</t></hw> , <i>n</i>. < <i>šmašāna</i>. Burning-ground; <tam>சுடுகாடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		224) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்மஶானவைராக்கியம்&searchhws=yes&matchtype=exact">ஶ்மஶானவைராக்கியம்</a> śmaśāṉavairākkiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்மஶானவைராக்கியம்</tam> <t>šmašāṉa-vairākkiyam</t></hw> , <i>n</i>. < id. + <i>vairāgya</i>. Temporary dislike of the world, on realising the evanescence of the body at the sight of a burial-ground. See <tam>மயானவைராக்கியம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		225) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ம்ஶ்ரு&searchhws=yes&matchtype=exact">ஶ்ம்ஶ்ரு</a> śmśru
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ம்ஶ்ரு</tam> <t>šmašru</t></hw> , <i>n</i>. < <i>šmašru</i>. Beard and whiskers; <tam>தாடிமீசை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		226) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்யாமம்&searchhws=yes&matchtype=exact">ஶ்யாமம்</a> śyāmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்யாமம்</tam> <t>šyāmam</t></hw> , <i>n</i>. < <i>šyāma</i>. Black; <tam>கறுப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		227) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்யாமளம்&searchhws=yes&matchtype=exact">ஶ்யாமளம்</a> śyāmaḷam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்யாமளம்</tam> <t>šyāmaḷam</t></hw> , <i>n</i>. < <i>šyāmala</i>. That which is black; <tam>கருநிறமானது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		228) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்யாமளாதேவி&searchhws=yes&matchtype=exact">ஶ்யாமளாதேவி</a> śyāmaḷātēvi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்யாமளாதேவி</tam> <t>šyāmaḷā-tēvi</t></hw> , <i>n</i>. < <i>Šyāmalā</i> + <i>dēvī</i>. Pārvatī; <tam>பார்வதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		229) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்யேநம்&searchhws=yes&matchtype=exact">ஶ்யேநம்</a> śyēnam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்யேநம்</tam> <t>šyēnam</t></hw> , <i>n</i>. < <i>šyēna</i>. Kite. See <tam>சியேனம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		230) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரத்தை&searchhws=yes&matchtype=exact">ஶ்ரத்தை</a> śrattai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரத்தை</tam> <t>šrattai</t></hw> , <i>n</i>. < <i>šraddhā</i>. See <tam>சிரத்தை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		231) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரமணன்&searchhws=yes&matchtype=exact">ஶ்ரமணன்</a> śramaṇaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரமணன்</tam> <t>šramaṇaṉ</t></hw> , <i>n</i>. < <i>šramaṇa</i>. Jaina or Buddhist ascetic; <tam>சைன சன்னியாசி அல்லது பௌத்த பிக்ஷு</tam>. (<smallcap>I. M. P. T</smallcap>rav. 2.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		232) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரமணி&searchhws=yes&matchtype=exact">ஶ்ரமணி</a> śramaṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரமணி</tam> <t>šramaṇi</t></hw> , <i>n</i>. < <i>šramaṇī</i>. Female Buddhist ascetic; <tam>பௌத்த மதத்தினளான பிக்ஷுணி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		233) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரமநிலை&searchhws=yes&matchtype=exact">ஶ்ரமநிலை</a> śramanilai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரமநிலை</tam> <t>šrama-nilai</t></hw> , <i>n</i>. < <i>šrama</i> +. 1. Difficult situation or circumstance; <tam>சங்கடமான நிலை</tam>. 2. Painful circumstance; <tam>துன்பநிலை</tam>. 3. Practice of arms. See <tam>சிரமநிலை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		234) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரமப்படு-தல்&searchhws=yes&matchtype=exact">ஶ்ரமப்படு-தல்</a> śramappaṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரமப்படு-தல்</tam> <t>šrama-p-paṭu-</t></hw> , <i>v. intr</i>. < <tam>ஶ்ரமம்</tam> +. 1. To be in difficulties; <tam>துன்பப் படுதல்</tam>. 2. To be in mortal pain; <tam>மரணாவஸ்தைப் படுதல்</tam>. 3. To take physical exercise; <tam>தேகப் பயிற்சி செய்தல்</tam>. 4. To practise arms. See <tam>சிரமஞ்செய்-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		235) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரமம்&searchhws=yes&matchtype=exact">ஶ்ரமம்</a> śramam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரமம்</tam> <t>šramam</t></hw> , <i>n</i>. < <i>šrama</i>. 1. Difficulty; <tam>கடினம். இந்தப்பாட்டிற்குப் பொருள் காணு வது ஶ்ரமம்</tam>. 2. See <tam>சிரமம்</tam>. 3. Physical exercise; <tam>தேகப்பயிற்சி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		236) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரவணம்&searchhws=yes&matchtype=exact">ஶ்ரவணம்</a> śravaṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரவணம்</tam> <t>šravaṇam</t></hw> , <i>n</i>. < <i>šravaṇa</i>. See <tam>சிரவணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		237) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரவம்&searchhws=yes&matchtype=exact">ஶ்ரவம்</a> śravam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரவம்</tam> <t>šravam</t></hw> , <i>n</i>. < <i>šrava</i>. Ear. See <tam>சிரவம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		238) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ராத்தம்&searchhws=yes&matchtype=exact">ஶ்ராத்தம்</a> śrāttam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ராத்தம்</tam> <t>šrāttam</t></hw> , <i>n</i>. < <i>šrāddha</i>. See <tam>சிராத்தம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		239) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ராத்தேயம்&searchhws=yes&matchtype=exact">ஶ்ராத்தேயம்</a> śrāttēyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ராத்தேயம்</tam> <t>šrāttēyam</t></hw> , <i>n</i>. < <i>šrāddhēya</i>. (Buddh.) A <i>piramāṇam</i>; <tam>பௌத்தநூல் கூறும் ஒரு பிரமாணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		240) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ராந்தன்&searchhws=yes&matchtype=exact">ஶ்ராந்தன்</a> śrāntaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ராந்தன்</tam> <t>šrāntaṉ</t></hw> , <i>n</i>. < <i>šrānta</i>. Tired man; <tam>களைப்புற்றவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		241) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ராந்தி&searchhws=yes&matchtype=exact">ஶ்ராந்தி</a> śrānti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ராந்தி</tam> <t>šrānti</t></hw> , <i>n</i>. < <i>šrānti</i>. Fatigue; <tam>களைப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		242) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ராவகன்&searchhws=yes&matchtype=exact">ஶ்ராவகன்</a> śrāvakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ராவகன்</tam> <t>šrāvakaṉ</t></hw> , <i>n</i>. < <i>šrāvaka</i>. See <tam>சிராவகன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		243) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ராவணம்&searchhws=yes&matchtype=exact">ஶ்ராவணம்</a> śrāvaṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ராவணம்</tam> <t>šrāvaṇam</t></hw> , <i>n</i>. < <i>šrāvaṇa</i>. See <tam>சிராவணம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		244) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ராவ்யம்&searchhws=yes&matchtype=exact">ஶ்ராவ்யம்</a> śrāvyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ராவ்யம்</tam> <t>šrāvyam</t></hw> , <i>n</i>. < <i>šrāvya</i>. That which is sweet or pleasing to the ear. See <tam>சிராவியம். அவன் ஶ்ராவ்யமாய்ப் பாடினான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		245) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரியப்பதி&searchhws=yes&matchtype=exact">ஶ்ரியப்பதி</a> śriyappati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரியப்பதி</tam> <t>šriyap-pati</t></hw> , <i>n</i>. < <i>šriyaḥ-pati</i>. Viṣṇu, as the Lord of Šrī; <tam>திருமால்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		246) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீ&searchhws=yes&matchtype=exact">ஶ்ரீ</a> śrī
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரீ</tam> <t>šrī</t></hw> , <i>n</i>. < <i>Šrī</i>. 1. Lakṣmī; <tam>இலக்குமி</tam>. 2. Wealth; <tam>செல்வம். ஶ்ரீயின் மிகுதி</tam> (<tam>தக்கயாகப்</tam>. 435, <tam>உரை</tam>). 3. Felicity; <tam>பாக்கியம்</tam>. 4. Beauty; <tam>அழகு</tam>. 5. A title of respect prefixed to the names of deities, eminent persons, sacred places and things; <tam>மகிமைக்குறிப்பாகத் தெய்வப்பெயர் பெரி யோரின் பெயர் க்ஷேத்திரங்களின் பெயர் முதலிய வைகளுக்குமுன் வழங்குஞ் சொல். ஶ்ரீ வர்த்த மானர்</tam> (<tam>தக்கயாகப்</tam>. 375, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		247) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீகண்டன்&searchhws=yes&matchtype=exact">ஶ்ரீகண்டன்</a> śrīkaṇṭaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரீகண்டன்</tam> <t>šrī-kaṇṭaṉ</t></hw> , <i>n</i>. < id. + id. Šiva <tam>சிவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		248) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீகண்டர்&searchhws=yes&matchtype=exact">ஶ்ரீகண்டர்</a> śrīkaṇṭar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரீகண்டர்</tam> <t>šrī-kaṇṭar</t></hw> , <i>n</i>. < id. + <i>kaṇṭha</i>. 1. See <tam>ஶ்ரீகண்டன்</tam>. 2. See <tam>நீலகண்டசிவாசாரியர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		249) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீகரம்&searchhws=yes&matchtype=exact">ஶ்ரீகரம்</a> śrīkaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரீகரம்</tam> <t>šrī-karam</t></hw> , <i>n</i>. < <i>šrī-kara</i>. 1. That which is auspicious; <tam>மங்களமானது</tam>. 2. That which beautifies; <tam>அழகு செய்வது</tam>. 3. See <tam>சீகரம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		250) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீகாந்தன்&searchhws=yes&matchtype=exact">ஶ்ரீகாந்தன்</a> śrīkāntaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஶ்ரீகாந்தன்</tam> <t>šrī-kāntaṉ</t></hw> , <i>n</i>. < <i>Šrī</i> +. Viṣṇu, as beloved by Lakṣmī; <tam>திருமால்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		251) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீகாரியகர்த்தன்&searchhws=yes&matchtype=exact">ஶ்ரீகாரியகர்த்தன்</a> śrīkāriyakarttaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீகாரியகர்த்தன்</tam> <t>šrīkāriya-karttaṉ</t></hw> , <i>n</i>. < <i>šrī-kārya</i> + <i>kartā</i>. Manager of a temple, mutt, etc.; <tam>கோயில் மடம் முதலியவற்றை மேற் பார்ப்போன்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		252) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீகாரியக்கண்காணி&searchhws=yes&matchtype=exact">ஶ்ரீகாரியக்கண்காணி</a> śrīkāriyakkaṇkāṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீகாரியக்கண்காணி</tam> <t>šrīkāriya-k-kaṇ-kāṇi</t></hw> , <i>n</i>. < <tam>ஶ்ரீகாரியம்</tam> +. Manager of a mutt or temple; <tam>கோயில் மடம் முதலியவற்றின் விசாரணைக் கர்த்தா</tam>. (<smallcap>S. I. I</smallcap>. ii, 306.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		253) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீகாரியம்&searchhws=yes&matchtype=exact">ஶ்ரீகாரியம்</a> śrīkāriyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீகாரியம்</tam> <t>šrī-kāriyam</t></hw> , <i>n</i>. < <i>šrī-kārya</i>. Management of temple, mutt, etc.; <tam>கோயில் மடம் முதலியவற்றின் மேல்விசாரணை</tam>. (<smallcap>S. I. I</smallcap>. ii, 149.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		254) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீகாளஸ்தி&searchhws=yes&matchtype=exact">ஶ்ரீகாளஸ்தி</a> śrīkāḷasti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீகாளஸ்தி</tam> <t>šrīkāḷasti</t></hw> , <i>n</i>. See <tam>ஶ்ரீகாளஹஸ்தி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		255) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீகாளஹஸ்தி&searchhws=yes&matchtype=exact">ஶ்ரீகாளஹஸ்தி</a> śrīkāḷahasti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீகாளஹஸ்தி</tam> <t>šrī-kāḷa-hasti</t></hw> , <i>n</i>. < <i>Šri-kāla-hastī</i>. A Šiva shrine. See <tam>சீகாளத்தி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		256) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீகீதை&searchhws=yes&matchtype=exact">ஶ்ரீகீதை</a> śrīkītai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீகீதை</tam> <t>šrī-kītai</t></hw> , <i>n</i>. < <i>šrī</i> +. The Bhagavad-gītā; <tam>பகவற்கீதை. கண்ணன் எப்பொரு ளுந் தானாயிருக்கின்றபடியைக் காட்டி ஶ்ரீகீதை யருளிச்செய்து எல்லாரையும் போதித்தாற்போல</tam> (<tam>மதுரைக்</tam>. 763, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		257) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீகோயில்&searchhws=yes&matchtype=exact">ஶ்ரீகோயில்</a> śrīkōyil
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீகோயில்</tam> <t>šrī-kōyil</t></hw> , <i>n</i>. < id. +. 1. Temple; <tam>கோயில்</tam>. (<smallcap>I. M. P. T</smallcap>j. 32.) 2. Jain temple; <tam>அருகக்கடவுளின் கோயில். நேமிஸ்வாமி களுடைய பொன்மதிலை யுடைத்தாகிய . . . ஶ்ரீ கோயிலுக்கு</tam> (<tam>சீவக</tam>. 912, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		258) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீகோஶம்&searchhws=yes&matchtype=exact">ஶ்ரீகோஶம்</a> śrīkōśam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீகோஶம்</tam> <t>šrī-kōšam</t></hw> , <i>n</i>. < id. + <i>kōša</i>. Sacred book; <tam>புனிதமான நூல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		259) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீசக்கரம்&searchhws=yes&matchtype=exact">ஶ்ரீசக்கரம்</a> śrīcakkaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீசக்கரம்</tam> <t>šrī-cakkaram</t></hw> , <i>n</i>. < id. + <i>cakra</i>. A mystic diagram pertaining to Šakti; <tam>தேவிக் குரிய யந்திரவகை</tam>. (<tam>தக்கயாகப். பக்</tam>. 281.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		260) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீசந்தம்&searchhws=yes&matchtype=exact">ஶ்ரீசந்தம்</a> śrīcantam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஶ்ரீசந்தம்</tam> <t>šrī-cantam</t></hw> , <i>n</i>. < <i>Šrī</i> +. A kind of jewel; <tam>நகைவகை</tam>. (<smallcap>S. I. I</smallcap>. ii, 32.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		261) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீசூர்ணபரிபாலனம்&searchhws=yes&matchtype=exact">ஶ்ரீசூர்ணபரிபாலனம்</a> śrīcūrṇaparipālaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீசூர்ணபரிபாலனம்</tam> <t>šrī-cūrṇa-paripālaṉam</t></hw> , <i>n</i>. < id. + <i>cūrṇa</i> +. A ceremony performed on the day of the funeral of a Vaiṣṇava; <tam>இறந்தவன்று பிரேதத்தின் பொருட்டு வைஷ்ணவர் செய்யுஞ் சடங்குவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		262) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீசூர்ணம்&searchhws=yes&matchtype=exact">ஶ்ரீசூர்ணம்</a> śrīcūrṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீசூர்ணம்</tam> <t>šrī-cūrṇam</t></hw> , <i>n</i>. < id. + id. Yellow or red paste of turmeric and rice flour, used in Vaiṣṇavaite sectarian marks; <tam>திருமண் பாதங்களின் இடையிலிடப்படும் செம்மை அல்லது மஞ்சள் நிறமான பொடி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		263) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீசைந்தி&searchhws=yes&matchtype=exact">ஶ்ரீசைந்தி</a> śrīcainti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீசைந்தி</tam> <t>šrīcainti</t></hw> , <i>n</i>. Corr. of <tam>ஶ்ரீஜயந்தி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		264) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீஜயந்தி&searchhws=yes&matchtype=exact">ஶ்ரீஜயந்தி</a> śrījayanti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரீஜயந்தி</tam> <t>šrī-jayanti</t></hw> , <i>n</i>. < <i>šrī-jayantī</i>. 1. The birthday of Šrī Kṛṣṇa when Rōhiṇī is in conjunction with the moon on the eighth <i>titi</i> in the dark fortnight of the lunar month of Cirāvaṇam; <tam>சிராவணமாதத்து அபரபட்சத்து அட்டமி யோடு உரோகிணி நட்சத்திரங் கூடியதும் கண்ண பிரான் அவதரித்ததுமான திருநாள்</tam>. (<tam>விதான. தெய்வ வழி</tam>. 6, <tam>உரை</tam>.) 2. The festival of Šrī Kṛṣṇa's birthday; <tam>கண்ணபிரானது அவதாரத்தைக் கொண் டாடும் நாள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		265) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீதரன்&searchhws=yes&matchtype=exact">ஶ்ரீதரன்</a> śrītaraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீதரன்</tam> <t>šrī-taraṉ</t></hw> , <i>n</i>. < <i>Šrī-dhara</i>. Viṣṇu; <tam>திருமால்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		266) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீதாளம்&searchhws=yes&matchtype=exact">ஶ்ரீதாளம்</a> śrītāḷam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீதாளம்</tam> <t>šrī-tāḷam</t></hw> , <i>n</i>. < <i>šrī</i> +. Talipot palm. See <tam>சீதாளம்</tam>, 1. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		267) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீதேவி&searchhws=yes&matchtype=exact">ஶ்ரீதேவி</a> śrītēvi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீதேவி</tam> <t>šrī-tēvi</t></hw> , <i>n</i>. < id. + <i>dēvī</i>. The Goddess Lakṣmī. See <tam>சீதேவி</tam>, 1. (<tam>தக்கயாகப்</tam>. 775, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		268) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீநாகவசந்தம்&searchhws=yes&matchtype=exact">ஶ்ரீநாகவசந்தம்</a> śrīnākavacantam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஶ்ரீநாகவசந்தம்</tam> <t>šrī-nākavacantam</t></hw> , <i>n</i>. < id. +. (Mus.) A specific melody-type; <tam>இராகவகை</tam>. (<tam>பரத. ராக. பக்</tam>. 102.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		269) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீநிவாஸன்&searchhws=yes&matchtype=exact">ஶ்ரீநிவாஸன்</a> śrīnivāsaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீநிவாஸன்</tam> <t>šrī-nivāsaṉ</t></hw> , <i>n</i>. < id. + <i>nivāsa</i>. Viṣṇu worshipped at the Tiruppati Hills; <tam>திருப்பதிமலைமேற் கோயில் கொண்டுள்ள திருமால்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		270) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீபண்டாரம்&searchhws=yes&matchtype=exact">ஶ்ரீபண்டாரம்</a> śrīpaṇṭāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீபண்டாரம்</tam> <t>šrī-paṇṭāram</t></hw> , <i>n</i>. < id. +. Treasury of a mutt or temple. See <tam>சீபண்டாரம்</tam>, 1. (Insc.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		271) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீபண்டாரி&searchhws=yes&matchtype=exact">ஶ்ரீபண்டாரி</a> śrīpaṇṭāri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஶ்ரீபண்டாரி</tam> <t>šrī-paṇṭāri</t></hw> , <i>n</i>. < id. +. An officer of a temple; <tam>கோயிலதிகாரிகளு ளொருவர்</tam>. (<smallcap>S. I. I</smallcap>. v, 321.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		272) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீபதி&searchhws=yes&matchtype=exact">ஶ்ரீபதி</a> śrīpati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீபதி</tam> <t>šrī-pati</t></hw> , <i>n</i>. < id. + <i>pati</i>. Viṣṇu; <tam>விஷ்ணு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		273) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீபலி&searchhws=yes&matchtype=exact">ஶ்ரீபலி</a> śrīpali
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீபலி</tam> <t>šrī-pali</t></hw> , <i>n</i>. < id. + <i>bali</i>. See <tam>சீபலி</tam>. (<smallcap>I. M. P. T</smallcap>j. 9.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		274) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீபலிப்பட்டி&searchhws=yes&matchtype=exact">ஶ்ரீபலிப்பட்டி</a> śrīpalippaṭṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஶ்ரீபலிப்பட்டி</tam> <t>šrī-pali-p-paṭṭi</t></hw> , <i>n</i>. < id. + <i>bali</i> +. Gift of land for conducting festival; <tam>திருவிழாப்புறமாக விடப்பட்ட நிலம்</tam>. (<smallcap>M. E. R</smallcap>. 71 of 1923-<smallcap>B</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		275) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீபாதங்கள்&searchhws=yes&matchtype=exact">ஶ்ரீபாதங்கள்</a> śrīpātaṅkaḷ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஶ்ரீபாதங்கள்</tam> <t>šrī-pātaṅkaḷ</t></hw> , <i>n</i>. < id. +. Exalted personage, used as a term of respect; <tam>பெரியோருக்கு வழங்குஞ் சிறப்புப்பெயர். ஶ்ரீ இராம தீர்த்த ஶ்ரீபாதங்கள்</tam> (<smallcap>S. I. I</smallcap>. iv, 101).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		276) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீபாததீர்த்தம்&searchhws=yes&matchtype=exact">ஶ்ரீபாததீர்த்தம்</a> śrīpātatīrttam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீபாததீர்த்தம்</tam> <t>šrī-pāta-tīrttam</t></hw> , <i>n</i>. < id. + <i>pāda</i> +. Water used in washing the feet of a guru, considered sacred; <tam>பெரியோரின் திரு வடியை அலம்பியதும் பாவனமாகக் கருதப்படுவது மான நீர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		277) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீபாதந்தாங்கி&searchhws=yes&matchtype=exact">ஶ்ரீபாதந்தாங்கி</a> śrīpātantāṅki
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீபாதந்தாங்கி</tam> <t>šrī-pātan-tāṅki</t></hw> , <i>n</i>. < id. + id. +. Person who bears upon his shoulders the idol on its vehicle; <tam>கோயில் மூர்த்தியுள்ள வாகனத்தைத் தோளில் தாங்கி எழுந்தருளப்பண்ணு வோன்</tam>. (<smallcap>I. M. P. T</smallcap>p. 258.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		278) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீபாதந்தாங்கு-தல்&searchhws=yes&matchtype=exact">ஶ்ரீபாதந்தாங்கு-தல்</a> śrīpātantāṅku-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீபாதந்தாங்கு-தல்</tam> <t>šrī-pātan-tāṅku-</t></hw> , <i>v. intr</i>. < id. + id. +. To bear upon one's shoulders the idol on its vehicle, as supporting the feet of god; <tam>கோயில் மூர்த்தியுள்ள வாகனத்தைத் தோளிலே தாங்குதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		279) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீபாதரேணு&searchhws=yes&matchtype=exact">ஶ்ரீபாதரேணு</a> śrīpātarēṇu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீபாதரேணு</tam> <t>šrī-pāta-rēṇu</t></hw> , <i>n</i>. < id. + id. + <i>rēṇu</i>. An unguent with <i>paccai-k-karppūram</i> and other fragrant substances, given as <i>piracātam</i> in the temple at the Tiruppati Hills, as having been smeared on the holy idol; <tam>திருப் பதிப் பெருமாளின்மேல் இடப்பெற்றுப் பின்பு பிர சாதமாக வழங்கப்பெறும் பச்சைக்கர்ப்பூரம் முதலி யன சேர்த்த கலவைப் பண்டம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		280) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீபாஷ்யம்&searchhws=yes&matchtype=exact">ஶ்ரீபாஷ்யம்</a> śrīpāṣyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீபாஷ்யம்</tam> <t>šrī-pāṣyam</t></hw> , <i>n</i>. < id. +. A commentary by Šrī Rāmānuja, on the Brahma Sūtras; <tam>பிரமசூத்திரத்திற்கு இராமாநுஜர் செய்த பாஷ்யம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		281) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீபீடம்&searchhws=yes&matchtype=exact">ஶ்ரீபீடம்</a> śrīpīṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீபீடம்</tam> <t>šrī-pīṭam</t></hw> , <i>n</i>. < id. +. Pedestal for idol, liṅgam, etc.; <tam>தெய்வங்களின் சிலைகளை நிறுத்தும் ஆதாரக் கல். கிள்ளியூர் மலையில்நின்றும் சிலை கொண்டுவந்து சாத்திராத்தமானபடியே ஶ்ரீபீடம் செய்துசாத்த</tam> (<smallcap>S. I. I</smallcap>. vii, 501).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		282) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீபுராணம்&searchhws=yes&matchtype=exact">ஶ்ரீபுராணம்</a> śrīpurāṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3882">p. 3882</a>)
+		<blockquote><p><hw><tam>ஶ்ரீபுராணம்</tam> <t>šrī-purāṇam</t></hw> , <i>n</i>. < id. +. A Jaina work on the lives of the 24 <i>tīrttaṅkarar</i>, in <i>maṇi-p-piravāḷam</i>; <tam>தீர்த்தங்கரர் இரு பத்துநால்வருடைய சரித்திரத்தைக் கூறும் மணிப் பிரவாள நூல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		283) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீமங்கலி&searchhws=yes&matchtype=exact">ஶ்ரீமங்கலி</a> śrīmaṅkali
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீமங்கலி</tam> <t>šrī-maṅkali</t></hw> , <i>n</i>. < id. + <i>maṅgalī</i>. Pārvatī; <tam>உமாதேவி. ஶ்ரீமங்கலி பங்கன்</tam> (<tam>தக்கயாகப்</tam>. 292, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		284) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீமதி&searchhws=yes&matchtype=exact">ஶ்ரீமதி</a> śrīmati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீமதி</tam> <t>šrīmati</t></hw> , <i>n</i>. < <i>šrī-matī</i>. A title prefixed to women's names; <tam>பெண்டிர் பெயர் முன் வழங்கும் மரியாதைச்சொல்வகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		285) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீமது&searchhws=yes&matchtype=exact">ஶ்ரீமது</a> śrīmatu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீமது</tam> <t>šrīmatu</t></hw> , <i>n</i>. See <tam>ஶ்ரீமத்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		286) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீமத்&searchhws=yes&matchtype=exact">ஶ்ரீமத்</a> śrīmat
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீமத்</tam> <t>šrīmat</t></hw> , <i>n</i>. < <i>šrī-mat</i>. 1. A title prefixed to men's names; <tam>ஆடவர் பெயர்முன் வழங்கும் மரியாதைச்சொல்வகை</tam>. 2. Auspiciousness; <tam>சுபம்</tam>. 3. Prosperity; <tam>ஆக்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		287) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீமந்தன்&searchhws=yes&matchtype=exact">ஶ்ரீமந்தன்</a> śrīmantaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீமந்தன்</tam> <t>šrīmantaṉ</t></hw> , <i>n</i>. < <i>šrī-mat</i>. See <tam>ஶ்ரீமான்</tam>, 1. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		288) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீமான்&searchhws=yes&matchtype=exact">ஶ்ரீமான்</a> śrīmāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீமான்</tam> <t>šrīmāṉ</t></hw> , <i>n</i>. < <i>šrī-mān</i> nom. sing. of <i>šrī-mat</i>. 1. Lord; rich man. See <tam>சீமான்</tam>, 1. 2. A title prefixed to men's names; <tam>ஆடவர் பெயர்முன் வழங்கும் மரியாதைச்சொல்வகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		289) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீமாஹேஶ்வரர்&searchhws=yes&matchtype=exact">ஶ்ரீமாஹேஶ்வரர்</a> śrīmāhēśvarar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீமாஹேஶ்வரர்</tam> <t>šrī-māhēšvarar</t></hw> , <i>n</i>. < <i>šrī</i> + <i>māhēšvara</i>. 1. Devotees of Šiva; <tam>சிவ னடியார்</tam>. (<smallcap>I. M. P. T</smallcap>p. 644.) 2. A class of servants of the Šiva temple; <tam>சிவன்கோயிற் பணி யாளர் வகையார்</tam>. (<smallcap>I. M. P. S</smallcap>m. 24.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		290) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீமுக&searchhws=yes&matchtype=exact">ஶ்ரீமுக</a> śrīmuka
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீமுக</tam> <t>šrīmuka</t></hw> , <i>n</i>. < <i>Šrīmukha</i>. The seventh year of the Jupiter cycle. See <tam>கீமுக. (பஞ்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		291) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீமுகம்&searchhws=yes&matchtype=exact">ஶ்ரீமுகம்</a> śrīmukam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீமுகம்</tam> <t>šrī-mukam</t></hw> , <i>n</i>. < <i>šrī</i> +. Letter from an eminent person, guru or king; <tam>குரு அரசன் போன்ற பெரியாரின் திருமுகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		292) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீமூர்த்தம்&searchhws=yes&matchtype=exact">ஶ்ரீமூர்த்தம்</a> śrīmūrttam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீமூர்த்தம்</tam> <t>šrī-mūrttam</t></hw> , <i>n</i>. < id. +. See <tam>ஶ்ரீமூர்த்தி</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		293) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீமூர்த்தி&searchhws=yes&matchtype=exact">ஶ்ரீமூர்த்தி</a> śrīmūrtti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீமூர்த்தி</tam> <t>šrī-mūrtti</t></hw> , <i>n</i>. < id. +. A black fossil ammonite worshipped as a form of Viṣṇu, chiefly found in the river Gaṇḍak. See <tam>சாளக்கிராமம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		294) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீயக்கிபழஞ்சலாகையச்சு&searchhws=yes&matchtype=exact">ஶ்ரீயக்கிபழஞ்சலாகையச்சு</a> śrīyakkipaḻañcalākaiyaccu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S421">p. S421</a>)
+		<blockquote><p><hw><tam>ஶ்ரீயக்கிபழஞ்சலாகையச்சு</tam> <t>šrī-yakki-paḻañ-calākai-y-accu</t></hw> , <i>n</i>. < id. + <i>yaksī</i> +. An old gold coin; <tam>பழைய பொன்னாணய வகை</tam>. (<smallcap>M. E. R</smallcap>. 587 of 1922.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		295) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீயாஞ்ஞை&searchhws=yes&matchtype=exact">ஶ்ரீயாஞ்ஞை</a> śrīyāññai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S421">p. S421</a>)
+		<blockquote><p><hw><tam>ஶ்ரீயாஞ்ஞை</tam> <t>šrī-y-āññai</t></hw> , <i>n</i>. < id. +. Royal order; <tam>இராசாக்கினை</tam>. (<smallcap>S. I. I</smallcap>. vii, 399.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		296) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீயுத&searchhws=yes&matchtype=exact">ஶ்ரீயுத</a> śrīyuta
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீயுத</tam> <t>šrī-yuta</t></hw> , <i>n</i>. < <i>šrī-yuta</i>. A title prefixed to men's names; <tam>ஆடவர் பெயர்முன் வழங்கும் மரியாதைச்சொல்வகை</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		297) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீரங்கநாதர்&searchhws=yes&matchtype=exact">ஶ்ரீரங்கநாதர்</a> śrīraṅkanātar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீரங்கநாதர்</tam> <t>šrī-raṅka-nātar</t></hw> , <i>n</i>. < <i>šrī-raṅga</i> +. Viṣṇu worshipped at Šrīraṅgam; <tam>ஶ்ரீரங்கத்துக் கோயில்கொண்ட திருமால்</tam>. (<smallcap>I. M. P. T</smallcap>p. 433.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		298) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீரங்கம்&searchhws=yes&matchtype=exact">ஶ்ரீரங்கம்</a> śrīraṅkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீரங்கம்</tam> <t>šrī-raṅkam</t></hw> , <i>n</i>. < <i>šrī-raṅga</i>. Šrīraṅgam, a celebrated Viṣṇu shrine near Trichinopoly. See <tam>சீரங்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		299) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீரஞ்சனி&searchhws=yes&matchtype=exact">ஶ்ரீரஞ்சனி</a> śrīrañcaṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S421">p. S421</a>)
+		<blockquote><p><hw><tam>ஶ்ரீரஞ்சனி</tam> <t>šrīrañjaṉi</t></hw> , <i>n</i>. (Mus.) A specific melody-type; <tam>இராகவகை</tam>. (<tam>பரத. ராக. பக்</tam>. 102.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		300) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீராகம்&searchhws=yes&matchtype=exact">ஶ்ரீராகம்</a> śrīrākam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீராகம்</tam> <t>šrī-rākam</t></hw> , <i>n</i>. < <i>šrī</i> +. (Mus.) A specific melody-type. See <tam>சீராகம்</tam>. (<tam>பரத. இராக</tam>. 65, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		301) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீராமஜயம்&searchhws=yes&matchtype=exact">ஶ்ரீராமஜயம்</a> śrīrāmajayam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீராமஜயம்</tam> <t>šrī-rāma-jayam</t></hw> , <i>n</i>. < id. + id. +. An auspicious term, meaning 'Šri Rāma's success', used at the beginning of a letter or document; <tam>'ஶ்ரீராமர் வெற்றி' என்று பொருள்படுவதும் கடிதம் முதலியவற்றின் தலைப்பில் எழுதப்படுவதுமான ஒரு மங்கலமொழி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		302) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீராமநவமி&searchhws=yes&matchtype=exact">ஶ்ரீராமநவமி</a> śrīrāmanavami
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீராமநவமி</tam> <t>šrī-rāma-navami</t></hw> , <i>n</i>. < id. + <i>rāma</i> +. The ninth <i>titi</i> in the bright fortnight of Caittiram, the birthday of Šrī Rāma; <tam>ஶ்ரீராமர் அவதரித்த தினமாகிய சைத்திர சுக்கில பக்ஷத்து நவமி</tam>. (<smallcap>I. M. P. T</smallcap>p. 491.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		303) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீராமானுசம்&searchhws=yes&matchtype=exact">ஶ்ரீராமானுசம்</a> śrīrāmāṉucam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீராமானுசம்</tam> <t>šrī-rāmāṉucam</t></hw> , <i>n</i>. < id. +. 1. A small stand, shaped like a dish, on which are embossed figures of the sandals of Caṭakōpar, as representing his chief devotee Rāmānuja; <tam>சடகோபரின் திருவடிநிலை யமைந்த பீடம்</tam>. 2. A drinking cup of the Vaiṣṇavas; <tam>வைணவர் தண்ணீர் பருக உபயோகிக்கும் வாயகன்ற பாத்திரவகை</tam>. 3. That part of the <i>teṅkalai</i> caste-mark, which is on the nose; <tam>தென்கலைத் திருமண்ணில் மூக்கின்மீது இடும் பாதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		304) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீருத்திரம்&searchhws=yes&matchtype=exact">ஶ்ரீருத்திரம்</a> śrīruttiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீருத்திரம்</tam> <t>šrī-ruttiram</t></hw> , <i>n</i>. < id. + <i>rudra</i>. A Vēdic hymn; <tam>வேதத்திலுள்ள ஒரு மந்திரப்பகுதி</tam>. (<smallcap>I. M. P. T</smallcap>j. 96.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		305) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீருத்திரர்&searchhws=yes&matchtype=exact">ஶ்ரீருத்திரர்</a> śrīruttirar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீருத்திரர்</tam> <t>šrī-ruttirar</t></hw> , <i>n</i>. < id. +. A class of servants of the Šiva temple; <tam>சிவன்கோயி லிலே தொண்டுபுரியும் ஒருசாரார்</tam>. (<smallcap>I. M. P. S</smallcap>m. 24.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		306) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீலக்ஷணபாவனை&searchhws=yes&matchtype=exact">ஶ்ரீலக்ஷணபாவனை</a> śrīlakṣaṇapāvaṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீலக்ஷணபாவனை</tam> <t>šrī-lakṣaṇa-pāvaṉai</t></hw> , <i>n</i>. < id. + <i>lakṣaṇa</i> +. (Buddh.) Contemplation of the disgusting nature of the body and its impermanence; <tam>சரீரத்தின் அநித்தம் அசுசி முதலிய வற்றைக் கருதும் பாவனை</tam>. (<tam>மணி. பக்</tam>. 389, <tam>கீழ்க் குறிப்பு</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		307) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீவச்சம்&searchhws=yes&matchtype=exact">ஶ்ரீவச்சம்</a> śrīvaccam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீவச்சம்</tam> <t>šrīvaccam</t></hw> , <i>n</i>. See <tam>ஶ்ரீவத்ஸம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		308) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீவத்ஸம்&searchhws=yes&matchtype=exact">ஶ்ரீவத்ஸம்</a> śrīvatsam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீவத்ஸம்</tam> <t>šrī-vatsam</t></hw> , <i>n</i>. < <i>šrī</i> +. 1. A mark or curl of hair on the breast of Viṣṇu. See <tam>சீவற்சம்</tam>, 1 2. A gōtra; <tam>ஒரு கோத்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		309) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீவிகாரஞ்செய்-தல்&searchhws=yes&matchtype=exact">ஶ்ரீவிகாரஞ்செய்-தல்</a> śrīvikārañcey-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீவிகாரஞ்செய்-தல்</tam> <t>šrīvikārañ-cey-</t></hw> , <i>v. intr</i>. < <tam>ஶ்ரீவிகாரம்</tam> +. (Jaina.) To take a walk, as Arhat; <tam>உலாவியருளுதல். செந்தாமரைப் பூவின் மேலே ஶ்ரீவிகாரஞ்செய்யும் உன்னை</tam> (<tam>மேருமந்</tam>. 66, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		310) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீவிகாரம்&searchhws=yes&matchtype=exact">ஶ்ரீவிகாரம்</a> śrīvikāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3883">p. 3883</a>)
+		<blockquote><p><hw><tam>ஶ்ரீவிகாரம்</tam> <t>šrīvikāram</t></hw> , <i>n</i>. < <i>šrī-vihāra</i>. 1. (Jaina.) A sport of Arhat which consists in His moving among the mortals and bestowing grace upon them; <tam>மானிடரோடு உலாவுகையாகிய அருகன் அருட்செயல்</tam>. (<tam>சீவக</tam>. 3112, <tam>கீழ்க்குறிப்பு</tam>.) 2. Jaina or Buddhist temple; <tam>ஜைனக்கோயில் அல்லது பௌத்தாலயம்</tam>. (<tam>மேருமந்</tam>. 8, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		311) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீவிமானம்&searchhws=yes&matchtype=exact">ஶ்ரீவிமானம்</a> śrīvimāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரீவிமானம்</tam> <t>šrīvimāṉam</t></hw> , <i>n</i>. < <i>šrī-vimāna</i>. 1. Dome over the inner shrine; <tam>கோயிற் கர்ப்பக்கிருகத்தின்மேல் கட்டப்படும் விமா னம்</tam>. 2. Inner shrine of a temple; <tam>கர்ப்பக் கிருகம்</tam>. (<smallcap>I. M. P. T</smallcap>j. 58.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		312) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீவிஹாரம்&searchhws=yes&matchtype=exact">ஶ்ரீவிஹாரம்</a> śrīvihāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரீவிஹாரம்</tam> <t>šrīvihāram</t></hw> , <i>n</i>. See <tam>ஶ்ரீவிகாரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		313) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரீவைஷ்ணவர்&searchhws=yes&matchtype=exact">ஶ்ரீவைஷ்ணவர்</a> śrīvaiṣṇavar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரீவைஷ்ணவர்</tam> <t>šrī-vaiṣṇavar</t></hw> , <i>n</i>. < <i>šrī</i> +. 1. Vaiṣṇavas in general; <tam>வைஷ்ணவர்</tam>. (<smallcap>T. A. S</smallcap>. ii, 140.) 2. Followers of Rāmānuja among Brahmins; <tam>இராமானுசமதத்தைச் சார்ந்த பிரா மணர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		314) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ருங்கலை&searchhws=yes&matchtype=exact">ஶ்ருங்கலை</a> śruṅkalai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ருங்கலை</tam> <t>šruṅkalai</t></hw> , <i>n</i>. < <i>šṛṅkhalā</i>. See <tam>சிருங்கலை</tam>, 1, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		315) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ருங்காரம்&searchhws=yes&matchtype=exact">ஶ்ருங்காரம்</a> śruṅkāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ருங்காரம்</tam> <t>šruṅkāram</t></hw> , <i>n</i>. < <i>šṛṅgāra</i>. See <tam>சிங்காரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		316) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ருங்காரரஸம்&searchhws=yes&matchtype=exact">ஶ்ருங்காரரஸம்</a> śruṅkārarasam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ருங்காரரஸம்</tam> <t>šruṅkāra-rasam</t></hw> , <i>n</i>. < id. +. (Rhet.) The erotic sentiment; <tam>காமச் சுவை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		317) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ருங்கிபஸ்மம்&searchhws=yes&matchtype=exact">ஶ்ருங்கிபஸ்மம்</a> śruṅkipasmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ருங்கிபஸ்மம்</tam> <t>šruṅki-pasmam</t></hw> , <i>n</i>. prob. <i>šṛṅga</i> +. Medicinal preparation of calcined powder of deer-horn; <tam>மான்கொம்பைப் புடம்போட்டுத் தயாரித்த பஸ்மம். (பைஷஜ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		318) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ருதி&searchhws=yes&matchtype=exact">ஶ்ருதி</a> śruti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ருதி</tam> <t>šruti</t></hw> , <i>n</i>. < <i>šruti</i>. See <tam>சுருதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		319) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரேணி&searchhws=yes&matchtype=exact">ஶ்ரேணி</a> śrēṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரேணி</tam> <t>šrēṇi</t></hw> , <i>n</i>. < <i>šrēṇī</i>. See <tam>சிரேணி</tam>, 1, 3.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		320) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரேயஸ்&searchhws=yes&matchtype=exact">ஶ்ரேயஸ்</a> śrēyas
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரேயஸ்</tam> <t>šrēyas</t></hw> , <i>n</i>. < <i>šrēyas</i>. See <tam>சிரேயசு</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		321) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரேஷ்டன்&searchhws=yes&matchtype=exact">ஶ்ரேஷ்டன்</a> śrēṣṭaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரேஷ்டன்</tam> <t>šrēṣṭaṉ</t></hw> , <i>n</i>. < <i>šrēṣṭha</i>. See <tam>சிரேஷ்டன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		322) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரேஷ்டம்&searchhws=yes&matchtype=exact">ஶ்ரேஷ்டம்</a> śrēṣṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரேஷ்டம்</tam> <t>šrēṣṭam</t></hw> , <i>n</i>. < <i>šrēṣṭha</i>. That which is best. See <tam>சிரேஷ்டம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		323) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரேஷ்டி&searchhws=yes&matchtype=exact">ஶ்ரேஷ்டி</a> śrēṣṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரேஷ்டி</tam> <t>šrēṣṭi</t></hw> , <i>n</i>. < <i>šrēṣṭhin</i>. See <tam>சிரேட்டி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		324) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரோதவ்யம்&searchhws=yes&matchtype=exact">ஶ்ரோதவ்யம்</a> śrōtavyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரோதவ்யம்</tam> <t>šrōtavyam</t></hw> , <i>n</i>. < <i>šrōtavya</i>. That which deserves to be heard or listened to; <tam>கேட்டற்கு உரியது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		325) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரோத்ரம்&searchhws=yes&matchtype=exact">ஶ்ரோத்ரம்</a> śrōtram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரோத்ரம்</tam> <t>šrōtram</t></hw> , <i>n</i>. < <i>šrōtra</i>. Ear; <tam>காது. கீதம் ஶ்ரோத்ரத்துக்கு ஆனந்தம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		326) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரோத்ரியன்&searchhws=yes&matchtype=exact">ஶ்ரோத்ரியன்</a> śrōtriyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரோத்ரியன்</tam> <t>šrōtriyaṉ</t></hw> , <i>n</i>. < <i>šrōtriya</i>. Brahmin well-versed in the Vēdas. See <tam>சுரோத்திரியன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		327) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரோத்ரியம்&searchhws=yes&matchtype=exact">ஶ்ரோத்ரியம்</a> śrōtriyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரோத்ரியம்</tam> <t>šrōtriyam</t></hw> , <i>n</i>. < <i>šrōtriya</i>. See <tam>சுரோத்திரியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		328) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரௌதம்&searchhws=yes&matchtype=exact">ஶ்ரௌதம்</a> śrautam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரௌதம்</tam> <t>šrautam</t></hw> , <i>n</i>. < <i>šrauta</i>. 1. That which is ordained by the Vēdas; <tam>வேதத்தில் ஓதிய தருமம் முதலியவை</tam>. 2. Treatise detailing and explaining the modes of observing the rites and ceremonies ordained by the Vēdas; <tam>வேதத்திற்கூறிய சடங்குகளை அனுஷ்டிக்குமுறையைத் தெரிவிக்கும் நூல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		329) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்ரௌதி&searchhws=yes&matchtype=exact">ஶ்ரௌதி</a> śrauti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்ரௌதி</tam> <t>šrauti</t></hw> , <i>n</i>. < <i>šrautin</i>. See <tam>சிரௌதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		330) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்லாகி-த்தல்&searchhws=yes&matchtype=exact">ஶ்லாகி-த்தல்</a> ślāki-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்லாகி-த்தல்</tam> <t>šlāki-</t></hw> , <i>11 v. tr</i>. < <i>šlāgh</i>. To praise. See <tam>சிலாகி-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		331) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்லாகை&searchhws=yes&matchtype=exact">ஶ்லாகை</a> ślākai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்லாகை</tam> <t>šlākai</t></hw> , <i>n</i>. < <i>šlāghā</i>. Praise. See <tam>சிலாகை¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		332) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்லாக்யம்&searchhws=yes&matchtype=exact">ஶ்லாக்யம்</a> ślākyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்லாக்யம்</tam> <t>šlākyam</t></hw> , <i>n</i>. < <i>šlāghya</i>. See <tam>சிலாக்கியம்</tam>, 1, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		333) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்லிஷ்டம்&searchhws=yes&matchtype=exact">ஶ்லிஷ்டம்</a> śliṣṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்லிஷ்டம்</tam> <t>šliṣṭam</t></hw> , <i>n</i>. < <i>šliṣṭa</i>. See <tam>சிலிட்டம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		334) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்லேஷை&searchhws=yes&matchtype=exact">ஶ்லேஷை</a> ślēṣai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்லேஷை</tam> <t>šlēṣai</t></hw> , <i>n</i>. < <i>šlēṣa</i>. Paronomasia. See <tam>சிலேடை</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		335) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்லேஷ்மம்&searchhws=yes&matchtype=exact">ஶ்லேஷ்மம்</a> ślēṣmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்லேஷ்மம்</tam> <t>šlēṣmam</t></hw> , <i>n</i>. < <i>šlēṣman</i>. Phlegm. See <tam>சிலேட்டுமம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		336) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்லோகம்&searchhws=yes&matchtype=exact">ஶ்லோகம்</a> ślōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்லோகம்</tam> <t>šlōkam</t></hw> , <i>n</i>. < <i>šlōka</i>. Stanza in Sanskrit. See <tam>சுலோகம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		337) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்வஶுரன்&searchhws=yes&matchtype=exact">ஶ்வஶுரன்</a> śvaśuraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்வஶுரன்</tam> <t>švašuraṉ</t></hw> , <i>n</i>. < <i>švašura</i>. Father-in-law; <tam>மாமனார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		338) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்வஶ்ரூ&searchhws=yes&matchtype=exact">ஶ்வஶ்ரூ</a> śvaśrū
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்வஶ்ரூ</tam> <t>švašrū</t></hw> , <i>n</i>. < <i>švašrū</i>. Mother-in-law; <tam>மாமியார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		339) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்வானம்&searchhws=yes&matchtype=exact">ஶ்வானம்</a> śvāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்வானம்</tam> <t>švāṉam</t></hw> , <i>n</i>. < <i>švāna</i>. Dog. See <tam>சுவானம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		340) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்வாஸம்&searchhws=yes&matchtype=exact">ஶ்வாஸம்</a> śvāsam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்வாஸம்</tam> <t>švāsam</t></hw> , <i>n</i>. < <i>švāsa</i>. Breath. See <tam>சுவாசம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		341) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஶ்வேதம்&searchhws=yes&matchtype=exact">ஶ்வேதம்</a> śvētam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3884">p. 3884</a>)
+		<blockquote><p><hw><tam>ஶ்வேதம்</tam> <t>švētam</t></hw> , <i>n</i>. < <i>švēta</i>. White. See <tam>சுவேதம்¹</tam>, 1.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

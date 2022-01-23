@@ -1,0 +1,969 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>யூ</b>
+                       <div id='no_results'>
+                                74 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூ&searchhws=yes&matchtype=exact">யூ</a> yū
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூ</tam> <t>yū</t></hw> . The compound of <tam>ய்</tam> and <tam>ஊ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/winslow_query.py?qs=யூ&searchhws=yes&matchtype=exact">யூ</a> yū
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=906">p. 906</a>)
+		<blockquote><p><hw><tam>யூ</tam></hw> , A syllabic letter compounded of <tam>ய்</tam> and <tam>ஊ</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகசாலி&searchhws=yes&matchtype=exact">யூகசாலி</a> yūkacāli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகசாலி</tam> <t>yūka-cāli</t></hw> , <i>n</i>. < <tam>யூகம்⁴</tam> +. Quick-witted person; <tam>புத்திக்கூர்மையுள்ளவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூகநாதன், யூதபதி, யூதபம், யூதபன்&searchhws=yes&matchtype=exact">யூகநாதன், யூதபதி, யூதபம், யூதபன்</a> yūkanātaṉ, yūtapati, yūtapam, yūtapaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூகநாதன், யூதபதி, யூதபம், யூதபன்</hw> இனத்தைக் காக்கு மி யானை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூகபதி&searchhws=yes&matchtype=exact">யூகபதி</a> yūkapati
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூகபதி</hw> - சுக்ரீவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/crea_query.py?qs=யூகம்&searchhws=yes&matchtype=exact">யூகம்</a> yūkam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>யூகம்</hw> பெ. காண்க: ஊகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/fabricius_query.py?qs=யூகம்&searchhws=yes&matchtype=exact">யூகம்</a> yūkam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=834">p. 834</a>)
+		<blockquote><p>*<hw><tam>யூகம்</tam></hw> , <i>s.</i> reasoning, logic, <tam>தருக்கம்</tam>; 2. deep thought, knowledge of secret arts, <tam>உட்பொருளறிதல்</tam>; 3. battle array, <tam>படை</tam>; 4. a black monkey, <tam>முசு</tam>; 5. a female monkey; 6. battle. <p2><tam>யூகி</tam>, a prudent or judicious man.</p2> <p2><tam>யூகி</tam> (<tam>மதி</tam>) <tam>மந்திரி</tam>, a counsellor or minister.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூகம்&searchhws=yes&matchtype=exact">யூகம்</a> yūkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூகம்</hw> - அகப்பொருளறிதல், ஒருபுல், கரு ங்குரங்கு, கவந்தம், காந்தி, கோட் டான், தருக்கம், படை, படைவகுப் பு, பெண்குரங்கு, பெண்முசு, பே ன், யோசிப்பு, விவேகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூகம்&searchhws=yes&matchtype=exact">யூகம்</a> yūkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1672">p. 1672</a>)
+		<blockquote><p><hw>யூகம்</hw> - ஓர்வகைப்புல், கருங்குரங்கு, காந்தி தருக்கம், படை, படைவகுப்பு, பெண் குரங்கு, முசு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகம்&searchhws=yes&matchtype=exact">யூகம்</a> yūkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகம்¹</tam> <t>yūkam</t></hw> , <i>n</i>. < <tam>ஊகம்¹</tam>. 1. Black monkey; <tam>கருங்குரங்கு. யூகமொடு மாமுக முசுக்கலை</tam> (<tam>திருமுரு</tam>. 302). (<tam>பிங்</tam>.) 2. Female monkey; <tam>பெண்குரங்கு. (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகம்&searchhws=yes&matchtype=exact">யூகம்</a> yūkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகம்²</tam> <t>yūkam</t></hw> , <i>n</i>. < <i>ūhanī</i>. Broomstick grass. See <tam>ஊகம்¹</tam>, 3. (<tam>அக. நி</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகம்&searchhws=yes&matchtype=exact">யூகம்</a> yūkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகம்³</tam> <t>yūkam</t></hw> , <i>n</i>. < <i>yūka</i>. Louse; <tam>பேன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகம்&searchhws=yes&matchtype=exact">யூகம்</a> yūkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகம்⁴</tam> <t>yūkam</t></hw> , <i>n</i>. < <i>ūha</i>. 1. Guess, conjecture; <tam>உத்தேசம்</tam>. 2. Discrimination, keen perception, understanding; <tam>விவேகம். (யாழ். அக.)</tam> 3. Intent, import; <tam>கருத்து</tam>. 5. Brilliance; <tam>காந்தி. (யாழ். அக.)</tam> 4. Reason, logic; <tam>தருக்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகம்&searchhws=yes&matchtype=exact">யூகம்</a> yūkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகம்⁵</tam> <t>yūkam</t></hw> , <i>n</i>. < <i>vyūha</i>. 1. Arrangement or disposition of the forces for fighting, military array; <tam>படையின் அணிவகுப்பு. சக்கர யூகம் புக்கு</tam> (<tam>கம்பரா. நிகும்பலை</tam>. 69). 2. Army, host; <tam>படை. (சூடா.)</tam> 3. Headless trunk of a body; <tam>உடற்குறை. (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகம்&searchhws=yes&matchtype=exact">யூகம்</a> yūkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகம்⁶</tam> <t>yūkam</t></hw> , <i>n</i>. cf. <i>ulūka</i>. Rock horned owl; <tam>கோட்டான். (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/winslow_query.py?qs=யூகம்&searchhws=yes&matchtype=exact">யூகம்</a> yūkam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=906">p. 906</a>)
+		<blockquote><p>*<hw><tam>யூகம்</tam></hw> , <i>s.</i> Reasoning, disputation, logic, <tam>தருக்கம்</tam>. 2. Knowledge of secret arts, <tam>உட்பொருளுணர்தல்</tam>. 3. Military array, <tam>படை வகுப்பு</tam>. 4. Battle, <tam>படை</tam>; <i>[from Sa. Ooha; or by aphæresis, Vyooka.</i> W. p. 821.] 5. A black monkey, <tam>கருங்குரங்கு</tam>. 6. A female monkey, <tam>பெண்குரங்கு</tam>. 7. A large black ape, as <tam>முசு</tam>. (<tam>சது</tam>.) Compare <tam>ஊகம்</tam>. <p2><tam>யூகி</tam>, <i>s.</i> A reasoning man, a wise, ingenious person, <tam>விவேகி</tam>. W. p. 167. <smallcaps>OOHIN.</smallcaps></p2> <p2><tam>யூகிமந்திரி</tam>, <i>s.</i> A wise minister, as <tam>மதிமந்திரி</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூகவான்&searchhws=yes&matchtype=exact">யூகவான்</a> yūkavāṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூகவான்</hw> - புத்திமான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகவான்&searchhws=yes&matchtype=exact">யூகவான்</a> yūkavāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகவான்</tam> <t>yūkavāṉ</t></hw> , <i>n</i>. < <i>ūhavān</i>. See <tam>யூகி¹. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகவான்&searchhws=yes&matchtype=exact">யூகவான்</a> yūkavāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகவான்¹</tam> <t>yūki</t></hw> , < <i>ūhin</i>. Wise man, ingenious person, man of keen understanding; <tam>புத்திசாலி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகாட்சரம்&searchhws=yes&matchtype=exact">யூகாட்சரம்</a> yūkāṭcaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S401">p. S401</a>)
+		<blockquote><p><hw><tam>யூகாட்சரம்</tam> <t>yūkāṭcaram</t></hw> , <i>n</i>. prob. <i>ūha</i> + <i>akṣara</i>. Secret language or code; <tam>இரகசிய வெழுத்து</tam>. <i>Pond</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/crea_query.py?qs=யூகி&searchhws=yes&matchtype=exact">யூகி</a> yūki
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>யூகி</hw> வி. (யூகிக்க, யூகித்து) காண்க: ஊகி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/fabricius_query.py?qs=யூகி&searchhws=yes&matchtype=exact">யூகி</a> yūki
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=834">p. 834</a>)
+		<blockquote><p>*<hw><tam>யூகி</tam></hw> , VI. <i>v. t.</i> meditate, consider, attentively, <tam>யோசி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூகி&searchhws=yes&matchtype=exact">யூகி</a> yūki
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூகி</hw> - யூகியென்னேவல், விவேகி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூகி&searchhws=yes&matchtype=exact">யூகி</a> yūki
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1673">p. 1673</a>)
+		<blockquote><p><hw>யூகி</hw> - யூகியென்னேவல், விவேகி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகி&searchhws=yes&matchtype=exact">யூகி</a> yūki
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகி³</tam> <t>yūki</t></hw> , <i>n</i>. < <i>Yaugandarāyaṇa</i>. A minister of Udayaṇa, king of Vatsa, famous for his political wisdom; <tam>வத்ஸராஜனான உதயண னிடம் இராச்சியதந்திரத்தில் நிபுணனாயிருந்த மந்திரி. யூகிபோதரவு</tam> (<tam>பெருங். இலாவாண</tam>. 8, <tam>தலைப்பு</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/winslow_query.py?qs=யூகி&searchhws=yes&matchtype=exact">யூகி</a> yūki
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=906">p. 906</a>)
+		<blockquote><p><hw><tam>யூகி</tam></hw> , <tam>க்கிறேன்</tam>, <tam>த்தேன்</tam>, <tam>ப்பேன்</tam>, <tam>க்க</tam>, <i>v. a.</i> To meditate, scrutinize, consider attentively. See <tam>ஊகி</tam>. [<i>from Sa. Ooha,</i> to reason.] <p2><tam>யூகிபாஷை</tam>–<tam>யூகிப்பயில்</tam>, <i>s.</i> A kind of secret language in occult characters.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகி-த்தல்&searchhws=yes&matchtype=exact">யூகி-த்தல்</a> yūki-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகி²-த்தல்</tam> <t>yūki-</t></hw> , <i>11 v. tr</i>. < <tam>யூகம்⁴</tam>. 1. To guess, conjecture; <tam>உத்தேசித்தல்</tam>. 2. To infer, conclude; <tam>அனுமானித்தல்</tam>. <i>Colloq</i>. 3. To examine, scrutinise; <tam>ஆராய்தல். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூகித்தல்&searchhws=yes&matchtype=exact">யூகித்தல்</a> yūkittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூகித்தல்</hw> - ஆராய்தல், யோசித்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூகிபாடை, யூகிப்பயில்&searchhws=yes&matchtype=exact">யூகிபாடை, யூகிப்பயில்</a> yūkipāṭai, yūkippayil
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூகிபாடை, யூகிப்பயில்</hw> ஒருபயிற்பேச்சு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகிபாஷை&searchhws=yes&matchtype=exact">யூகிபாஷை</a> yūkipāṣai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகிபாஷை</tam> <t>yūki-pāṣai</t></hw> , <i>n</i>. < id. +. See <tam>யூகிப்பயில்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகிப்பயில்&searchhws=yes&matchtype=exact">யூகிப்பயில்</a> yūkippayil
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகிப்பயில்</tam> <t>yūki-p-payil</t></hw> , <i>n</i>. < <tam>யூகி¹</tam> + <tam>பயில்-</tam>. A kind of secret language; <tam>குழூஉக்குறிகளாலான மொழி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகிமந்திரி&searchhws=yes&matchtype=exact">யூகிமந்திரி</a> yūkimantiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகிமந்திரி</tam> <t>yūki-mantiri</t></hw> , <i>n</i>. < id. +. Wise minister; <tam>புத்திசாலியான மந்திரி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/fabricius_query.py?qs=யூகை&searchhws=yes&matchtype=exact">யூகை</a> yūkai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=834">p. 834</a>)
+		<blockquote><p>*<hw><tam>யூகை</tam></hw> , <i>s.</i> learning, erudition; 2. <i>(fig.)</i> an erudite person.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூகை&searchhws=yes&matchtype=exact">யூகை</a> yūkai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூகை</hw> - கல்லி, பேன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகை&searchhws=yes&matchtype=exact">யூகை</a> yūkai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகை¹</tam> <t>yūkai</t></hw> , <i>n</i>. < <i>yūkā</i>. See <tam>யூகம்³</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகை&searchhws=yes&matchtype=exact">யூகை</a> yūkai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகை²</tam> <t>yūkai</t></hw> , <i>n</i>. A linear measure = ⅛ of <i>yavai</i>; <tam>யவையின் எட்டிலொருபங்கான அளவு</tam>. (<tam>கந்தபு. அண்டகோ</tam>. 5.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூகை&searchhws=yes&matchtype=exact">யூகை</a> yūkai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூகை³</tam> <t>yūkai</t></hw> , <i>n</i>. < <i>ūha</i>. 1. See <tam>யுகம்⁴</tam>, 2. (<tam>யாழ். அக</tam>.) 2. Inference from a text, drawn by its commentator; <tam>மூலத்திலிருந்து உரைகாரர் அனு மானிக்குங் கருத்து</tam>. 3. Learning, erudition; <tam>கல்வி</tam>. (<smallcap>W</smallcap>.) 4. Erudite person; <tam>அறிவாளி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/winslow_query.py?qs=யூகை&searchhws=yes&matchtype=exact">யூகை</a> yūkai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=906">p. 906</a>)
+		<blockquote><p>*<hw><tam>யூகை</tam></hw> , <i>s.</i> Learning, erudition, <tam>கல்வி</tam>. 2. <i>(fig.)</i> An erudite person; [<i>ex</i> <tam>யூகம்</tam>.]</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூதக்கல்&searchhws=yes&matchtype=exact">யூதக்கல்</a> yūtakkal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S401">p. S401</a>)
+		<blockquote><p><hw><tam>யூதக்கல்</tam> <t>yūta-k-kal</t></hw> , <i>n</i>. < <tam>யூதன்</tam> +. Jew-stone; <tam>மருந்தாக உபயோகிக்கும் ஒருவகைக் கடற் பண்டம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூதநாதன்&searchhws=yes&matchtype=exact">யூதநாதன்</a> yūtanātaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூதநாதன்</tam> <t>yūta-nātaṉ</t></hw> , <i>n</i>. < <i>yūtha</i> +. See <tam>யூதபம். (சூடா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூதநாயகன்&searchhws=yes&matchtype=exact">யூதநாயகன்</a> yūtanāyakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூதநாயகன்</tam> <t>yūta-nāyakaṉ</t></hw> , <i>n</i>. < id. +. Commander; <tam>படைத்தலைவன். யூதநாயகரோடுர கேசரை</tam> (<tam>தக்கயாகப்</tam>. 609).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூதபதி&searchhws=yes&matchtype=exact">யூதபதி</a> yūtapati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூதபதி</tam> <t>yūta-pati</t></hw> , <i>n</i>. < id. + <i>pati</i>. 1. See <tam>யூதபம்</tam>. 2. See <tam>யூதநாயகன்</tam>. (<tam>தக்கயாகப்</tam>. 609, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூதபன்&searchhws=yes&matchtype=exact">யூதபன்</a> yūtapaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூதபன்</tam> <t>yūtapaṉ</t></hw> , <i>n</i>. See <tam>யூதபம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூதபம்&searchhws=yes&matchtype=exact">யூதபம்</a> yūtapam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூதபம்</tam> <t>yūtapam</t></hw> , <i>n</i>. < <i>yūtha-pa</i>. Chief elephant, leader of a herd of elephants; <tam>தன் கூட்டத்தைக் காக்குந் தலைவன் யானை. (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூதப்பிரஷ்டன்&searchhws=yes&matchtype=exact">யூதப்பிரஷ்டன்</a> yūtappiraṣṭaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூதப்பிரஷ்டன்</hw> - கிளைவிட்டயானை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூதப்பிரஷ்டன்&searchhws=yes&matchtype=exact">யூதப்பிரஷ்டன்</a> yūtappiraṣṭaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூதப்பிரஷ்டன்</tam> <t>yūta-p-piraṣṭaṉ</t></hw> , <i>n</i>. < id. +. Elephant which has strayed away from its herd; <tam>தன்னினத்தை விட்டுப்பிரிந்த யானை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூதமதம்&searchhws=yes&matchtype=exact">யூதமதம்</a> yūtamatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூதமதம்</tam> <t>yūta-matam</t></hw> , <i>n</i>. < <tam>யூதர்</tam> + <tam>மதம்¹</tam>. Judaism; <tam>எபிரேய சாதியாரின் மதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/fabricius_query.py?qs=யூதம்&searchhws=yes&matchtype=exact">யூதம்</a> yūtam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=834">p. 834</a>)
+		<blockquote><p>*<hw><tam>யூதம்</tam></hw> , <i>s.</i> a herd of elephants, a multitude of animals, <tam>கூட்டம்</tam>. <p2><tam>யூதநாதன்</tam>, -<tam>பதி</tam>, <tam>யூதபம்</tam>, <i>s.</i> the chief elephant or leader in a wild herd.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூதம்&searchhws=yes&matchtype=exact">யூதம்</a> yūtam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூதம்</hw> - பசுக்கூட்டம், பட்சிசாலம், யானை க்கூட்டம், விலங்கின் கூட்டம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூதம்&searchhws=yes&matchtype=exact">யூதம்</a> yūtam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw>யூதம்</hw> - யானைக்கூட்டம், விலங்கின் கூட்டம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூதம்&searchhws=yes&matchtype=exact">யூதம்</a> yūtam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3410">p. 3410</a>)
+		<blockquote><p><hw><tam>யூதம்</tam> <t>yūtam</t></hw> , <i>n</i>. < <i>yūtha</i>. 1. Herd, as of elephants, flock; <tam>விலங்கின் கூட்டம். (சூடா.)</tam> 2. Battalion, troop; <tam>பெரும்படை. புக்க பூத வேதாள யூதமே</tam> (<tam>தக்கயாகப்</tam>. 509).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/winslow_query.py?qs=யூதம்&searchhws=yes&matchtype=exact">யூதம்</a> yūtam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=906">p. 906</a>)
+		<blockquote><p>*<hw><tam>யூதம்</tam></hw> , <i>s.</i> A herd of elephants, <tam>யானைக் கூட்டம்</tam>. (<tam>பஞ்</tam>. 52.) 2. A multitude of birds, beasts, &c., <tam>விலங்கின்கூட்டம்</tam>. W. p. 687. <smallcaps>YOOT'HA.</smallcaps> <p2><tam>யூதநாதன்</tam>–<tam>யூதபதி</tam>–<tam>யூதபம்</tam>, <i>s.</i> The chief elephant, or leader in a wild herd, <tam>யானைக்கூட்டத்துக்குத்தலையானை</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/fabricius_query.py?qs=யூதர்&searchhws=yes&matchtype=exact">யூதர்</a> yūtar
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=834">p. 834</a>)
+		<blockquote><p><hw><tam>யூதர்</tam></hw> , <i>s. (Heb.)</i> the Jews.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூதர்&searchhws=yes&matchtype=exact">யூதர்</a> yūtar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூதர்</hw> - ஒருசாதியார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூதர்&searchhws=yes&matchtype=exact">யூதர்</a> yūtar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யூதர்</tam> <t>yūtar</t></hw> , <i>n</i>. < Heb. <i>yaudi</i>. The Jews; <tam>யூதசாதியார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/winslow_query.py?qs=யூதர்&searchhws=yes&matchtype=exact">யூதர்</a> yūtar
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=906">p. 906</a>)
+		<blockquote><p><hw><tam>யூதர்</tam></hw> , <i>s. [Chris. usage.]</i> Jews, <tam>ஓர்சாதி யார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூதி&searchhws=yes&matchtype=exact">யூதி</a> yūti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூதி</hw> - அம்பட்டன், காட்டுமுல்லை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூதி&searchhws=yes&matchtype=exact">யூதி</a> yūti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யூதி</tam> <t>yūti</t></hw> , <i>n</i>. < <i>yūthī</i>. See <tam>யூதிகை. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூதிகம்&searchhws=yes&matchtype=exact">யூதிகம்</a> yūtikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூதிகம்</hw> - முல்லை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூதிகம்&searchhws=yes&matchtype=exact">யூதிகம்</a> yūtikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யூதிகம்</tam> <t>yūtikam</t></hw> , <i>n</i>. See <tam>யூதிகை. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூதிகை&searchhws=yes&matchtype=exact">யூதிகை</a> yūtikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யூதிகை</tam> <t>yūtikai</t></hw> , <i>n</i>. < <i>yūthikā</i>. Arabian jasmine. See <tam>முல்லை</tam>, 1. (<tam>சூடா</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூபதண்டு&searchhws=yes&matchtype=exact">யூபதண்டு</a> yūpataṇṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யூபதண்டு</tam> <t>yūpa-taṇṭu</t></hw> , <i>n</i>. < id. + <i>daṇḍa</i>. See <tam>யூபத்தம்பம். யூபதண்டு கொண்டோட வெற் றியே</tam> (<tam>தக்கயாகப்</tam>. 505).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூபத்தம்பம்&searchhws=yes&matchtype=exact">யூபத்தம்பம்</a> yūpattampam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூபத்தம்பம்</hw> - வேள்வித்தூண்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூபத்தம்பம்&searchhws=yes&matchtype=exact">யூபத்தம்பம்</a> yūpattampam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யூபத்தம்பம்</tam> <t>yūpa-t-tampam</t></hw> , <i>n</i>. < <i>yūpa</i> + <i>stambha</i>. Post or stake to which the sacrificial animal is fastened; sacrificial post; <tam>வேள்வித் தூண்</tam>. (<tam>தக்கயாகப்</tam>. 505, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/fabricius_query.py?qs=யூபம்&searchhws=yes&matchtype=exact">யூபம்</a> yūpam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=834">p. 834</a>)
+		<blockquote><p>*<hw><tam>யூபம்</tam></hw> , <i>s.</i> a sacrifice, <tam>யாகம்</tam>; 2. battle- array, <tam>யூகம்</tam>; 3. a head and trunk deprived of members, <tam>உடற்குறை</tam>; 4. a sacrificial post to which the victim for sacrifice is bound, <tam>யாக ஸ்தம்பம்</tam>, <tam>யூப ஸ்தம்பம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூபம்&searchhws=yes&matchtype=exact">யூபம்</a> yūpam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூபம்</hw> - உடற்குறை, படைவகுப்பு, யாகப் பசுவைக்கட்டுந்தறி, யாகம், வேள் வித்தம்பம், வெற்றித்தம்பம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூபம்&searchhws=yes&matchtype=exact">யூபம்</a> yūpam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1686">p. 1686</a>)
+		<blockquote><p><hw>யூபம்</hw> - உடற்குறை, யாகப்பசுவைக் கட் டுந்தறி, யாகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூபம்&searchhws=yes&matchtype=exact">யூபம்</a> yūpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யூபம்¹</tam> <t>yūpam</t></hw> , <i>n</i>. < <i>yūpa</i>. 1. See <tam>யூபத்தம்பம். யூபநட்ட வியன்களம் பலகொல்</tam> (<tam>புறநா</tam>. 15). 2. Sacrifice; <tam>வேள்வி. (சூடா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூபம்&searchhws=yes&matchtype=exact">யூபம்</a> yūpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யூபம்²</tam> <t>yūpam</t></hw> , <i>n</i>. cf. <tam>யூகம்⁵</tam>. 1. Battle-array; <tam>படையின் அணிவகுப்பு. (பிங்.)</tam> 2. Headless trunk of a body; <tam>உடற்குறை. (பிங்.) பிணையூப மெழுந்தாட</tam> (<tam>மதுரைக்</tam>. 27).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/winslow_query.py?qs=யூபம்&searchhws=yes&matchtype=exact">யூபம்</a> yūpam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=906">p. 906</a>)
+		<blockquote><p>*<hw><tam>யூபம்</tam></hw> , <i>s.</i> A sacrificial post to which the victim for sacrifice is bound, <tam>யாகஸ்தம்பம்</tam>. (<i>also</i> <tam>யூபஸ்தம்பம்</tam>.) W. p. 687. <smallcaps>YOOPA.</smallcaps> 2. A head and trunk deprived of members, <tam>உடற்குறை</tam>. 3. A sacrifice, <tam>யாகம்</tam>. 4. Battle-array, as <tam>யூகம்</tam>, <tam>படைவகுப்பு</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யூபாஷன்&searchhws=yes&matchtype=exact">யூபாஷன்</a> yūpāṣaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யூபாஷன்</hw> - இராவண பரிவாரத்தாருள் ஒருவன், இவன் அநுமானால் அசோ கவநத்தில் கொல்லப்பட்டவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/fabricius_query.py?qs=யூமியா&searchhws=yes&matchtype=exact">யூமியா</a> yūmiyā
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=834">p. 834</a>)
+		<blockquote><p><hw><tam>யூமியா</tam></hw> , <i>s. (Ar.)</i> allowance or pension calculated originally by the day.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யூமியா&searchhws=yes&matchtype=exact">யூமியா</a> yūmiyā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யூமியா</tam> <t>yūmiyā</t></hw> , <i>n</i>. < Arab. <i>yaumia</i>. Allowance or pension, calculated originally by the day; <tam>படிச்செலுக்காகக் கொடுக்குந் தொகை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/winslow_query.py?qs=யூமியா&searchhws=yes&matchtype=exact">யூமியா</a> yūmiyā
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=906">p. 906</a>)
+		<blockquote><p><hw><tam>யூமியா</tam></hw> , <i>s. [Arab.]</i> Allowance or pension, calculated originally by the day.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

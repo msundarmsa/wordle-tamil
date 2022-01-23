@@ -1,0 +1,1129 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>ஸா</b>
+                       <div id='no_results'>
+                                90 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸா&searchhws=yes&matchtype=exact">ஸா</a> sā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3912">p. 3912</a>)
+		<blockquote><p><hw><tam>ஸா</tam> <t>sā</t></hw> . The compound of <tam>ஸ்</tam> and <tam>ஆ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாகரம்&searchhws=yes&matchtype=exact">ஸாகரம்</a> sākaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3912">p. 3912</a>)
+		<blockquote><p><hw><tam>ஸாகரம்</tam> <t>sākaram</t></hw> , <i>n</i>. < <i>sāgara</i>. See <tam>சாகரம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாகி&searchhws=yes&matchtype=exact">ஸாகி</a> sāki
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3912">p. 3912</a>)
+		<blockquote><p><hw><tam>ஸாகி</tam> <t>sāki</t></hw> , <i>n</i>. < Mhr. <i>sākī</i>. A kind of Mahrātta song; <tam>மகாராட்டிர இசைப்பாட்டுவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாக்ஷாத்&searchhws=yes&matchtype=exact">ஸாக்ஷாத்</a> sākṣāt
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3915">p. 3915</a>)
+		<blockquote><p><hw><tam>ஸாக்ஷாத்</tam> <t>sākṣāt</t></hw> , <i>adv</i>. < <i>sākṣāt</i>. 1. Before one's eyes; <tam>கண்ணுக்கெதிரில்</tam>. 2. Directly; <tam>நேராக. அவன் எனக்கு ஸாக்ஷாத் ஸஹோ தரன்</tam>. 3. Exactly; <tam>சரியாக</tam>. 4. See <tam>சாட்சாத்து</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாக்ஷாத்காரம்&searchhws=yes&matchtype=exact">ஸாக்ஷாத்காரம்</a> sākṣātkāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3915">p. 3915</a>)
+		<blockquote><p><hw><tam>ஸாக்ஷாத்காரம்</tam> <t>sākṣāt-kāram</t></hw> , <i>n</i>. < <i>sākṣāt-kāra</i>. See <tam>சாட்சாத்காரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாக்ஷி&searchhws=yes&matchtype=exact">ஸாக்ஷி</a> sākṣi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3915">p. 3915</a>)
+		<blockquote><p><hw><tam>ஸாக்ஷி</tam> <t>sākṣi</t></hw> , <i>n</i>. < <i>sākṣin</i>. See <tam>சாட்சி</tam>, 1, 2, 4, 5.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாக்ஷ்யம்&searchhws=yes&matchtype=exact">ஸாக்ஷ்யம்</a> sākṣyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3915">p. 3915</a>)
+		<blockquote><p><hw><tam>ஸாக்ஷ்யம்</tam> <t>sākṣyam</t></hw> , <i>n</i>. < <i>sākṣya</i>. 1. Deposition. See <tam>சாட்சியம்</tam>. 2. Proof, evidence; <tam>சான்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாஜாத்யம்&searchhws=yes&matchtype=exact">ஸாஜாத்யம்</a> sājātyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாஜாத்யம்</tam> <t>sājātyam</t></hw> , <i>n</i>. < <i>sājātya</i>. Belonging to the same class; <tam>ஒரினமாகை. ஓராகாரத்தாலே ஸாஜாத்யம்</tam> (<tam>ஈடு</tam>, 5, 4, 2).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாட்டு&searchhws=yes&matchtype=exact">ஸாட்டு</a> sāṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாட்டு</tam> <t>sāṭṭu</t></hw> , <i>n</i>. < U. <i>sagat</i>. Wholesale; <tam>மொத்தம். ஸாட்டாக வாங்கிவிட்டான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாதகம்&searchhws=yes&matchtype=exact">ஸாதகம்</a> sātakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாதகம்</tam> <t>sātakam</t></hw> , <i>n</i>. < <i>sādhaka</i>. See <tam>சாதகம்²</tam>. <tam>பெருமாள்திருமேனிக்கு ஸாதகமில்லை யென்று</tam> (<tam>கோயிலொ</tam>. 22).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாதனம்&searchhws=yes&matchtype=exact">ஸாதனம்</a> sātaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாதனம்</tam> <t>sātaṉam</t></hw> , <i>n</i>. < <i>sādhana</i>. See <tam>சாதனம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாதம்&searchhws=yes&matchtype=exact">ஸாதம்</a> sātam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாதம்</tam> <t>sātam</t></hw> , <i>n</i>. prob. <i>pra-sāda</i>. Cooked rice; <tam>சோறு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாதர்ம்யம்&searchhws=yes&matchtype=exact">ஸாதர்ம்யம்</a> sātarmyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாதர்ம்யம்</tam> <t>sātarmyam</t></hw> , <i>n</i>. < <i>sādharmya</i>. 1. Similarity; <tam>ஒத்த தன்மை</tam>. 2. Generality; <tam>பொதுத்தன்மை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாதா&searchhws=yes&matchtype=exact">ஸாதா</a> sātā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாதா</tam> <t>sātā</t></hw> , <i>adj</i>. < U. <i>sādā</i>. See <tam>சாதா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாதாரண&searchhws=yes&matchtype=exact">ஸாதாரண</a> sātāraṇa
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாதாரண</tam> <t>sātāraṇa</t></hw> , <i>n</i>. < <i>Sādhāraṇa</i>. The 44th year of the Jupiter cycle. See <tam>சாதாரண. (பஞ்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாதாரணகாந்தாரம்&searchhws=yes&matchtype=exact">ஸாதாரணகாந்தாரம்</a> sātāraṇakāntāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாதாரணகாந்தாரம்</tam> <t>sātāraṇa-kāntāram</t></hw> , <i>n</i>. < <i>sādhāraṇa</i> + <i>gāndhāra</i>. (Mus.) See <tam>சாதாரணகாந்தாரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாதாரணம்&searchhws=yes&matchtype=exact">ஸாதாரணம்</a> sātāraṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாதாரணம்</tam> <t>sātāraṇam</t></hw> , <i>n</i>. < <i>sādhāraṇa</i>. See <tam>சாதாரணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாதி-த்தல்&searchhws=yes&matchtype=exact">ஸாதி-த்தல்</a> sāti-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாதி¹-த்தல்</tam> <t>sāti-</t></hw> , <i>11 v. tr</i>. < <i>sādh</i>. See <tam>சாதி¹-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாதி-த்தல்&searchhws=yes&matchtype=exact">ஸாதி-த்தல்</a> sāti-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாதி²-த்தல்</tam> <t>sāti-</t></hw> , <i>11 v. tr</i>. < <i>pra-sād</i>. See <tam>சாதி⁴-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாது&searchhws=yes&matchtype=exact">ஸாது</a> sātu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாது</tam> <t>sātu</t></hw> , <i>n</i>. < <i>sādhu</i>. See <tam>சாது¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாத்மி-த்தல்&searchhws=yes&matchtype=exact">ஸாத்மி-த்தல்</a> sātmi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாத்மி-த்தல்</tam> <t>sātmi-</t></hw> , <i>11 v. intr</i>. < <i>sa</i> + <i>ātman</i>. 1. To be digested, assimilated; <tam>சீரண மாதல்</tam>. (<tam>ஈடு</tam>, 4, 2, 2.) 2. To be fully realised in experience; <tam>முற்றும் அனுபவிக்கப்படுதல். மேல்வரும் அநுபவங்கள் ஸாத்மிக்கைக்காக</tam> (<tam>ஈடு</tam>, 1, 4, <tam>ப்ர</tam>.).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாத்யம்&searchhws=yes&matchtype=exact">ஸாத்யம்</a> sātyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாத்யம்</tam> <t>sātyam</t></hw> , <i>n</i>. < <i>sādhya</i>. See <tam>சாத்தியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாத்யர்&searchhws=yes&matchtype=exact">ஸாத்யர்</a> sātyar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாத்யர்</tam> <t>sātyar</t></hw> , <i>n</i>. < <i>sādhya</i>. A class of divine beings. See <tam>சாத்தியர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாத்ருஶ்யம்&searchhws=yes&matchtype=exact">ஸாத்ருஶ்யம்</a> sātruśyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாத்ருஶ்யம்</tam> <t>sātrušyam</t></hw> , <i>n</i>. < <i>sādṛšya</i>. Likeness; <tam>ஒப்புமை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாத்வி&searchhws=yes&matchtype=exact">ஸாத்வி</a> sātvi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாத்வி</tam> <t>sātvi</t></hw> , <i>n</i>. < <i>sādhvī</i>. Chaste woman; <tam>பதிவிரதை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாத்விகன்&searchhws=yes&matchtype=exact">ஸாத்விகன்</a> sātvikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாத்விகன்</tam> <t>sātvikaṉ</t></hw> , <i>n</i>. < <i>sāttvika</i>. 1. Good-natured man; <tam>குணவான்</tam>. 2. Gentle person. See <tam>சாத்துவிகன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாத்விகம்&searchhws=yes&matchtype=exact">ஸாத்விகம்</a> sātvikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாத்விகம்</tam> <t>sātvikam</t></hw> , <i>n</i>. < <i>sāttvika</i>. 1. Good nature; <tam>நற்குணம்</tam>. 2. Gentleness; <tam>சாந்தம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாந்நித்யம்&searchhws=yes&matchtype=exact">ஸாந்நித்யம்</a> sānnityam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாந்நித்யம்</tam> <t>sānnityam</t></hw> , <i>n</i>. < <i>sānnidhya</i>. 1. Holy presence; <tam>திருமுன்பு</tam>. 2. Manifestation. See <tam>சான்னித்தியம். அவர் ஸாந்நித்யம் செய்தருளினபடியினாலே</tam> (<tam>கோயிலொ</tam>. 17).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாபல்யம்&searchhws=yes&matchtype=exact">ஸாபல்யம்</a> sāpalyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாபல்யம்</tam> <t>sāpalyam</t></hw> , <i>n</i>. < <i>sāphalya</i>. Efficacy; fruitfulness; <tam>பயனுடைமை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமக்ரி&searchhws=yes&matchtype=exact">ஸாமக்ரி</a> sāmakri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாமக்ரி</tam> <t>sāmakri</t></hw> , <i>n</i>. < <i>sāmagrī</i>. See <tam>சாமக்கிரி</tam>. (<tam>கோயிலொ</tam>. 11.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமந்தன்&searchhws=yes&matchtype=exact">ஸாமந்தன்</a> sāmantaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாமந்தன்</tam> <t>sāmantaṉ</t></hw> , <i>n</i>. < <i>sāmanta</i>. See <tam>சாமந்தன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமம்&searchhws=yes&matchtype=exact">ஸாமம்</a> sāmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாமம்</tam> <t>sāmam</t></hw> , <i>n</i>. < <i>sāman</i>. See <tam>சாமம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமர்த்யன்&searchhws=yes&matchtype=exact">ஸாமர்த்யன்</a> sāmartyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாமர்த்யன்</tam> <t>sāmartyaṉ</t></hw> , <i>n</i>. < <tam>ஸாமர்த்யம்</tam>. Skilful person; <tam>சமர்த்தன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமர்த்யம்&searchhws=yes&matchtype=exact">ஸாமர்த்யம்</a> sāmartyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாமர்த்யம்</tam> <t>sāmartyam</t></hw> , <i>n</i>. < <i>sāmarthya</i>. Skill. See <tam>சாமர்த்தியம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமர்த்யவான்&searchhws=yes&matchtype=exact">ஸாமர்த்யவான்</a> sāmartyavāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாமர்த்யவான்</tam> <t>sāmartyavāṉ</t></hw> , <i>n</i>. < <i>sāmarthya-vān</i> nom. sing. of <i>sāmarthya-vat</i>. See <tam>ஸாமர்த்யன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமவேதம்&searchhws=yes&matchtype=exact">ஸாமவேதம்</a> sāmavētam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாமவேதம்</tam> <t>sāma-vētam</t></hw> , <i>n</i>. < <i>Sāma-vēda</i>. See <tam>சாமவேதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமவேதி&searchhws=yes&matchtype=exact">ஸாமவேதி</a> sāmavēti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாமவேதி</tam> <t>sāma-vēti</t></hw> , <i>n</i>. < <i>sāma-vēdin</i>. See <tam>சாமவேதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமாஜிகன்&searchhws=yes&matchtype=exact">ஸாமாஜிகன்</a> sāmājikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாமாஜிகன்</tam> <t>sāmājikaṉ</t></hw> , <i>n</i>. < <i>sāmājika</i>. 1. Member of an assembly or society; <tam>ஸமா ஜத்தைச் சேர்ந்தவன்</tam>. 2. Mediator; <tam>மத்தியஸ்தன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமானம்&searchhws=yes&matchtype=exact">ஸாமானம்</a> sāmāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாமானம்</tam> <t>sāmāṉam</t></hw> , <i>n</i>. See <tam>சாமான்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமானாதிகரண்யம்&searchhws=yes&matchtype=exact">ஸாமானாதிகரண்யம்</a> sāmāṉātikaraṇyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாமானாதிகரண்யம்</tam> <t>sāmāṉātikaraṇyam</t></hw> , <i>n</i>. < <i>sāmānādhikaraṇya</i>. Appositional relation. See <tam>சமானாதிகரணசம்பந்தம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமான்&searchhws=yes&matchtype=exact">ஸாமான்</a> sāmāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாமான்</tam> <t>sāmāṉ</t></hw> , <i>n</i>. < U. <i>sāmān</i>. Goods. See <tam>சாமான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமான்யதர்மம்&searchhws=yes&matchtype=exact">ஸாமான்யதர்மம்</a> sāmāṉyatarmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாமான்யதர்மம்</tam> <t>sāmāṉya-tarmam</t></hw> , <i>n</i>. < <i>sāmānya-dharma</i>. 1. The general virtues enjoined on all persons, such as speaking the truth, submission to elders, etc.; <tam>பொய்சொல் லாமை பெரியோர்க்குக் கீழ்ப்படிகை என்பன போன்று யாவரும் நடக்கவேண்டிய பொதுவான தருமம்</tam>. 2. (Log.) General characteristic; <tam>பொதுத்தன்மை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமான்யன்&searchhws=yes&matchtype=exact">ஸாமான்யன்</a> sāmāṉyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாமான்யன்</tam> <t>sāmāṉyaṉ</t></hw> , <i>n</i>. < <i>sāmānya</i>. See <tam>சாமானியன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமான்யம்&searchhws=yes&matchtype=exact">ஸாமான்யம்</a> sāmāṉyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாமான்யம்</tam> <t>sāmāṉyam</t></hw> , <i>n</i>. < <i>sāmānya</i>. 1. See <tam>சாமானியம்</tam>. 2. Ordinary thing; <tam>மட்டமான பொருள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமாயிகம்&searchhws=yes&matchtype=exact">ஸாமாயிகம்</a> sāmāyikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாமாயிகம்</tam> <t>sāmāyikam</t></hw> , <i>n</i>. prob. <i>sāmā- yika</i>. (Jaina.) A vow to spend at least 45 minutes a day in meditation, thinking no evil of any one; <tam>தினந்தோறும் எவரைப்பற்றியுந் தீங்கு நினையாது</tam> 45 <tam>நிமிடங்களேனும் தியானத்தில் அமர் வதாகிய விரதம்</tam>. (<tam>மேருமந்</tam>. 144, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமி&searchhws=yes&matchtype=exact">ஸாமி</a> sāmi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாமி</tam> <t>sāmi</t></hw> , <i>n</i>. < Pkt. <i>sāmī</i> < <i>svāmin</i>. See <tam>சாமி¹</tam>, 1, 4, 5, 6, 7.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமீப்யம்&searchhws=yes&matchtype=exact">ஸாமீப்யம்</a> sāmīpyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாமீப்யம்</tam> <t>sāmīpyam</t></hw> , <i>n</i>. < <i>sāmīpya</i>. See <tam>சாமீப்பியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமுத்ரிகம்&searchhws=yes&matchtype=exact">ஸாமுத்ரிகம்</a> sāmutrikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாமுத்ரிகம்</tam> <t>sāmutrikam</t></hw> , <i>n</i>. < <i>sāmudrikā</i>. See <tam>ஸாமுத்ரிகாஶாஸ்த்ரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமுத்ரிகாலக்ஷணம்&searchhws=yes&matchtype=exact">ஸாமுத்ரிகாலக்ஷணம்</a> sāmutrikālakṣaṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாமுத்ரிகாலக்ஷணம்</tam> <t>sāmutrikā-lakṣaṇam</t></hw> , <i>n</i>. < id. +. The typical features, limbs and bodily proportions of an ideal person; <tam>இலக்கணப்படி அமையவேண்டிய அவய வாதிகளும் அடையாளங்களும்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாமுத்ரிகாஶாஸ்த்ரம்&searchhws=yes&matchtype=exact">ஸாமுத்ரிகாஶாஸ்த்ரம்</a> sāmutrikāśāstram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாமுத்ரிகாஶாஸ்த்ரம்</tam> <t>sāmutrikā-šāstram</t></hw> , <i>n</i>. < id. +. Physiognomy; the science of interpretation of spots and lines on the body and on the palm of hand; <tam>ஒருவனுடைய மச்சம் இரேகை முதலியவற்றின் பலன்களைக் குறிப் பிடுஞ் சாஸ்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாம்சம்&searchhws=yes&matchtype=exact">ஸாம்சம்</a> sāmcam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S422">p. S422</a>)
+		<blockquote><p><hw><tam>ஸாம்சம்</tam> <t>sāmcam</t></hw> , <i>n</i>. < <i>sāṃša</i>. That which is divisible; <tam>பகுக்கத் தக்கது. அணு ஸாம்ச மாமென்றான்</tam> (<tam>நீலகேசி</tam>, 396, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாம்பன்&searchhws=yes&matchtype=exact">ஸாம்பன்</a> sāmpaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாம்பன்</tam> <t>sāmpaṉ</t></hw> , <i>n</i>. < <i>Sāmba</i>. Šiva; <tam>சிவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாம்யம்&searchhws=yes&matchtype=exact">ஸாம்யம்</a> sāmyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாம்யம்</tam> <t>sāmyam</t></hw> , <i>n</i>. < <i>sāmya</i>. Equality. See <tam>சாமியம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாம்ராஜ்யம்&searchhws=yes&matchtype=exact">ஸாம்ராஜ்யம்</a> sāmrājyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3913">p. 3913</a>)
+		<blockquote><p><hw><tam>ஸாம்ராஜ்யம்</tam> <t>sāmrājyam</t></hw> , <i>n</i>. < <i>sām- rājya</i>. See <tam>சாம்ராச்சியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாயகம்&searchhws=yes&matchtype=exact">ஸாயகம்</a> sāyakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாயகம்</tam> <t>sāyakam</t></hw> , <i>n</i>. < <i>sāyaka</i>. Arrow. See <tam>சாயகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாயங்காலம்&searchhws=yes&matchtype=exact">ஸாயங்காலம்</a> sāyaṅkālam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாயங்காலம்</tam> <t>sāyaṅ-kālam</t></hw> , <i>n</i>. < <i>sāyam</i> + Evening. See <tam>சாயங்காலம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாயனம்&searchhws=yes&matchtype=exact">ஸாயனம்</a> sāyaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாயனம்</tam> <t>sāyaṉam</t></hw> , <i>n</i>. < <i>sāyana</i>. (Astron.) The system of calculation which allows for the precession of the equinoctial point; <tam>வானசாஸ்திர கணிதவகை. (பஞ்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாயுஜ்யம்&searchhws=yes&matchtype=exact">ஸாயுஜ்யம்</a> sāyujyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாயுஜ்யம்</tam> <t>sāyujyam</t></hw> , <i>n</i>. < <i>sāyujya</i>. See <tam>சாயுச்சியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாரங்கம்&searchhws=yes&matchtype=exact">ஸாரங்கம்</a> sāraṅkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாரங்கம்</tam> <t>sāraṅkam</t></hw> , <i>n</i>. < <i>sāraṅga</i>. See <tam>சாரங்கம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாரட்டு&searchhws=yes&matchtype=exact">ஸாரட்டு</a> sāraṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாரட்டு</tam> <t>sāraṭṭu</t></hw> , <i>n</i>. < E. Chariot. See <tam>சாரட்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாரதி&searchhws=yes&matchtype=exact">ஸாரதி</a> sārati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாரதி</tam> <t>sārati</t></hw> , <i>n</i>. < <i>sārathi</i>. Charioteer. See <tam>சாரதி¹</tam>. <tam>பார்த்தஸாரதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாரம்&searchhws=yes&matchtype=exact">ஸாரம்</a> sāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாரம்</tam> <t>sāram</t></hw> , <i>n</i>. < <i>sāra</i>. See <tam>சாரம்³</tam>, 1-8.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாரஸபக்ஷி&searchhws=yes&matchtype=exact">ஸாரஸபக்ஷி</a> sārasapakṣi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாரஸபக்ஷி</tam> <t>sārasa-pakṣi</t></hw> , <i>n</i>. < <i>sārasa</i> +. 1. The Indian crane. See <tam>வெண்ணாரை</tam>. 2. Common crane. See <tam>கொக்கு¹</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாராமஶ்ம்&searchhws=yes&matchtype=exact">ஸாராமஶ்ம்</a> sārāmaśm
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாராமஶ்ம்</tam> <t>sārāmšam</t></hw> , <i>n</i>. < <i>sārāṃša</i>. Essential part; essence; <tam>வடித்தெடுத்த பகுதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாரிணி&searchhws=yes&matchtype=exact">ஸாரிணி</a> sāriṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாரிணி</tam> <t>sāriṇi</t></hw> , <i>n</i>. prob. <i>sāriṇī</i>. The string of the <i>vīṇai</i> which produces the first note of the gamut; <tam>ஷட்ஜஸ்வரம் இசைக்கும் வீணைத்தந்தி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாரூப்யம்&searchhws=yes&matchtype=exact">ஸாரூப்யம்</a> sārūpyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாரூப்யம்</tam> <t>sārūpyam</t></hw> , <i>n</i>. < <i>sārūpya</i>. See <tam>சாரூப்பியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/mcalpin_query.py?qs=ஸார்&searchhws=yes&matchtype=exact">ஸார்</a> sār
+		from <a href="/dictionaries/mcalpin/">McAlpin's <i>"A core vocabulary for Tamil"</i></a>
+		(<a href="/cgi-bin/app/mcalpin_query.py?page=34">p. 34</a>)
+		<blockquote><p><hw><tam>ஸார்</tam></hw> saar <tam>ஸார்</tam> sir; gentleman (n. and int.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸார்த்தகம்&searchhws=yes&matchtype=exact">ஸார்த்தகம்</a> sārttakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸார்த்தகம்</tam> <t>sārttakam</t></hw> , <i>n</i>. < <i>sārthaka</i>. 1. Being fruitful; <tam>பயனையுடையதாகை. என் ப்ரயத் நம் ஸார்த்தகமாயிற்று</tam>. 2. Being significant; <tam>பொருளுடையதாகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸார்வபெளமன்&searchhws=yes&matchtype=exact">ஸார்வபெளமன்</a> sārvapeḷamaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸார்வபெளமன்</tam> <t>sārvapaumaṉ</t></hw> , <i>n</i>. < <i>sārva-bhauma</i>. Emperor. See <tam>சார்வபெளமன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாலபஞ்சிகை&searchhws=yes&matchtype=exact">ஸாலபஞ்சிகை</a> sālapañcikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாலபஞ்சிகை</tam> <t>sālapañcikai</t></hw> , <i>n</i>. < <i>sāla-bhañjikā</i>. Doll. See <tam>சாலபஞ்சிகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாலம்&searchhws=yes&matchtype=exact">ஸாலம்</a> sālam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாலம்</tam> <t>sālam</t></hw> , <i>n</i>. < <i>sāla</i>. See <tam>சாலம்³</tam>, 2, 3, 4.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாலாமிசிரி&searchhws=yes&matchtype=exact">ஸாலாமிசிரி</a> sālāmiciri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாலாமிசிரி</tam> <t>sālāmiciri</t></hw> , <i>n</i>. < U. <i>sālēb-misr</i>. Salap tuber. See <tam>சாலாமிசிரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாலியானா&searchhws=yes&matchtype=exact">ஸாலியானா</a> sāliyāṉā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாலியானா</tam> <t>sāliyānā</t></hw> , <i>adj</i>. < U. <i>sāliyāna</i>. Annual, yearly; <tam>வருஷாந்தரத்து</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாலேஹால்&searchhws=yes&matchtype=exact">ஸாலேஹால்</a> sālēhāl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாலேஹால்</tam> <t>sālēhāl</t></hw> , <i>n</i>. < U. <i>sāl-ē-hāl</i>. Current year. See <tam>சாலேஹால்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாலோக்யம்&searchhws=yes&matchtype=exact">ஸாலோக்யம்</a> sālōkyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாலோக்யம்</tam> <t>sālōkyam</t></hw> , <i>n</i>. < <i>sālōkya</i>. See <tam>சாலோக்கியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸால்ஜாப்&searchhws=yes&matchtype=exact">ஸால்ஜாப்</a> sāljāp
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸால்ஜாப்</tam> <t>sāl-jāp</t></hw> , <i>n</i>. < U. <i>savāl</i> + U. <i>jawab</i>. See <tam>சால்ஜாப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸால்முகிரா&searchhws=yes&matchtype=exact">ஸால்முகிரா</a> sālmukirā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸால்முகிரா</tam> <t>sālmukirā</t></hw> , <i>n</i>. The Chaulmugra oil tree, <i>Gynocardia odorata</i>; <tam>மரவகை</tam>. (<tam>பைஷஜ</tam>. 68.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸால்முகுரா&searchhws=yes&matchtype=exact">ஸால்முகுரா</a> sālmukurā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸால்முகுரா</tam> <t>sālmukurā</t></hw> , <i>n</i>. See <tam>ஸால்முகிரா</tam>. (<tam>இங். வை</tam>. 47.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாளக்ராமம்&searchhws=yes&matchtype=exact">ஸாளக்ராமம்</a> sāḷakrāmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாளக்ராமம்</tam> <t>sāḷakrāmam</t></hw> , <i>n</i>. < <i>sāla- grāma</i>. Black fossil ammonite. See <tam>சாளக்கிராமம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாவகாஶம்&searchhws=yes&matchtype=exact">ஸாவகாஶம்</a> sāvakāśam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாவகாஶம்</tam> <t>sāvakāšam</t></hw> , <i>n</i>. < <i>sāvakāša</i>. Leisure. See <tam>சாவகாசம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாவதானம்&searchhws=yes&matchtype=exact">ஸாவதானம்</a> sāvatāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாவதானம்</tam> <t>sāvatāṉam</t></hw> , <i>n</i>. < <i>sāvadhāna</i>. See <tam>சாவதானம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாவித்ரி&searchhws=yes&matchtype=exact">ஸாவித்ரி</a> sāvitri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3914">p. 3914</a>)
+		<blockquote><p><hw><tam>ஸாவித்ரி</tam> <t>sāvitri</t></hw> , <i>n</i>. < <i>Sāvitrī</i>. See <tam>சாவித்திரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாஷ்டாங்கநமஸ்காரம்&searchhws=yes&matchtype=exact">ஸாஷ்டாங்கநமஸ்காரம்</a> sāṣṭāṅkanamaskāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3915">p. 3915</a>)
+		<blockquote><p><hw><tam>ஸாஷ்டாங்கநமஸ்காரம்</tam> <t>sāṣṭāṅka-namaskāram</t></hw> , <i>n</i>. < <i>sāṣṭāṅga</i> +. See <tam>சாஷ்டாங்கநமஸ்காரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாஷ்டாங்கம்&searchhws=yes&matchtype=exact">ஸாஷ்டாங்கம்</a> sāṣṭāṅkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3915">p. 3915</a>)
+		<blockquote><p><hw><tam>ஸாஷ்டாங்கம்</tam> <t>sāṣṭāṅkam</t></hw> , <i>n</i>. < <i>sāṣṭāṅga</i>. The eight parts of the body, viz., hands, shoulders, knees, chest and forehead; <tam>இருகை, இருதோள் இரு முழந்தாள் மார்பு நெற்றி ஆகிய எண் வகை உடலுறுப்புக்கள். அவன் ஸாஷ்டாங்கமாய் அவரை நமஸ்கரித்தான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாஹசர்யம்&searchhws=yes&matchtype=exact">ஸாஹசர்யம்</a> sāhacaryam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3915">p. 3915</a>)
+		<blockquote><p><hw><tam>ஸாஹசர்யம்</tam> <t>sāhacaryam</t></hw> , <i>n</i>. < <i>sāha- carya</i>. 1. Companionship. See <tam>சாகசரியம்</tam>. 2. Simultaneous occurrence; <tam>உடன்நிகழ்ச்சி. கட கருடைய அபிமத ஸாஹசர்யமும்</tam> (<tam>திவ். திருவாய்</tam>. 6, 1, 2, <tam>பன்னீ</tam>.).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாஹஸம்&searchhws=yes&matchtype=exact">ஸாஹஸம்</a> sāhasam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3915">p. 3915</a>)
+		<blockquote><p><hw><tam>ஸாஹஸம்</tam> <t>sāhasam</t></hw> , <i>n</i>. < <i>sāhasa</i>. See <tam>சாகசம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாஹித்யம்&searchhws=yes&matchtype=exact">ஸாஹித்யம்</a> sāhityam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3915">p. 3915</a>)
+		<blockquote><p><hw><tam>ஸாஹித்யம்</tam> <t>sāhityam</t></hw> , <i>n</i>. < <i>sāhitya</i>. See <tam>சாகித்தியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாஹீப்&searchhws=yes&matchtype=exact">ஸாஹீப்</a> sāhīp
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3915">p. 3915</a>)
+		<blockquote><p><hw><tam>ஸாஹீப்</tam> <t>sāhīp</t></hw> , <i>n</i>. < U. <i>sāhib</i>. 1. See <tam>ஸாஹேப்</tam>. 2. See <tam>சாஹீப்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாஹுகார்&searchhws=yes&matchtype=exact">ஸாஹுகார்</a> sāhukār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3915">p. 3915</a>)
+		<blockquote><p><hw><tam>ஸாஹுகார்</tam> <t>sāhukār</t></hw> , <i>n</i>. < Hind. <i>sāhūkār</i>. Banker, money-lender. See <tam>சாவ்கார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஸாஹேப்&searchhws=yes&matchtype=exact">ஸாஹேப்</a> sāhēp
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3915">p. 3915</a>)
+		<blockquote><p><hw><tam>ஸாஹேப்</tam> <t>sāhēp</t></hw> , <i>n</i>. < U. <i>sāhēb</i>. 1. Muhammadan; <tam>முகம்மதியன்</tam>. 2. White man; European; <tam>வெள்ளைக்காரன்</tam>. 3. Master; <tam>யஜமானன்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

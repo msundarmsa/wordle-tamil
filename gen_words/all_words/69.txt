@@ -1,0 +1,619 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>டோ</b>
+                       <div id='no_results'>
+                                39 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோ&searchhws=yes&matchtype=exact">டோ</a> ṭō
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1699">p. 1699</a>)
+		<blockquote><p><hw><tam>டோ</tam> <t>ṭō</t></hw> . The compound of <tam>ட்</tam> and <tam>ஓ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/winslow_query.py?qs=டோ&searchhws=yes&matchtype=exact">டோ</a> ṭō
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=535">p. 535</a>)
+		<blockquote><p><hw><tam>டோ</tam></hw> . A syllabic letter compounded of <tam>ட்</tam> and <tam>ஒ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோகர்&searchhws=yes&matchtype=exact">டோகர்</a> ṭōkar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1699">p. 1699</a>)
+		<blockquote><p><hw><tam>டோகர்</tam> <t>ṭōkar</t></hw> , <i>n</i>. < Hind. <i>ṭakkar</i>. Blow, stroke, collision; <tam>மோதுகை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோகர்கொடு-த்தல்&searchhws=yes&matchtype=exact">டோகர்கொடு-த்தல்</a> ṭōkarkoṭu-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1699">p. 1699</a>)
+		<blockquote><p><hw><tam>டோகர்கொடு-த்தல்</tam> <t>ṭōkar-koṭu-</t></hw> , <i>v. intr</i>. < <tam>டோகர்</tam> +. 1. To collide; <tam>மோதுதல். வண்டி டோகர் கொடுத்தது</tam>. <i>Loc</i>. 2. To run away, abscond; <tam>ஓடிப்போதல். அவன் பணத்தை எடுத்துக் கொண்டு டோகர் கொடுத்துவிட்டான்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோகர்விடு-தல்&searchhws=yes&matchtype=exact">டோகர்விடு-தல்</a> ṭōkarviṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1699">p. 1699</a>)
+		<blockquote><p><hw><tam>டோகர்விடு-தல்</tam> <t>ṭōkar-viṭu-</t></hw> , <i>v. intr</i>. < id. +. See <tam>டோகர்கொடு-</tam>, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோக்கு&searchhws=yes&matchtype=exact">டோக்கு</a> ṭōkku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1699">p. 1699</a>)
+		<blockquote><p><hw><tam>டோக்கு</tam> <t>ṭōkku</t></hw> , <i>n</i>. < T. <i>ṭōku</i>. [K. <i>ṭōku</i>.] Hard cash, ready money; <tam>ரொக்கம். டோக்கா</tam> 100 <tam>ரூபாய் கொடுத்தேன்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோங்கா&searchhws=yes&matchtype=exact">டோங்கா</a> ṭōṅkā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1699">p. 1699</a>)
+		<blockquote><p><hw><tam>டோங்கா</tam> <t>ṭōṅkā</t></hw> , <i>n</i>. cf. Hind. <i>ḍhauṅknā</i>. Hydrocele, swelling of the scrotum; <tam>அண்ட வாதம். அவனுக்கு டோங்கா விழுந்துவிட்டது</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/fabricius_query.py?qs=டோங்கு&searchhws=yes&matchtype=exact">டோங்கு</a> ṭōṅku
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=470">p. 470</a>)
+		<blockquote><p><hw><tam>டோங்கு</tam></hw> , III <i>v. t. (Tel.)</i>. play with baked earthen balls which boys push on the ground with their elbows; <i>v. i.</i> become emaciated, be overburdened. <tam>இளை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/winslow_query.py?qs=டோங்கு&searchhws=yes&matchtype=exact">டோங்கு</a> ṭōṅku
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=535">p. 535</a>)
+		<blockquote><p><hw><tam>டோங்கு</tam></hw> , <tam>கிறேன்</tam>, <tam>டோங்கினேன்</tam>, <tam>வேன்</tam>, <tam>டோங்க</tam>, <i>v. a. (Tel.)</i> To play with baked earthen balls which boys push on the ground with their elbows. 2. <i>v. n. [prov. fig.]</i> To become emaciated in person, to be over-burdened, <tam>இளைப்படைய</tam>. <i>(c.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோங்கு-தல்&searchhws=yes&matchtype=exact">டோங்கு-தல்</a> ṭōṅku-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1699">p. 1699</a>)
+		<blockquote><p><hw><tam>டோங்கு-தல்</tam> <t>ṭōṅku-</t></hw> , <i>5 v. intr</i>. perh. T. <i>ḍōgu</i>. To play at marbles, pushing them with the elbows; <tam>முழங்கையாற் கோலியுண்டை தள்ளி விளையாடுதல்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/fabricius_query.py?qs=டோபி&searchhws=yes&matchtype=exact">டோபி</a> ṭōpi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=470">p. 470</a>)
+		<blockquote><p><hw><tam>டோபி</tam></hw> , <i>Pers. s.</i> a washerman, <tam>வண்ணான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோபி&searchhws=yes&matchtype=exact">டோபி</a> ṭōpi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1699">p. 1699</a>)
+		<blockquote><p><hw><tam>டோபி</tam> <t>ṭōpi</t></hw> , <i>n</i>. < Hind. <i>dhōbi</i>. Washerman, dhoby; <tam>வண்ணான்</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/winslow_query.py?qs=டோபி&searchhws=yes&matchtype=exact">டோபி</a> ṭōpi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=973">p. 973</a>)
+		<blockquote><p><hw><tam>டோபி</tam></hw> , <i>s. [Pers.]</i> Washerman.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோபிகானா&searchhws=yes&matchtype=exact">டோபிகானா</a> ṭōpikāṉā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோபிகானா</tam> <t>ṭōpi-kāṉā</t></hw> , <i>n</i>. < id. +. Place for washing clothes; <tam>வண்ணான்துறை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/crea_query.py?qs=டோப்பா&searchhws=yes&matchtype=exact">டோப்பா</a> ṭōppā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=490">p. 490</a>)
+		<blockquote><p><hw>டோப்பா</hw> பெ. 1: (ஆண்கள் தலையில் வைத்துக்கொள்ளும்) செயற்கை முடி; பொய் முடி; wig (for men).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோரியா&searchhws=yes&matchtype=exact">டோரியா</a> ṭōriyā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோரியா¹</tam> <t>ṭōriyā</t></hw> , <i>n</i>. < U. <i>ḍōrā</i>. Relish of curds and condiments; <tam>ஒருவகைத் தயிர்ப் பச்சடி</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோரியா&searchhws=yes&matchtype=exact">டோரியா</a> ṭōriyā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோரியா²</tam> <t>ṭōriyā</t></hw> , <i>n</i>. < Hind. <i>ḍōriyā</i>. [K. <i>ḍōriya</i>.] Striped muslin; <tam>இடையிடையே இழைக் கோடுள்ள துணிவகை</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/crea_query.py?qs=டோலக்கு&searchhws=yes&matchtype=exact">டோலக்கு</a> ṭōlakku
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=490">p. 490</a>)
+		<blockquote><p><hw>டோலக்கு</hw> பெ. 1: ஒலி எழுப்பும் வகையில் சிறு வட்டத் தகடுகள் கோர்க்கப்பட்ட விளிம்புப்பட்டையை உடைய வட்ட வடிவத் தோல் வாத்தியம்; a kind of tambourine.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோலக்கு&searchhws=yes&matchtype=exact">டோலக்கு</a> ṭōlakku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோலக்கு</tam> <t>ṭōlakku</t></hw> , <i>n</i>. < Hind. <i>ḍhōlak</i>. A small drum; <tam>சிறு தோல்வாத்திய வகை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோலாக்கு&searchhws=yes&matchtype=exact">டோலாக்கு</a> ṭōlākku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோலாக்கு</tam> <t>ṭōlākku</t></hw> , <i>n</i>. < Hind. <i>lōla</i>. An ear pendant; <tam>காதணிவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோலாயந்திரம்&searchhws=yes&matchtype=exact">டோலாயந்திரம்</a> ṭōlāyantiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோலாயந்திரம்</tam> <t>ṭōlāyantiram</t></hw> , <i>n</i>. [M. <i>ḍōḷāyantram</i>.] See <tam>டோலேந்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/fabricius_query.py?qs=டோலாயமானம்&searchhws=yes&matchtype=exact">டோலாயமானம்</a> ṭōlāyamāṉam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=470">p. 470</a>)
+		<blockquote><p><hw><tam>டோலாயமானம்</tam></hw> , <i>s. (Tel.)</i> uncertainty, perplexity, <tam>நிலையின்மை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/winslow_query.py?qs=டோலாயமானம்&searchhws=yes&matchtype=exact">டோலாயமானம்</a> ṭōlāyamāṉam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=535">p. 535</a>)
+		<blockquote><p><hw><tam>டோலாயமானம்</tam></hw> , <i>s. (Tel.)</i> Uncertainty, fluctuation, perplexity, <tam>நிலையின்மை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/fabricius_query.py?qs=டோலி&searchhws=yes&matchtype=exact">டோலி</a> ṭōli
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=470">p. 470</a>)
+		<blockquote><p><hw><tam>டோலி</tam></hw> , <tam>இடோலி</tam>, <i>s. (Hind.)</i> a litter or dhooly.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோலி&searchhws=yes&matchtype=exact">டோலி</a> ṭōli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோலி</tam> <t>ṭōli</t></hw> , <i>n</i>. < Hind. <i>ḍōlā</i>. Litter, dooly, a kind of sedan; <tam>தூக்கிச்செல்லும் மஞ்சம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/winslow_query.py?qs=டோலி&searchhws=yes&matchtype=exact">டோலி</a> ṭōli
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=535">p. 535</a>)
+		<blockquote><p><hw><tam>டோலி</tam></hw> , <i>s. (Hind.)</i> A litter or dhooly. See <tam>இடோலி</tam>. <i>(c.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/fabricius_query.py?qs=டோலேந்திரம்&searchhws=yes&matchtype=exact">டோலேந்திரம்</a> ṭōlēntiram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=470">p. 470</a>)
+		<blockquote><p><hw><tam>டோலேந்திரம்</tam></hw> , <i>s.</i> (<i>com.</i> <tam>துலாந்திரம்</tam>) anything hung by a string in a vessel filled with water etc. and put on the fire to be boiled, <tam>தொங்கக் கட்டி வேகவைத்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோலேந்திரம்&searchhws=yes&matchtype=exact">டோலேந்திரம்</a> ṭōlēntiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோலேந்திரம்</tam> <t>ṭōlēntiram</t></hw> , <i>n</i>. < <i>ḍōlā</i> +. A contrivance for boiling water, etc., by suspending the vessel containing it over fire by means of a string; <tam>நீர் முதலியவற்றைப் பாத்திரத்தி லிட்டுக் கயிற்றால் அப்பாத்திரம் தீயிற்படும்படிசெய்து காய்ச்சும் ஒரு கருவி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/winslow_query.py?qs=டோலேந்திரம்&searchhws=yes&matchtype=exact">டோலேந்திரம்</a> ṭōlēntiram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=535">p. 535</a>)
+		<blockquote><p><hw><tam>டோலேந்திரம்</tam></hw> , <i>s.</i> (<i>com.</i> <tam>துலாந்திரம்</tam>.) Any thing hung by a string in a vessel filed with water, &c., and put upon the fire to be boiled, <tam>தொங்கக்கட்டிவேகவைத்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோலை&searchhws=yes&matchtype=exact">டோலை</a> ṭōlai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோலை</tam> <t>ṭōlai</t></hw> , <i>n</i>. < id. Swing, swinging cot; <tam>ஊசல்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோலோற்சவம்&searchhws=yes&matchtype=exact">டோலோற்சவம்</a> ṭōlōṟcavam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோலோற்சவம்</tam> <t>ṭōlōṟcavam</t></hw> , <i>n</i>. < id. + <i>utsava</i>. A festival in which the images of gods and goddesses are placed in a decorated swing and rocked to and fro; <tam>அலங்கரித்த ஊஞ்ச லில் கோயில்மூர்த்திகளை எழுந்தருளுவித்து ஆட்டி நடத்தும் விழா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/fabricius_query.py?qs=டோல்&searchhws=yes&matchtype=exact">டோல்</a> ṭōl
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=470">p. 470</a>)
+		<blockquote><p><hw><tam>டோல்</tam></hw> , <i>s. (Tel.)</i> a large drum; 2. <i>(Hind.)</i> a swinging cot, <tam>தூங்குமஞ்சம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோல்&searchhws=yes&matchtype=exact">டோல்</a> ṭōl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோல்¹</tam> <t>ṭōl</t></hw> , <i>n</i>. < Hind. <i>ḍhōl</i>. [T. <i>ḍōlu</i>.] 1. A large drum; <tam>ஒருவகை வாத்தியம். கூறுசங்கு டோன்முரசு</tam> (<tam>தனிப்பா</tam>. i, 270, 1). 2. Clever talk; <tam>சாமர்த்தியப்பேச்சு. உன்னுடைய டோல் இங்கே செல்லாது</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோல்&searchhws=yes&matchtype=exact">டோல்</a> ṭōl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோல்²</tam> <t>ṭōl</t></hw> , <i>n</i>. < <i>dōlā</i>. Swinging cot; <tam>தூங்குமஞ்சம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/winslow_query.py?qs=டோல்&searchhws=yes&matchtype=exact">டோல்</a> ṭōl
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=535">p. 535</a>)
+		<blockquote><p><hw><tam>டோல்</tam></hw> , <i>s. (Hind.)</i> A swinging cot, <tam>தூங்குமஞ்சம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/winslow_query.py?qs=டோல்&searchhws=yes&matchtype=exact">டோல்</a> ṭōl
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=535">p. 535</a>)
+		<blockquote><p>*<hw><tam>டோல்</tam></hw> , <i>s. (Tel.)</i> A large drum. W. p. 361. <smallcaps>DHOLA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோல்பின்&searchhws=yes&matchtype=exact">டோல்பின்</a> ṭōlpiṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோல்பின்</tam> <t>ṭōlpiṉ</t></hw> , <i>n</i>. < E. <i>dolphin</i>. Martingale, short spar under the bowsprit; <tam>கப்பலின்முகப்பைத் தாங்குங்கட்டை</tam>. <i>Naut</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/tamil-lex_query.py?qs=டோளக்கை&searchhws=yes&matchtype=exact">டோளக்கை</a> ṭōḷakkai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1700">p. 1700</a>)
+		<blockquote><p><hw><tam>டோளக்கை</tam> <t>ṭōḷa-k-kai</t></hw> , <i>n</i>. prob. id. +. (Nāṭya.) A pose which consists in extending the hands on both sides in imitation of a bird balancing itself on its wings; <tam>பறவை தன் சிறகு களைச் சமப்படுத்துவதுபோல் இருகரங்களையும் இரு புறத்தும் விரித்துக்காட்டும் அபிநயக்கை</tam>. (<tam>பரத. பாவ</tam>. 52.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/crea_query.py?qs=டோஸ்&searchhws=yes&matchtype=exact">டோஸ்</a> ṭōs
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=490">p. 490</a>)
+		<blockquote><p><hw>டோஸ்</hw> பெ. [பே.வ.] 1: (சில நேரத்தில் செய்த தவற்றுக்காகக் கிடைக்கும்) திட்டு; rebuke (which one receives for his/her mistakes). நேரம்கழித்துச் சென்றால் அப்பாவிடம் டோஸ் வாங்க வேண்டும்./ அம்மா கொடுத்த டோஸில் அண்ணன் சினிமாவுக்குப் போவதைக் குறைத்துவிட்டார்.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

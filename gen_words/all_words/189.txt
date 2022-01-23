@@ -1,0 +1,2879 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>யோ</b>
+                       <div id='no_results'>
+                                265 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோ&searchhws=yes&matchtype=exact">யோ</a> yō
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யோ</tam> <t>yō</t></hw> . The compound of <tam>ய்</tam> and <tam>ஓ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/winslow_query.py?qs=யோ&searchhws=yes&matchtype=exact">யோ</a> yō
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=906">p. 906</a>)
+		<blockquote><p><hw><tam>யோ</tam></hw> , A syllabic letter compounded of <tam>ய்</tam> and <tam>ஓ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோககுடி&searchhws=yes&matchtype=exact">யோககுடி</a> yōkakuṭi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோககுடி</hw> - காரணவிடுகுறி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோககுண்டலினி&searchhws=yes&matchtype=exact">யோககுண்டலினி</a> yōkakuṇṭaliṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோககுண்டலினி</tam> <t>yōka-kuṇṭaliṉi</t></hw> , <i>n</i>. < <i>Yōga-kuṇḍalinī</i>. An Upaniṣad, one of 108; <tam>நூற்றெட்டுபநிடதங்களுள் ஒன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகக்கட்டு&searchhws=yes&matchtype=exact">யோகக்கட்டு</a> yōkakkaṭṭu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகக்கட்டு</hw> - இருகாலுஞ் சம்மண மாய் மாறியக்கால்களையு மிடையை யுஞ்சேர்த்துத் தொடுப்பது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகக்கட்டு&searchhws=yes&matchtype=exact">யோகக்கட்டு</a> yōkakkaṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகக்கட்டு</tam> <t>yōka-k-kaṭṭu</t></hw> , <i>n</i>. < <tam>யோகம்</tam> +. Sitting cross-legged on the hams and binding the folded legs with the body by means of a strap; <tam>இருகால்களையும் மாறி மடக்கி அக்கால்களை முதுகோடு சேர்த்து வாரினாற் கட்டுகை. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகக்காட்சி&searchhws=yes&matchtype=exact">யோகக்காட்சி</a> yōkakkāṭci
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகக்காட்சி</hw> - தேசகால விகற்பமின் றித் தன்செயலற்றுச் சிவன்செய லிற் கூடியறிவுமறிவு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகக்காட்சி&searchhws=yes&matchtype=exact">யோகக்காட்சி</a> yōkakkāṭci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகக்காட்சி</tam> <t>yōka-k-kāṭci</t></hw> , <i>n</i>. < id. +. (Log.) Yogic perception of the soul, transcending the limitations of time and place; <tam>ஆன்மா யோகசமாதியால் காலதேசங்களாற் கட்டுக்குட்படாது அறியும் அறிவு</tam>. (<tam>சி. சி. அளவை</tam>, 4.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகக்காரன்&searchhws=yes&matchtype=exact">யோகக்காரன்</a> yōkakkāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகக்காரன்</tam> <t>yōka-k-kāraṉ</t></hw> , <i>n</i>. < id. +. See <tam>யோகவான்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகக்ஷேமம்&searchhws=yes&matchtype=exact">யோகக்ஷேமம்</a> yōkakṣēmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகக்ஷேமம்</tam> <t>yōka-kṣēmam</t></hw> , <i>n</i>. < id. +. <i>kṣēma</i>. 1. Welfare, prosperity; <tam>ஆக்கம்</tam>. (<smallcap>W</smallcap>.) 2. Livelihood; <tam>சீவனோபாயம்</tam>. (<smallcap>W</smallcap>.) 3. See <tam>யோகாதிசயம்</tam>. <i>Colloq</i>. 4. Secure possession of what has been acquired, and increasing prosperity; <tam>பெற்ற பொருளின் நிலைபேறும் மேன்மேல் வருவாயும்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகசத்தி&searchhws=yes&matchtype=exact">யோகசத்தி</a> yōkacatti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகசத்தி</hw> - நவசாரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசத்தி&searchhws=yes&matchtype=exact">யோகசத்தி</a> yōkacatti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசத்தி</tam> <t>yōka-catti</t></hw> , <i>n</i>. Sal ammoniac. See <tam>நவச்சாரம். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகசமாதி&searchhws=yes&matchtype=exact">யோகசமாதி</a> yōkacamāti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகசமாதி</hw> - யோகநிலைஏட்டினொன்று அது இந்திரயாதி தத்துவ சகிதமாய் யாக்கையுணின்றும் அவற்றிற் பற் றின்றியிருக்கும் ஆத்துமதரிசனம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசமாதி&searchhws=yes&matchtype=exact">யோகசமாதி</a> yōkacamāti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசமாதி</tam> <t>yōka-camāti</t></hw> , <i>n</i>. < <i>yōga</i> +. A yogic contemplation in which the soul becomes detached from the body and the mind; <tam>ஆன்மா உடலையும் மனத்தையும் விட்டுப் பிரிந்துநிற் கும் யோகநிலை</tam>. (<tam>திருப்பு</tam>. 341.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகசம்&searchhws=yes&matchtype=exact">யோகசம்</a> yōkacam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகசம்</hw> - சிவாகம மிருபத்தெட்டி னொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகசம்&searchhws=yes&matchtype=exact">யோகசம்</a> yōkacam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1672">p. 1672</a>)
+		<blockquote><p><hw>யோகசம்</hw> - ஓராகமம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசம்&searchhws=yes&matchtype=exact">யோகசம்</a> yōkacam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசம்</tam> <t>yōkacam</t></hw> , <i>n</i>. < <i>Yōga-ja</i>. An ancient Šaiva scripture in Sanskrit, one of 28 <i>civākamam</i>, q.v.; <tam>சிவாகமம் இருபத்தெட்டனுள் ஒன்று</tam>. (<tam>சைவச. பொது</tam>. 331, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகசரன்&searchhws=yes&matchtype=exact">யோகசரன்</a> yōkacaraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகசரன்</hw> - அனுமான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசரன்&searchhws=yes&matchtype=exact">யோகசரன்</a> yōkacaraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசரன்</tam> <t>yōka-caraṉ</t></hw> , <i>n</i>. < <i>Yōga-cara</i>. Hanumān; <tam>அனுமான். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசாதனம்&searchhws=yes&matchtype=exact">யோகசாதனம்</a> yōkacātaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசாதனம்</tam> <t>yōka-cātaṉam</t></hw> , <i>n</i>. < id. +. <i>sādhana</i>. The practice of yōga; <tam>யோகப்பயிற்சி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகசாதனை&searchhws=yes&matchtype=exact">யோகசாதனை</a> yōkacātaṉai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகசாதனை</hw> - யோகப்பரீட்சை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசாதனை&searchhws=yes&matchtype=exact">யோகசாதனை</a> yōkacātaṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசாதனை</tam> <t>yōka-cātaṉai</t></hw> , <i>n</i>. < id. +. See <tam>யோகசாதனம். மேன்மேலும் யோகசாதனை விளைப்பர்</tam> (<tam>அறப். சத</tam>. 54).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகசாத்திரம்&searchhws=yes&matchtype=exact">யோகசாத்திரம்</a> yōkacāttiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகசாத்திரம்</hw> - யோகாப்பியாச நூல் இது கலைஞான மறுபத்து நான்கில் ஒன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசாத்திரம்&searchhws=yes&matchtype=exact">யோகசாத்திரம்</a> yōkacāttiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசாத்திரம்</tam> <t>yōka-cāttiram</t></hw> , <i>n</i>. < <i>yōga</i> +. Yoga philosophy, one of <i>aṟupattunālu-kalai</i>, q.v.; <tam>அறுபத்துநாலுகலையுள் யோகத்தைப் பற்றிக் கூறும் கலை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசாரணம்&searchhws=yes&matchtype=exact">யோகசாரணம்</a> yōkacāraṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசாரணம்</tam> <t>yōkacāraṇam</t></hw> , <i>n</i>. See <tam>யோகாசாரம்</tam>, 2. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகசாரன்&searchhws=yes&matchtype=exact">யோகசாரன்</a> yōkacāraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகசாரன்</hw> - சவுத்திராந்திகளிற் சிறி து வேறுபட்டு, அறிவு அரூபமென் றும் பிரபஞ்சம் பொய்யென்றும் சொல்பவன், இவன் புறப்புறச் சம யிகளிலொருவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசாரன்&searchhws=yes&matchtype=exact">யோகசாரன்</a> yōkacāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசாரன்</tam> <t>yōkacāraṉ</t></hw> , <i>n</i>. See <tam>யோகாசாரன்</tam>. (<tam>சி. சி. பர. யோகா</tam>. 1, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசிகை&searchhws=yes&matchtype=exact">யோகசிகை</a> yōkacikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசிகை</tam> <t>yōkacikai</t></hw> , <i>n</i>. < <i>Yōgašikhā</i>. An Upaniṣad, one of 108; <tam>நூற்றெட்டுபநிடதங்க ளுள் ஒன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகசித்தி&searchhws=yes&matchtype=exact">யோகசித்தி</a> yōkacitti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகசித்தி</hw> - அங்கிரசன்புத்திரி, ப்ரஹ ஸ்பதிசகோதரி, பிரபாசுரன்மனைவி, விசுவகர்மன் தாய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகசித்தி&searchhws=yes&matchtype=exact">யோகசித்தி</a> yōkacitti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகசித்தி</hw> - யோகபலிதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசித்தி&searchhws=yes&matchtype=exact">யோகசித்தி</a> yōkacitti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசித்தி</tam> <t>yōka-citti</t></hw> , <i>n</i>. < <i>yōga</i> + <i>siddhi</i>. Power attained by the practice of yōga; <tam>யோகஞ் செய்து பெற்ற பேறு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசூடாமணி&searchhws=yes&matchtype=exact">யோகசூடாமணி</a> yōkacūṭāmaṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசூடாமணி</tam> <t>yōka-cūṭāmaṇi</t></hw> , <i>n</i>. < <i>Yōga-cūḍāmaṇi</i>. An Upaniṣad, one of 108; <tam>நூற்றெட்டுபநிடதங்களுள் ஒன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகசேமம்&searchhws=yes&matchtype=exact">யோகசேமம்</a> yōkacēmam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகசேமம்</hw> - சமாசாரம், செய்தி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசேமம்&searchhws=yes&matchtype=exact">யோகசேமம்</a> yōkacēmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசேமம்</tam> <t>yōka-cēmam</t></hw> , <i>n</i>. < <i>yōga</i> +. See <tam>யோகக்ஷேமம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகசைவம்&searchhws=yes&matchtype=exact">யோகசைவம்</a> yōkacaivam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகசைவம்</hw> - ஒருசைவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகசைவம்&searchhws=yes&matchtype=exact">யோகசைவம்</a> yōkacaivam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகசைவம்</tam> <t>yōka-caivam</t></hw> , <i>n</i>. < id. +. (Šaiva) A Šaiva system under which the initiate practises <i>aṣṭāṅka-yōkam</i> and obtains <i>aṣṭa-mā-citti</i>, one of 16 <i>caivam</i>, q.v.; <tam>சைவம் பதினாறனுள் தீட்சைபெற்றவன் அட்டாங்கயோகம் பயின்று அட்டமாசித்தி பெறுதலைக் கூறுஞ் சமயம். (அபி. சிந்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகஞ்சாதித்தல்&searchhws=yes&matchtype=exact">யோகஞ்சாதித்தல்</a> yōkañcātittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகஞ்சாதித்தல்</hw> - யோகம்பழகுதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகஞ்செய்தல்&searchhws=yes&matchtype=exact">யோகஞ்செய்தல்</a> yōkañceytal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகஞ்செய்தல்</hw> - தியானம்பண்ணுதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகட்சேமம்&searchhws=yes&matchtype=exact">யோகட்சேமம்</a> yōkaṭcēmam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகட்சேமம்</hw> - யோகசேமம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகட்சேமம்&searchhws=yes&matchtype=exact">யோகட்சேமம்</a> yōkaṭcēmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகட்சேமம்</tam> <t>yōkaṭcēmam</t></hw> , <i>n</i>. See <tam>யோகக்ஷேமம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகதக்ஷிணாமூர்த்தம்&searchhws=yes&matchtype=exact">யோகதக்ஷிணாமூர்த்தம்</a> yōkatakṣiṇāmūrttam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகதக்ஷிணாமூர்த்தம்</tam> <t>yōka-takṣiṇāmūrttam</t></hw> , <i>n</i>. < <i>yōga</i> +. A form of Dakṣiṇāmūrti; <tam>தக்ஷிணாமூர்த்தியின் மூர்த்தங்களுள் ஒன்று. (அபி. சிந்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகதண்டம்&searchhws=yes&matchtype=exact">யோகதண்டம்</a> yōkataṇṭam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகதண்டம்</hw> - யோகமுத்திரைக்கோல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகதண்டம்&searchhws=yes&matchtype=exact">யோகதண்டம்</a> yōkataṇṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகதண்டம்</tam> <t>yōka-taṇṭam</t></hw> , <i>n</i>. < <i>yōga</i> + <i>daṇḍa</i>. Staff of a yogi; <tam>யோகிகள் கைக்கொள் ளுங்கோல்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகதத்துவம்&searchhws=yes&matchtype=exact">யோகதத்துவம்</a> yōkatattuvam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகதத்துவம்</tam> <t>yōka-tattuvam</t></hw> , <i>n</i>. < <i>Yōga-tattva</i>. An Upaniṣad, one of 108; <tam>நூற்றெட்டுபநிடதங்களுள் ஒன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகதீக்கை&searchhws=yes&matchtype=exact">யோகதீக்கை</a> yōkatīkkai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகதீக்கை</tam> <t>yōka-tīkkai</t></hw> , <i>n</i>. See <tam>யோகதீட்சை</tam>, 1. (<tam>சி. சி</tam>. 8, 3, <tam>மறைஞா</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகதீட்சை&searchhws=yes&matchtype=exact">யோகதீட்சை</a> yōkatīṭcai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகதீட்சை</hw> - ஒருதீட்சை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகதீட்சை&searchhws=yes&matchtype=exact">யோகதீட்சை</a> yōkatīṭcai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகதீட்சை</tam> <t>yōka-tīṭcai</t></hw> , <i>n</i>. < <i>yōga</i> +. 1. (Šaiva.) A mode of initiation in which the teacher, by yogic power, enters the body of his disciple, takes hold of his soul and joins it to the feet of Šiva; <tam>யோகமார்க்கத்தால் குரு சீட னது உடலுட்பிரவேசித்து அவனது ஆன்மாவைக் கிர கித்துச் சிவன் திருவடியிற் சேர்ப்பிக்கும் தீட்சைவகை</tam>. 2. (Šaiva.) A mode of initiation in which the teacher teaches his disciple how to practise <i>nirātāra-yōkam</i>, one of seven <i>tīṭcai</i>, q.v.; <tam>தீட்சை யேழனுள் நிராதாரயோகத்தை அப்பியாசம் பண்ணு விக்கை</tam>. (<tam>சைவச. ஆசாரி</tam>. 95, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகநந்தேசர்&searchhws=yes&matchtype=exact">யோகநந்தேசர்</a> yōkanantēcar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகநந்தேசர்</hw> - திருவியலூரிலே கோ யில்கொண்டிருக்கும் சுவாமிபெயர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகநாலிகம்&searchhws=yes&matchtype=exact">யோகநாலிகம்</a> yōkanālikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகநாலிகம்</hw> - ஒருமீன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகநிட்டை&searchhws=yes&matchtype=exact">யோகநிட்டை</a> yōkaniṭṭai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோகநிட்டை</tam> <t>yōka-niṭṭai</t></hw> , <i>n</i>. < id. +. See <tam>யோகநிஷ்டை</tam>. (<tam>தக்கயாகப்</tam>. 95, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகநித்திரை&searchhws=yes&matchtype=exact">யோகநித்திரை</a> yōkanittirai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகநித்திரை</hw> - அறிதுயில்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகநித்திரை&searchhws=yes&matchtype=exact">யோகநித்திரை</a> yōkanittirai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3413">p. 3413</a>)
+		<blockquote><p><hw><tam>யோகநித்திரை</tam> <t>yōka-nittirai</t></hw> , <i>n</i>. < id. +. A state of meditation which admits of the full exercise of one's mental powers, the body remaining inactive as in sleep; <tam>உறங்குவதுபோன் றிருந்தும் அறிவுற்றிருக்கும் யோகநிலை</tam>. (<tam>தக்கயாகப்</tam>. 148, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகநிலை&searchhws=yes&matchtype=exact">யோகநிலை</a> yōkanilai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகநிலை</hw> - யோகானுட்டிப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகநிலை&searchhws=yes&matchtype=exact">யோகநிலை</a> yōkanilai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3413">p. 3413</a>)
+		<blockquote><p><hw><tam>யோகநிலை</tam> <t>yōka-nilai</t></hw> , <i>n</i>. < id. +. The state of abstract meditation according to yoga philosophy; <tam>யோகமுறையில் தியானத்தில் அமர்ந் திருக்கை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகநிஷ்டை&searchhws=yes&matchtype=exact">யோகநிஷ்டை</a> yōkaniṣṭai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3413">p. 3413</a>)
+		<blockquote><p><hw><tam>யோகநிஷ்டை</tam> <t>yōka-niṣṭai</t></hw> , <i>n</i>. < <i>yōga-niṣṭhā</i>. Absorbed yogic contemplation; <tam>யோக முறையில் தியானத்திலாழ்ந்திருக்கை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகநூல்&searchhws=yes&matchtype=exact">யோகநூல்</a> yōkanūl
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகநூல்</hw> - யோகசாத்திரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகநூல்&searchhws=yes&matchtype=exact">யோகநூல்</a> yōkanūl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3413">p. 3413</a>)
+		<blockquote><p><hw><tam>யோகநூல்</tam> <t>yōka-nūl</t></hw> , <i>n</i>. < <tam>யோகம்</tam> +. See <tam>யோகசாத்திரம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகநெறி&searchhws=yes&matchtype=exact">யோகநெறி</a> yōkaneṟi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகநெறி</hw> - யோகமார்க்கம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகபட்டம்&searchhws=yes&matchtype=exact">யோகபட்டம்</a> yōkapaṭṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3413">p. 3413</a>)
+		<blockquote><p><hw><tam>யோகபட்டம்</tam> <t>yōka-paṭṭam</t></hw> , <i>n</i>. See <tam>யோகப்பட்டம். யோகபட்டத்திடைக் கட்டினர்</tam> (<tam>திரு விளை. இரசவா</tam>. 11).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகபதம்&searchhws=yes&matchtype=exact">யோகபதம்</a> yōkapatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3413">p. 3413</a>)
+		<blockquote><p><hw><tam>யோகபதம்</tam> <t>yōka-patam</t></hw> , <i>n</i>. < <i>yōga</i> + <i>pada</i>. (Gram.) Derivative word; <tam>காரணச்சொல்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகபரன்&searchhws=yes&matchtype=exact">யோகபரன்</a> yōkaparaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3413">p. 3413</a>)
+		<blockquote><p><hw><tam>யோகபரன்</tam> <t>yōka-paraṉ</t></hw> , <i>n</i>. < <i>yōga-para</i>. One who has completely given himself up to yogic practices; <tam>யோகசிந்தையுடையவன். (இலக். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகபரீக்கை, யோகபரீட்சை&searchhws=yes&matchtype=exact">யோகபரீக்கை, யோகபரீட்சை</a> yōkaparīkkai, yōkaparīṭcai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகபரீக்கை, யோகபரீட்சை</hw> யோகப்பயிற்சி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகபரீட்சை&searchhws=yes&matchtype=exact">யோகபரீட்சை</a> yōkaparīṭcai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3413">p. 3413</a>)
+		<blockquote><p><hw><tam>யோகபரீட்சை</tam> <t>yōka-parīṭcai</t></hw> , <i>n</i>. < <i>yōga</i> +. See <tam>யோகாப்பியாசம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகபாதம்&searchhws=yes&matchtype=exact">யோகபாதம்</a> yōkapātam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகபாதம்</hw> - யோகநிலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகபாதம்&searchhws=yes&matchtype=exact">யோகபாதம்</a> yōkapātam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3413">p. 3413</a>)
+		<blockquote><p><hw><tam>யோகபாதம்</tam> <t>yōka-pātam</t></hw> , <i>n</i>. < id. +. 1. (Šaiva.) Path of yoga. See <tam>யோகம்</tam>, 19. 2. (Šaiva.) Second of the four parts of each <i>civākamam</i>, as dealing with yoga practices; <tam>ஒவ் வொரு சிவாகமத்திலும் யோகத்தைப்பற்றிக் கூறு வதாயுள்ள இரண்டாம் பகுதி. (பெரியபு. தில்லைவா. சூச.)</tam> 3. The section of <i>pāñcarāttirākamam</i> dealing with yoga; <tam>யோகத்தைப்பற்றிக் கூறும் பாஞ்சராத்திராகமப் பகுதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகபீடம்&searchhws=yes&matchtype=exact">யோகபீடம்</a> yōkapīṭam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகபீடம்</hw> - யோகாசநம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகபீடம்&searchhws=yes&matchtype=exact">யோகபீடம்</a> yōkapīṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3413">p. 3413</a>)
+		<blockquote><p><hw><tam>யோகபீடம்</tam> <t>yōka-pīṭam</t></hw> , <i>n</i>. < id. + <i>pīṭha</i>. Seat or posture peculiarly suitable to a yogi; <tam>யோகிகளுக்குரிய ஆசனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகபூசை&searchhws=yes&matchtype=exact">யோகபூசை</a> yōkapūcai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S401">p. S401</a>)
+		<blockquote><p><hw><tam>யோகபூசை</tam> <t>yōka-pūcai</t></hw> , <i>n</i>. < <tam>யோகம்</tam> +. Contemplation of God Siva as the Light of Knowledge; <tam>சிவபெருமானை அறிவின் ஒளியாகத் தியானிக்கை. உறைந்தோ ரொளியதாக்கி யொடுங் கிடின் யோகபூசை</tam> (<tam>ஞானபூசா</tam>. 14).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகப்படை&searchhws=yes&matchtype=exact">யோகப்படை</a> yōkappaṭai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகப்படை</hw> - யோகக்கட்டுக்கேற்ற கச்சு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகப்பட்டம்&searchhws=yes&matchtype=exact">யோகப்பட்டம்</a> yōkappaṭṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3413">p. 3413</a>)
+		<blockquote><p><hw><tam>யோகப்பட்டம்</tam> <t>yōka-p-paṭṭam</t></hw> , <i>n</i>. < id. +. <tam>பட்டம்²</tam>. Strap used by a yogi sitting on his hams, to bind his folded legs with the body; <tam>யோகிகள் தியானத்தில் அமர்ந்திருக்கும்போது முது கையும் முழங்கால்களையும் சேர்த்துக் கட்டவுதவும் கச்சை. யோகப்பட்டம் விளங்க</tam> (<tam>திருவாலவா</tam>. 13, 5).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகப்பிரத்தியட்சம்&searchhws=yes&matchtype=exact">யோகப்பிரத்தியட்சம்</a> yōkappirattiyaṭcam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகப்பிரத்தியட்சம்</hw> - யோகக்காட்சி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகப்பிரத்தியட்சம்&searchhws=yes&matchtype=exact">யோகப்பிரத்தியட்சம்</a> yōkappirattiyaṭcam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3413">p. 3413</a>)
+		<blockquote><p><hw><tam>யோகப்பிரத்தியட்சம்</tam> <t>yōka-p-pirattiyaṭcam</t></hw> , <i>n</i>. < id. +. (Log.) See <tam>யோகக்காட்சி. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகப்பிரமாணம்&searchhws=yes&matchtype=exact">யோகப்பிரமாணம்</a> yōkappiramāṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3413">p. 3413</a>)
+		<blockquote><p><hw><tam>யோகப்பிரமாணம்</tam> <t>yōka-p-piramāṇam</t></hw> , <i>n</i>. < id. +. See <tam>யோகநிலை</tam>. (<tam>பரத. பாவ</tam>. 33.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகமாயை&searchhws=yes&matchtype=exact">யோகமாயை</a> yōkamāyai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகமாயை</hw> - பகவதி, விஷ்ணுமாயை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகமார்க்கம்&searchhws=yes&matchtype=exact">யோகமார்க்கம்</a> yōkamārkkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகமார்க்கம்</hw> - யோகநிலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகமார்க்கம்&searchhws=yes&matchtype=exact">யோகமார்க்கம்</a> yōkamārkkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகமார்க்கம்</tam> <t>yōka-mārkkam</t></hw> , <i>n</i>. < id. +. Yogic system; <tam>யோகமுறை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/crea_query.py?qs=யோகம்&searchhws=yes&matchtype=exact">யோகம்</a> yōkam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>யோகம்<sup>1</sup></hw> பெ. 1: மனத்தை ஒருநிலைப்படுத்திச் செய்யும் ஆழ்ந்த தியானம்; deep meditation. 2: யோகாசனம்; yoga.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/crea_query.py?qs=யோகம்&searchhws=yes&matchtype=exact">யோகம்</a> yōkam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>யோகம்<sup>2</sup></hw> பெ. 1: அதிர்ஷ்டம்; good luck. அவனுடைய யோகம் படிப்பை முடித்தவுடனேயே வேலை கிடைத்துவிட்டது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/fabricius_query.py?qs=யோகம்&searchhws=yes&matchtype=exact">யோகம்</a> yōkam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=835">p. 835</a>)
+		<blockquote><p>*<hw><tam>யோகம்</tam></hw> , <i>s.</i> union, especially of stars and planets, <tam>கூடல்</tam>; 2. luck, fortune, <tam>அதிஷ்டம்</tam>; 3. speculation, meditation, contemplation, <tam>நிஷ்டை</tam>; 4. civility, urbanity, <tam>உபசாரம்</tam>; 5. a means an expedient, <tam>உபாயம்</tam>; 6. height, excellence, <tam>உயர்ச்சி</tam>; 7. an astrological element of an almanac; 8. an assembly; 9. (by aphoeresis of <tam>வியோ கம்</tam>) death; 10. effort, perseverance, <tam>உற்சாகம்</tam>. <p2><tam>யோகத்திலே இருக்க</tam>, to remain in profound meditation.</p2> <p2><tam>யோகம் அவனுக்கடிக்கிறது</tam>, he has good luck.</p2> <p2><tam>யோகக்காட்சி</tam>, the spiritual perception of the yogi.</p2> <p2><tam>யோகக்காரன்</tam>, <tam>யோகமுள்ளவன்</tam>, <tam>யோக சாலி</tam>, a fortunate man.</p2> <p2><tam>யோகசமாதி</tam>, vision of one's self.</p2> <p2><tam>யோகசம்</tam>, one of the 28 Sivagamas.</p2> <p2><tam>யோகசாஸ்திரம்</tam>, -<tam>நூல்</tam>, the science of abstract devotion, including the postures.</p2> <p2><tam>யோகக்ஷேமம்</tam>, <tam>யோகட்சேமம்</tam>, welfare.</p2> <p2><tam>ஒருனருடைய யோகக்ஷேமங்களைக் கேட்க</tam>, to enquire after one's welfare.</p2> <p2><tam>யோகஞ் சாதிக்க</tam>, to practise yoga devotions and contemplations.</p2> <p2><tam>யோக தண்டம்</tam>, a staff used by Yogis for supporting the neck to keep their head erect.</p2> <p2><tam>யோக தீட்சை</tam>, instruction by example, in character of the silent motionless ascetic, in the eight prescribed postures.</p2> <p2><tam>யோகாசனம்</tam>, a yogi's posture in meditation.</p2> <p2><tam>யோகாதிசயம்</tam>, condition, news, health.</p2> <p2><tam>யோகார்த்தமான வார்த்தை</tam>, a word of various meanings and significations.</p2> <p2><tam>யோகி</tam>, a contemplative sage; 2. an ascetic; 3. Siva; 4. Argha; 5. abductor muscle.</p2> <p2><tam>பிறந்த யோகம்</tam>, one's horoscope, one's destiny.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகம்&searchhws=yes&matchtype=exact">யோகம்</a> yōkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1211">p. 1211</a>)
+		<blockquote><p><hw>யோகம்</hw> - கூடல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகம்&searchhws=yes&matchtype=exact">யோகம்</a> yōkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகம்</hw> - அட்டயோகம், அதிட்டம், உப சாரம், உபாயம், உயர்ச்சி, உற்சாகம், ஏத்து, கூடல், கூட்டம், கூட்டல், சாவு, சிவிகை, சூத்திரம், தகுதி, தியா னம், நிஷ்டை, பக்கம், பஞ்சாங்கவு றுப்பினொன்று, பவன், பொருத்தம் போர்க்கவசம், வரம். இந்திரியங்களை வசஞ்செய்துகொண்டு சித்தத்தைப் பிரமத்தில் நிறுத்தல், இது இராஜ யோகம் கர்மயோகம் ஹடயோகம் ஏன மூன்றுவகையாயிருக்கும், மே லும் ஸாங்க்யதாரக அமநஸ்கம் ஏன வும் முன்றுவிசையுண்டு, அன்றியும் மந்திரயோகம், யயயோகம் ஹட யோகம் ஏன்றொரு மூலிகையுண்டு, இவற்றின்விரிவெல்லாம் யோகநூல் களிற் காண்க. இந்த யோகசாஸ் திரம் செய்தவர் பதஞ்சலிபகவான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகம்&searchhws=yes&matchtype=exact">யோகம்</a> yōkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1486">p. 1486</a>)
+		<blockquote><p><hw>யோகம்</hw> - கூடல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகம்&searchhws=yes&matchtype=exact">யோகம்</a> yōkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1579">p. 1579</a>)
+		<blockquote><p><hw>யோகம்</hw> - <tam>10</tam>- அட்டாங்கயோகம், மந்திர, யோகம், பரியோகம், பாவயோகம், மாயோகம், பாசுபதயோகம், கரும யோகம், ஞானயோகம், சாங்கியயோ கம், தியானயோகம்,இவற்றின் விரிவு களை யெல்லாம் கூர்மபுராணம், இ லிங்கபுராணம், வாயுசங்கிதைமுதலி யவற்றிற் காண்க.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகம்&searchhws=yes&matchtype=exact">யோகம்</a> yōkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1579">p. 1579</a>)
+		<blockquote><p><hw>யோகம்</hw> - <tam>17</tam> - விஷ்கம்பம், பிரீதி, ஆயு ஷ்மான், சௌபாக்கியம், சோபனம், அதிகண்டம், சகர்மம், திருதி, சூலம், கண்டம், விருத்தி, துருவம், வியாகா தம், அரிஷணம், வச்சிரம், சித்தி, விதி பாதம், வரியான், பரிகம், சிவம், சித் தம், சாத்தியம், சுபம், சுப்பிரம், பிர மம், ஐந்திரம், வைதிருதி. இவை மு றையேகம்பம், பிரியம், வாழ்நாள், புண் ணியம், நலம், மாகண்டம், அறம், துணை, சூலம், கண்டம், ஆக்கம், நிலை, அரவு, ஏக்களிப்பு, வேல், வல்லமை, கொலை, காயம், தாழ்வு, காட்சி, திறம், புகழ், கா வல், தெளிவு, பிரமா, இந்திரன், பேய். இவற்றுள் கம்பம், கண்டம், அதிகண் டம், சூலம், வியாகாதம், வச்சிரம், விதி பாதம்பரீகம்வைதிருதியென வொன் பதன்றிமற்றவைநல்லன. இவற்றுள் ளுங்கம்பத்தின்மூன்றும், சூலத்திலைந் தும், கண்டத்திலுமதிகண்டத்திலுமா றும், வியாகாதத்திலொன்பதுங்கழித் து நின்ற நாழிகையுமாம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகம்&searchhws=yes&matchtype=exact">யோகம்</a> yōkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1672">p. 1672</a>)
+		<blockquote><p><hw>யோகம்</hw> - அடயோகமுதவியயோகம், அ திட்டம், உபசாரம், உபாயம், உயர்ச் சி, உற்சாகம், கூடல், கூட்டம், சாவு, தியானம், பஞ்சாங்கத்திலொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகம்&searchhws=yes&matchtype=exact">யோகம்</a> yōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகம்</tam> <t>yōkam</t></hw> , <i>n</i>. < <i>yōga</i>. 1. Junction, union, combination; <tam>சேர்க்கை. பொறிபுனை யோக வியோக முடைத்தோன்</tam> (<tam>ஞானா</tam>. 61, 9). 2. (Astrol.) Lucky conjunction, as of planets; <tam>கிரகங்கள் முதலியவற்றின் நற்சேர்க்கை</tam>. 3. Sexual union; <tam>புணர்ச்சி. பன்னாளும் பயில்யோகம் பரம்பரையின் விரும்பினார்</tam> (<tam>பெரியபு. தடுத்</tam>. 181). (<tam>செந்</tam>. iv, 441.) 4. (Arith.) Addition; <tam>கூட்டல். (யாழ். அக.)</tam> 5. Luck, fortune; <tam>அதிட்டம். யோகநாள் வந்த தென்று</tam> (<tam>இராமநா. பாலகா</tam>. 10). 6. Excellence; <tam>உயர்ச்சி</tam>. (<tam>செந்</tam>. iv, 257.) 7. Enthusiasm, zeal; <tam>உற்சாகம். (யாழ். அக.)</tam> 8. Fitness, suitability; <tam>தகுதி. (யாழ். அக.)</tam> 9. Etymological connection of a word; <tam>காரணப்பெயர்க்குரிய வியுத்பத்தி</tam>. 10. (Gram.) Derivative name; <tam>காரணப்பெயர்</tam>. (<tam>நன்</tam>. 62. <tam>விருத்</tam>.) 11. Aphorism; <tam>சூத்திரம். (யாழ். அக.)</tam> 12. Means, expedient, device; <tam>உபாயம். கை கண்டயோகம்</tam> (<tam>திவ். நாய்ச்</tam>. 12, 5, <tam>வ்யா</tam>.). 13. Remedy, cure; medicine; <tam>மருந்து. ஆழ்துய ரவித்தற் கொத்த வரும்பெறல் யோகநாடி</tam> (<tam>சீவக</tam>. 1800). 14. Fraud; <tam>ஏமாற்று. (யாழ். அக.)</tam> 15. Waist-band, girdle; <tam>அரைப்பட்டிகை. அரியா யோகமும்</tam> (<tam>சிலப்</tam>. 14, 170). 16. Auspicious mark, as on horse, cattle, etc.; <tam>நற்சுழி. யோகப்புரவி</tam> (<tam>பெரியபு. தடுத்</tam>. 19). (<tam>செந்</tam>. iv, 257.) 17. Deep and abstract meditation; concentration of the mind in the contemplation of the Supreme Spirit; <tam>ஆழ்ந்த தியானநிஷ்டை. யோக நல்லுறக்க நல்கினான்</tam> (<tam>இரகு. திருவவ</tam>. 5). 18. Consciousness; <tam>உணர்ச்சி. தாக்குதன் முன்னே யோகம் வந்தது மாண்டார்க்கு</tam> (<tam>கம்பரா. வேலேற்ற</tam>. 42). 19. (Šaiva.) Path of yoga which consists in the mental worship of Šiva in His subtler Form; <tam>அதிசூட்சும வடிவினையுடைய கடவுளை அகத்தான் வழிபடுகை யாகிய மார்க்கம்</tam>. (<tam>சி. போ. பா</tam>. 8, 1, <tam>பக்</tam>. 359, <tam>புதுப்</tam>.) 20. (Šaiva.) See <tam>யோகபாதம்</tam>, 2. 21. Yoga, consisting of eight elements, viz., <i>iyamam, niyamam, ācaṉam, pirāṇāyāmam, pirattiyākāram, tāraṇai, tiyāṉam, camāti</i>; <tam>இயமம், நியமம், ஆச னம், பிராணாயாமம், பிரத்தியாகாரம், தாரணை, தியா னம், சமாதி என்ற எண்வகைப்பட்ட யோகாப்பியாச அங்கங்கள்</tam>. (<tam>சிலப்</tam>. 14, 11, <tam>உரை</tam>.) 22. Death; <tam>சாவு. (யாழ். அக.)</tam> 23. (Astron.) Yoga, one of the five items of <i>pañcāṅkam</i>, being 27 in number, viz., <i>viṭkampam, pirīti, āyuṣmāṉ, caupākkiyam, cōpaṉam, atikaṇṭam, cukarmam, tiruti, cūlam, kaṇṭam, virutti, turuvam, viyākātam, ariṣaṇam, vacciram, citti, viyatipātam, variyāṉ, parikam, civam, cittam, cāttiyam, cupam, cuppiram, pirāmiyam, mākēntiram</i> or <i>aintiram, vaitiruti</i>; <tam>விட்கம்பம், பிரீதி, ஆயுஷ் மான், சௌபாக்கியம், சோபனம், அதிகண்டம், சுகர் மம், திருதி, சூலம், கண்டம், விருத்தி, துருவம், வியா காதம், அரிஷணம், வச்சிரம், சித்தி, வியதிபாதம், வரியான், பரிகம், சிவம், சித்தம், சாத்தியம், சுபம், சுப்பிரம், பிராமியம், மாகேந்திரம் அல்லது ஐந்திரம், வைதிருதி என இருபத்தேழு வகைப்பட்டதான பஞ் சாங்க வுறுப்பு ஐந்தனு ளொன்று</tam>. (<tam>விதான. பஞ் சாங்க</tam>. 24, <tam>உரை</tam>.) 24. (Astrol.) Auspicious or inauspicious conjunction of week days with lunar asterisms, of six kinds, viz., <i>amirta-yōkam, citta-yōkam, amirta-citta-yōkam, utpāta-yōkam, maraṇa-yōkam, pirapalāriṣṭa-yōkam</i>; <tam>அமிர்தயோகம், சித்தயோகம், அமிர்தசித்த யோகம், உத்பாதயோகம், மரணயோகம், பிரபலா ரிஷ்டயோகம் என்னும் ஆறு யோகங்கள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகம்&searchhws=yes&matchtype=exact">யோகம்</a> yōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S401">p. S401</a>)
+		<blockquote><p><hw><tam>யோகம்</tam> <t>yōkam</t></hw> , <i>n</i>. < <i>yōga</i>. (Jaina.) Activity relating to mind, body and word; <tam>மனோவாக்குக் காயங்களின் வியாபாரம்</tam>. (<tam>நீலகேசி</tam>, 427, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/winslow_query.py?qs=யோகம்&searchhws=yes&matchtype=exact">யோகம்</a> yōkam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=907">p. 907</a>)
+		<blockquote><p>*<hw><tam>யோகம்</tam></hw> , <i>s.</i> Religious, and abstract meditation, contemplation; keeping the body in a fixed posture, <tam>நிஷ்டை</tam>. 2. Luck, fortune, a lucky conjunction, <tam>அதிஷ்டம்</tam>. 3. Civility, urbanity, <tam>உபசாரம்</tam>. 4. A means, an expedient, <tam>உபாயம்</tam>. 5. Height, excellency, <tam>உயர்ச்சி</tam>. 6. Effort, perseverance, <tam>உற்சாகம்</tam>. 7. Union, junction–especially of stars and planets, <tam>கூடல்</tam>. 8. An astrological element of an almanac. See <tam>பஞ்சாங்கம்</tam>. 9. An assembly, <tam>கூட்டம்</tam>. W. p. 688. <smallcaps>YOGA.</smallcaps> 10. [<i>by aphæresis of</i> <tam>வியோகம்</tam>.] Death, <tam>சாவு</tam>. <tam>அவனுக்குயோகமடிக்கிறது</tam>. He has good luck. <tam>ஏனக்கதிலேயோகமில்லை</tam>....... I am not fortunate in that. <p2><tam>யோகம்</tam> <tam>8</tam>, or <tam>அஷ்டாங்கயோகம்</tam>, The eight qualities, of a yogi; 1. <tam>இயமம்</tam>, restraint of the appetites; 2. <tam>நியமம்</tam>, voluntary religious observances; 3. <tam>ஆகனம்</tam>, position; 4. <tam>பிராணாயாமம்</tam>, breathing in a peculiar way; 5. <tam>பிரத்தியாகாரம்</tam>, restraining the senses; 6. <tam>தாரணை</tam>, fixing the mind on a member of the body; 7. <tam>தியானம்</tam>, silent meditation. 8. <tam>சமாதி</tam>, vision of one's self–which see in their places.</p2> <p2><tam>யோகம்</tam>, <tam>27</tam>. <i>[in astrology.]</i> Twenty-seven sections of the lunar path or ecliptic, depending upon the sum of the longitudes of the Sun and moon–opp. to Tithi which depends upon their difference. They are: 1. <tam>விட்கம்பம்</tam>; 2. <tam>பிரீதி</tam>. 3. <tam>ஆயுஷ்மான்</tam>; 4. <tam>சௌபாக்கியம்</tam>; 5.<tam>சோபனம்</tam>; 6. <tam>அதிகண்டம்</tam>; 7. <tam>சுகர்மம்</tam>; 8. <tam>திருதி</tam>; 9. <tam>சூலம்</tam>; 10. <tam>கண்டம்</tam>; 11. <tam>விருத்தி</tam>; 12. <tam>துருவம்</tam>; 13. <tam>வியாகாதம்</tam>; 14. <tam>அரிடணம்</tam>; 15. <tam>வச்சிரம்</tam>; 16. <tam>சித்தி</tam>; 17. <tam>விதி பாதம்</tam>; 18. <tam>வரியான்</tam>; 19. <tam>பரீகம்</tam>; 20. <tam>சிவம்</tam>; 21. <tam>சித்தம்</tam>; 22. <tam>சாத்தியம்</tam>; 23. <tam>சுபம்</tam>; 24. <tam>சுப்பிரம்</tam>; 25. <tam>பிரமம்</tam>; 26. <tam>ஐந்திரம்</tam>; 27. <tam>வைதிருதி</tam>.</p2> <p2><tam>யோகக்காட்சி</tam>, <i>s.</i> The spiritual perception of the yogi. See <tam>காட்சி</tam>.</p2> <p2><tam>யோகக்காரன்</tam>–<tam>யோகமுள்ளவன்</tam>–<tam>யோகவான்</tam>, <i>s.</i> A fortunate man.</p2> <p2><tam>யோகசமாதி</tam>, <i>s.</i> As <tam>சமாதி</tam>. See <tam>யோகம்</tam>, <tam>அ</tam>.</p2> <p2><tam>யோகசம்</tam>, <i>s.</i> One of the twenty-eight Agamas of the Saivas. See <tam>சிவாகமம்</tam>.</p2> <p2><tam>யோகசாதனை</tam>, <i>s.</i> The practice of <i>yoga</i> discipline, and exercise.</p2> <p2><tam>யோகசாஸ்திரம்</tam>–<tam>யோகநூல்</tam>, <i>s,</i> The science of abstract devotion, including the postures. See <tam>கலைஞானம்</tam>.</p2> <p2><tam>யோகசாரணம்</tam>, <i>s.</i> A system of religion. See <tam>சமயம்</tam>. III.</p2> <p2><tam>யோகஞ்சாதித்தல்</tam>, <i>v. noun.</i> Practising <i>yoga</i> devotions, and contemplations.</p2> <p2><tam>யோகட்சேமம்</tam>–<tam>யோகக்ஷேமம்</tam>, <i>s.</i> Welfare, well-being; national prosperity, the good government of a state or agents in maintaining it–as king, minister, priest. 2. News, intelligence, <tam>செய்தி</tam>.</p2> <p2><tam>யோகதண்டம்</tam>, <i>s.</i> A staff used by <i>yogis</i> for supporting the neck to keep their head erect.</p2> <p2><tam>யோகதீட்சை</tam>, <i>s.</i> Instruction by example. See <tam>தீட்சை</tam>.</p2> <p2><tam>யோகத்திலிருக்க</tam>–<tam>யோகத்தில்நிற்க</tam>, <i>inf.</i> To remain in profound meditation.</p2> <p2><tam>யோகநித்திரை</tam>, <i>s.</i> Conscious or contemplative sleep–as an attribute of the gods, especially of Vishnu. See <tam>அறிதுயில்</tam>.</p2> <p2><tam>யோகநிலை</tam>, <i>s.</i> Religious and abstract, meditation–as <tam>யோகம்</tam>. In the Tantras it is thus described, <tam>ஐம்பொறியடக்கி</tam>, <tam>மூலவாயுவையெழுப்பி</tam>, <tam>இடைபிங்கலை வழியை யிறுகவடைத்து</tam>, <tam>கழிமுனைவழியைத்திறந்து</tam>, <tam>பிரணவநாதத்தொடுபோய்</tam>, <tam>ஐந்தெழுத்தும்பிரணவரூபமாந்தன்மை கண்டுசிதாகாசத்திற்கலந்திருக்கை</tam>, by restraining the external senses; driving upwards the air in the entrails, stopping the breath which should come through the nostrils; and opening the porous passage in the head, [the devotee.] will hear a divine sound, see the five holy characters, in the shape of a mountain; and enter into union with the omnipresent God.</p2> <p2><tam>யோகபதம்</tam>, <i>s.</i> A complex word, resolvable into simpler elements,–oppos. to <tam>ரூடபதம்</tam>, a simple word, <tam>காரணச்சொல்</tam>.</p2> <p2><tam>யோகபரீட்சை</tam>–<tam>யோகாப்பியாசம்</tam>, <i>s.</i> Experience or practice of <i>yoga</i> meditation.</p2> <p2><tam>யோகப்பட்டை</tam>, <i>s.</i> A thick and broad tape used by <i>yogis.</i> See <tam>பட்டை</tam>.</p2> <p2><tam>யோகப்பிரத்தியட்சம்</tam>, <i>s.</i> One of the elementary principles of reasoning, or logic, as <tam>யோகக்காட்சி</tam>.</p2> <p2><tam>யோகமார்க்கம்</tam>, <i>s.</i> <i>yoga</i> system of religion.</p2> <p2><tam>யோகரூடி</tam>, <i>s.</i> Arbitrary use of a word expressing quality as a substantive, thus <tam>அந்தணர்</tam>, the good natured, is made an epithet of brahmans, <tam>காரணஇடுகுறி</tam>.</p2> <p2><tam>யோகர்</tam>, <i>s. [pl.]</i> Sages among the Jainas or Buddhists, <tam>சமணமுனிவர்</tam>. 2. Anchorets, or ascetics, <tam>முனிவர்</tam>. (<tam>சது</tam>.)</p2> <p2><tam>யோகவேஷ்டி</tam>, <i>s.</i> A certain garment or dress, worn by a <i>yogi</i> or ascetic.</p2> <p2><tam>யோகாக்கினி</tam>, <i>s.</i> A heap of fire. 2. Excessive heat, caused in the eyes of a <i>yogi</i> by continued meditation.</p2> <p2><tam>யோகாசனம்</tam>, <i>s.</i> A <i>yogi</i>-postrue in meditation. See <tam>ஆசனம்</tam>.</p2> <p2><tam>யோகாசாரியன்</tam>, <i>s.</i> A teacher of the <i>yoga</i> philosophy.</p2> <p2><tam>யோகாதிகாரம்</tam>, <i>s.</i> Ability to undertake the practice of the <i>yoga</i> philosophy; power for abstract meditation. (<tam>சி</tam>. 21.)</p2> <p2><tam>யோகாதிசயம்</tam>, <i>s.</i> Condition, state, health. <tam>ஒருவனுடையயோகாதிசயங்கேட்கிறது</tam>, Inquiring after one's health.</p2> <p2><tam>யோகார்த்தம்</tam>, <i>s.</i> A word of various meanings and significations, <tam>பலகருத்து டைய ஒருசொல்</tam>; [<i>ex</i> <tam>அர்த்தம்</tam>.]</p2> <p2><tam>யோகி</tam>, <i>s.</i> A Yogi, a contemplative sage, <tam>நிஷ்டைசெய்வோன்</tam>, (<i>El.</i> 68.) 2. An ascetic, <tam>முனிவன்</tam>. 3. Siva, <tam>சிவன்</tam>. 4. Argha, <tam>அருகன்</tam>. 5. Ayanar, <tam>ஐயனார்</tam>. (<tam>சது</tam>.) 6. <i>[in anat.]</i> Abductor muscle.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகயாமளம்&searchhws=yes&matchtype=exact">யோகயாமளம்</a> yōkayāmaḷam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகயாமளம்</tam> <t>yōga-yāmaḷam</t></hw> , <i>n</i>. < <i>Yōga-yāmala</i>. A Tantric work dealing with the worship of Šakti; <tam>ஒரு சாக்தேய தந்திரம். யோக யாமளத்தினாள்</tam> (<tam>தக்கயாகப்</tam>. 136).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகரங்கம்&searchhws=yes&matchtype=exact">யோகரங்கம்</a> yōkaraṅkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகரங்கம்</hw> - கொளுஞ்சிமரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகரங்கம்&searchhws=yes&matchtype=exact">யோகரங்கம்</a> yōkaraṅkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகரங்கம்</tam> <t>yōkaraṅkam</t></hw> , <i>n</i>. < <i>yōga- raṅga</i>. Sylhet orange. See <tam>கொழிஞ்சி</tam>, 1. (<tam>மூ. அ</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகரூடி&searchhws=yes&matchtype=exact">யோகரூடி</a> yōkarūṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகரூடி</tam> <t>yōka-rūṭi</t></hw> , <i>n</i>. < <i>yōga</i> + <i>rūḍhi</i>. Word having an etymological as well as a special or conventional meaning, as <i>paṅkaja</i>; <tam>காரணவிடுகுறி</tam>. (<tam>நன்</tam>. 62, <tam>விருத்</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகர்&searchhws=yes&matchtype=exact">யோகர்</a> yōkar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகர்</hw> - சமணமுனிவர், முனிவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகர்&searchhws=yes&matchtype=exact">யோகர்</a> yōkar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1673">p. 1673</a>)
+		<blockquote><p><hw>யோகர்</hw> - சமணமுனிவர், முனிவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகர்&searchhws=yes&matchtype=exact">யோகர்</a> yōkar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகர்</tam> <t>yōkar</t></hw> , <i>n</i>. < <tam>யோகம்</tam>. 1. Yogis, followers of the yoga system; <tam>யோகியர். எண் ணிலா முனிவர் . . . யோகர்</tam> (<tam>திருக்காளத். பு. பல ருஞ்</tam>. 15). 2. Sages, ascetics; <tam>முனிவர். (சூடா.)</tam> 3. Jaina saints; <tam>சமணமுனிவர். (சூடா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகவகை&searchhws=yes&matchtype=exact">யோகவகை</a> yōkavakai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1579">p. 1579</a>)
+		<blockquote><p><hw>யோகவகை</hw> - <tam>4</tam>- மரணயோகம், சித்த யோகம், அமிர்தசித்தயோகம், அமிர்த யோகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகவாகி&searchhws=yes&matchtype=exact">யோகவாகி</a> yōkavāki
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகவாகி</hw> - இரசம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகவாகி&searchhws=yes&matchtype=exact">யோகவாகி</a> yōkavāki
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகவாகி</tam> <t>yōka-vāki</t></hw> , <i>n</i>. < <i>yōga-vāhī</i>. Mercury; <tam>இரசம். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகவான்&searchhws=yes&matchtype=exact">யோகவான்</a> yōkavāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகவான்</tam> <t>yōkavāṉ</t></hw> , <i>n</i>. < <i>yōga-vān</i>. Fortunate man; <tam>அதிட்டமுள்ளவன்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகவிபாகம்&searchhws=yes&matchtype=exact">யோகவிபாகம்</a> yōkavipākam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகவிபாகம்</tam> <t>yōka-vipākam</t></hw> , <i>n</i>. < <i>yōga</i> + <i>vibhāga</i>. (Gram.) Separation of that which is usually combined together, especially the separation of the words of a Sūtra, splitting one rule into two or more; <tam>ஒரு சூத்திரத்தில் ஒரு பகுதியைத் தனியே பகுத்து வேறு சூத்திர மாக்கிப் பொருள்கோடலாகிய நூற்புணர்ப்பு</tam>. (<tam>தொல். சொல்</tam>. 11, <tam>சேனா</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகவுறக்கம்&searchhws=yes&matchtype=exact">யோகவுறக்கம்</a> yōkavuṟakkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகவுறக்கம்</tam> <t>yōka-v-uṟakkam</t></hw> , <i>n</i>. < id. +. See <tam>யோகநித்திரை</tam>. (<tam>பரிபா</tam>. 13, 29, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகவேஷ்டி&searchhws=yes&matchtype=exact">யோகவேஷ்டி</a> yōkavēṣṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகவேஷ்டி</tam> <t>yōka-vēṣṭi</t></hw> , <i>n</i>. < id. +. Upper cloth worn across the chest, passing over the left shoulder and under the right; <tam>இடது தோள்மேலிருந்து குறுக்காக அணியும் மேலாடை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகஸ்நாநம்&searchhws=yes&matchtype=exact">யோகஸ்நாநம்</a> yōkasnānam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகஸ்நாநம்</hw> - ஏழுவகை ஸ்நாநத்தொ ன்று அது யோகாப்பியாசத்தா லாத் துமசுத்தியடைதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகஸ்நானம்&searchhws=yes&matchtype=exact">யோகஸ்நானம்</a> yōkasnāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகஸ்நானம்</tam> <t>yōka-snāṉam</t></hw> , <i>n</i>. < id. +. Purification by yogic contemplation, one of seven <i>snāṉam</i>, q.v.; <tam>ஸ்நானம் ஏழனுள் தியானத்தினாலுண்டாகுஞ் சுத்தி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகாக்கினி&searchhws=yes&matchtype=exact">யோகாக்கினி</a> yōkākkiṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகாக்கினி</tam> <t>yōkākkiṉi</t></hw> , <i>n</i>. < id. + <i>agni</i>. 1. Lustre attained through yogic practice; <tam>யோகத் தாலடையும் தேசசு</tam>. 2. Blaze of fire; <tam>நெருப்புத் திரள்</tam>. (<smallcap>W</smallcap>.) 3. Excessive heat or fire glowing in the eyes of a yogi because of continued meditation; <tam>விடாத யோகானுட்டானத்தால் யோகி யின் கண்ணில் ஒளிருந் தீ</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகாங்குலி நியாயம்&searchhws=yes&matchtype=exact">யோகாங்குலி நியாயம்</a> yōkāṅkuli niyāyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S401">p. S401</a>)
+		<blockquote><p><hw><tam>யோகாங்குலி நியாயம்</tam> <t>yōkāṅkuli-niyāyam</t></hw> , <i>n</i>. < <i>yōga</i> + <i>anguli</i> +. (Log.) A nyāya; <tam>நியாயவகை. பூர்வபதமும் உத்தரபதமும் யோகாங் குலிநியாயம்போலப் புணரா</tam> (<tam>பி. வி</tam>. 26, <tam>உரை, பக்</tam> 49).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகாசநம்&searchhws=yes&matchtype=exact">யோகாசநம்</a> yōkācanam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகாசநம்</hw> - யோகஞ்செய்வோரிருப்பு அது சுவத்திகமுதனூற்றெட்டுவகை யிருப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/crea_query.py?qs=யோகாசனம்&searchhws=yes&matchtype=exact">யோகாசனம்</a> yōkācaṉam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>யோகாசனம்</hw> பெ. 1: மூச்சைச் சீராக உள்ளிழுத்து வெளிவிட்டு உடலைப் பல நிலைகளில் இருத்திச் செய்யும் மன ஒருமைப் பயிற்சி; series of exercises in postures for concentration and meditation.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகாசனம்&searchhws=yes&matchtype=exact">யோகாசனம்</a> yōkācaṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1579">p. 1579</a>)
+		<blockquote><p><hw>யோகாசனம்</hw> - <tam>6</tam>- முன்கூறிய ஏண்வகை யாசனங்களன்றிநிற்றல், இருத்தல், கிடத்தல், நடத்தல், சமயம், சுகமு மாம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகாசனம்&searchhws=yes&matchtype=exact">யோகாசனம்</a> yōkācaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகாசனம்</tam> <t>yōkācaṉam</t></hw> , <i>n</i>. < id. +. <i>ā-sana</i>. 1. Mode of sitting, suited to profound and abstract meditation; <tam>யோகத்திற்குரிய இருக்கை</tam>. (<smallcap>W</smallcap>.) 2. Sitting on the hams, one of <i>pañca-v-ātaṉam</i>, q.v.; <tam>பஞ்சவாதனத்துள் முழங் காலிட்டுக் குந்தியிருக்கும் இருப்பு. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகாசாரன்&searchhws=yes&matchtype=exact">யோகாசாரன்</a> yōkācāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகாசாரன்</tam> <t>yōkācāraṉ</t></hw> , <i>n</i>. < <i>yōgacāra</i>. Follower of the <i>yōgācāra</i> school of Buddhism; <tam>யோகாசார மதஸ்தன்</tam>. (<tam>சி. சி. பர. யோகா</tam>. 1.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகாசாரம்&searchhws=yes&matchtype=exact">யோகாசாரம்</a> yōkācāram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகாசாரம்</hw> - யோகவொழுக்கம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகாசாரம்&searchhws=yes&matchtype=exact">யோகாசாரம்</a> yōkācāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகாசாரம்</tam> <t>yōkācāṟam</t></hw> , <i>n</i>. < <i>yōgācāra</i>. 1. Practice and observance of yoga; <tam>யோகா னுட்டானம்</tam>. 2. A Buddhist school which maintains that the intelligence or <i>vijñāna</i> alone eternally exists; <tam>விஞ்ஞானம் ஒன்றே என்றைக்கும் உள்ளது எனக்கூறும் பௌத்தமதப் பிரிவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		114) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகாசாரியன்&searchhws=yes&matchtype=exact">யோகாசாரியன்</a> yōkācāriyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகாசாரியன்</hw> - யோகபோதகன் யோ காப்பியாசி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		115) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகாசாரியன்&searchhws=yes&matchtype=exact">யோகாசாரியன்</a> yōkācāriyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகாசாரியன்</tam> <t>yōkācāriyaṉ</t></hw> , <i>n</i>. < <i>yōga</i> +. Teacher of the yoga system of philosophy; <tam>யோகமதப்பிரவர்த்தகன்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		116) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகாதிகாரம்&searchhws=yes&matchtype=exact">யோகாதிகாரம்</a> yōkātikāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகாதிகாரம்</tam> <t>yōkātikāram</t></hw> , <i>n</i>. < id. + <i>adhikāra</i>. Ability or fitness to undertake the practice of yoga; <tam>யோகநிலையில் நிற்குந் திறமை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		117) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகாதிசயம்&searchhws=yes&matchtype=exact">யோகாதிசயம்</a> yōkāticayam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகாதிசயம்</hw> - சுகம், நிலைபரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		118) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகாதிசயம்&searchhws=yes&matchtype=exact">யோகாதிசயம்</a> yōkāticayam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகாதிசயம்</tam> <t>yōkāticayam</t></hw> , <i>n</i>. < id. +. <i>atišaya</i>. Condition, state of health; <tam>சுகநிலை. என் யோகாதிசயங்க ளுரைக்க</tam> (<tam>அருட்பா</tam>. vi, <tam>வேண்டு கோ</tam>.).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		119) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகாப்பியாசம்&searchhws=yes&matchtype=exact">யோகாப்பியாசம்</a> yōkāppiyācam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகாப்பியாசம்</tam> <t>yōkāppiyācam</t></hw> , <i>n</i>. < <i>yōgābhyāsa</i>. Practice of yoga; <tam>யோகப்பயிற்சி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		120) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகாப்யாசி&searchhws=yes&matchtype=exact">யோகாப்யாசி</a> yōkāpyāci
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகாப்யாசி</hw> - யோகம்பழகுவோன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		121) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகாரங்கம்&searchhws=yes&matchtype=exact">யோகாரங்கம்</a> yōkāraṅkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகாரங்கம்</hw> - கொளுஞ்சிமரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		122) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகாரங்கம்&searchhws=yes&matchtype=exact">யோகாரங்கம்</a> yōkāraṅkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகாரங்கம்</tam> <t>yōkāraṅkam</t></hw> , <i>n</i>. See <tam>யோகரங்கம். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		123) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகார்த்தம்&searchhws=yes&matchtype=exact">யோகார்த்தம்</a> yōkārttam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகார்த்தம்</hw> - திரிசொல் பலகருத்து டைய ஒருசொல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		124) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகார்த்தம்&searchhws=yes&matchtype=exact">யோகார்த்தம்</a> yōkārttam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3414">p. 3414</a>)
+		<blockquote><p><hw><tam>யோகார்த்தம்</tam> <t>yōkārttam</t></hw> , <i>n</i>. < <i>yōga</i> + <i>artha</i>. (Gram.) Etymological meaning; <tam>கார ணப்பொருள்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		125) <a href="/cgi-bin/app/crea_query.py?qs=யோகி&searchhws=yes&matchtype=exact">யோகி</a> yōki
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>யோகி</hw> பெ. 1: யோகத்தின்மூலம் அசாதாரணச் சக்திகளைப் பெற்றவர்; an ascetic of extraordinary powers acquired through yoga practices. நீர் மேல் நடந்த யோகி. 2: ஒன்றில் முழுக் கருத்தையும் செலுத்தியவர்; person who is wholly dedicated to a cause. கர்ம யோகி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		126) <a href="/cgi-bin/app/fabricius_query.py?qs=யோகி&searchhws=yes&matchtype=exact">யோகி</a> yōki
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=835">p. 835</a>)
+		<blockquote><p>*<hw><tam>யோகி</tam></hw> , VI. <i>v. t.</i> meditate, contemplate, <tam>தியானி</tam>. <p2><tam>யோகித்துப் பார்க்க</tam>, -<tam>க்கொள்ள</tam>, to reflect, to consider.</p2> <p2><tam>யோகிப்பு</tam>, <i>v. n.</i> meditation.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		127) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகி&searchhws=yes&matchtype=exact">யோகி</a> yōki
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகி</hw> - அரன், அருகன், ஐயன், நிஷ்டை செய்வோன், முனிவன், நிர்மலசத் துவபரிணாமரூபமாகிய சித்தவிருத்தி களை அந்தர்முகமாகத்திருப்பி அவற் றை அவற்றின் காரணத்திலே யொ டுக்குதலா மென்பவன், இவன் புறச் சமயிகளு ளொருவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		128) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகி&searchhws=yes&matchtype=exact">யோகி</a> yōki
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1673">p. 1673</a>)
+		<blockquote><p><hw>யோகி</hw> - அரன், அருகன், ஐயனார், முனிவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		129) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகி&searchhws=yes&matchtype=exact">யோகி</a> yōki
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோகி¹</tam> <t>yōki</t></hw> , <i>n</i>. < <i>yōgin</i>. 1. Follower of the yoga system of philosophy; adept in yogic practices; <tam>யோகாப்பியாசமுடையவன். ஒண் டிறல் யோகிகளே</tam> (<tam>திருவாச</tam>. 46, 2). 2. Ascetic; <tam>சன்னியாசி</tam>. (<smallcap>W</smallcap>.) 3. Šiva; <tam>சிவபிரான். (பிங்.)</tam> 4. Aiyaṉār; <tam>ஐயனார். (பிங்.)</tam> 5. Arhat; <tam>அருகன். (பிங்.)</tam> 6. Abductor muscle; <tam>உடலை வளைக்க உதவும் தசை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		130) <a href="/cgi-bin/app/winslow_query.py?qs=யோகி&searchhws=yes&matchtype=exact">யோகி</a> yōki
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=907">p. 907</a>)
+		<blockquote><p><hw><tam>யோகி</tam></hw> , <tam>க்கிறேன்</tam>, <tam>த்தேன்</tam>, <tam>ப்பேன்</tam>, <tam>க்க</tam>, <i>v. a.</i> To meditate deeply, to contemplate mentally, <tam>ஆழ்ந்துநினைக்க</tam>; [<i>ex</i> <tam>யோகம்</tam>.] <tam>யோகித்துக்கண்டுபிடிக்கிறது</tam>. Inventing. <tam>யோகித்துப்பார்க்கிறான்</tam>. He is reflecting. <p2><tam>யோகிப்பு</tam>, <i>v. noun.</i> Meditation, thought, consideration, <tam>சிந்திப்பு</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		131) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகி-த்தல்&searchhws=yes&matchtype=exact">யோகி-த்தல்</a> yōki-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோகி²-த்தல்</tam> <t>yōki-</t></hw> , <i>11 v. tr</i>. < <tam>யோகம்</tam>. To contemplate; to meditate upon; <tam>தியானித்தல்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		132) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகிகன்&searchhws=yes&matchtype=exact">யோகிகன்</a> yōkikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகிகன்</hw> - முனிவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		133) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகிதண்டம்&searchhws=yes&matchtype=exact">யோகிதண்டம்</a> yōkitaṇṭam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகிதண்டம்</hw> - பிரம்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		134) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகிதண்டம்&searchhws=yes&matchtype=exact">யோகிதண்டம்</a> yōkitaṇṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S401">p. S401</a>)
+		<blockquote><p><hw><tam>யோகிதண்டம்</tam> <t>yōki-taṇṭam</t></hw> , <i>n</i>. < <tam>யோகி</tam> +. Rattan; <tam>பிரம்பு. (மூ. அ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		135) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகித்தல்&searchhws=yes&matchtype=exact">யோகித்தல்</a> yōkittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகித்தல்</hw> - ஆழ்ந்துநினைத்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		136) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகிநிகள்&searchhws=yes&matchtype=exact">யோகிநிகள்</a> yōkinikaḷ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகிநிகள்</hw> - இவர் பன்னிருவர், வித்த யா, ரேசிகா, மோசிகா, அமிர்தா, தீபிகா, ஞானா, ஆபியாயநி, வியாபிநி, மேதா, வபோமா, சித்திரூபா, லக்ஷ்மி யோகிநிகள், இவர்கள் வித்தியாசக்தி களாய் வாசினிகளோடு அக்ஷரங்களை அதிகரித்து நிற்பவர்கள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		137) <a href="/cgi-bin/app/fabricius_query.py?qs=யோகினி&searchhws=yes&matchtype=exact">யோகினி</a> yōkiṉi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=835">p. 835</a>)
+		<blockquote><p>*<hw><tam>யோகினி</tam></hw> , <i>s.</i> Kali, <tam>காளி</tam>; 2. a female fiend, attendant on Durga. <p2><tam>யோகினிதிசை</tam>, the influence of a sevenfold class of demigoddesses, as calculated in the horoscope.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		138) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகினி&searchhws=yes&matchtype=exact">யோகினி</a> yōkiṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகினி</hw> - காளி, காளியேவல் செய்ப வன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		139) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகினி&searchhws=yes&matchtype=exact">யோகினி</a> yōkiṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1486">p. 1486</a>)
+		<blockquote><p><hw>யோகினி</hw> - சன்மினி சூர்மகள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		140) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகினி&searchhws=yes&matchtype=exact">யோகினி</a> yōkiṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1673">p. 1673</a>)
+		<blockquote><p><hw>யோகினி</hw> - காளி, யோகினி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		141) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகினி&searchhws=yes&matchtype=exact">யோகினி</a> yōkiṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோகினி</tam> <t>yōkiṉi</t></hw> , <i>n</i>. < <i>yōginī</i>. 1. Female magician; witch, sorceress; <tam>மந்திரவாதஞ் செய்ப வள்</tam>. (<smallcap>W</smallcap>.) 2. A class of female attendants on Durgā; <tam>காளிக்கு ஏவல்செய் மகளிர்வகை. வீர யோகினி வெள்ளமோடு</tam> (<tam>பிரபுலிங். கைலாச</tam>. 42). 3. Fairy; <tam>தெய்வப்பெண். நிலையென்னும் யோகினி மட வராலும்</tam> (<tam>திருக்காளத். பு. விசிட்டத்</tam>. 28). 4. Kāḷi; <tam>காளி. இத்திறம் யோகினி யிசைத்து</tam> (<tam>கந்தபு. அக் கினிமுகா</tam>. 132). 5. (Astrol.) Durgā who, on each <i>titi</i> of the waning and waxing moon, appears in a particular direction and causes harm to those who start their journey in that direction; <tam>ஒவ்வொரு திதியில் ஒவ்வொரு திக்கில் நின்றுகொண்டு அத்திக்கு நோக்கிப் பயணமா வோர்க்குத் தீங்கு விளைப்பவளாகக் கருதப்படுந் தேவதை</tam>. (<tam>சோதிடகிரக</tam>. 89.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		142) <a href="/cgi-bin/app/winslow_query.py?qs=யோகினி&searchhws=yes&matchtype=exact">யோகினி</a> yōkiṉi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=907">p. 907</a>)
+		<blockquote><p><hw><tam>யோகினி</tam></hw> , <i>s.</i> A female fiend, or spirit, attendant on Durga, <tam>காளியேவல்செய்பவன்</tam>. W. p. 688. <smallcaps>YOGIN.</smallcaps> 2. Kali, <tam>காளி</tam>. (<tam>சது</tam>.) <p2><tam>யோகினிதிசை</tam>, <i>s.</i> The influence of a sevenfold class of demigoddesses, as calculated in the horoscope.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		143) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகினிகொடி&searchhws=yes&matchtype=exact">யோகினிகொடி</a> yōkiṉikoṭi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1486">p. 1486</a>)
+		<blockquote><p><hw>யோகினிகொடி</hw> - பேய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		144) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகினிசாலம்&searchhws=yes&matchtype=exact">யோகினிசாலம்</a> yōkiṉicālam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S401">p. S401</a>)
+		<blockquote><p><hw><tam>யோகினிசாலம்</tam> <t>yōkiṉi-cālam</t></hw> , <i>n</i>. < <i>yōginī</i> +. The magic art of showing the <i>yōkiṉi</i>, by worshipping Šakti in the cremation ground; <tam>மயானத்திற் சக்தி உபாசனையால் யோகினிகளைக் காண்பிக்கும் வித்தை</tam>. (<tam>செளந்த. ஆனந்</tam>. 30, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		145) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகினிச்சி&searchhws=yes&matchtype=exact">யோகினிச்சி</a> yōkiṉicci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோகினிச்சி</tam> <t>yōkiṉicci</t></hw> , <i>n</i>. prob. id. A kind of dance; <tam>வரிக்கூத்துவகை</tam>. (<tam>சிலப்</tam>. 3, 13, <tam>உரை, பக்</tam>. 89.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		146) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகினிதிசை&searchhws=yes&matchtype=exact">யோகினிதிசை</a> yōkiṉiticai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகினிதிசை</hw> - யோகினிதேவதையா நடப்பது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		147) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகினிதிசை&searchhws=yes&matchtype=exact">யோகினிதிசை</a> yōkiṉiticai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோகினிதிசை</tam> <t>yōkiṉi-ticai</t></hw> , <i>n</i>. < id. +. <i>dišā</i>. Direction of the <i>yōkiṉi</i>; <tam>யோகினியுள்ள திக்கு. (பஞ்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		148) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகினிவாகனம்&searchhws=yes&matchtype=exact">யோகினிவாகனம்</a> yōkiṉivākaṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1486">p. 1486</a>)
+		<blockquote><p><hw>யோகினிவாகனம்</hw> - ஓரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		149) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகிப்பரதேசி&searchhws=yes&matchtype=exact">யோகிப்பரதேசி</a> yōkipparatēci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோகிப்பரதேசி</tam> <t>yōki-p-paratēci</t></hw> , <i>n</i>. < <tam>யோகி</tam> +. A class of North Indian mendicants, as practicing yoga. See <tam>பைராகி</tam>. <i>Nāñ</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		150) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகிப்பு&searchhws=yes&matchtype=exact">யோகிப்பு</a> yōkippu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகிப்பு</hw> - சிந்திப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		151) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகிப்பு&searchhws=yes&matchtype=exact">யோகிப்பு</a> yōkippu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோகிப்பு</tam> <t>yōkippu</t></hw> , <i>n</i>. < <tam>யோகி-</tam>. Meditation; contemplation; <tam>தியானம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		152) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகீசுவரன்&searchhws=yes&matchtype=exact">யோகீசுவரன்</a> yōkīcuvaraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகீசுவரன்</hw> - யாக்கியவற்கியமுனி, யோகஞ்செய்வோன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		153) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகீசுவரன்&searchhws=yes&matchtype=exact">யோகீசுவரன்</a> yōkīcuvaraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோகீசுவரன்</tam> <t>yōkīcuvaraṉ</t></hw> , <i>n</i>. < <i>yōgīšvara</i>. Adept in yoga; <tam>யோகத்தில் வல்லவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		154) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகீசுவரி&searchhws=yes&matchtype=exact">யோகீசுவரி</a> yōkīcuvari
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகீசுவரி</hw> - துர்க்கை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		155) <a href="/cgi-bin/app/fabricius_query.py?qs=யோகு&searchhws=yes&matchtype=exact">யோகு</a> yōku
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=835">p. 835</a>)
+		<blockquote><p>*<hw><tam>யோகு</tam></hw> , <i>s.</i> meditation, <tam>யோகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		156) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகு&searchhws=yes&matchtype=exact">யோகு</a> yōku
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகு</hw> - யோகாப்பியாசம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		157) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோகு&searchhws=yes&matchtype=exact">யோகு</a> yōku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோகு</tam> <t>yōku</t></hw> , <i>n</i>. < <i>yōga</i>. See <tam>யோகம்</tam>, 17. <tam>யோகு செய்தனன்</tam> (<tam>கம்பரா. தாட</tam>. 3).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		158) <a href="/cgi-bin/app/winslow_query.py?qs=யோகு&searchhws=yes&matchtype=exact">யோகு</a> yōku
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=907">p. 907</a>)
+		<blockquote><p>*<hw><tam>யோகு</tam></hw> , <i>s.</i> Meditation, as <tam>யோகம்</tam>, <tam>நிஷ்டை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		159) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகேசன்&searchhws=yes&matchtype=exact">யோகேசன்</a> yōkēcaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகேசன்</hw> - சிவபிரான், முனிவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		160) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோகேசுவரன்&searchhws=yes&matchtype=exact">யோகேசுவரன்</a> yōkēcuvaraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோகேசுவரன்</hw> - கிருஷ்ணன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		161) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோக்கியதாபட்சம்&searchhws=yes&matchtype=exact">யோக்கியதாபட்சம்</a> yōkkiyatāpaṭcam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யோக்கியதாபட்சம்</tam> <t>yōkkiyatā-paṭcam</t></hw> , <i>n</i>. < <i>yōgya-tā</i> +. Consideration of appropriateness or fitness; regard for qualification or merits; <tam>தகுதிபற்றிய மதிப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		162) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோக்கியதாபத்திரம்&searchhws=yes&matchtype=exact">யோக்கியதாபத்திரம்</a> yōkkiyatāpattiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யோக்கியதாபத்திரம்</tam> <t>yōkkiyatā-pattiram</t></hw> , <i>n</i>. < id. +. See <tam>யோக்கியதாபத்திரிகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		163) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோக்கியதாபத்திரிகை&searchhws=yes&matchtype=exact">யோக்கியதாபத்திரிகை</a> yōkkiyatāpattirikai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோக்கியதாபத்திரிகை</hw> - நடத்தைக்கடு தாசி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		164) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோக்கியதாபத்திரிகை&searchhws=yes&matchtype=exact">யோக்கியதாபத்திரிகை</a> yōkkiyatāpattirikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யோக்கியதாபத்திரிகை</tam> <t>yōkkiyatā-pattirikai</t></hw> , <i>n</i>. < id. +. 1. Diploma of educational attainments; <tam>கல்வித்தேர்ச்சியைக் குறிக்கும் நற் சாட்சிப் பத்திரம்</tam>. <i>Mod</i>. 2. Certificate of good character; <tam>நல்லொழுக்கத்தைக் குறிக்கும் பத்திரம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		165) <a href="/cgi-bin/app/crea_query.py?qs=யோக்கியதாம்சம்&searchhws=yes&matchtype=exact">யோக்கியதாம்சம்</a> yōkkiyatāmcam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>யோக்கியதாம்சம்</hw> பெ. [அ.வ.] 1: (கல்வி, அனுபவம் முதலிய) தகுதி; qualification. விளம்பரத்தில் கூறப்பட்டிருக்கும் யோக்கியதாம்சம் உள்ளவர்கள் மட்டுமே இந்த வேலைக்கு விண்ணப்பிக்கலாம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		166) <a href="/cgi-bin/app/crea_query.py?qs=யோக்கியதை&searchhws=yes&matchtype=exact">யோக்கியதை</a> yōkkiyatai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>யோக்கியதை</hw> பெ. 1: (பெரும்பாலும் எதிர்மறையில் அல்லது எதிர்மறைத் தொனியில்) (ஒழுக்கம், நேர்மை, திறமை முதலியவை அடிப்படையிலான) தகுதி; அருகதை; fitness; qualification. இவர்களுக்கு ஜனநாயகத்தைப்பற்றிப் பேச என்ன யோக்கியதை இருக்கிறது?</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		167) <a href="/cgi-bin/app/fabricius_query.py?qs=யோக்கியதை&searchhws=yes&matchtype=exact">யோக்கியதை</a> yōkkiyatai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=835">p. 835</a>)
+		<blockquote><p>*<hw><tam>யோக்கியதை</tam></hw> , <i>s.</i> honesty integrity, <tam>யோக்கியம்</tam>. <p2><tam>யோக்கியதா பத்திரிகை</tam>, a certificate of good character.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		168) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோக்கியதை&searchhws=yes&matchtype=exact">யோக்கியதை</a> yōkkiyatai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோக்கியதை</hw> - யோக்கியம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		169) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோக்கியதை&searchhws=yes&matchtype=exact">யோக்கியதை</a> yōkkiyatai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யோக்கியதை</tam> <t>yōkkiyatai</t></hw> , <i>n</i>. < <i>yōgya-tā</i>. 1. Fitness, propriety, appropriateness; <tam>தகுதி</tam>. 2. (Gram.) Compatibility of sense of the words in a sentence; <tam>தொடரில் பதங்கள் பொருட்பொருத்த முற்றிருக்கை</tam>. (<tam>பி. வி</tam>. 19, <tam>உரை</tam>.) 3. Ability, capability; <tam>ஆற்றல்</tam>. 4. Honesty, integrity; <tam>நேர்மை</tam>. <i>Colloq</i>. 5. Reputation for learning, character, etc.; <tam>கல்வி ஒழுக்கம் முதலியவற்றால் வருஞ் சிறப்பு</tam>. <i>Colloq</i>. 6. Usefulness, serviceability; <tam>உபயோ கத்திற்கேற்றதன்மை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		170) <a href="/cgi-bin/app/winslow_query.py?qs=யோக்கியதை&searchhws=yes&matchtype=exact">யோக்கியதை</a> yōkkiyatai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=907">p. 907</a>)
+		<blockquote><p>*<hw><tam>யோக்கியதை</tam></hw> , <i>s.</i> Propriety, honesty, integrity, <tam>யோக்கியம்</tam>. W. p. 689. <smallcaps>YOGYATA.</smallcaps> <p2><tam>யோக்கியதாபத்திரிகை</tam>, <i>s.</i> A certificate of good character.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		171) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோக்கியதைச்சீட்டு&searchhws=yes&matchtype=exact">யோக்கியதைச்சீட்டு</a> yōkkiyataiccīṭṭu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோக்கியதைச்சீட்டு</hw> - யோக்கியதாபத்தி ரிகை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		172) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோக்கியதைச்சீட்டு&searchhws=yes&matchtype=exact">யோக்கியதைச்சீட்டு</a> yōkkiyataiccīṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யோக்கியதைச்சீட்டு</tam> <t>yōkkiyatai-c-cīṭṭu</t></hw> , <i>n</i>. < <tam>யோக்கியதை</tam> +. See <tam>யோக்கியதாபத்திரிகை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		173) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோக்கியத்துக்குக்கொடு-த்தல்&searchhws=yes&matchtype=exact">யோக்கியத்துக்குக்கொடு-த்தல்</a> yōkkiyattukkukkoṭu-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யோக்கியத்துக்குக்கொடு-த்தல்</tam> <t>yōkkiyattukku-k-koṭu-</t></hw> , <i>v. tr</i>. < <tam>யோக்கியம்</tam> +. (<smallcap>W</smallcap>.) 1. To lend money to a person without security, depending on his honesty; <tam>ஒருவனது யோக்கி யதையின்மேல் ஆதாரமின்றிக் கடன்கொடுத்தல்</tam>. 2. To risk one's money in trade, etc.; <tam>பணத்தைக் கப்பல் வியாபாரம் முதலியவற்றிற் போடுதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		174) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோக்கியன்&searchhws=yes&matchtype=exact">யோக்கியன்</a> yōkkiyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யோக்கியன்</tam> <t>yōkkiyaṉ</t></hw> , <i>n</i>. < <i>yōgya. Colloq</i>. 1. Worthy, honourable man; <tam>குணவான்</tam>. 2. Suitable person; <tam>தக்கவன்</tam>. 3. Useful, serviceable, capable man; <tam>உபயோகமுள்ளவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		175) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோக்கியபாத்திரம்&searchhws=yes&matchtype=exact">யோக்கியபாத்திரம்</a> yōkkiyapāttiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யோக்கியபாத்திரம்</tam> <t>yōkkiya-pāttiram</t></hw> , <i>n</i>. < <i>yōgya</i> +. 1. See <tam>யோக்கியவான். (யாழ். அக.)</tam> 2. Person worthy to receive gifts; <tam>தானம்பெறத் தகுதியுடையவன்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		176) <a href="/cgi-bin/app/crea_query.py?qs=யோக்கியம்&searchhws=yes&matchtype=exact">யோக்கியம்</a> yōkkiyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>யோக்கியம்</hw> பெ. (-ஆக, -ஆன) [பே.வ.] 1: ஒழுக்கமும் நேர்மையும் நிறைந்த தன்மை; reliability; integrity. யோக்கியமான ஆள், நம்பிப் பணம் கொடுக்கலாம்./ அவன் யோக்கியமாக நடந்துகொள்வான் என்பது என்ன நிச்சயம்?</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		177) <a href="/cgi-bin/app/fabricius_query.py?qs=யோக்கியம்&searchhws=yes&matchtype=exact">யோக்கியம்</a> yōkkiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=835">p. 835</a>)
+		<blockquote><p>*<hw><tam>யோக்கியம்</tam></hw> , <i>s.</i> fitness, worthiness, <tam>தகுதி</tam>; 2. worthy conduct, integrity, purity, <tam>நேர்மை</tam>; 3. goodness, <tam>நன்கு</tam>; 4. hazard, danger, <tam>மோசம்</tam>. <p2><tam>அதுக்கு அவன் யோக்கியன் அல்லன்</tam>, he is not worthy of it.</p2> <p2><tam>இதைச் செய்வது உனக்கு யோக்கிய மன்று</tam>, it does not become you to do this.</p2> <p2><tam>உழவுக்கு யோக்கியமான மாடு</tam>, an ox fit for ploughing.</p2> <p2><tam>யோக்கியத்துக்குக் கொடுக்க</tam>, to advance money to an honest man upon his character.</p2> <p2><tam>யோக்கிய பாத்திரம்</tam>, a decent vessel; a respectable person.</p2> <p2><tam>யோக்கியன்</tam>, <tam>யோக்கியவான்</tam>, -<tam>முள்ள வன்</tam>, -<tam>ஸ்தன்</tam>, -<tam>ப்பட்டவன்</tam>, <tam>சாலி</tam>, a worthy honest man.</p2> <p2><tam>யோக்கியாசனம்</tam>, <tam>யோக்கியமான இடம்</tam>, a seat or place suitable to one's dignity.</p2> <p2><tam>யோக்கியா யோக்கியம்</tam>, worthiness and unworthiness.</p2> <p2><tam>பிராண யோக்கியம்</tam>, risk of life.</p2> <p2><tam>பிராமண யோக்கியம்</tam>, what is suitable to a Brahmin.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		178) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோக்கியம்&searchhws=yes&matchtype=exact">யோக்கியம்</a> yōkkiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோக்கியம்</hw> - ஆசாரம், தகுதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		179) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோக்கியம்&searchhws=yes&matchtype=exact">யோக்கியம்</a> yōkkiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1674">p. 1674</a>)
+		<blockquote><p><hw>யோக்கியம்</hw> - தகுதி, நன்கு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		180) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோக்கியம்&searchhws=yes&matchtype=exact">யோக்கியம்</a> yōkkiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யோக்கியம்</tam> <t>yōkkiyam</t></hw> , <i>n</i>. < <i>yōgya</i>. 1. See <tam>யோக்கியதை</tam>, 1, 4, 6. <i>Colloq</i>. 2. Worthy conduct, decorum, conformity to rules; <tam>ஒழுக் கம்</tam>. (<smallcap>W</smallcap>.) 3. Goodness, purity, holiness; <tam>பரி சுத்தம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		181) <a href="/cgi-bin/app/winslow_query.py?qs=யோக்கியம்&searchhws=yes&matchtype=exact">யோக்கியம்</a> yōkkiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=907">p. 907</a>)
+		<blockquote><p>*<hw><tam>யோக்கியம்</tam></hw> , <i>s.</i> Fitness, suitableness, worthiness, eligibility, qualification, <tam>தகுதி</tam>, 2. Goodness, desert, worthy conduct, conformity to rule; purity; holiness, as of the Vedas, which may not be learnt by unworthy persons, <tam>புனிதம்</tam>. W. p. 689. <smallcaps>YOGYA.</smallcaps> 5. <i>[in cant.]</i> Hazard, danger, fate, <tam>மோசம்</tam>. <tam>இதைசெய்வதுஉனக்குயோக்கியமல்ல</tam>, It does not become you to do this. <tam>உழவுக்குயோக்கியமானமாடு</tam>. An ox fit for ploughing. <tam>இராசயோக்கியம்</tam>. Becoming for a king. <tam>பிராமணயோக்கியம்</tam>. Suitable to a brahman. <tam>பிராணயோக்கியம்</tam>. Risk of life. <tam>பளாயோக்கியம்</tam>. Very good! <i>(ironical.)</i> <p2><tam>யோக்கியத்துக்குக்கொடுக்க</tam>, <i>inf.</i> To advance money, to an honest man upon his character. 2. <i>(R.)</i> To risk one's own money in a ship, &c.</p2> <p2><tam>யோக்கியபாத்திரம்</tam>, <i>s.</i> A decent vessel. 2. <i>[met.]</i> A respectable person.</p2> <p2><tam>யோக்கியப்பட்டவன்</tam>–<tam>யோக்கியமுள்ளவன்</tam> –<tam>யோக்கியவான்</tam>, <i>appel. n.</i> An honest man.</p2> <p2><tam>யோக்கியர்</tam>, <i>s.</i> [<i>sing.</i> <tam>யோக்கியன்</tam>.] Worthy persons. 2. Capable heads. <tam>அதற்குஅவன்யோக்கியனல்ல</tam>. He is not a proper person for the work.</p2> <p2><tam>யோக்கியாசனம்</tam>, <i>s.</i> A seat or place suitable to one's dignity, <tam>யோக்கியமானஇடம்</tam>.</p2> <p2><tam>யோக்கியாதி</tam>, <i>s. [in Hindu astron.]</i> A table giving the equation of the sun's motion, at the rate of a degree for a day, to his true motion for every day in the year.</p2> <p2><tam>யோக்கியாயோக்கியம்</tam>, <i>s.</i> Worthiness and unworthiness; [<i>ex</i> <tam>அயோக்கியம்</tam>.] <tam>யோக்கியாயோக்கியந்தெரிந்துகொள்ளவேண்டும்</tam>. One must discriminate worthiness and unworthiness.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		182) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோக்கியர், யோக்கியவாளர்&searchhws=yes&matchtype=exact">யோக்கியர், யோக்கியவாளர்</a> yōkkiyar, yōkkiyavāḷar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோக்கியர், யோக்கியவாளர்</hw> தக்கவர், பெரி யோர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		183) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோக்கியவான்&searchhws=yes&matchtype=exact">யோக்கியவான்</a> yōkkiyavāṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோக்கியவான்</hw> - ஒழுக்க முதலியவற் றிற் றிறம்பாதவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		184) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோக்கியவான்&searchhws=yes&matchtype=exact">யோக்கியவான்</a> yōkkiyavāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யோக்கியவான்</tam> <t>yōkkiya-vāṉ</t></hw> , <i>n</i>. < <tam>யோக்கியம்</tam> +. Person of respectability; <tam>நன்னடக்கை யுடையவன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		185) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோக்கியாசனம்&searchhws=yes&matchtype=exact">யோக்கியாசனம்</a> yōkkiyācaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யோக்கியாசனம்</tam> <t>yōkkiyācaṉam</t></hw> , <i>n</i>. < id. + <i>āsana</i>. Seat or place suited to one's dignity; <tam>ஒருவனுடைய தகுதிக்குத் தக்கவாறு அமைந்த இடம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		186) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோக்கியாதி&searchhws=yes&matchtype=exact">யோக்கியாதி</a> yōkkiyāti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3411">p. 3411</a>)
+		<blockquote><p><hw><tam>யோக்கியாதி</tam> <t>yōkkiyāti</t></hw> , <i>n</i>. prob. id. (Astron.) Equation table of the sun's true motion for every day in the year; <tam>சூரியனது தின சரி கதியின் கணிதவாய்பாடு</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		187) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோக்கியாபாத்திரம்&searchhws=yes&matchtype=exact">யோக்கியாபாத்திரம்</a> yōkkiyāpāttiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1212">p. 1212</a>)
+		<blockquote><p><hw>யோக்கியாபாத்திரம்</hw> - யோக்கியவான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		188) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோக்கியாயோக்கியம்&searchhws=yes&matchtype=exact">யோக்கியாயோக்கியம்</a> yōkkiyāyōkkiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3412">p. 3412</a>)
+		<blockquote><p><hw><tam>யோக்கியாயோக்கியம்</tam> <t>yōkkiyāyōkkiyam</t></hw> , <i>n</i>. < id. + <i>ayōgya</i>. Worthiness and unworthiness; <tam>தகுதிப்பாடும் தகுதிப்பாடின்மையும்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		189) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோசனன்&searchhws=yes&matchtype=exact">யோசனன்</a> yōcaṉaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோசனன்</hw> - கடவுள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		190) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோசனன்&searchhws=yes&matchtype=exact">யோசனன்</a> yōcaṉaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோசனன்</tam> <t>yōcaṉaṉ</t></hw> , <i>n</i>. prob. id. God; <tam>கடவுள். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		191) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோசனம்&searchhws=yes&matchtype=exact">யோசனம்</a> yōcaṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோசனம்</hw> - யோசனை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		192) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோசனம்&searchhws=yes&matchtype=exact">யோசனம்</a> yōcaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோசனம்</tam> <t>yōcaṉam</t></hw> , <i>n</i>. See <tam>யோசனை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		193) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோசனவல்லி&searchhws=yes&matchtype=exact">யோசனவல்லி</a> yōcaṉavalli
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோசனவல்லி</hw> - மந்திட்டிவேர், வல்லாரை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		194) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோசனவல்லி&searchhws=yes&matchtype=exact">யோசனவல்லி</a> yōcaṉavalli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோசனவல்லி</tam> <t>yōcaṉa-valli</t></hw> , <i>n</i>. < <i>yōjana</i> + <i>vallī</i>. 1. Indian madder. See <tam>மஞ்சிட்டி. (தைலவ. தைல.)</tam> 2. Indian pennywort; <tam>வல் லாரை</tam>. (<tam>நாமதீப</tam>. 330.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		195) <a href="/cgi-bin/app/crea_query.py?qs=யோசனை&searchhws=yes&matchtype=exact">யோசனை</a> yōcaṉai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>யோசனை</hw> பெ. 1: (ஒன்றைக்குறித்து) சிந்தித்து வெளிப்படுத்தும் கருத்து, வழிமுறை முதலியவை; advice; suggestion. நீங்கள் புதிய தொழில் ஒன்றைத் துவங்கலாமே என்று யோசனை தெரிவித்தார்./ சட்டசபையைக் கலைக்கலாம் என்ற முதல்வரின் யோசனையை ஆளுநர் ஏற்றார். 2: (ஒன்றைக்குறித்த) சிந்தனை; thought. எப்படிப் பணம் சேர்ப்பது என்று யோசனை செய்தான்./ கூப்பிடுவதுகூடக் காதில் விழாமல் அப்படியென்ன, பலத்த யோசனை?</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		196) <a href="/cgi-bin/app/fabricius_query.py?qs=யோசனை&searchhws=yes&matchtype=exact">யோசனை</a> yōcaṉai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=835">p. 835</a>)
+		<blockquote><p>*<hw><tam>யோசனை</tam></hw> , <i>s.</i> a measure of distance about 9 or 13 miles; 2. thought, opinion, sentiment, counsel, deliberation, prudence, <tam>ஆலோசனை</tam>; 3. a sound, <tam>ஓசை</tam>; 4. <i>(in astron.)</i> the 5059th part of a great circle or on the equator, about 4½ geographical miles. <p2><tam>உம்முடைய யோசனையென்ன</tam>, what is your opinion?</p2> <p2><tam>யோசனைக்காரன்</tam>, -<tam>யுள்ளவன்</tam>, <tam>சாலி</tam>, a prudent man.</p2> <p2><tam>யோசனைசொல்ல</tam>, to give advice.</p2> <p2><tam>யோசனை தப்பிச்செய்த வேலை</tam>, an imprudent act.</p2> <p2><tam>யோசனைபண்ண</tam>, to deliberate.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		197) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோசனை&searchhws=yes&matchtype=exact">யோசனை</a> yōcaṉai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோசனை</hw> - ஆலோசனை, ஓசை, ஓரெல் லையளவு, தியானித்தல், புத்தி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		198) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோசனை&searchhws=yes&matchtype=exact">யோசனை</a> yōcaṉai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1675">p. 1675</a>)
+		<blockquote><p><hw>யோசனை</hw> - ஒலித்தல், ஓர்வகையெல்லை அளவு, யோசித்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		199) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோசனை&searchhws=yes&matchtype=exact">யோசனை</a> yōcaṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோசனை</tam> <t>yōcaṉai</t></hw> , <i>n</i>. < <i>yōjanā</i>. 1. Thought, reflection, consideration; <tam>சிந்தனை</tam>. 2. Opinion, sentiment; <tam>கருத்து</tam>. 3. Counsel, advice; <tam>புத்திமதி</tam>. 4. Device; scheme, contrivance; <tam>உபாயம்</tam>. 5. Discretion, prudence, wisdom; <tam>விவேகம்</tam>. 6. A linear measure = four <i>kurōcam</i>; <tam>நான்கு குரோசங்கொண்ட நீட்டலளவு. நாகநன்னாட்டு நானூறியோசனை</tam> (<tam>மணி</tam>. 9, 21). 7. Sound; <tam>ஓசை. (சது.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		200) <a href="/cgi-bin/app/winslow_query.py?qs=யோசனை&searchhws=yes&matchtype=exact">யோசனை</a> yōcaṉai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=907">p. 907</a>)
+		<blockquote><p>*<hw><tam>யோசனை</tam></hw> , <i>s.</i> A measure of distance reckoned from 4 to 10 <tam>நாழிகை</tam>, <i>usually</i> about 13 miles. <i>Wils,</i> about. 9 miles. <i>(Sa. Yojana.)</i> 2. Thought, opinion, sentiment, discretion, prudence, wisdom, skill, device, scheme, contrivance, <tam>ஆலோசனை</tam>. 3. A sound, <tam>ஓசை</tam>. (<tam>சது</tam>.) 4. <i>[in astrom.]</i> The 5059th part of a great circle or on the equator, about 4?? geographical miles. <tam>உம்முடையயோசனையென்ன</tam>. What is your opinion? <tam>நான்அங்கேபோகயோசனையாயிருக்கிறேன்</tam>. I intend to go there. <p2><tam>யோசனைகந்தி</tam>. <i>s.</i> An epithet of <i>Satyavati,</i> the mother of <i>Vyasa,</i> <tam>வியாதர்தாய்</tam>.</p2> <p2><tam>யோசனைக்காரன்</tam>–<tam>யோசனையுள்ளவன்</tam>, <i>s.</i> A prudent man.</p2> <p2><tam>யோசனைசாலி</tam>, <i>s.</i> A politic man.</p2> <p2><tam>யோசனைசொல்ல</tam>, <i>inf.</i> To give advice.</p2> <p2><tam>யோசனைபண்ண</tam>, <i>inf.</i> To consider, to reflect.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		201) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோசனைகந்தி&searchhws=yes&matchtype=exact">யோசனைகந்தி</a> yōcaṉaikanti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோசனைகந்தி</hw> - வியாசன்றாய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		202) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோசனைகந்தி&searchhws=yes&matchtype=exact">யோசனைகந்தி</a> yōcaṉaikanti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோசனைகந்தி</tam> <t>yōcaṉaikanti</t></hw> , <i>n</i>. < <i>Yōjana- gandhī</i>. Vyāsa's mother; <tam>பரிமளகந்தி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		203) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோசனைக்காரன்&searchhws=yes&matchtype=exact">யோசனைக்காரன்</a> yōcaṉaikkāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோசனைக்காரன்</tam> <t>yōcaṉai-k-kāraṉ</t></hw> , <i>n</i>. < <tam>யோசனை</tam> +. Prudent, thoughtful man; <tam>முன் னாலோசனை யுடையவன்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		204) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோசனைசாலி&searchhws=yes&matchtype=exact">யோசனைசாலி</a> yōcaṉaicāli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோசனைசாலி</tam> <t>yōcaṉai-cāli</t></hw> , <i>n</i>. < <tam>யோசனை</tam> + <tam>சாலி²</tam>. Wise, politic man; <tam>விவேகமுள்ளவன்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		205) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோசனைவான்&searchhws=yes&matchtype=exact">யோசனைவான்</a> yōcaṉaivāṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோசனைவான்</hw> - யூகவான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		206) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோசனைவான்&searchhws=yes&matchtype=exact">யோசனைவான்</a> yōcaṉaivāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோசனைவான்</tam> <t>yōcaṉai-vāṉ</t></hw> , <i>n</i>. < id. +. See <tam>யோசனைக்காரன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		207) <a href="/cgi-bin/app/crea_query.py?qs=யோசி&searchhws=yes&matchtype=exact">யோசி</a> yōci
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>யோசி</hw> வி. (யோசிக்க, யோசித்து) 1: சிந்தித்தல்; ponder; consider; think deeply. எந்தக் கல்லூரியில் சேர்வது என்று நீயே யோசித்து ஒரு முடிவுக்கு வா./ ஊருக்குப்போவதா, வேண்டாமா என்று தீவிரமாக யோசித்துக்கொண்டிருக்கிறான். 2: தயங்குதல்; hesitate. அம்மா என்ன சொல்வாளோ என்று யோசிக்கிறேன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		208) <a href="/cgi-bin/app/fabricius_query.py?qs=யோசி&searchhws=yes&matchtype=exact">யோசி</a> yōci
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=835">p. 835</a>)
+		<blockquote><p>*<hw><tam>யோசி</tam></hw> , VI. <i>v. t.</i> deliberate, consider, ponder, <tam>ஆராய்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		209) <a href="/cgi-bin/app/winslow_query.py?qs=யோசி&searchhws=yes&matchtype=exact">யோசி</a> yōci
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=907">p. 907</a>)
+		<blockquote><p><hw><tam>யோசி</tam></hw> , <tam>க்கிறேன்</tam>, <tam>த்தேன்</tam>, <tam>ப்பேன்</tam>, <tam>க்க</tam>, <i>v. a.</i> To deliberate, to consider, to ponder, <tam>ஆராய</tam>. <i>(c.)</i> <tam>உன்னைக்குறித்துயோசிப்பேன்</tam>. I will consider your case.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		210) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோசி-த்தல்&searchhws=yes&matchtype=exact">யோசி-த்தல்</a> yōci-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோசி-த்தல்</tam> <t>yōci-</t></hw> , <i>11 v. tr</i>. < <i>yuj</i>. 1. To bring together; <tam>சேர்த்தல். வாயுப்பிராண னொன்று மடைமாறி யோசித்து</tam> (<tam>திருப்பு</tam>. 341). 2. To consider, ponder; <tam>சிந்தித்தல். எல்லாம் யோசிக் கும் வேளையில்</tam> (<tam>தாயு. பரிபூரண</tam>. 10). 3. To consult; <tam>ஆலோசனை கேட்டல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		211) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோசித்தல்&searchhws=yes&matchtype=exact">யோசித்தல்</a> yōcittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோசித்தல்</hw> - ஆராய்தல், கூட்டுதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		212) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோசித்தல்&searchhws=yes&matchtype=exact">யோசித்தல்</a> yōcittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1676">p. 1676</a>)
+		<blockquote><p><hw>யோசித்தல்</hw> - ஆராய்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		213) <a href="/cgi-bin/app/fabricius_query.py?qs=யோசியம்&searchhws=yes&matchtype=exact">யோசியம்</a> yōciyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=835">p. 835</a>)
+		<blockquote><p>*<hw><tam>யோசியம்</tam></hw> , <i>s.</i> astrolagy, divination, <tam>சோசியம்</tam>. <p2><tam>யோசியன்</tam>, a fortune-teller an astrologer.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		214) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோசியம்&searchhws=yes&matchtype=exact">யோசியம்</a> yōciyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோசியம்</hw> - சோதிடம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		215) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோசியம்&searchhws=yes&matchtype=exact">யோசியம்</a> yōciyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோசியம்</tam> <t>yōciyam</t></hw> , <i>n</i>. < <i>jyōtiṣa</i>. Astrology, prognostication, divination. See <tam>சோசியம்</tam>. (<smallcap>J</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		216) <a href="/cgi-bin/app/winslow_query.py?qs=யோசியம்&searchhws=yes&matchtype=exact">யோசியம்</a> yōciyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=907">p. 907</a>)
+		<blockquote><p>*<hw><tam>யோசியம்</tam></hw> , <i>s.</i> [<i>prov. for</i> <tam>சோசியம்</tam>.] Astrology, prognostication, divination.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		217) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோசியர்&searchhws=yes&matchtype=exact">யோசியர்</a> yōciyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோசியர்</hw> - சோதிடர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		218) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோதனன்&searchhws=yes&matchtype=exact">யோதனன்</a> yōtaṉaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோதனன்</hw> - போர்வீரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		219) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோதனம்&searchhws=yes&matchtype=exact">யோதனம்</a> yōtaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோதனம்</tam> <t>yōtaṉam</t></hw> , <i>n</i>. < <i>yōdhana</i>. Act of fighting, battle, war; <tam>போர். யோதனத்தி லிவன்</tam> (<tam>பாரத. பதினான்</tam>. 78).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		220) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோது&searchhws=yes&matchtype=exact">யோது</a> yōtu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோது</hw> - அளவு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		221) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோதேயன்&searchhws=yes&matchtype=exact">யோதேயன்</a> yōtēyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோதேயன்</hw> - போர்வீரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		222) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோதை&searchhws=yes&matchtype=exact">யோதை</a> yōtai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோதை</tam> <t>yōtai</t></hw> , <i>n</i>. [T. <i>yōdhā</i>.] Learned man, sage, person of extraordinary qualifications; <tam>அறிஞன்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		223) <a href="/cgi-bin/app/fabricius_query.py?qs=யோதைகள்&searchhws=yes&matchtype=exact">யோதைகள்</a> yōtaikaḷ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=835">p. 835</a>)
+		<blockquote><p><hw><tam>யோதைகள்</tam></hw> , <i>s.</i> learned men, sages, <tam>அறிஞர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		224) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோதைகள்&searchhws=yes&matchtype=exact">யோதைகள்</a> yōtaikaḷ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோதைகள்</hw> - அறிவுடையோர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		225) <a href="/cgi-bin/app/winslow_query.py?qs=யோதைகள்&searchhws=yes&matchtype=exact">யோதைகள்</a> yōtaikaḷ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=907">p. 907</a>)
+		<blockquote><p>*<hw><tam>யோதைகள்</tam></hw> , <i>s.</i> Learned men, sages, men of extraordinary qualifications, <tam>அறிவுடையோர்</tam>. <i>(p.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		226) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோத்திரம்&searchhws=yes&matchtype=exact">யோத்திரம்</a> yōttiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோத்திரம்</hw> - நுகக்கயிறு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		227) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோத்திரம்&searchhws=yes&matchtype=exact">யோத்திரம்</a> yōttiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோத்திரம்</tam> <t>yōttiram</t></hw> , <i>n</i>. < <i>yōktra</i>. Cord used to yoke cattle; <tam>நுகக்கயிறு. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		228) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோத்திரம்&searchhws=yes&matchtype=exact">யோத்திரம்</a> yōttiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S401">p. S401</a>)
+		<blockquote><p><hw><tam>யோத்திரம்</tam> <t>yōttiram</t></hw> , <i>n</i>. A medicinal drug; <tam>ஒருவகை மருந்துப்பண்டம். (மூ. அ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		229) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோநலம்&searchhws=yes&matchtype=exact">யோநலம்</a> yōnalam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோநலம்</hw> - ஒருதானியம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		230) <a href="/cgi-bin/app/crea_query.py?qs=யோனி&searchhws=yes&matchtype=exact">யோனி</a> yōṉi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>யோனி</hw> பெ. [அ.வ.] 1: (பெண்ணின்) இனப்பெருக்க உறுப்பு; genital organ (of woman).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		231) <a href="/cgi-bin/app/fabricius_query.py?qs=யோனி&searchhws=yes&matchtype=exact">யோனி</a> yōṉi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=835">p. 835</a>)
+		<blockquote><p>*<hw><tam>யோனி</tam></hw> , <i>s.</i> vulva; 2. cause, origin, <tam>கார ணம்</tam>; 3. birth, <tam>பிறப்பு</tam>. <p2><tam>யோனித் துவாரம்</tam>, the genital organs of the female animal creation.</p2> <p2><tam>யோனிபேதம்</tam>, diversities of animal kinds and species - in all 84,00000.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		232) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோனி&searchhws=yes&matchtype=exact">யோனி</a> yōṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோனி</hw> - ஆண்குறி, காரணம், நீர்பிறப் பு, பெண்குறி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		233) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோனி&searchhws=yes&matchtype=exact">யோனி</a> yōṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1703">p. 1703</a>)
+		<blockquote><p><hw>யோனி</hw> - காரணம், பெண்குறி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		234) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனி&searchhws=yes&matchtype=exact">யோனி</a> yōṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனி</tam> <t>yōṉi</t></hw> , <i>n</i>. < <i>yōni</i>. 1. <i>Pudendum muliebre</i>; <tam>பெண்குறி. விரிந்தது யோனியும்</tam> (<tam>திரு மந்</tam>. 455). 2. Place of birth, source, origin; <tam>உற் பத்தி ஸ்தானம். உலகவை புரக்கும் யோனி</tam> (<tam>ஞானா</tam>. 14, 4). 3. Womb, matrix; <tam>கருப்பப் பை</tam>. 4. Cause; <tam>காரணம். (சது.)</tam> 5. Form of life; <tam>பிறவி. எந்நின்ற யோனியுமாய்ப் பிறந்தாய்</tam> (<tam>திவ். இயற். திருவிருத்</tam>. 1). 6. Pedestal of a <i>liṅkam</i>. See <tam>ஆவுடையாள்</tam>. 7. A necessary adjunct or part of a drama; <tam>ஒரு நாடகவுறுப்பு</tam>. (<tam>சிலப்</tam>. 3, 13, <tam>உரை</tam>.) 8. The 11th asterism. See <tam>பூரம்</tam>. 9. Water; <tam>நீர். (இலக். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		235) <a href="/cgi-bin/app/winslow_query.py?qs=யோனி&searchhws=yes&matchtype=exact">யோனி</a> yōṉi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=907">p. 907</a>)
+		<blockquote><p>*<hw><tam>யோனி</tam></hw> , <i>s.</i> Cause, origin, <tam>காரணம்</tam>. 2. The vulva, <tam>இராசியம்</tam>. 3. Birth, <tam>பிறப்பு</tam>–as <tam>கும்பயோனி</tam>, one born from a pot, a name of Agastya. W. p. 689 <smallcaps>YONI.</smallcaps> <p2><tam>யோனித்துவாரம்</tam>, <i>s.</i> The genital organs of the female animal creation.</p2> <p2><tam>யோனிபேதம்</tam>, <i>s.</i> Diversities of animal kinds and species. They are seven as <tam>ஏழ்பிறப்பு</tam>. 1. Supernals and infernals embracing 1,400,000; 2. The human species 900,000; 3. Quadrupeds 1,000,000; 4. Flying creatures 1,000,000; 5. Creeping things 1,100,000; 6. Fishes and other acquatic creatures 1,000,000; 7. Vegetables 2,000,000; in all 84,000,000; different species of creatures. Some reckon 200,000 more than the above for the gods and 200,000 less for vegetables.</p2> <p2><tam>யோனிப்பொருத்தம்</tam>, <i>s.</i> One of the <tam>தசப்பொருத்தம்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		236) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிகாரம்&searchhws=yes&matchtype=exact">யோனிகாரம்</a> yōṉikāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிகாரம்</tam> <t>yōṉikāram</t></hw> , <i>n</i>. Alum. See <tam>படிக்காரம். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		237) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோனிக்கலப்பு&searchhws=yes&matchtype=exact">யோனிக்கலப்பு</a> yōṉikkalappu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோனிக்கலப்பு</hw> - சாதிக்கலப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		238) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிக்கலப்பு&searchhws=yes&matchtype=exact">யோனிக்கலப்பு</a> yōṉikkalappu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிக்கலப்பு</tam> <t>yōṉi-k-kalappu</t></hw> , <i>n</i>. < <tam>யோனி</tam> +. Mixed origin or caste; <tam>சங்கரசாதி. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		239) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோனிசங்கரன்&searchhws=yes&matchtype=exact">யோனிசங்கரன்</a> yōṉicaṅkaraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோனிசங்கரன்</hw> - பிறப்பினாலிழிந்தோன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		240) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிசங்கரன்&searchhws=yes&matchtype=exact">யோனிசங்கரன்</a> yōṉicaṅkaraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிசங்கரன்</tam> <t>yōṉi-caṅkaraṉ</t></hw> , <i>n</i>. < id. + <tam>சங்கரன்²</tam>. Person of mixed caste, offspring of mixed parentage, considered low-born; <tam>யோனிசங்கரத்தால் இழிந்ததாகக் கருதப்படும் பிறப் புள்ளவன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		241) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோனிசங்கரம்&searchhws=yes&matchtype=exact">யோனிசங்கரம்</a> yōṉicaṅkaram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோனிசங்கரம்</hw> - யோனிக்கலப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		242) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிசங்கரம்&searchhws=yes&matchtype=exact">யோனிசங்கரம்</a> yōṉicaṅkaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிசங்கரம்</tam> <t>yōṉi-caṅkaram</t></hw> , <i>n</i>. < <tam>யோனி</tam> + <tam>சங்கரம்¹</tam>. See <tam>யோனிக்கலப்பு. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		243) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிசிராவம்&searchhws=yes&matchtype=exact">யோனிசிராவம்</a> yōṉicirāvam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிசிராவம்</tam> <t>yōṉi-cirāvam</t></hw> , <i>n</i>. < id. +. Whites, <i>leucorrhoea</i>; <tam>வெள்ளைநோய். (பைஷஜ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		244) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனித்துவாரம்&searchhws=yes&matchtype=exact">யோனித்துவாரம்</a> yōṉittuvāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனித்துவாரம்</tam> <t>yōṉi-t-tuvāram</t></hw> , <i>n</i>. < id. +. Vagina; vulva; <tam>பெண்குறியின் துவாரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		245) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோனிபேதம்&searchhws=yes&matchtype=exact">யோனிபேதம்</a> yōṉipētam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோனிபேதம்</hw> - பிறவிபேதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		246) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிபேதம்&searchhws=yes&matchtype=exact">யோனிபேதம்</a> yōṉipētam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிபேதம்</tam> <t>yōṉi-pētam</t></hw> , <i>n</i>. < id. +. Species of living beings, said to number 84 lakhs; 84 <tam>லக்ஷமாகக் கூறப்படும் பிறப்புவகை. உரைசேரு மெண்பத்துநான்கு நூறாயிரமாம் யோனி பேத நிரைசேர</tam> (<tam>தேவா</tam>. 575, 3). (<tam>பிங்</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		247) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிப்படு-தல்&searchhws=yes&matchtype=exact">யோனிப்படு-தல்</a> yōṉippaṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிப்படு-தல்</tam> <t>yōṉi-p-paṭu-</t></hw> , <i>v. intr</i>. < id. +. To be born; <tam>பிறத்தல். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		248) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோனிப்படுதல்&searchhws=yes&matchtype=exact">யோனிப்படுதல்</a> yōṉippaṭutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோனிப்படுதல்</hw> - பிறத்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		249) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிப்புற்று&searchhws=yes&matchtype=exact">யோனிப்புற்று</a> yōṉippuṟṟu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிப்புற்று</tam> <t>yōṉi-p-puṟṟu</t></hw> , <i>n</i>. < id. +. A venereal disease; <tam>துர்வியாதிவகை. (இங். வை.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		250) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோனிப்பொருத்தம்&searchhws=yes&matchtype=exact">யோனிப்பொருத்தம்</a> yōṉipporuttam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோனிப்பொருத்தம்</hw> - மணப்பொருத் தம்பத்தினொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		251) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிப்பொருத்தம்&searchhws=yes&matchtype=exact">யோனிப்பொருத்தம்</a> yōṉipporuttam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிப்பொருத்தம்</tam> <t>yōṉi-p-poruttam</t></hw> , <i>n</i>. < id. +. (Astrol.) A correspondence between the horoscopes of the prospective bride and bridegroom, one of ten <i>kaliyāṇa-p-poruttam</i>, q.v.; <tam>கலியாணப்பொருத்தம் பத்தனுள் ஒன்று</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		252) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிமணி&searchhws=yes&matchtype=exact">யோனிமணி</a> yōṉimaṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிமணி</tam> <t>yōṉi-maṇi</t></hw> , <i>n</i>. < id. +. See <tam>யோனிலிங்கம். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		253) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோனிமுத்திரை&searchhws=yes&matchtype=exact">யோனிமுத்திரை</a> yōṉimuttirai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோனிமுத்திரை</hw> - யோனியாசாரமா கச்செய்யு முத்திரை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		254) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிமுத்திரை&searchhws=yes&matchtype=exact">யோனிமுத்திரை</a> yōṉimuttirai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிமுத்திரை</tam> <t>yōṉi-muttirai</t></hw> , <i>n</i>. < id. +. A hand-pose with a triangular opening between the fingers; <tam>முக்கோணமாகக் காட்டும் கைம்முத்திரை வகை. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		255) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிமேகம்&searchhws=yes&matchtype=exact">யோனிமேகம்</a> yōṉimēkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிமேகம்</tam> <t>yōṉi-mēkam</t></hw> , <i>n</i>. < id. +. <tam>மேகம்²</tam>. See <tam>யோனிசிராவம். (பைஷஜ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		256) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோனிரஞ்சநம்&searchhws=yes&matchtype=exact">யோனிரஞ்சநம்</a> yōṉirañcanam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோனிரஞ்சநம்</hw> - பூப்பம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		257) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிரோகம்&searchhws=yes&matchtype=exact">யோனிரோகம்</a> yōṉirōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிரோகம்</tam> <t>yōṉi-rōkam</t></hw> , <i>n</i>. < id. +. Diseases of the vagina; <tam>குய்ய நோய். (பைஷஜ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		258) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோனிலிங்கம்&searchhws=yes&matchtype=exact">யோனிலிங்கம்</a> yōṉiliṅkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோனிலிங்கம்</hw> - யோனிமணி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		259) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிலிங்கம்&searchhws=yes&matchtype=exact">யோனிலிங்கம்</a> yōṉiliṅkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிலிங்கம்</tam> <t>yōṉi-liṅkam</t></hw> , <i>n</i>. < <i>yōni-liṅga</i>. Clitoris; <tam>பெண்குறியி னொருபகுதி. (இங். வை.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		260) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோனிவகை&searchhws=yes&matchtype=exact">யோனிவகை</a> yōṉivakai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1580">p. 1580</a>)
+		<blockquote><p><hw>யோனிவகை</hw> - <tam>4</tam> - உள்ளோன்றலைவனாக வுள்ள தோர் பொருண் மேற்செய்த லும், இல்லோன் றலைவனாக வுள்ள தோர் பொருண்மேற்செய்தலும், உ ள்வோன்றலைவனாகவில்லதோர்பொ ருண்மேற் செய்தலும், இல்லோன்ற லைவனாகவில்லதோர் பொருண்மேற் செய்தலுமாம். இஃதுநாடகலக்கணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		261) <a href="/cgi-bin/app/kadirvelu_query.py?qs=யோனிவாய்&searchhws=yes&matchtype=exact">யோனிவாய்</a> yōṉivāy
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1213">p. 1213</a>)
+		<blockquote><p><hw>யோனிவாய்</hw> - யோனி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		262) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிவாய்&searchhws=yes&matchtype=exact">யோனிவாய்</a> yōṉivāy
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிவாய்</tam> <t>yōṉi-vāy</t></hw> , <i>n</i>. < <tam>யோனி</tam> +. See <tam>யோனி</tam>, 1. (<tam>யாழ். அக</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		263) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோனிவாய்ப்படு-தல்&searchhws=yes&matchtype=exact">யோனிவாய்ப்படு-தல்</a> yōṉivāyppaṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3416">p. 3416</a>)
+		<blockquote><p><hw><tam>யோனிவாய்ப்படு-தல்</tam> <t>yōṉi-vāy-p-paṭu-</t></hw> , <i>v. intr</i>. < <tam>யோனிவாய்</tam> + <tam>படு-</tam>. See <tam>யோனிப்படு-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		264) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோமிய&searchhws=yes&matchtype=exact">யோமிய</a> yōmiya
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோமிய</tam> <t>yōmiya</t></hw> , <i>n</i>. < Arab. <i>yaumia</i>. Daily allowance or pension granted to Muhammadans, in the earlier years of British rule for having rendered special services; <tam>பிரிட்டிஷ் அர சாங்க ஆரம்பத்தில் முகம்மதியர் செய்த உபகாரங் களுக்காக அவர்க்கு அரசாங்கத்தார் கொடுத்துவந்த நித்தியப்படித்தரம்</tam>. (<smallcap>M. N.A. D. I</smallcap>, 287.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		265) <a href="/cgi-bin/app/tamil-lex_query.py?qs=யோமியதார்&searchhws=yes&matchtype=exact">யோமியதார்</a> yōmiyatār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3415">p. 3415</a>)
+		<blockquote><p><hw><tam>யோமியதார்</tam> <t>yōmiya-tār</t></hw> , <i>n</i>. < <tam>யோமிய</tam> + <tam>தார்²</tam>. Grantee of a daily allowance; <tam>யோமியப் படித்தரம் பெறுவோர்</tam>. (<smallcap>M. N.A. D. I</smallcap>, 287.)</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

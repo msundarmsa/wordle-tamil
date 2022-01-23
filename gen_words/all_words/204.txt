@@ -1,0 +1,1269 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>லா</b>
+                       <div id='no_results'>
+                                104 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லா&searchhws=yes&matchtype=exact">லா</a> lā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3438">p. 3438</a>)
+		<blockquote><p><hw><tam>லா</tam> <t>lā</t></hw> . The compound of <tam>ல்</tam> and <tam>ஆ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாகரி&searchhws=yes&matchtype=exact">லாகரி</a> lākari
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S404">p. S404</a>)
+		<blockquote><p><hw><tam>லாகரி</tam> <t>lākari</t></hw> , <i>n</i>. prob. <i>lahari</i>. Blissful experience; <tam>ஆனந்தானுபவம். பரமானந்த லாகரியைக் கொடுக்கிறதாயும்</tam> (<tam>வேதாந்தசா. பக்</tam>. 85).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/crea_query.py?qs=லாகவம்&searchhws=yes&matchtype=exact">லாகவம்</a> lākavam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாகவம்</hw> பெ. காண்க: லாவகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாகவம்&searchhws=yes&matchtype=exact">லாகவம்</a> lākavam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3438">p. 3438</a>)
+		<blockquote><p><hw><tam>லாகவம்</tam> <t>lākavam</t></hw> , <i>n</i>. < <i>lāghava</i>. See <tam>லகுத்துவம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாகினி&searchhws=yes&matchtype=exact">லாகினி</a> lākiṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3438">p. 3438</a>)
+		<blockquote><p><hw><tam>லாகினி</tam> <t>lākiṉi</t></hw> , <i>n</i>. < <i>lākinī</i>. A class of goddesses mentioned in Tāntric lore; <tam>தந்திர சாத்திரங்களிற் கூறப்பட்ட ஒருசார் பெண்தேவதை</tam>. (<tam>தக்கயாகப்</tam>. 87, <tam>விசேடக்குறிப்பு</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாகிராஜ்&searchhws=yes&matchtype=exact">லாகிராஜ்</a> lākirāj
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3438">p. 3438</a>)
+		<blockquote><p><hw><tam>லாகிராஜ்</tam> <t>lākirāj</t></hw> , <i>n</i>. < Hind. <i>lā-khirāj</i>. Tax-free land, opp. to <i>mālkujāri</i>; <tam>இறையிலி நிலம்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/winslow_query.py?qs=லாகிராஜ்&searchhws=yes&matchtype=exact">லாகிராஜ்</a> lākirāj
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p><hw><tam>லாகிராஜ்</tam></hw> -<tam>லாக்ஜாரி</tam>, <i>s. [Arab.]</i> Land held free from payment of revenue–<i>oppos. to</i> <tam>மால்குஜாரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/crea_query.py?qs=லாகிரி&searchhws=yes&matchtype=exact">லாகிரி</a> lākiri
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாகிரி</hw> பெ. [அ.வ.] 1: போதை; intoxication. கஞ்சா போன்ற லாகிரிப் பொருள்கள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/fabricius_query.py?qs=லாகிரி&searchhws=yes&matchtype=exact">லாகிரி</a> lākiri
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>லாகிரி</tam></hw> , <i>s.</i> see <tam>இலாகிரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாகிரி&searchhws=yes&matchtype=exact">லாகிரி</a> lākiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3438">p. 3438</a>)
+		<blockquote><p><hw><tam>லாகிரி</tam> <t>lākiri</t></hw> , <i>n</i>. See <tam>லகரி²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/winslow_query.py?qs=லாகிரி&searchhws=yes&matchtype=exact">லாகிரி</a> lākiri
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p><hw><tam>லாகிரி</tam></hw> , <i>s.</i> Intoxication, as <tam>இலகிரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/fabricius_query.py?qs=லாகு&searchhws=yes&matchtype=exact">லாகு</a> lāku
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p>*<hw><tam>லாகு</tam></hw> , <i>s.</i> facility, <tam>இலகு</tam>. <p2><tam>கைலாகு</tam>, see under <tam>கை</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாகு&searchhws=yes&matchtype=exact">லாகு</a> lāku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3438">p. 3438</a>)
+		<blockquote><p><hw><tam>லாகு</tam> <t>lāku</t></hw> , <i>n</i>. See <tam>லகுத்வம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/winslow_query.py?qs=லாகு&searchhws=yes&matchtype=exact">லாகு</a> lāku
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p>*<hw><tam>லாகு</tam></hw> , <i>s.</i> Facility, as in <tam>கைலாகு</tam>. See <tam>இலாகவம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாகுலுக்சான்&searchhws=yes&matchtype=exact">லாகுலுக்சான்</a> lākulukcāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3438">p. 3438</a>)
+		<blockquote><p><hw><tam>லாகுலுக்சான்</tam> <t>lāku-lukcāṉ</t></hw> , <i>n</i>. < Hindi. <i>lāha</i> +. Profit and loss; <tam>லாபநஷ்டம்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாகை&searchhws=yes&matchtype=exact">லாகை</a> lākai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3438">p. 3438</a>)
+		<blockquote><p><hw><tam>லாகை¹</tam> <t>lākai</t></hw> , <i>n</i>. [T. <i>lāgu</i>.] Manner, style. See <tam>இலாகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாகை&searchhws=yes&matchtype=exact">லாகை</a> lākai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3438">p. 3438</a>)
+		<blockquote><p><hw><tam>லாகை²</tam> <t>lākai</t></hw> , <i>n</i>. [K. <i>lāga</i>.] Somersault; <tam>அந்தரடிக்கை</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/winslow_query.py?qs=லாகை&searchhws=yes&matchtype=exact">லாகை</a> lākai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p><hw><tam>லாகை</tam></hw> , <i>s.</i> Way, manner. See <tam>இலாகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/fabricius_query.py?qs=லாக்கு&searchhws=yes&matchtype=exact">லாக்கு</a> lākku
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>லாக்கு</tam></hw> , <i>s.</i> see <tam>அலாக்கு</tam>, wrong.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாக்கு&searchhws=yes&matchtype=exact">லாக்கு</a> lākku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3438">p. 3438</a>)
+		<blockquote><p><hw><tam>லாக்கு</tam> <t>lākku</t></hw> , <i>n</i>. Corr. of <tam>லக்கு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாக்குப்போடு-தல்&searchhws=yes&matchtype=exact">லாக்குப்போடு-தல்</a> lākkuppōṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3438">p. 3438</a>)
+		<blockquote><p><hw><tam>லாக்குப்போடு-தல்</tam> <t>lākku-p-pōṭu-</t></hw> , <i>v. intr</i>. To be in great straits; to be hard put to it; <tam>மிகவும் கஷ்டப்படுதல். சோற்றுக்கு லாக்குப் போடுகிறான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாக்ஜாரி&searchhws=yes&matchtype=exact">லாக்ஜாரி</a> lākjāri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3438">p. 3438</a>)
+		<blockquote><p><hw><tam>லாக்ஜாரி</tam> <t>lākjāri</t></hw> , <i>n</i>. See <tam>லாகிராஜ்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/kadirvelu_query.py?qs=லாங்கலி&searchhws=yes&matchtype=exact">லாங்கலி</a> lāṅkali
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1222">p. 1222</a>)
+		<blockquote><p><hw>லாங்கலி</hw> - பலராமன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/kadirvelu_query.py?qs=லாங்கலினி&searchhws=yes&matchtype=exact">லாங்கலினி</a> lāṅkaliṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1222">p. 1222</a>)
+		<blockquote><p><hw>லாங்கலினி</hw> - மகேந்திரமலையிலுற்பத்தி யாகுமோர் நதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/kadirvelu_query.py?qs=லாசகன்&searchhws=yes&matchtype=exact">லாசகன்</a> lācakaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1222">p. 1222</a>)
+		<blockquote><p><hw>லாசகன்</hw> - சிவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாசடி&searchhws=yes&matchtype=exact">லாசடி</a> lācaṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3438">p. 3438</a>)
+		<blockquote><p><hw><tam>லாசடி</tam> <t>lācaṭi</t></hw> , <i>n</i>. Worry, trouble. See <tam>இலாசடி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாசார்படு-தல்&searchhws=yes&matchtype=exact">லாசார்படு-தல்</a> lācārpaṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாசார்படு-தல்</tam> <t>lacār-paṭu-</t></hw> , <i>v. intr</i>. < Hind. <i>lāchar</i> +. To be helpless, forlorn; <tam>உதவியற்று வருந்துதல்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாசுபறுவான்&searchhws=yes&matchtype=exact">லாசுபறுவான்</a> lācupaṟuvāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாசுபறுவான்</tam> <t>lācupaṟuvāṉ</t></hw> , <i>n</i>. cf. <tam>பறு வான்</tam>. Yard arm; <tam>கப்பற்பாய்தாங்குங் கட்டை</tam>. <i>Naut</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/crea_query.py?qs=லாச்சி&searchhws=yes&matchtype=exact">லாச்சி</a> lācci
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாச்சி</hw> பெ. "இலங்." 1: (மேஜை, அலமாரி முதலியவற்றில் உள்ள) இழுப்பறை; (of a table, chest, etc.) drawer.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாஜஹோமம்&searchhws=yes&matchtype=exact">லாஜஹோமம்</a> lājahōmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாஜஹோமம்</tam> <t>lāja-hōmam</t></hw> , <i>n</i>. < <i>lāja</i> + <i>hōma</i>. See <tam>இலாசவோமம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாஞ்சனை&searchhws=yes&matchtype=exact">லாஞ்சனை</a> lāñcaṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாஞ்சனை</tam> <t>lāñcaṉai</t></hw> , <i>n</i>. < <i>lāñchana</i>. See <tam>இலாஞ்சனை¹</tam>. <tam>ஆதித்தனது சத்திரிய லாஞ்சனையான யானை</tam> (<tam>தக்கயாகப்</tam>. 8, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாடக்காரன்&searchhws=yes&matchtype=exact">லாடக்காரன்</a> lāṭakkāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாடக்காரன்</tam> <t>lāṭa-k-kāraṉ</t></hw> , <i>n</i>. < <tam>லாடம்⁴</tam> +. Farrier; <tam>லாடங்கட்டுபவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாடங்கட்டு-தல்&searchhws=yes&matchtype=exact">லாடங்கட்டு-தல்</a> lāṭaṅkaṭṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாடங்கட்டு-தல்</tam> <t>lāṭaṅ-kaṭṭu-</t></hw> , <i>v. intr</i>. < id. +. To shoe, as a horse; <tam>குதிரை முதலிய வற்றின் கால்கட்கு இரும்புத்தகடு தைத்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாடசங்கிலி&searchhws=yes&matchtype=exact">லாடசங்கிலி</a> lāṭacaṅkili
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாடசங்கிலி</tam> <t>lāṭa-caṅkili</t></hw> , <i>n</i>. See <tam>லாடர்சங்கிலி</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாடன்&searchhws=yes&matchtype=exact">லாடன்</a> lāṭaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாடன்¹</tam> <t>lāṭaṉ</t></hw> , <i>n</i>. <i>Loc</i>. 1. Green banana, s. tr., <i>Musa paradisiaca-troglodytarum</i>; <tam>பெரு வாழைவகை</tam>. 2. A kind of cotton plant with green seeds; <tam>பருத்திவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாடன்&searchhws=yes&matchtype=exact">லாடன்</a> lāṭaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாடன்²</tam> <t>lāṭaṉ</t></hw> , <i>n</i>. < <i>lāṭa</i>. See <tam>இலாடன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/crea_query.py?qs=லாடம்&searchhws=yes&matchtype=exact">லாடம்</a> lāṭam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாடம்</hw> பெ. 1: குதிரையின் அல்லது மாட்டின் குளம்பு தேயாமலிருக்க அவற்றின் அடியில் ஆணி வைத்து அடித்துப் பொருத்தப்படும் வளைந்த இரும்புத் தகடு; (horse) shoe.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/fabricius_query.py?qs=லாடம்&searchhws=yes&matchtype=exact">லாடம்</a> lāṭam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>லாடம்</tam></hw> , <i>s. (Tel.)</i> see <tam>இலாடம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாடம்&searchhws=yes&matchtype=exact">லாடம்</a> lāṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாடம்¹</tam> <t>lāṭam</t></hw> , <i>n</i>. < <i>Lāṭa</i>. A country. See <tam>இலாடம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாடம்&searchhws=yes&matchtype=exact">லாடம்</a> lāṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாடம்²</tam> <t>lāṭam</t></hw> , <i>n</i>. < <i>Rāḍha</i>. A country. See <tam>இலாடம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாடம்&searchhws=yes&matchtype=exact">லாடம்</a> lāṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாடம்³</tam> <t>lāṭam</t></hw> , <i>n</i>. < <i>lalāṭa</i>. Forehead. See <tam>இலாடம்³</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாடம்&searchhws=yes&matchtype=exact">லாடம்</a> lāṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாடம்⁴</tam> <t>lāṭam</t></hw> , <i>n</i>. < U. <i>lāda</i>. Horse shoe; <tam>குதிரை முதலியவற்றின் குளம்புகளுக்கு அடிக்கும் இரும்புத்தகடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/winslow_query.py?qs=லாடம்&searchhws=yes&matchtype=exact">லாடம்</a> lāṭam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p><hw><tam>லாடம்</tam></hw> , <i>s. [Tel.]</i> A horse-shoe. See <tam>இலாடம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாடர்சங்கிலி&searchhws=yes&matchtype=exact">லாடர்சங்கிலி</a> lāṭarcaṅkili
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாடர்சங்கிலி</tam> <t>lāṭar-caṅkili</t></hw> , <i>n</i>. < <tam>லாடன்²</tam> +. Puzzle chain. See <tam>இலாடசங்கிலி</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/crea_query.py?qs=லாடு&searchhws=yes&matchtype=exact">லாடு</a> lāṭu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாடு</hw> பெ. 1: (சில இனிப்புப் பண்டங்களின்) உருண்டை வடிவம்; spherical shape (of some sweetmeat). ரவாலாடு/ குஞ்சாலாடு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாடு&searchhws=yes&matchtype=exact">லாடு</a> lāṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாடு</tam> <t>lāṭu</t></hw> , <i>n</i>. < <i>laḍḍu</i>. A ball-shaped sweetmeat. See <tam>இலட்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாடுலகாடு&searchhws=yes&matchtype=exact">லாடுலகாடு</a> lāṭulakāṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாடுலகாடு</tam> <t>lāṭulakāṭu</t></hw> , <i>n</i>. Scrape, trouble, difficulty; <tam>தொந்தரவு. லாடுலகாடு யார் படுகிறது</tam>?</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/tamil-idioms_query.py?qs=லாட்டரி அடி&searchhws=yes&matchtype=exact">லாட்டரி அடி</a> lāṭṭari aṭi
+		from <a href="/dictionaries/tamil-idioms/"><i>"Taṟkālat Tamiḻ maraputtoṭar akarāti"</i></a>
+		(<a href="/cgi-bin/app/tamil-idioms_query.py?page=309">p. 309</a>)
+		<blockquote><p><hw>லாட்டரி அடி</hw> <nmbr>1701</nmbr> [பொ. பெ. ] <b>1:</b> (அடிப்படைத் தேவைகளுக்கே) மிகவும் திண்டாடுதல்; struggle abjectly (even for one's basic needs). கிடைப்பதையெல்லாம் செலவழித்துக்கொண்டிருந்தால் சாப்பாட்டுக்குக்கூட லாட்டரி அடிக்க வேண்டியதுதான். / ஒரு காலத்தில் ஐந்து ரூபாய்க்கு லாட்டரி அடித்துக்கொண்டிருந்தான், இப்போது அவன் லட்சாதிபதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/crea_query.py?qs=லாட்டரியடி&searchhws=yes&matchtype=exact">லாட்டரியடி</a> lāṭṭariyaṭi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாட்டரியடி</hw> வி. (-அடிக்க, -அடித்து) [பே.வ.] 1: (உணவு முதலியவை கிடைக்காதா என்று) ஏங்கித் திண்டாடுதல்; be at the mercy of chance; be a victim of the vagaries of life. கிடைப்பதையெல்லாம் செலவழித்துக்கொண்டிருந்தால் சாப்பாட்டுக்குக்கூட லாட்டரியடிக்க வேண்டியிருக்கும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாண்டோ&searchhws=yes&matchtype=exact">லாண்டோ</a> lāṇṭō
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S404">p. S404</a>)
+		<blockquote><p><hw><tam>லாண்டோ</tam> <t>lāṇṭō</t></hw> , <i>n</i>. < E. Landau; <tam>மேற் கூட்டைத் திறந்துமூட வசதியுள்ள வண்டிவகை</tam>. <i>Pond</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாத்தித்தள்ளு-தல்&searchhws=yes&matchtype=exact">லாத்தித்தள்ளு-தல்</a> lāttittaḷḷu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாத்தித்தள்ளு-தல்</tam> <t>lātti-t-taḷḷu-</t></hw> , <i>v. tr</i>. < <tam>லாத்து²-</tam> +. To make dizzy or giddy; <tam>கிறு கிறுத்து விழச்செய்தல். என்னை லாத்தித்தள்ளுகிறது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாத்து&searchhws=yes&matchtype=exact">லாத்து</a> lāttu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாத்து¹</tam> <t>lāttu</t></hw> , <i>n</i>. See <tam>லத்தா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாத்து-தல்&searchhws=yes&matchtype=exact">லாத்து-தல்</a> lāttu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாத்து²-தல்</tam> <t>lāttu-</t></hw> , <i>5 v</i>. < <tam>லாத்து</tam>. <i>tr</i>. 1. To belabour, beat heavily; <tam>புடைத்தல்</tam>. 2. To seize and jerk to and fro; <tam>பிடித்தலைத்தல்</tam>. — <i>intr</i>. To tumble; to be shaky in gait; <tam>நடைதடுமாறு தல்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாத்து-தல்&searchhws=yes&matchtype=exact">லாத்து-தல்</a> lāttu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாத்து³-தல்</tam> <t>lāttu-</t></hw> , <i>5 v. intr</i>. < <tam>உலாத்து¹-</tam>. To walk about; to ride about; See <tam>உலாத்து¹-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாத்து-தல்&searchhws=yes&matchtype=exact">லாத்து-தல்</a> lāttu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாத்து⁴-தல்</tam> <t>lāttu-</t></hw> , <i>5 v. tr</i>. < <tam>உலாத்து²-</tam>. 1. To take out for a walk. See <tam>உலாத்து²-</tam>, 1. 2. To spread. See <tam>உலாத்து²-</tam>, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாத்துலத்தாடு&searchhws=yes&matchtype=exact">லாத்துலத்தாடு</a> lāttulattāṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாத்துலத்தாடு</tam> <t>lāttu-lattāṭu</t></hw> , <i>n</i>. < U. <i>lāt</i> + U. <i>latāḍ</i>. Convenience and inconvenience; <tam>சௌகரியாசௌகரியம்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/crea_query.py?qs=லாந்தர்&searchhws=yes&matchtype=exact">லாந்தர்</a> lāntar
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாந்தர்</hw> பெ. 1: அரிக்கன் (போன்ற) விளக்கு; lantern.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாந்தர்&searchhws=yes&matchtype=exact">லாந்தர்</a> lāntar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாந்தர்</tam> <t>lāntar</t></hw> , <i>n</i>. < Fr. <i>lanterne</i>. Lantern; <tam>ஒருவகைக் கண்ணாடிவிளக்கு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாந்தல்&searchhws=yes&matchtype=exact">லாந்தல்</a> lāntal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாந்தல்</tam> <t>lāntal</t></hw> , <i>n</i>. See <tam>லாந்தர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/crea_query.py?qs=லாந்து&searchhws=yes&matchtype=exact">லாந்து</a> lāntu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாந்து</hw> வி. (லாந்த, லாந்தி) [பே.வ.] 1: இங்குமங்குமாக நடத்தல்; walk about; roam (around a place). சும்மா லாந்தாதே, ஒரு இடத்தில் உட்கார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாந்து&searchhws=yes&matchtype=exact">லாந்து</a> lāntu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாந்து²</tam> <t>lāntu</t></hw> , <i>n</i>. < <tam>லாந்து¹-</tam>. 1. Spreading out; <tam>பரவுகை</tam>. 2. Pounce; <tam>பாய்ச்சல். ஒரே லாந் தாக லாந்திப்பிடி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாந்து&searchhws=yes&matchtype=exact">லாந்து</a> lāntu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாந்து³</tam> <t>lāntu</t></hw> , <i>n</i>. cf. Hind. <i>ladāo</i>. Terracing, setting bricks on edge; <tam>கல்லைக் குத்து நிலையில் அடுக்குகை</tam>. (<tam>கட்டட. நா</tam>. 19.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாந்து-தல்&searchhws=yes&matchtype=exact">லாந்து-தல்</a> lāntu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாந்து¹-தல்</tam> <t>lāntu-</t></hw> , <i>5 v. intr</i>. < <tam>லாத்து⁴-</tam>. 1. To walk about, wander about; <tam>சுற்றித்திரிதல். அவன் லாந்திக்கொண்டிருக்கிறான்</tam>. 2. To spread, as fire; <tam>பரவுதல். நெருப்பு எங்கும் லாந்திவிட்டது</tam>. 3. To pounce and get hold of; <tam>பாய்ந்து கைக் கொள்ளுதல். லாந்திப்பிடி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாந்து-தல்&searchhws=yes&matchtype=exact">லாந்து-தல்</a> lāntu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாந்து⁴-தல்</tam> <t>lāntu-</t></hw> , <i>5 v. intr</i>. < <tam>லாந்து³</tam>. To put up a terrace; <tam>மேற்றளம் போடுதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாபநஷ்டம்&searchhws=yes&matchtype=exact">லாபநஷ்டம்</a> lāpanaṣṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாபநஷ்டம்</tam> <t>lāpa-naṣṭam</t></hw> , <i>n</i>. < <i>lābha</i> + <i>naṣṭa</i>. Profit and loss; <tam>இலாபமும் நஷ்டமும்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/crea_query.py?qs=லாபம்&searchhws=yes&matchtype=exact">லாபம்</a> lāpam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாபம்</hw> பெ. 1: (வியாபாரம், தொழில் ஆகியவற்றில்) செய்த முதலீட்டிற்கு அல்லது செய்த செலவுக்கு அதிகப்படியாகக் கிடைக்கும் வருமானம்; profit. நீங்கள் கேட்கும் விலைக்குப் பழத்தைக் கொடுத்தால் எனக்கு லாபமே கிடைக்காது./ இந்த ரக நெல்லைப் பயிரிடுவதால் விவசாயிகளுக்கு நல்ல லாபம் கிடைக்கும்./ இது லாப நோக்கில் நடத்தப்படும் நிறுவனம் அல்ல என்று விளக்கம் அளித்தார். 2: பயன்; நன்மை; use; benefit; advantage. இப்படிக் கூடிக்கூடி விவாதிப்பதால் யாருக்கு என்ன லாபம்?/ எந்தக் காரியத்தைச் செய்தாலும் அதில் தனக்கு லாபம் எதிர்பார்க்கும் மனப்போக்கு உடையவர். 3: [பே.வ.] தானியம் அளக்கும்போது ஒன்று என்று துவங்குவதற்குப் பதிலாகக் கூறப்படும், புதுக்கணக்குத் தொடங்கும்போது முதலில் எழுதப்படும் சொல்; a word with which the counting is begun in measuring grains and with which a new account begins.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாபம்&searchhws=yes&matchtype=exact">லாபம்</a> lāpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாபம்</tam> <t>lāpam</t></hw> , <i>n</i>. < <i>lābha</i>. See <tam>இலாபம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாபலோபம்&searchhws=yes&matchtype=exact">லாபலோபம்</a> lāpalōpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாபலோபம்</tam> <t>lāpa-lōpam</t></hw> , <i>n</i>. < id. + <i>lōpa</i>. See <tam>லாபநஷ்டம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/crea_query.py?qs=லாம்பெண்ணை&searchhws=yes&matchtype=exact">லாம்பெண்ணை</a> lāmpeṇṇai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாம்பெண்ணை</hw> பெ. "இலங்." 1: மண்ணெண்ணெய்; kerosene.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/crea_query.py?qs=லாயக்கு&searchhws=yes&matchtype=exact">லாயக்கு</a> lāyakku
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாயக்கு</hw> பெ. (-ஆக, -ஆன) [பே.வ.] 1: (ஒன்றைச் செய்வதற்கு அல்லது பயன்படுத்துவதற்கு) ஏற்ற தன்மை; தகுதி; பொருத்தம்; being fit (for sth.). வேலைக்கு லாயக்கற்றவன் என்று அவ்வளவு சீக்கிரத்தில் முடிவுசெய்துவிடாதே./ இந்த வேலைக்கு அவன்தான் லாயக்கான ஆள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/fabricius_query.py?qs=லாயக்கு&searchhws=yes&matchtype=exact">லாயக்கு</a> lāyakku
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>லாயக்கு</tam></hw> , <i>s. (Ar.)</i> fitness, suitableness, <tam>தகுதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாயக்கு&searchhws=yes&matchtype=exact">லாயக்கு</a> lāyakku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாயக்கு</tam> <t>lāyakku</t></hw> , <i>n</i>. < Arab. <i>lāiaq</i>. 1. Fitness, suitableness; <tam>தகுதி</tam>. (<smallcap>W</smallcap>.) 2. Haughtiness; <tam>செருக்கு</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/winslow_query.py?qs=லாயக்கு&searchhws=yes&matchtype=exact">லாயக்கு</a> lāyakku
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p><hw><tam>லாயக்கு</tam></hw> , <i>s. [Arab.]</i> Fitness, suitableness, <tam>ஏற்றது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/crea_query.py?qs=லாயம்&searchhws=yes&matchtype=exact">லாயம்</a> lāyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாயம்</hw> பெ. 1: குதிரை கட்டும் இடம்; stable.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாயம்&searchhws=yes&matchtype=exact">லாயம்</a> lāyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாயம்</tam> <t>lāyam</t></hw> , <i>n</i>. [T. <i>lāyamu</i>, K. <i>lāya</i>.] Stable for horse; <tam>குதிரைகட்டுமிடம். (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/winslow_query.py?qs=லாயம்&searchhws=yes&matchtype=exact">லாயம்</a> lāyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p><hw><tam>லாயம்</tam></hw> , <i>s. [Tel.]</i> A stable. See <tam>இலாயம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாலனம்&searchhws=yes&matchtype=exact">லாலனம்</a> lālaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாலனம்</tam> <t>lālaṉam</t></hw> , <i>n</i>. < <i>lālana</i>. See <tam>லாலனை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாலனை&searchhws=yes&matchtype=exact">லாலனை</a> lālaṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாலனை</tam> <t>lālaṉai</t></hw> , <i>n</i>. < <i>lālanā</i>. 1. Fondling, caressing, coaxing; <tam>கொஞ்சுகை</tam>. <i>Loc</i>. 2. Support; <tam>தாங்குகை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/winslow_query.py?qs=லாலனை&searchhws=yes&matchtype=exact">லாலனை</a> lālaṉai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p>*<hw><tam>லாலனை</tam></hw> , <i>s.</i> Support, <tam>தாங்கல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாலா&searchhws=yes&matchtype=exact">லாலா</a> lālā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3439">p. 3439</a>)
+		<blockquote><p><hw><tam>லாலா</tam> <t>lālā</t></hw> , <i>n</i>. < Hind. <i>lālā</i>. 1. A caste of Hindu merchants who migrated into the Tamil country from Northern India; <tam>வடநாட்டி லிருந்து தமிழ்நாட்டிற் குடியேறிய இந்துவியாபாரி</tam>. 2. A term of respect; <tam>ஒரு சிறப்புப்பெயர்</tam>. 3. A term of endearment; <tam>ஒரு செல்வப்பெயர். நந்தலாலா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாலாடிகம்&searchhws=yes&matchtype=exact">லாலாடிகம்</a> lālāṭikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாலாடிகம்</tam> <t>lālāṭikam</t></hw> , <i>n</i>. < <i>lālāṭika</i>. A mode of sexual embrace; <tam>ஆலிங்கனவகை</tam>. (<tam>கொக் கோ</tam>. 5, 46.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாலி&searchhws=yes&matchtype=exact">லாலி</a> lāli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாலி¹</tam> <t>lāli</t></hw> , <i>n</i>. prob. <i>lāṭa</i>. Rag; <tam>கந்தை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாலி&searchhws=yes&matchtype=exact">லாலி</a> lāli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாலி²</tam> <t>lāli</t></hw> , <i>n</i>. [T. K. <i>lāli</i>.] 1. cf. <i>lālikā</i>. Song consisting of eulogies, compliments, congratulations, etc., sung at weddings and other auspicious occasions, every line ending in <i>lāli</i>; <tam>கலியாணம் முதலியவற்றிற் பாடப்படுவதும் அடி தோறும் லாலி என்று முடிவதுமான மங்களப்பாட்டு வகை</tam>. 2. Flattery, adulation; <tam>இச்சகவார்த்தை</tam>. 3. Lullaby; <tam>தாலாட்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாலோஜி&searchhws=yes&matchtype=exact">லாலோஜி</a> lālōji
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாலோஜி</tam> <t>lālōji</t></hw> , <i>n</i>. Bribe <tam>லஞ்சம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாளிதம்&searchhws=yes&matchtype=exact">லாளிதம்</a> lāḷitam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாளிதம்</tam> <t>lāḷitam</t></hw> , <i>n</i>. < <i>lālitya</i>. Beauty, grace, charm; <tam>அழகு. மதகும்பலாளிதக் கரியென</tam> (<tam>திருப்பு</tam>. 194).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/crea_query.py?qs=லாவகம்&searchhws=yes&matchtype=exact">லாவகம்</a> lāvakam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாவகம்</hw> பெ. (-ஆக, -ஆன) 1: (சிரமத்தை வெளிப்படுத்திக்கொள்ளாத) எளிமையான நளினம்; ease; facility. ஒரு கையில் பையைப் பிடித்துக்கொண்டு மறு கையால் சைக்கிளை லாவகமாக ஓட்டினான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாவணம்&searchhws=yes&matchtype=exact">லாவணம்</a> lāvaṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாவணம்</tam> <t>lāvaṇam</t></hw> , <i>n</i>. [T. <i>lāvaṇamu</i>, K. <i>lavaṇa</i>.] See <tam>இலாவணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/crea_query.py?qs=லாவணி&searchhws=yes&matchtype=exact">லாவணி</a> lāvaṇi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாவணி</hw> பெ. 1: புராணக் கதையை ஆதாரமாகக் கொண்டு இருவர் விவாதம் செய்வது போல் பாடல்களைப் பாடி நடத்தும் கலை நிகழ்ச்சி; a performance in which songs are sung debating an issue usually on a mythological subject.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/fabricius_query.py?qs=லாவணி&searchhws=yes&matchtype=exact">லாவணி</a> lāvaṇi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p>*<hw><tam>லாவணி</tam></hw> , <i>s.</i> a Mahratta song.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாவணி&searchhws=yes&matchtype=exact">லாவணி</a> lāvaṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாவணி</tam> <t>lāva-ṇi</t></hw> , <i>n</i>. < Mhr. <i>lāvaṇī</i>. (Mus.) A Maharatta melody; <tam>மகாராட்டிர மொழியிலுள்ள இசைப்பாட்டுவகை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/winslow_query.py?qs=லாவணி&searchhws=yes&matchtype=exact">லாவணி</a> lāvaṇi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p><hw><tam>லாவணி</tam></hw> , <i>s.</i> A Maharatta song, <tam>ஓர் பாட்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/crea_query.py?qs=லாவண்யம்&searchhws=yes&matchtype=exact">லாவண்யம்</a> lāvaṇyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>லாவண்யம்</hw> பெ. [அ.வ.] 1: (கவரும்) அழகு; exquisite grace or beauty. அவளின் முக லாவண்யம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாவண்யம்&searchhws=yes&matchtype=exact">லாவண்யம்</a> lāvaṇyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாவண்யம்</tam> <t>lāvaṇyam</t></hw> , <i>n</i>. < <i>lāvaṇya</i>. Beauty; grace; loveliness; charm; <tam>ஒளிரும் அழகு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாவண்யார்ச்சிதம்&searchhws=yes&matchtype=exact">லாவண்யார்ச்சிதம்</a> lāvaṇyārccitam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாவண்யார்ச்சிதம்</tam> <t>lāvaṇyārccitam</t></hw> , <i>n</i>. < id. + <i>ārjita</i>. See <tam>இலாவண்ணியார்ச்சிதம்</tam>. (<smallcap>W.G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாவாதேவி&searchhws=yes&matchtype=exact">லாவாதேவி</a> lāvātēvi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாவாதேவி</tam> <t>lāvā-tēvi</t></hw> , <i>n</i>. < U. <i>lāwādēī</i>. See <tam>லேவாதேவி</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாவாலேவி&searchhws=yes&matchtype=exact">லாவாலேவி</a> lāvālēvi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாவாலேவி</tam> <t>lāvālēvi</t></hw> , <i>n</i>. See <tam>லாவாதேவி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/fabricius_query.py?qs=லாவு&searchhws=yes&matchtype=exact">லாவு</a> lāvu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>லாவு</tam></hw> , III. <i>v. i.</i> see <tam>உலாவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/fabricius_query.py?qs=லாவு&searchhws=yes&matchtype=exact">லாவு</a> lāvu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>லாவு</tam></hw> , III. <i>v. t.</i> pounce or dart upon, <tam>இறாஞ்சு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/winslow_query.py?qs=லாவு&searchhws=yes&matchtype=exact">லாவு</a> lāvu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p><hw><tam>லாவு</tam></hw> , <i>v. [prov.]</i> To pounce or dart upon, as <tam>இறாஞ்சு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாவு-தல்&searchhws=yes&matchtype=exact">லாவு-தல்</a> lāvu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாவு-தல்</tam> <t>lāvu-</t></hw> , <i>5 v. tr</i>. prob. <tam>உலாவு-</tam>. 1. To spread around; <tam>பரவுதல். நெருப்பு லாவி விட்டது</tam>. 2. To pounce or dart upon; <tam>இறஞ்சு தல்</tam>. (<smallcap>J</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாவுபண்ணு-தல்&searchhws=yes&matchtype=exact">லாவுபண்ணு-தல்</a> lāvupaṇṇu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாவுபண்ணு-தல்</tam> <t>lāvu-paṇṇu-</t></hw> , <i>v. intr</i>. prob. E. <i>law</i> +. 1. To be constantly questioning and disputing; <tam>வழக்காடுதல்</tam>. 2. To behave in a haughty manner; <tam>செருக்குறுதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/fabricius_query.py?qs=லாஸ்கார்&searchhws=yes&matchtype=exact">லாஸ்கார்</a> lāskār
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>லாஸ்கார்</tam></hw> , <i>s. (for.)</i> a lascar, a peon.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லாஸ்கார்&searchhws=yes&matchtype=exact">லாஸ்கார்</a> lāskār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3440">p. 3440</a>)
+		<blockquote><p><hw><tam>லாஸ்கார்</tam> <t>lāscār</t></hw> , <i>n</i>. See <tam>லஸ்கர்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/winslow_query.py?qs=லாஸ்கார்&searchhws=yes&matchtype=exact">லாஸ்கார்</a> lāskār
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p><hw><tam>லாஸ்கார்</tam></hw> , <i>s. [for.]</i> A lascar.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

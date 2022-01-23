@@ -1,0 +1,949 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>ஜோ</b>
+                       <div id='no_results'>
+                                72 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோ&searchhws=yes&matchtype=exact">ஜோ</a> jō
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோ</tam> <t>jō</t></hw> . The compound of <tam>ஜ்</tam> and <tam>ஓ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோகி&searchhws=yes&matchtype=exact">ஜோகி</a> jōki
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஜோகி</tam> <t>jōki</t></hw> , <i>n</i>. < <i>yōgin</i>. Snake-charmer; <tam>பாம்பாட்டி. பாம்புமது நல்லதுதான் ஜோகியவன் பொல்லாதவன்</tam> (<tam>கோவ. க</tam>. 98).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோகினி&searchhws=yes&matchtype=exact">ஜோகினி</a> jōkiṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஜோகினி</tam> <t>jōkiṉi</t></hw> , <i>n</i>. (Mus.) A specific melody-type; <tam>இராகவகை</tam>. (<tam>பரத. ராக. பக்</tam>. 103.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோகிரஸமாத்திரை&searchhws=yes&matchtype=exact">ஜோகிரஸமாத்திரை</a> jōkirasamāttirai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோகிரஸமாத்திரை</tam> <t>jōki-rasa-māttirai</t></hw> , <i>n</i>. perh. <i>yōgin</i> + <i>rasa</i> +. Croton pill; <tam>நேர்வாள மாத்திரை</tam>. (<tam>பைஷஜ</tam>. 99.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோகொட்டிக்கொள்-தல், ஜோகொட்டிக்கொளு-தல்&searchhws=yes&matchtype=exact">ஜோகொட்டிக்கொள்-தல், ஜோகொட்டிக்கொளு-தல்</a> jōkoṭṭikkoḷ-tal, jōkoṭṭikkoḷu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோகொட்டிக்கொள்(ளு)-தல்</tam> <t>jō-koṭṭi-k-koḷ-</t></hw> , <i>v. intr</i>. < <tam>ஜோவெனல்</tam> + <tam>கொட்டு-</tam> +. To pour water over one's body; <tam>நீரைமொண்டு உடலின்மேல் விட்டுக்கொள்ளுதல்</tam>. <i>Nurs</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோக்கு&searchhws=yes&matchtype=exact">ஜோக்கு</a> jōkku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோக்கு¹</tam> <t>jōkku</t></hw> , <i>n</i>. See <tam>ஷோக்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோக்கு&searchhws=yes&matchtype=exact">ஜோக்கு</a> jōkku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோக்கு²</tam> <t>jōkku</t></hw> , <i>n</i>. < E. Joke; <tam>வேடிக்கை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோசியன்&searchhws=yes&matchtype=exact">ஜோசியன்</a> jōciyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோசியன்</tam> <t>jōciyaṉ</t></hw> , <i>n</i>. See <tam>ஜோஸ்யன்</tam>. (<tam>விவிலி. ஏசா</tam>. 47, 13.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/crea_query.py?qs=ஜோசியம்&searchhws=yes&matchtype=exact">ஜோசியம்</a> jōciyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=977">p. 977</a>)
+		<blockquote><p><hw>ஜோசியம்</hw> பெ. 1: சோதிடம்; astrology.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/crea_query.py?qs=ஜோசியர்&searchhws=yes&matchtype=exact">ஜோசியர்</a> jōciyar
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=977">p. 977</a>)
+		<blockquote><p><hw>ஜோசியர்</hw> பெ. 1: சோதிடர்; astrologer.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/crea_query.py?qs=ஜோடனை&searchhws=yes&matchtype=exact">ஜோடனை</a> jōṭaṉai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=977">p. 977</a>)
+		<blockquote><p><hw>ஜோடனை</hw> பெ. 1: (கவரும் வகையில் செய்யப்படும்) அலங்காரம்; decoration. வீட்டைச் சுற்றி வண்ண விளக்குகளால் ஜோடனை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடனை&searchhws=yes&matchtype=exact">ஜோடனை</a> jōṭaṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடனை</tam> <t>jōṭaṉai</t></hw> , <i>n</i>. < Hind. <i>jōḍnā</i> Adorning. See <tam>சோடினை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/crea_query.py?qs=ஜோடி&searchhws=yes&matchtype=exact">ஜோடி</a> jōṭi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=977">p. 977</a>)
+		<blockquote><p><hw>ஜோடி<sup>1</sup></hw> வி. (ஜோடிக்க, ஜோடித்து) 1: அலங்கரித்தல்; decorate (a place); deck (out). கடை வாசலை விளக்குகளால் ஜோடித்திருந்தனர்./ பல்லக்கை மிகவும் அழகாக ஜோடித்தார்கள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/crea_query.py?qs=ஜோடி&searchhws=yes&matchtype=exact">ஜோடி</a> jōṭi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=977">p. 977</a>)
+		<blockquote><p><hw>ஜோடி<sup>2</sup></hw> வி. (ஜோடிக்க, ஜோடித்து) 1: பொய்யாகப் புனைதல்; கற்பித்தல்; fabricate; concoct. 'இவ்வளவு பணம் எங்கிருந்து கிடைத்தது' என்று கேட்டதற்கு ஒரு கதையை ஜோடித்துச் சொல்லிவிட்டான்./ வேலைநிறுத்தத்தில் ஈடுபட்ட ஊழியர்கள் மீது நிர்வாகம் பொய் வழக்குகளை ஜோடித்திருக்கிறது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/crea_query.py?qs=ஜோடி&searchhws=yes&matchtype=exact">ஜோடி</a> jōṭi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=977">p. 977</a>)
+		<blockquote><p><hw>ஜோடி<sup>3</sup></hw> பெ. 1: ஒரு செயல்பாட்டில் ஈடுபடும் இருவர்; இரண்டாக இருப்பது; இணை; pair. குழுத் தலைவரோடு ஜோடி சேர்ந்து சிறப்பாக ஆடினான்./ ஒரு ஜோடி செருப்பு/ ஒரு ஜோடி உழவு மாடுகள் 2: ஆண் பெண்; couple. ஒரு இளம் ஜோடி சிரித்துப் பேசிக்கொண்டே சென்றது. 3: ஆண் அல்லது பெண்; துணையாக உள்ளவர்; partner; one of a pair. தன் ஜோடியைப் பிரிந்த மான் மருண்டு நின்றது./ அவன் தன் ஜோடிக்காகக் காத்திருந்தான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜோடி&searchhws=yes&matchtype=exact">ஜோடி</a> jōṭi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜோடி</tam></hw> , <i>s.</i> see <tam>சோடி</tam>, a set.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடி&searchhws=yes&matchtype=exact">ஜோடி</a> jōṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடி²</tam> <t>jōṭi</t></hw> , <i>n</i>. < Hind. <i>jōḍi</i>. See <tam>சோடி³</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடி&searchhws=yes&matchtype=exact">ஜோடி</a> jōṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடி³</tam> <t>jōṭi</t></hw> , <i>n</i>. < <tam>ஜோடி-</tam>. See <tam>ஜதை</tam>, 3.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடி&searchhws=yes&matchtype=exact">ஜோடி</a> jōṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடி⁴</tam> <t>jōṭi</t></hw> , <i>n</i>. See <tam>ஜோடிகை</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடி&searchhws=yes&matchtype=exact">ஜோடி</a> jōṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S420">p. S420</a>)
+		<blockquote><p><hw><tam>ஜோடி</tam> <t>jōṭi</t></hw> , <i>n</i>. < Hind. <i>jōṭi</i>. The king and queen of the same suit, in card-play; <tam>சீட்டாட்டத்தில் ஒரேஜாதியைச் சேர்ந்த ராஜா ராணிச் சீட்டுக்கள்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/winslow_query.py?qs=ஜோடி&searchhws=yes&matchtype=exact">ஜோடி</a> jōṭi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜோடி</tam></hw> , <i>s.</i> A set. See <tam>சோடி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடி-த்தல்&searchhws=yes&matchtype=exact">ஜோடி-த்தல்</a> jōṭi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடி¹-த்தல்</tam> <t>jōṭi-</t></hw> , <i>11 v. tr</i>. < Hind. <i>jōḍnā</i>. See <tam>சோடி²-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடிகை&searchhws=yes&matchtype=exact">ஜோடிகை</a> jōṭikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடிகை</tam> <t>jōṭikai</t></hw> , <i>n</i>. < U. <i>chōḍnā</i>. 1. Relinquishment in writing of paṭṭā holdings; <tam>பட்டா நிலத்தை வேண்டாமென்று விட்டுவிடுகை</tam>. (<smallcap>C. G</smallcap>.) 2. Favourable quit-rent payable by inam villages; <tam>இனாம் கிராமங்களிற் சர்க்காருக்குச் செலுத்துங் குறைந்த நிலத்தீர்வை</tam>. (<smallcap>M. N. A. I</smallcap>, 281.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜோடினை&searchhws=yes&matchtype=exact">ஜோடினை</a> jōṭiṉai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜோடினை</tam></hw> , <i>s.</i> same as <tam>சோடினை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடினை&searchhws=yes&matchtype=exact">ஜோடினை</a> jōṭiṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடினை</tam> <t>jōṭiṉai</t></hw> , <i>n</i>. < Hind. <i>jōḍna</i>. Adorning. See <tam>சோடினை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/winslow_query.py?qs=ஜோடினை&searchhws=yes&matchtype=exact">ஜோடினை</a> jōṭiṉai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜோடினை</tam></hw> , <i>s.</i> Adorning, &c. See <tam>சோடினை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடிப்பு&searchhws=yes&matchtype=exact">ஜோடிப்பு</a> jōṭippu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடிப்பு</tam> <t>jōṭippu</t></hw> , <i>n</i>. < <tam>ஜோடி-</tam>. 1. Decorating; <tam>அலங்காரம்</tam>. <i>Loc</i>. 2. See <tam>ஜதை</tam>, 3. <tam>எங்கள் பெண்ணுக்கு ஒரு ஜோடிப்பு நகைவேண்டும்</tam>. 3. Beauty; <tam>அழகு. அலங்கார ஜோடிப்பு வாடிப் போகும் புஷ்பமே</tam> (<tam>விவிலி. ஏசா</tam>. 28, 1).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடிராஜிநாமா&searchhws=yes&matchtype=exact">ஜோடிராஜிநாமா</a> jōṭirājināmā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடிராஜிநாமா</tam> <t>jōṭi-rājināmā</t></hw> , <i>n</i>. < <tam>ஜோடி⁴</tam> +. See <tam>ஜோடிகை</tam>, 1. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/crea_query.py?qs=ஜோடு&searchhws=yes&matchtype=exact">ஜோடு</a> jōṭu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=977">p. 977</a>)
+		<blockquote><p><hw>ஜோடு</hw> பெ. [அ.வ.] 1: காலணி; செருப்பு; slippers.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜோடு&searchhws=yes&matchtype=exact">ஜோடு</a> jōṭu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜோடு</tam></hw> , <i>s.</i> a pair, see <tam>சோடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடு&searchhws=yes&matchtype=exact">ஜோடு</a> jōṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடு¹</tam> <t>jōṭu</t></hw> , <i>n</i>. < Hind. <i>jōḍi</i>. 1. See <tam>ஜோடி³</tam>. 2. Match, mate; <tam>இணை</tam>. 3. Indian-made slippers, country shoes; <tam>காலில் அணியும் தொடுதோல்வகை</tam>. 4. A cubical measure, used in measuring grain; <tam>ஒருவகை முகத்தலளவை. ஒரு ரூபாய்க்கு</tam> 2 <tam>ஜோடு நெல் போடவும்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடு&searchhws=yes&matchtype=exact">ஜோடு</a> jōṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடு²</tam> <t>jōṭu</t></hw> , <i>n</i>. See <tam>ஜதை</tam>, 3.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/winslow_query.py?qs=ஜோடு&searchhws=yes&matchtype=exact">ஜோடு</a> jōṭu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜோடு</tam></hw> , <i>s.</i> A pair. See <tam>சோடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/crea_query.py?qs=ஜோடுதவலை&searchhws=yes&matchtype=exact">ஜோடுதவலை</a> jōṭutavalai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=977">p. 977</a>)
+		<blockquote><p><hw>ஜோடுதவலை</hw> பெ. 1: அண்டா வடிவில் இருக்கும் சிறு பித்தளைப் பாத்திரம்; a small vessel in the shape of அண்டா.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடுதவலை&searchhws=yes&matchtype=exact">ஜோடுதவலை</a> jōṭutavalai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடுதவலை</tam> <t>jōṭu-tavalai</t></hw> , <i>n</i>. < T. <i>jōḍu-tapēla</i>. A large, cylindrical water-vessel with a pair of rings to lift it by; <tam>கைப்பிடிவளையம் வைத்ததும் வாயகன்றதுமான ஒருவகைப் பாத்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடுப்பூட்டு&searchhws=yes&matchtype=exact">ஜோடுப்பூட்டு</a> jōṭuppūṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடுப்பூட்டு</tam> <t>jōṭu-p-pūṭṭu</t></hw> , <i>n</i>. < <tam>ஜோடு¹</tam> +. Double lock; <tam>இரட்டைப்பூட்டு</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோடுமரம்&searchhws=yes&matchtype=exact">ஜோடுமரம்</a> jōṭumaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோடுமரம்</tam> <t>jōṭu-maram</t></hw> , <i>n</i>. < id. +. Tree branching out into two stems; <tam>இரண்டு கவர் களாகப் பிரியும் மரம்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜோட்டா&searchhws=yes&matchtype=exact">ஜோட்டா</a> jōṭṭā
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜோட்டா</tam></hw> , <i>s.</i> a rod, <tam>சோட்டா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/winslow_query.py?qs=ஜோட்டா&searchhws=yes&matchtype=exact">ஜோட்டா</a> jōṭṭā
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜோட்டா</tam></hw> , <i>s.</i> A rod. See <tam>சோட்டா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/crea_query.py?qs=ஜோதி&searchhws=yes&matchtype=exact">ஜோதி</a> jōti
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=977">p. 977</a>)
+		<blockquote><p><hw>ஜோதி</hw> பெ. 1: ஒளிப்பிழம்பு; light. இறைவனை ஜோதி வடிவில் வழிபடும் முறை. 2: சுடர்; flaming light. அணையா ஜோதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜோதி&searchhws=yes&matchtype=exact">ஜோதி</a> jōti
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p>*<hw><tam>ஜோதி</tam></hw> , <i>s.</i> splendour, <tam>சோதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஜோதி&searchhws=yes&matchtype=exact">ஜோதி</a> jōti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=722">p. 722</a>)
+		<blockquote><p><hw>ஜோதி</hw> - சோதி</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோதி&searchhws=yes&matchtype=exact">ஜோதி</a> jōti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோதி</tam> <t>jōti</t></hw> , <i>n</i>. < <i>jyōtis</i>. 1. See <tam>ஜ்யோதி. துன்றொளி விரித்த ஜோதி</tam> (<tam>இரக்ஷணிய</tam>. 113). 2. A kind of lamp used in worship; <tam>பூஜையில் ஏற்றும் விளக்குவகை</tam>. <i>Brāh</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/winslow_query.py?qs=ஜோதி&searchhws=yes&matchtype=exact">ஜோதி</a> jōti
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜோதி</tam></hw> , <i>s.</i> Splendor. See <tam>சோதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/crea_query.py?qs=ஜோதிடம்&searchhws=yes&matchtype=exact">ஜோதிடம்</a> jōtiṭam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=977">p. 977</a>)
+		<blockquote><p><hw>ஜோதிடம்</hw> பெ. காண்க: சோதிடம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/crea_query.py?qs=ஜோதிடர்&searchhws=yes&matchtype=exact">ஜோதிடர்</a> jōtiṭar
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=978">p. 978</a>)
+		<blockquote><p><hw>ஜோதிடர்</hw> பெ. காண்க: சோதிடர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோதிஷ்கர்&searchhws=yes&matchtype=exact">ஜோதிஷ்கர்</a> jōtiṣkar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோதிஷ்கர்</tam> <t>jōtiṣkar</t></hw> , <i>n</i>. < <i>jyōtiṣka</i>. One of <i>nālvakai-t-tēvar</i>, q.v. See <tam>ஜ்யோதிஷ்கர்</tam>. (<tam>மேருமந்</tam>. 8, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோத்திரை&searchhws=yes&matchtype=exact">ஜோத்திரை</a> jōttirai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோத்திரை</tam> <t>jōttirai</t></hw> , <i>n</i>. < Hind. <i>jātrā</i> < <i>yātrā</i>. 1. The last day of the <i>kōlāṭṭam</i> festival; <tam>கோலாட்ட உற்சவத்தின் இறுதிநாள்</tam>. 2. Music party; <tam>பாட்டுக்கச்சேரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோனகன்&searchhws=yes&matchtype=exact">ஜோனகன்</a> jōṉakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோனகன்</tam> <t>jōṉakaṉ</t></hw> , <i>n</i>. < <i>yavana-ka</i>. Muhammadan; <tam>முகம்மதியன்</tam>. (<smallcap>S. I. I</smallcap>. ii, 470.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோராவரி&searchhws=yes&matchtype=exact">ஜோராவரி</a> jōrāvari
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோராவரி</tam> <t>jōrāvari</t></hw> , <i>n</i>. < U. <i>jōrāvari</i>. 1. Depredation. See <tam>சோராவரி</tam>, 1. (<smallcap>W</smallcap>.) 2. Force, violence. See <tam>சோராவரி</tam>, 2. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/crea_query.py?qs=ஜோர்&searchhws=yes&matchtype=exact">ஜோர்</a> jōr
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=978">p. 978</a>)
+		<blockquote><p><hw>ஜோர்</hw> பெ. (-ஆக, -ஆன) 1: நேர்த்தி; அருமை; that which is lively and impressive; that which is fantastic. இந்தத் திரைப்படத்தின் ஆரம்பமே ஜோராக இருந்தது. 2: [பே.வ.] உற்சாகம்; high spirits; euphoria. கல்யாணமான ஜோரில் இருக்கிறான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜோர்&searchhws=yes&matchtype=exact">ஜோர்</a> jōr
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜோர்</tam></hw> , <i>s. (Pers.)</i> force, violence; 3. stiffness, <tam>விறைப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோர்&searchhws=yes&matchtype=exact">ஜோர்</a> jōr
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோர்</tam> <t>jōr</t></hw> , <i>n</i>. < Persn. <i>zōr</i>. 1. Violence; <tam>வலாற்காரம்</tam>. (<smallcap>W</smallcap>.) 2. Stiffness; <tam>விறைப்பு</tam>. (<smallcap>W</smallcap>.) 3. Foppishness, show; <tam>ஆடம்பரம்</tam>. 4. Fineness, as of workmanship; <tam>நேர்த்தி</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/winslow_query.py?qs=ஜோர்&searchhws=yes&matchtype=exact">ஜோர்</a> jōr
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜோர்</tam></hw> , <i>s. (Pers.)</i> Force, violence, <tam>பலோத்காரம்</tam>. 2. Stiffness, <tam>விறைப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜோறாவரி&searchhws=yes&matchtype=exact">ஜோறாவரி</a> jōṟāvari
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜோறாவரி</tam></hw> , <i>s.</i> depradation, <tam>கொள்ளை</tam>; 2. same as <tam>ஜோர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/winslow_query.py?qs=ஜோறாவரி&searchhws=yes&matchtype=exact">ஜோறாவரி</a> jōṟāvari
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜோறாவரி</tam></hw> , <i>s.</i> Depredation, <tam>கொள்ளை</tam>. 2. As <tam>ஜோர்</tam>. See <tam>சோராவரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/crea_query.py?qs=ஜோலி&searchhws=yes&matchtype=exact">ஜோலி</a> jōli
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=978">p. 978</a>)
+		<blockquote><p><hw>ஜோலி</hw> பெ. [பே.வ.] 1: வேலை; work; business. ஜோலி நிறைய இருக்கிறது./ 'அங்கே உனக்கு என்ன ஜோலி' என்று கேட்டார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோலி&searchhws=yes&matchtype=exact">ஜோலி</a> jōli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோலி¹</tam> <t>jōli</t></hw> , <i>n</i>. [T. <i>tjōli</i>, K. M. <i>jōli</i>.] 1. Work; <tam>வேலை</tam>. 2. Occupation; <tam>தொழில்</tam>. 3. Affairs; <tam>காரியம். என் ஜோலிக்கு வராதே</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோலி&searchhws=yes&matchtype=exact">ஜோலி</a> jōli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோலி²</tam> <t>jōli</t></hw> , <i>n</i>. Parbuckle; <tam>கப்பலிற் பாரத்தை யேற்றியிறக்குவதற்குரிய கயிறு</tam>. (<tam>மாலுமிசா</tam>. 232.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோலிகை&searchhws=yes&matchtype=exact">ஜோலிகை</a> jōlikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோலிகை</tam> <t>jōlikai</t></hw> , <i>n</i>. An inferior variety of betel vine; <tam>மட்டமான வெற்றிலைவகை</tam>. (<smallcap>G. S</smallcap>m. <smallcap>D. I</smallcap>, i, 215.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோலிதீர்-த்தல்&searchhws=yes&matchtype=exact">ஜோலிதீர்-த்தல்</a> jōlitīr-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோலிதீர்-த்தல்</tam> <t>jōli-tīr-</t></hw> , <i>v. tr</i>. < <tam>ஜோலி¹</tam> +. To kill; <tam>கொல்லுதல்</tam>. <i>Tinn</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/fabricius_query.py?qs=ஜோல்நா&searchhws=yes&matchtype=exact">ஜோல்நா</a> jōlnā
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=462">p. 462</a>)
+		<blockquote><p><hw><tam>ஜோல்நா</tam></hw> , <i>s.</i> a bag, see <tam>சொல்நா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/winslow_query.py?qs=ஜோல்நா&searchhws=yes&matchtype=exact">ஜோல்நா</a> jōlnā
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>ஜோல்நா</tam></hw> , <i>s.</i> A bag. See <tam>சோல்நா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோல்னா&searchhws=yes&matchtype=exact">ஜோல்னா</a> jōlṉā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோல்னா</tam> <t>jōlṉā</t></hw> , <i>n</i>. < Hind. <i>jōlnā</i>. See <tam>ஜோல்னாப்பை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/crea_query.py?qs=ஜோல்னாப்பை&searchhws=yes&matchtype=exact">ஜோல்னாப்பை</a> jōlṉāppai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=978">p. 978</a>)
+		<blockquote><p><hw>ஜோல்னாப்பை</hw> பெ. [பே.வ.] 1: தோளில் தொங்கவிட்டுக்கொள்ளும் துணிப் பை; (cloth) bag slung on one's shoulder.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோல்னாப்பை&searchhws=yes&matchtype=exact">ஜோல்னாப்பை</a> jōlṉāppai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோல்னாப்பை</tam> <t>jōlṉā-p-pai</t></hw> , <i>n</i>. < <tam>ஜோல்னா</tam> +. 1. Country doctor's medicine bag; <tam>நாட்டு வைத்தியரின் மருந்துப் பை</tam>. 2. Bag slung on one's shoulder, containing betel, areca-nuts and other things; <tam>வெற்றிலை பாக்குப் பை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோவெனல்&searchhws=yes&matchtype=exact">ஜோவெனல்</a> jōveṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3880">p. 3880</a>)
+		<blockquote><p><hw><tam>ஜோவெனல்</tam> <t>jō-v-eṉal</t></hw> , <i>n</i>. Onom. expr. of being tumultuous; <tam>ஒலிக்குறிப்பு. ஜோவென்று மழை பெய்தது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோஸ்யன்&searchhws=yes&matchtype=exact">ஜோஸ்யன்</a> jōsyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஜோஸ்யன்</tam> <t>jōsyaṉ</t></hw> , <i>n</i>. < <tam>ஜோஸ்யம்</tam>. Astrologer; <tam>சோதிடங் கூறுவோன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/tamil-idioms_query.py?qs=ஜோஸ்யமா தெரியும்&searchhws=yes&matchtype=exact">ஜோஸ்யமா தெரியும்</a> jōsyamā teriyum
+		from <a href="/dictionaries/tamil-idioms/"><i>"Taṟkālat Tamiḻ maraputtoṭar akarāti"</i></a>
+		(<a href="/cgi-bin/app/tamil-idioms_query.py?page=353">p. 353</a>)
+		<blockquote><p><hw>ஜோஸ்யமா தெரியும்</hw> <nmbr>1936</nmbr> <b>1:</b> என்ன அல்லது எப்படி நடக்கும் என்பதை முன்னரே அறிந்திருக்க முடியாது என்பதைத் தெரிவிக்கப் பயன்படுத்தும் தொடர்; 'how could one predict'; 'there is no way of telling'. 'அவரைக் கைதுசெய்திருக்கிறார்களே, அவரைச் சீக்கிரம் விட்டுவிடுவார்களா?' 'எனக்கென்ன ஜோஸ்யமா தெரியும்?'/ அவனும் படிக்கட்டும் என்றுதான் இந்தப் புத்தகத்தைக் கொடுத்தேன், இப்படித் தொலைத்துவிட்டு வருவான் என்று எனக்கு ஜோஸ்யமா தெரியும்?</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/crea_query.py?qs=ஜோஸ்யம்&searchhws=yes&matchtype=exact">ஜோஸ்யம்</a> jōsyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=978">p. 978</a>)
+		<blockquote><p><hw>ஜோஸ்யம்</hw> பெ. 1: சோதிடம்; astrology.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஜோஸ்யம்&searchhws=yes&matchtype=exact">ஜோஸ்யம்</a> jōsyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3881">p. 3881</a>)
+		<blockquote><p><hw><tam>ஜோஸ்யம்</tam> <t>jōsyam</t></hw> , <i>n</i>. < <i>jyōtiṣa</i>. Astrology. See <tam>சோதிடம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/crea_query.py?qs=ஜோஸ்யர்&searchhws=yes&matchtype=exact">ஜோஸ்யர்</a> jōsyar
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=978">p. 978</a>)
+		<blockquote><p><hw>ஜோஸ்யர்</hw> பெ. 1: சோதிடர்; astrologer.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

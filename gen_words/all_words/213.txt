@@ -1,0 +1,1139 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>லோ</b>
+                       <div id='no_results'>
+                                91 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோ&searchhws=yes&matchtype=exact">லோ</a> lō
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோ</tam> <t>lō</t></hw> . The compound of <tam>ல்</tam> and <tam>ஓ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோககண்டகன்&searchhws=yes&matchtype=exact">லோககண்டகன்</a> lōkakaṇṭakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோககண்டகன்</tam> <t>lōka-kaṇṭakaṉ</t></hw> , <i>n</i>. < <i>lōka</i> + <i>kaṇṭaka</i>. Very troublesome or wicked man, as a thorn afflicting the world; <tam>[உலகத் துக்கு முட்போன்றவன்] மிகக்கொடியோன்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோககதி&searchhws=yes&matchtype=exact">லோககதி</a> lōkakati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோககதி</tam> <t>lōka-kati</t></hw> , <i>n</i>. < id. +. Way of the world; <tam>உலக நடைமுறை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோககர்த்தா&searchhws=yes&matchtype=exact">லோககர்த்தா</a> lōkakarttā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோககர்த்தா</tam> <t>lōka-karttā</t></hw> , <i>n</i>. < id. +. Lord of the world; <tam>உலகத்துக்கு முதல்வன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகசஞ்சாரம்&searchhws=yes&matchtype=exact">லோகசஞ்சாரம்</a> lōkacañcāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகசஞ்சாரம்</tam> <t>lōka-cañcāram</t></hw> , <i>n</i>. < id. +. 1. Travelling in different countries of the world; <tam>பலதேசங்களில் யாத்திரை செய்கை</tam>. 2. Business outside one's house; outwork; <tam>வெளி முயற்சி</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகசஞ்சாரி&searchhws=yes&matchtype=exact">லோகசஞ்சாரி</a> lōkacañcāri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகசஞ்சாரி</tam> <t>lōka-cañcāri</t></hw> , <i>n</i>. < id. +. Traveller in many lands; <tam>பல தேசங்களில் யாத்திரை செய்வோன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகசாக்ஷி&searchhws=yes&matchtype=exact">லோகசாக்ஷி</a> lōkacākṣi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகசாக்ஷி</tam> <t>lōka-cākṣi</t></hw> , <i>n</i>. < id. +. God, as the Universal Witness; <tam>[யாவுங்காணுஞ் சான்று] கடவுள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகசிந்தூரம்&searchhws=yes&matchtype=exact">லோகசிந்தூரம்</a> lōkacintūram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகசிந்தூரம்</tam> <t>lōka-cintūram</t></hw> , <i>n</i>. < <i>lōha</i> +. Hydrated peroxide of iron, <i>Ferrugo</i>; <tam>அயச்சிந்தூரம். (இங். வை.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகதன்மணி&searchhws=yes&matchtype=exact">லோகதன்மணி</a> lōkataṉmaṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகதன்மணி</tam> <t>lōka-taṉmaṇi</t></hw> , <i>n</i>. < id. + id. (Šaiva.) A mode of initiation. See <tam>உலோகதருமிணி</tam>. (<tam>சி. சி</tam>. 8, 5, <tam>மறைஞா</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகதருமிணி&searchhws=yes&matchtype=exact">லோகதருமிணி</a> lōkatarumiṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகதருமிணி</tam> <t>lōka-tarumiṇi</t></hw> , <i>n</i>. < id. + <i>dharmiṇī</i>. (Šaiva.) A mode of initiation. See <tam>உலோகதருமிணி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகத்திரயம்&searchhws=yes&matchtype=exact">லோகத்திரயம்</a> lōkattirayam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகத்திரயம்</tam> <t>lōka-t-tirayam</t></hw> , <i>n</i>. < <i>lōka</i> +. The three worlds. See <tam>மூவுலகு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகபத்ததி&searchhws=yes&matchtype=exact">லோகபத்ததி</a> lōkapattati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகபத்ததி</tam> <t>lōka-pattati</t></hw> , <i>n</i>. < id. +. See <tam>லோககதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகபாலகர்&searchhws=yes&matchtype=exact">லோகபாலகர்</a> lōkapālakar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகபாலகர்</tam> <t>lōka-pālakar</t></hw> , <i>n</i>. < <i>lōka-pālaka</i>. 1. See <tam>லோகபாலர்</tam>, 1. <tam>அட்ட லோக பாலகரே</tam> (<tam>தக்கயாகப்</tam>. 468). 2. See <tam>லோகபாலர்</tam>, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/kadirvelu_query.py?qs=லோகபாலர்&searchhws=yes&matchtype=exact">லோகபாலர்</a> lōkapālar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1223">p. 1223</a>)
+		<blockquote><p><hw>லோகபாலர்</hw> - பூமிக்கு நாற்புறத்திலும் லோகாலோக பர்வதத்திலேயிருந்து பூமியைக் காக்கின்ற சுதந்தவன், சங் கன், ஹிரண்யரோமன், கேதுமந்தன் ஏன்னும்நால்வர் இப்பெயர்பெறுவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகபாலர்&searchhws=yes&matchtype=exact">லோகபாலர்</a> lōkapālar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகபாலர்</tam> <t>lōka-pālar</t></hw> , <i>n</i>. < <i>lōka-pāla</i>. 1. Regents of the eight directions. See <tam>உலோகபாலர்</tam>. 2. Kings; <tam>அரசர். லோகபால ரெயில் காவல் கூர்</tam> (<tam>தக்கயாகப்</tam>. 17).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகப்பிரசித்தம்&searchhws=yes&matchtype=exact">லோகப்பிரசித்தம்</a> lōkappiracittam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகப்பிரசித்தம்</tam> <t>lōka-p-piracittam</t></hw> , <i>n</i>. < id. +. That which is universally known; <tam>உலகத்தாரால் நன்கறியப்பட்டது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகமரியாதை&searchhws=yes&matchtype=exact">லோகமரியாதை</a> lōkamariyātai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகமரியாதை</tam> <t>lōka-mariyātai</t></hw> , <i>n</i>. < <i>lōka</i> +. Customs and manners of a country; <tam>உலகவழக்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகமாதா&searchhws=yes&matchtype=exact">லோகமாதா</a> lōkamātā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகமாதா</tam> <t>lōka-mātā</t></hw> , <i>n</i>. < id. + <i>mātṛ</i>. 1. See <tam>உலகமாதா</tam>, 1, 2. 2. Lakṣmī; <tam>இலட்சுமி</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/crea_query.py?qs=லோகம்&searchhws=yes&matchtype=exact">லோகம்</a> lōkam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=890">p. 890</a>)
+		<blockquote><p><hw>லோகம்</hw> பெ. [அ.வ.] 1: வாழும் இடம்; உலகம்; earth; world. நீ எந்த லோகத்தில் இருக்கிறாய்?/ இவளைப் போன்ற அழகி மூன்று லோகங்களிலும் கிடையாது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/fabricius_query.py?qs=லோகம்&searchhws=yes&matchtype=exact">லோகம்</a> lōkam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>லோகம்</tam></hw> , <i>s.</i> see <tam>உலோகம்</tam>, world; 2. metal etc. <p2><tam>லோகாபவாதம்</tam> (<tam>லோக</tam>+<tam>அபவாதம்</tam>) a world-wide-scandal.</p2> <p2><tam>லோகோபகாரி</tam> (<tam>லோக</tam>+<tam>உபகாரி</tam>) one who does benefit to the world.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகம்&searchhws=yes&matchtype=exact">லோகம்</a> lōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகம்¹</tam> <t>lōkam</t></hw> , <i>n</i>. < <i>lōka</i>. World. See <tam>உலகம். எல்லா லோகங்களும் இவருடைய</tam> (<tam>தக்கயாகப்</tam>. 38, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகம்&searchhws=yes&matchtype=exact">லோகம்</a> lōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகம்²</tam> <t>lōkam</t></hw> , <i>n</i>. < <i>lōha</i>. Metal. See <tam>உலோகம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/winslow_query.py?qs=லோகம்&searchhws=yes&matchtype=exact">லோகம்</a> lōkam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p>*<hw><tam>லோகம்</tam></hw> , <i>s.</i> World. 2. Metal, &c. See <tam>உலகம்</tam>, or <tam>உலோகம்</tam>. <p2><tam>லோகாபவாதம்</tam>, <i>s.</i> A world-wide-scandal.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகயாத்திரை&searchhws=yes&matchtype=exact">லோகயாத்திரை</a> lōkayāttirai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகயாத்திரை</tam> <t>lōka-yāttirai</t></hw> , <i>n</i>. < id. +. See <tam>லோககதி. இது ஒரு லோகயாத்திரை</tam> (<tam>ஈடு</tam>, 4, 9, 6).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகரக்ஷகன்&searchhws=yes&matchtype=exact">லோகரக்ஷகன்</a> lōkarakṣakaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகரக்ஷகன்</tam> <t>lōka-rakṣakaṉ</t></hw> , <i>n</i>. < id. +. Saviour of the world; <tam>உலகத்தைக் காப்போன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகரஞ்சனம்&searchhws=yes&matchtype=exact">லோகரஞ்சனம்</a> lōkarañcaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகரஞ்சனம்</tam> <t>lōka-rañcaṉam</t></hw> , <i>n</i>. < id. +. That which is popular or pleasing to the world; <tam>உலகிற்கு மகிழ்ச்சிதருவது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகரட்சை&searchhws=yes&matchtype=exact">லோகரட்சை</a> lōkaraṭcai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகரட்சை</tam> <t>lōka-raṭcai</t></hw> , <i>n</i>. < id. +. Protection of the world; <tam>உலகத்தைக் காக்கை. லோகரட்டையுந் தனுர்வேத வில்வலியும்</tam> (<tam>தக்கயாகப்</tam>. 468, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகரூடம்&searchhws=yes&matchtype=exact">லோகரூடம்</a> lōkarūṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகரூடம்</tam> <t>lōka-rūṭam</t></hw> , <i>n</i>. < id. + <i>rūḍha</i>. 1. That which is famous throughout the land; <tam>தேசமெங்கும் பிரசித்தமானது</tam>. 2. See <tam>லோகமரியாதை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகவிருத்தாந்தம்&searchhws=yes&matchtype=exact">லோகவிருத்தாந்தம்</a> lōkaviruttāntam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகவிருத்தாந்தம்</tam> <t>lōka-viruttāntam</t></hw> , <i>n</i>. < id. +. 1. See <tam>லோகாசாரம்</tam>. 2. Rumour; <tam>ஊர்ப்பேச்சு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகவேடணை&searchhws=yes&matchtype=exact">லோகவேடணை</a> lōkavēṭaṇai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகவேடணை</tam> <t>lōka-v-ēṭaṇai</t></hw> , <i>n</i>. < id. +. See <tam>உலகவேடணை</tam>. (<tam>நாமதீப</tam>. 576.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகாக்கிரசித்தர்&searchhws=yes&matchtype=exact">லோகாக்கிரசித்தர்</a> lōkākkiracittar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோகாக்கிரசித்தர்</tam> <t>lōkākkira-cittar</t></hw> , <i>n</i>. prob. id. + <i>agra</i> + <i>siddha</i>. A superior class of celestials; <tam>தேவருட்சிறந்த ஒருசாரார்</tam> (<tam>தக்கயாகப்</tam>. 352, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகாசாரம்&searchhws=yes&matchtype=exact">லோகாசாரம்</a> lōkācāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகாசாரம்</tam> <t>lōkācāram</t></hw> , <i>n</i>. < id. + <i>ācāra</i>. Customs of the people, ways of the world, common practice; <tam>உலகத்தாரொழுக்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகாசாரியர்&searchhws=yes&matchtype=exact">லோகாசாரியர்</a> lōkācāriyar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகாசாரியர்</tam> <t>lōkācāriyar</t></hw> , <i>n</i>. < <i>Lōkācārya</i>. See <tam>பிள்ளைலோகாசாரியர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகாதிபதி&searchhws=yes&matchtype=exact">லோகாதிபதி</a> lōkātipati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகாதிபதி</tam> <t>lōkātipati</t></hw> , <i>n</i>. < <i>lōkādhipati</i>. 1. Lord of the Universe; <tam>உலகமுதல்வன்</tam>. 2. Emperor; <tam>சக்கரவர்த்தி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகாதீதம்&searchhws=yes&matchtype=exact">லோகாதீதம்</a> lōkātītam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகாதீதம்</tam> <t>lōkātītam</t></hw> , <i>n</i>. < <i>lōkātīta</i>. The supernatural; the ultramundance; <tam>உலகத் துக்கு அப்பாற்பட்டது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகாந்தரமடை-தல்&searchhws=yes&matchtype=exact">லோகாந்தரமடை-தல்</a> lōkāntaramaṭai-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகாந்தரமடை-தல்</tam> <t>lōkāntaram-aṭai-</t></hw> , <i>v. intr</i>. < <tam>லோகாந்தரம்</tam> +. To die; <tam>மரணமடைதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகாந்தரம்&searchhws=yes&matchtype=exact">லோகாந்தரம்</a> lōkāntaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகாந்தரம்</tam> <t>lōkāntaram</t></hw> , <i>n</i>. < <i>lōkāntara</i>. The world beyond; <tam>வேறுலகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகாபவாதம்&searchhws=yes&matchtype=exact">லோகாபவாதம்</a> lōkāpavātam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகாபவாதம்</tam> <t>lōkāpavātam</t></hw> , <i>n</i>. < <i>lōkā- pavāda</i>. Censure of the world; public scandal; <tam>பெரும்பழி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகாபிராமம்&searchhws=yes&matchtype=exact">லோகாபிராமம்</a> lōkāpirāmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகாபிராமம்</tam> <t>lōkāpirāmam</t></hw> , <i>n</i>. < <i>lōkā- bhirāma</i>. 1. That which is pleasing to the world; <tam>உலகத்திற்கு மகிழ்ச்சி தருவது</tam>. 2. General talk; rumour; <tam>ஊர்ப்பேச்சு. லோகாபிராமமாகப் பேசிக்கொண்டிருந்தார்கள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகாயதன்&searchhws=yes&matchtype=exact">லோகாயதன்</a> lōkāyataṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகாயதன்</tam> <t>lōkāyataṉ</t></hw> , <i>n</i>. < <i>lōkāyata</i>. Materialist. See <tam>உலோகாயதன். லோகாயதன் சமயநடைசாராமல்</tam> (<tam>தாயு. மௌன</tam>. 4).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/crea_query.py?qs=லோகாயதம்&searchhws=yes&matchtype=exact">லோகாயதம்</a> lōkāyatam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=890">p. 890</a>)
+		<blockquote><p><hw>லோகாயதம்</hw> பெ. "தத்." காண்க: உலகாயதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகாயதம்&searchhws=yes&matchtype=exact">லோகாயதம்</a> lōkāyatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகாயதம்</tam> <t>lōkāyatam</t></hw> , <i>n</i>. < <i>lōkāyata</i>. Materialism. See <tam>உலோகாயதம்</tam>. (<tam>தக்கயாகப்</tam>. 378, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகாயதிகன்&searchhws=yes&matchtype=exact">லோகாயதிகன்</a> lōkāyatikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S404">p. S404</a>)
+		<blockquote><p><hw><tam>லோகாயதிகன்</tam> <t>lōkāyatikaṉ</t></hw> , <i>n</i>. < <i>lōkāyata</i>. (Phil.) Materialist. See <tam>உலோகாயதன்</tam>. (<tam>ஈடு, முதல் ஶ்ரீய: பதி, அவ. பக்</tam>. 51.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/kadirvelu_query.py?qs=லோகாலோகம்&searchhws=yes&matchtype=exact">லோகாலோகம்</a> lōkālōkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1223">p. 1223</a>)
+		<blockquote><p><hw>லோகாலோகம்</hw> - சக்கரவாளகிரி இதுவ ட்டவடிவாயிருப்பது, இதுவரைக்கு ந்தான் சூரியகிரணம் வியாபிக்கும், ம னிதர்வசிக்க வொண்ணாத பூப்பிர தேசம் அலோகமென்றும் வசித்தற் குரியது லோகமென்றும் சொல்லப் படும், பூகோளத்தின் அத்யுத்தரபா கமும் அதிதக்ஷிணபாகமும் அலோ கமாம், இரண்டையும் பிரிக்குமெல் லையே லோகாலோக பர்வதமாம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகாலோகம்&searchhws=yes&matchtype=exact">லோகாலோகம்</a> lōkālōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகாலோகம்</tam> <t>lōkālōkam</t></hw> , <i>n</i>. < <i>lōkālōka</i>. A mythical range of mountains. See <tam>சக்கரவாளம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகிதம்&searchhws=yes&matchtype=exact">லோகிதம்</a> lōkitam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகிதம்</tam> <t>lōkitam</t></hw> , <i>n</i>. < <i>lōhita</i>. Redness, that which is red; <tam>செந்நிறமானது. லோகிதமல ரோடும்</tam> (<tam>இரகு. திக்குவி</tam>. 264).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/kadirvelu_query.py?qs=லோகிதாசியன்&searchhws=yes&matchtype=exact">லோகிதாசியன்</a> lōkitāciyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1223">p. 1223</a>)
+		<blockquote><p><hw>லோகிதாசியன்</hw> - அரிச்சந்திரன்மகன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/kadirvelu_query.py?qs=லோகித்தியநதி&searchhws=yes&matchtype=exact">லோகித்தியநதி</a> lōkittiyanati
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1223">p. 1223</a>)
+		<blockquote><p><hw>லோகித்தியநதி</hw> - தேவாரணியத்தருகே யுள்ள வோர்நதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகோக்தி&searchhws=yes&matchtype=exact">லோகோக்தி</a> lōkōkti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S404">p. S404</a>)
+		<blockquote><p><hw><tam>லோகோக்தி</tam> <t>lōkōkti</t></hw> , <i>n</i>. < <i>lōkōkti</i>. Popular saying; <tam>பழமொழி. உன்செவியில் புண் ணைக் குறிக்கொண்டிரு என்றிறே லோகோக்தியும்</tam> (<tam>திவ். பெரியாழ்</tam>. 2, 3, 1, <tam>வ்யா. பக்</tam>. 275).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகோத்தமரசம்&searchhws=yes&matchtype=exact">லோகோத்தமரசம்</a> lōkōttamaracam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகோத்தமரசம்</tam> <t>lōkōttama-racam</t></hw> , <i>n</i>. < <i>lōkōttama-rasa</i>. A purgative; <tam>ஒருவகைப் பேதிமருந்து. (பைஷஜ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகோத்தரம்&searchhws=yes&matchtype=exact">லோகோத்தரம்</a> lōkōttaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகோத்தரம்</tam> <t>lōkōttaram</t></hw> , <i>n</i>. < <i>lōkōttara</i>. That which is excellent in every way; <tam>மிகச்சிறந்தது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோகோபகாரம்&searchhws=yes&matchtype=exact">லோகோபகாரம்</a> lōkōpakāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோகோபகாரம்</tam> <t>lōkōpakāram</t></hw> , <i>n</i>. < <i>lōkōpakāra</i>. Public good; general good; <tam>உலகநன்மை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோக்கியம்&searchhws=yes&matchtype=exact">லோக்கியம்</a> lōkkiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3443">p. 3443</a>)
+		<blockquote><p><hw><tam>லோக்கியம்</tam> <t>lōkkiyam</t></hw> , <i>n</i>. < <i>lōkya</i>. See <tam>லௌகீகம்</tam>, 1. <tam>சகல லோக்கியமே தானாளுறு மசுர பார்த்திபனோடே</tam> (<tam>திருப்பு</tam>. 1080).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/fabricius_query.py?qs=லோடா&searchhws=yes&matchtype=exact">லோடா</a> lōṭā
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>லோடா</tam></hw> , <tam>லோட்டா</tam>, <i>s. (Mahr.)</i> a drinking vessel.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோடா&searchhws=yes&matchtype=exact">லோடா</a> lōṭā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோடா</tam> <t>lōṭā</t></hw> , <i>n</i>. See <tam>லோட்டா</tam>, 1. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/winslow_query.py?qs=லோடா&searchhws=yes&matchtype=exact">லோடா</a> lōṭā
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p><hw><tam>லோடா</tam></hw> , <i>s. [Mahr.]</i> A drinking vessel, <tam>செம்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோடு&searchhws=yes&matchtype=exact">லோடு</a> lōṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோடு</tam> <t>lōṭu</t></hw> , <i>n</i>. prob. Hindi <i>luṭ</i>. Loss; deficiency; <tam>குறைவு</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/crea_query.py?qs=லோட்டா&searchhws=yes&matchtype=exact">லோட்டா</a> lōṭṭā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=890">p. 890</a>)
+		<blockquote><p><hw>லோட்டா</hw> பெ. 1: (நீர் குடிப்பதற்கான) நீள் உருண்டை வடிவக் குவளை; tumbler (made of metal).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோட்டா&searchhws=yes&matchtype=exact">லோட்டா</a> lōṭṭā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோட்டா</tam> <t>lōṭṭā</t></hw> , <i>n</i>. < U. <i>lōṭā</i> < Arab. <i>luṭiyā</i>. 1. Pipkin; a small metal pot, generally of brass; <tam>நீர்குடிக்கும் பாத்திரவகை</tam>. <i>Colloq</i>. 2. A necklace of gold beads; <tam>கழுத்தணிவகை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/fabricius_query.py?qs=லோட்டு&searchhws=yes&matchtype=exact">லோட்டு</a> lōṭṭu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>லோட்டு</tam></hw> , <i>s.</i> trouble, <tam>வருத்தம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/winslow_query.py?qs=லோட்டு&searchhws=yes&matchtype=exact">லோட்டு</a> lōṭṭu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p><hw><tam>லோட்டு</tam></hw> , <i>s.</i> Trouble, <tam>வருத்தம்</tam>, <i>(Colloq.)</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோத்திரம்&searchhws=yes&matchtype=exact">லோத்திரம்</a> lōttiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோத்திரம்</tam> <t>lōttiram</t></hw> , <i>n</i>. < <i>lōdhra</i>. Lodhra tree; <tam>வெள்ளிலோத்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோத்துகம்&searchhws=yes&matchtype=exact">லோத்துகம்</a> lōttukam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோத்துகம்</tam> <t>lōttukam</t></hw> , <i>n</i>. See <tam>லோத்திரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோந்து&searchhws=yes&matchtype=exact">லோந்து</a> lōntu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோந்து</tam> <t>lōntu</t></hw> , <i>n</i>. < Fr. <i>ronde</i>. Night patrol; <tam>இராக்காவல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோபன்&searchhws=yes&matchtype=exact">லோபன்</a> lōpaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோபன்</tam> <t>lōpaṉ</t></hw> , <i>n</i>. < <i>lōbha</i>. Miser. See <tam>உலோபன். லோபன் மகன் டம்பன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/fabricius_query.py?qs=லோபம்&searchhws=yes&matchtype=exact">லோபம்</a> lōpam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p>*<hw><tam>லோபம்</tam></hw> , <i>s.</i> see <tam>உலோபம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோபம்&searchhws=yes&matchtype=exact">லோபம்</a> lōpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோபம்¹</tam> <t>lōpam</t></hw> , <i>n</i>. < <i>lōpa</i>. 1. (Gram.) Elision; <tam>கெடுதல்விகாரம். ஆதேசலோபம்</tam> (<tam>பி. வி</tam>. 26). 2. Defect, deficiency; <tam>குறைவு. மந்திர கிரி யாலோப மின்றியே</tam> (<tam>அறப். சத</tam>. 81).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோபம்&searchhws=yes&matchtype=exact">லோபம்</a> lōpam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோபம்²</tam> <t>lōpam</t></hw> , <i>n</i>. < <i>lōbha</i>. 1. Avarice. See <tam>உலோபம்¹</tam>. <tam>லோப மருளின்மை கூடக்கலந்துள் ளிருக்க</tam> (<tam>தாயு. சின்மயா</tam>. 3). 2. Stinginess; <tam>கடுஞ் செட்டு</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/winslow_query.py?qs=லோபம்&searchhws=yes&matchtype=exact">லோபம்</a> lōpam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=909">p. 909</a>)
+		<blockquote><p>*<hw><tam>லோபம்</tam></hw> , <i>s.</i> Stinginess, &c. See <tam>உலோபம்</tam>. <p2><tam>லோபி</tam>, <i>s.</i> An avaricious person.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/kadirvelu_query.py?qs=லோபாமுத்திரை&searchhws=yes&matchtype=exact">லோபாமுத்திரை</a> lōpāmuttirai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1223">p. 1223</a>)
+		<blockquote><p><hw>லோபாமுத்திரை</hw> - அகஸ்தியமுனிவர் ம னைவி, விதர்ப்பதேசத்தரசன் மகள், புலஸ்தியர் தங்கை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/crea_query.py?qs=லோபி&searchhws=yes&matchtype=exact">லோபி</a> lōpi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=890">p. 890</a>)
+		<blockquote><p><hw>லோபி</hw> பெ. [அ.வ.] 1: கஞ்சன்; கருமி; miser. அவர் மகா லோபி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோபி&searchhws=yes&matchtype=exact">லோபி</a> lōpi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோபி¹</tam> <t>lōpi</t></hw> , <i>n</i>. < <i>lōbhin</i>. See <tam>உலோபி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோபி-த்தல்&searchhws=yes&matchtype=exact">லோபி-த்தல்</a> lōpi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோபி²-த்தல்</tam> <t>lōpi-</t></hw> , <i>11 v. intr</i>. < <i>lōbha</i>. See <tam>உலோபி²-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோபி-த்தல்&searchhws=yes&matchtype=exact">லோபி-த்தல்</a> lōpi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோபி³-த்தல்</tam> <t>lōpi-</t></hw> , <i>11 v. tr. & intr</i>. < <i>lōpa</i>. See <tam>உலோபி³-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோபு-தல்&searchhws=yes&matchtype=exact">லோபு-தல்</a> lōpu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோபு-தல்</tam> <t>lōpu-</t></hw> , <i>5 v. intr</i>. < id. See <tam>உலோபு-. லோபியுண்ணார்</tam> (<tam>தேவா</tam>. 55. 7).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோபை&searchhws=yes&matchtype=exact">லோபை</a> lōpai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோபை</tam> <t>lōpai</t></hw> , <i>n</i>. prob. <i>lōbhā</i>. Pārvatī; <tam>பார்வதி</tam>. (<tam>கூர்மபு. திருக்கலி</tam>. 22.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/kadirvelu_query.py?qs=லோமபாதன்&searchhws=yes&matchtype=exact">லோமபாதன்</a> lōmapātaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1223">p. 1223</a>)
+		<blockquote><p><hw>லோமபாதன்</hw> - அங்கதேசத்தரசன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோம்பர்&searchhws=yes&matchtype=exact">லோம்பர்</a> lōmpar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோம்பர்</tam> <t>lōmpar</t></hw> , <i>n</i>. A kind of iron; <tam>இரும்புவகை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோலக்கம்&searchhws=yes&matchtype=exact">லோலக்கம்</a> lōlakkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோலக்கம்</tam> <t>lōlakkam</t></hw> , <i>n</i>. cf. <i>lōla</i>. Restless wandering; <tam>திண்டாட்டம். அவன் அங்குமிங்கும் லோலக்கமாடுகிறான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோலக்கு&searchhws=yes&matchtype=exact">லோலக்கு</a> lōlakku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோலக்கு</tam> <t>lōlakku</t></hw> , <i>n</i>. See <tam>லோலாக்கு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோலன்&searchhws=yes&matchtype=exact">லோலன்</a> lōlaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3445">p. 3445</a>)
+		<blockquote><p><hw><tam>லோலன்</tam> <t>lōlaṉ</t></hw> , <i>n</i>. < <i>lōla</i>. 1. One who is sportive or playful; <tam>விளையாடித் திரிபவன். முத் தலைச் சூலனே லோலனே</tam> (<tam>அறப். சத</tam>. 17). 2. One who dallies with women; <tam>ஸ்திரீலோலன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோலம்&searchhws=yes&matchtype=exact">லோலம்</a> lōlam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோலம்</tam> <t>lōlam</t></hw> , <i>n</i>. < <i>lōla</i>. 1. Unsteadiness; restlessness; <tam>அலைவு</tam>. 2. Greediness; lustfulness; passion; <tam>ஆசைப்பெருக்கம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோலயப்படு-தல்&searchhws=yes&matchtype=exact">லோலயப்படு-தல்</a> lōlayappaṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோலயப்படு-தல்</tam> <t>lōlaya-p-paṭu-</t></hw> , <i>v. intr</i>. < <tam>லோலாயம்</tam> +. See <tam>லோல்படு-</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/kadirvelu_query.py?qs=லோலா&searchhws=yes&matchtype=exact">லோலா</a> lōlā
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1223">p. 1223</a>)
+		<blockquote><p><hw>லோலா</hw> - லோலை, லவணாசுரன் தந்தை யாகிய மதுவின் தாய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/crea_query.py?qs=லோலாக்கு&searchhws=yes&matchtype=exact">லோலாக்கு</a> lōlākku
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=890">p. 890</a>)
+		<blockquote><p><hw>லோலாக்கு</hw> பெ. 1: தொங்கட்டான்; a pendant fastened to the ear lobe.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோலாக்கு&searchhws=yes&matchtype=exact">லோலாக்கு</a> lōlākku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3445">p. 3445</a>)
+		<blockquote><p><hw><tam>லோலாக்கு</tam> <t>lōlākku</t></hw> , <i>n</i>. < U. <i>lōlak</i>. A pendant suspended from the lobe of the ear; <tam>காதில் தொங்கவிடும் அணிவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோலாயப்படு-தல்&searchhws=yes&matchtype=exact">லோலாயப்படு-தல்</a> lōlāyappaṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3445">p. 3445</a>)
+		<blockquote><p><hw><tam>லோலாயப்படு-தல்</tam> <t>lōlāya-p-paṭu-</t></hw> , <i>v. intr</i>. < <tam>லோலாயம்</tam> +. See <tam>லோல்படு-</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோலாயம்&searchhws=yes&matchtype=exact">லோலாயம்</a> lōlāyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3445">p. 3445</a>)
+		<blockquote><p><hw><tam>லோலாயம்</tam> <t>lōlāyam</t></hw> , <i>n</i>. < <i>dōlāyamāna</i>. See <tam>லோலக்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோலோவென்றலை-தல்&searchhws=yes&matchtype=exact">லோலோவென்றலை-தல்</a> lōlōveṉṟalai-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3445">p. 3445</a>)
+		<blockquote><p><hw><tam>லோலோவென்றலை-தல்</tam> <t>lōlō-v-eṉṟalai-</t></hw> , <i>v. intr</i>. To wander restlessly; <tam>திண்டாடித் திரிதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/crea_query.py?qs=லோல்படு&searchhws=yes&matchtype=exact">லோல்படு</a> lōlpaṭu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=890">p. 890</a>)
+		<blockquote><p><hw>லோல்படு</hw> வி. (-பட, -பட்டு) [பே.வ.] 1: (பல விதங்களிலும்) சிரமப்படுதல்; துன்பப்படுதல்; திண்டாடுதல்; be plagued by; feel wretched. அரிசி இல்லை, எண்ணெய் இல்லை என்று லோல்பட வேண்டியிருக்கிறது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/tamil-lex_query.py?qs=லோல்படு-தல்&searchhws=yes&matchtype=exact">லோல்படு-தல்</a> lōlpaṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3444">p. 3444</a>)
+		<blockquote><p><hw><tam>லோல்படு-தல்</tam> <t>lōl-paṭu-</t></hw> , <i>v. intr</i>. < <i>lōla</i> +. 1. To wander about restlessly; to be tossed about; <tam>திண்டாடுதல். அவன் அங்குமிங்கும் லோல் படுகிறான்</tam>. 2. To be over-plentiful, as a commodity; <tam>மலிந்து கிடத்தல்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

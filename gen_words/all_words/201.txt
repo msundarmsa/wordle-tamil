@@ -1,0 +1,1079 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>ரோ</b>
+                       <div id='no_results'>
+                                85 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோ&searchhws=yes&matchtype=exact">ரோ</a> rō
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரோ</tam> <t>rō</t></hw> . Compound of <tam>ர்</tam> and <tam>ஓ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகசாந்தி&searchhws=yes&matchtype=exact">ரோகசாந்தி</a> rōkacānti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரோகசாந்தி</tam> <t>rōka-cānti</t></hw> , <i>n</i>. < <i>rōga</i> +. 1. Alleviation or cure of disease; <tam>நோய்குணமாகை</tam>. 2. A purificatory ceremony for the cure of diseases; <tam>நோய் நீங்கும்பொருட்டுச் செய்யுஞ் சடங்கு வகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகணி&searchhws=yes&matchtype=exact">ரோகணி</a> rōkaṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரோகணி</tam> <t>rōkaṇi</t></hw> , <i>n</i>. < <i>kaṭu-rōhiṇī</i>. Christmas rose. See <tam>கடுரோகிணி. (பாலவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகநிதானசாஸ்திரம்&searchhws=yes&matchtype=exact">ரோகநிதானசாஸ்திரம்</a> rōkanitāṉacāstiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S403">p. S403</a>)
+		<blockquote><p><hw><tam>ரோகநிதானசாஸ்திரம்</tam> <t>rōka-nitāṉa-cāstiram</t></hw> , <i>n</i>. < <i>rōga</i> +. Pathology; <tam>ரோகத்தின் தன்மையை உணர்த்துஞ் சாஸ்திரம்</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகநிதானம்&searchhws=yes&matchtype=exact">ரோகநிதானம்</a> rōkanitāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரோகநிதானம்</tam> <t>rōka-nitāṉam</t></hw> , <i>n</i>. < <i>rōga</i> +. Diagnosis of disease; <tam>வியாதியை இன்ன தென்று கண்டறிகை</tam>. (<smallcap>M. L</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகநிவாரணம்&searchhws=yes&matchtype=exact">ரோகநிவாரணம்</a> rōkanivāraṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரோகநிவாரணம்</tam> <t>rōka-nivāraṇam</t></hw> , <i>n</i>. < id. +. Cure of disease; <tam>நோய்நீங்குகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகபஞ்சகம்&searchhws=yes&matchtype=exact">ரோகபஞ்சகம்</a> rōkapañcakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரோகபஞ்சகம்</tam> <t>rōka-pañcakam</t></hw> , <i>n</i>. < id. +. (Astrol.) An inauspicious period of time, believed to cause disease to the person commencing a work during that period, one of <i>pañcakam</i>, q.v.; <tam>பஞ்சகங்களுள் தொழிலைத் தொடங்குவோனுக்கு நோயைக் கொடுப்பதாகக் கரு தப்படும் அசுபவேளை. (பஞ்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/crea_query.py?qs=ரோகம்&searchhws=yes&matchtype=exact">ரோகம்</a> rōkam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரோகம்</hw> பெ. 1: (பொதுவாக) நோய்; வியாதி; (குறிப்பாக) தொழுநோய்; (generally) disease; (esp.) leprosy.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகம்&searchhws=yes&matchtype=exact">ரோகம்</a> rōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரோகம்</tam> <t>rōkam</t></hw> , <i>n</i>. < <i>rōga</i>. Disease, of three kinds, viz., <i>cāttiya-rōkam, acāttiya-rōkam, yāppiya-rōkam</i>; <tam>சாத்தியரோகம், அசாத்தியரோகம், யாப்பியரோகம் என மூவகைப்பட்ட நோய்</tam>. (<tam>குறள்</tam>, 949, <tam>கீழ்க்குறிப்பு</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகராஜம்&searchhws=yes&matchtype=exact">ரோகராஜம்</a> rōkarājam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரோகராஜம்</tam> <t>rōka-rājam</t></hw> , <i>n</i>. < id. +. Tuberculosis; consumption; <tam>க்ஷயரோகம்</tam>. (<tam>பை ஷஜ</tam>. 309.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகஸ்தன்&searchhws=yes&matchtype=exact">ரோகஸ்தன்</a> rōkastaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோகஸ்தன்</tam> <t>rōkastaṉ</t></hw> , <i>n</i>. < <i>rōga-stha</i>. See <tam>ரோகி</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகஸ்தானம்&searchhws=yes&matchtype=exact">ரோகஸ்தானம்</a> rōkastāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோகஸ்தானம்</tam> <t>rōka-sthāṉam</t></hw> , <i>n</i>. < <i>rōga</i> +. (Astrol.) The sixth house from the ascendant in a horoscope, indicating particulars of ill-health; <tam>இராசிச்சக்கரத்தில் நோய்க்குரிய ஆறாம் வீடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகா&searchhws=yes&matchtype=exact">ரோகா</a> rōkā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோகா</tam> <t>rōkā</t></hw> , <i>n</i>. < U. <i>ruqqā</i>. 1. Bit, piece; <tam>துண்டு</tam>. 2. Chit, note; <tam>சீட்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/crea_query.py?qs=ரோகி&searchhws=yes&matchtype=exact">ரோகி</a> rōki
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரோகி</hw> பெ. [அ.வ.] 1: (பொதுவாக) நோயாளி; (குறிப்பாக) குஷ்டரோகி; (generally) sick person; (esp.) leper.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகி&searchhws=yes&matchtype=exact">ரோகி</a> rōki
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோகி</tam> <t>rōki</t></hw> , <i>n</i>. < <i>rōgin</i>. Diseased person; <tam>நோயாளி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரோகிணம், ரோஹிணம்&searchhws=yes&matchtype=exact">ரோகிணம், ரோஹிணம்</a> rōkiṇam, rōhiṇam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1221">p. 1221</a>)
+		<blockquote><p><hw>ரோகிணம், ரோஹிணம்</hw> <tam>1</tam> ஒருமலை, இந்தமலை யிலேஅநேக ரத்நா கரங்களுண்டு, <tam>2</tam> ஒருமரம், இதி லே வாலகில்லியர் தலைகீழாகத்தூங் கித்தவஞ்செய்துகொண்டிருந்தபோ து கருடன் அமிர்தங்கொண்டு வரப் போனது, அவன் தனக்கு வழியுண வாக ஒரு யானையையும் ஒரு ஆமை யையும் கொண்டுபோய், இந்த மரத் தின்கிளை யொன்றின்மேல் உட்கா ர்ந்தவுடனே இவனது பாரம்பொறு க்கமாட்டாமல் அந்தமரம் ஒடிந்து அடியோடு சாய்ந்து விட்டது. சாய் ந்தவுடனே அந்தமரம் விழுவதற்கு முன்னே கருடனெழுந்து தன்காலி லகப்பட்ட அம்மரத்தையும் அவ்வு ணவையும் உடன் கொண்டுபோய் நி ஷபுருஷமலையிலே யிறங்கித் தனது உணவைத் தின்றுவிட்டான். அந்தம ரத்தில் தொங்கிக்கொண்டிருந்த வா லகில்லியரும் அந்த மரத்தோடு கொ ண்டுபோய் இந்த மலையில்விடப்பட் டார்கள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/crea_query.py?qs=ரோகிணி&searchhws=yes&matchtype=exact">ரோகிணி</a> rōkiṇi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரோகிணி</hw> பெ. "சோதி." 1: இருபத்தேழு நட்சத்திரங்களில் நான்காவது; the fourth of the twentyseven stars.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகிணி&searchhws=yes&matchtype=exact">ரோகிணி</a> rōkiṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோகிணி</tam> <t>rōkiṇī</t></hw> , <i>n</i>. < <i>rōhiṇī</i>. 1. The fourth <i>nakṣatra</i>. See <tam>உரோகிணி</tam>, 1. 2. (Mus.) A division of the sixth note of the gamut; <tam>தைவதசுரத்தின்வகை</tam>. (<tam>பரத. இராக</tam>. 45.) 3. The mother of Balarāma; <tam>பலராமனின் தாய்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோகிதமீன்&searchhws=yes&matchtype=exact">ரோகிதமீன்</a> rōkitamīṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோகிதமீன்</tam> <t>rōkita-mīṉ</t></hw> , <i>n</i>. < <i>rōhita</i> +. A kind of fish; <tam>ஒருவகை மீன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோக்கா&searchhws=yes&matchtype=exact">ரோக்கா</a> rōkkā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3432">p. 3432</a>)
+		<blockquote><p><hw><tam>ரோக்கா</tam> <t>rōkkā</t></hw> , <i>n</i>. < U. <i>ruqqā</i>. 1. See <tam>ரோகா</tam>. <i>Loc</i>. 2. A written acknowledgment of a debt; <tam>கடன்தொகையைக் குறிக்கும் அத்தாட்சிச் சீட்டு</tam>. (<smallcap>R. T</smallcap>.) 3. An order issued by the Government authorising specific payments or supplies; <tam>பணம் அல்லது பண்டங்களை யனுப்புமாறு கூறும் அரசாங்க உத்திரவு</tam>. (<smallcap>R. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோசனம்&searchhws=yes&matchtype=exact">ரோசனம்</a> rōcaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோசனம்</tam> <t>rōcaṉam</t></hw> , <i>n</i>. See <tam>ரோஜனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரோசனை&searchhws=yes&matchtype=exact">ரோசனை</a> rōcaṉai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1220">p. 1220</a>)
+		<blockquote><p><hw>ரோசனை</hw> - வசுதேவர்பாரிகளுள்ஒருத்தி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோசனை&searchhws=yes&matchtype=exact">ரோசனை</a> rōcaṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோசனை¹</tam> <t>rōcaṉai</t></hw> , <i>n</i>. < <i>rōcanā</i>. Cow's bezoar. See <tam>கோரோசனை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோசனை&searchhws=yes&matchtype=exact">ரோசனை</a> rōcaṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோசனை²</tam> <t>rōcaṉai</t></hw> , <i>n</i>. Corr. of <tam>ஆலோசனை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோசம்&searchhws=yes&matchtype=exact">ரோசம்</a> rōcam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோசம்</tam> <t>rōcam</t></hw> , <i>n</i>. See <tam>ரோஷம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/winslow_query.py?qs=ரோசம்&searchhws=yes&matchtype=exact">ரோசம்</a> rōcam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=908">p. 908</a>)
+		<blockquote><p>*<hw><tam>ரோசம்</tam></hw> –<tam>ரோஷம்</tam>, <i>s.</i> Keen sensibility. See <tam>உரோசம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோசாம்பரம்&searchhws=yes&matchtype=exact">ரோசாம்பரம்</a> rōcāmparam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S403">p. S403</a>)
+		<blockquote><p><hw><tam>ரோசாம்பரம்</tam> <t>rōcāmparam</t></hw> , <i>n</i>. A flowering plant; <tam>பூச்செடிவகை</tam>. <i>Madr</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஜனக்களிம்பு&searchhws=yes&matchtype=exact">ரோஜனக்களிம்பு</a> rōjaṉakkaḷimpu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோஜனக்களிம்பு</tam> <t>rōjaṉa-k-kaḷimpu</t></hw> , <i>n</i>. < <tam>ரோஜனம்</tam> +. Ointment of resin, <i>Unguentum resinae</i>; <tam>பிளாஸ்திரிவகை</tam>. (<tam>பைஷஜ</tam>. 128.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஜனப்பிளாஸ்திரி&searchhws=yes&matchtype=exact">ரோஜனப்பிளாஸ்திரி</a> rōjaṉappiḷāstiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3434">p. 3434</a>)
+		<blockquote><p><hw><tam>ரோஜனப்பிளாஸ்திரி</tam> <t>rōjaṉa-p-piḷāstiri</t></hw> , <i>n</i>. < id. +. Sticking plaster, resin plaster, <i>Emplastrum resinae</i>; <tam>பிளாஸ்திரிவகை</tam>. (<smallcap>M. L</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஜனம்&searchhws=yes&matchtype=exact">ரோஜனம்</a> rōjaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3434">p. 3434</a>)
+		<blockquote><p><hw><tam>ரோஜனம்</tam> <t>rōjaṉam</t></hw> , <i>n</i>. < E. Rosin, resin; <tam>காய்ச்சின் பிசின்</tam>. (<tam>பைஷஜ</tam>. 128.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/crea_query.py?qs=ரோஜா&searchhws=yes&matchtype=exact">ரோஜா</a> rōjā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரோஜா</hw> பெ. 1: (பெரும்பாலும்) வெளிர்ச் சிவப்பு அல்லது இளம் சிவப்பு நிறத்தில் அடுக்கடுக்கான சிறிய இதழ்களைக் கொண்ட மலர்; rose.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/mcalpin_query.py?qs=ரோஜா&searchhws=yes&matchtype=exact">ரோஜா</a> rōjā
+		from <a href="/dictionaries/mcalpin/">McAlpin's <i>"A core vocabulary for Tamil"</i></a>
+		(<a href="/cgi-bin/app/mcalpin_query.py?page=62">p. 62</a>)
+		<blockquote><p><hw><tam>ரோஜா</tam></hw> roojaa <tam>ரோஜா</tam> rose</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஜா&searchhws=yes&matchtype=exact">ரோஜா</a> rōjā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3434">p. 3434</a>)
+		<blockquote><p><hw><tam>ரோஜா</tam> <t>rōjā</t></hw> , <i>n</i>. < Lat. <i>rosa</i>. Rose; <tam>பூச்செடிவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஜு&searchhws=yes&matchtype=exact">ரோஜு</a> rōju
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3434">p. 3434</a>)
+		<blockquote><p><hw><tam>ரோஜு</tam> <t>rōju</t></hw> , <i>n</i>. < Hind. <i>rōz</i>. See <tam>ரோஜுநாமா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஜுநாமா&searchhws=yes&matchtype=exact">ரோஜுநாமா</a> rōjunāmā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3434">p. 3434</a>)
+		<blockquote><p><hw><tam>ரோஜுநாமா</tam> <t>rōju-nāmā</t></hw> , <i>n</i>. < <tam>ரோஜு</tam> +. Journal, day-book; <tam>நாள்வழிக் கணக்குப்புத்தகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஜுவடி&searchhws=yes&matchtype=exact">ரோஜுவடி</a> rōjuvaṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3434">p. 3434</a>)
+		<blockquote><p><hw><tam>ரோஜுவடி</tam> <t>rōju-vaṭi</t></hw> , <i>n</i>. < Fr. <i>rouge</i> +. <tam>²-</tam>. Polish for brightening jewels of silver and gold; <tam>பொன் வெள்ளி நகைகளை மெருகிடுதற் குரிய பொடிவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஜுவெடி&searchhws=yes&matchtype=exact">ரோஜுவெடி</a> rōjuveṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3434">p. 3434</a>)
+		<blockquote><p><hw><tam>ரோஜுவெடி</tam> <t>rōju-veṭi</t></hw> , <i>n</i>. See <tam>ரோஜுவடி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/fabricius_query.py?qs=ரோஜ்&searchhws=yes&matchtype=exact">ரோஜ்</a> rōj
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>ரோஜ்</tam></hw> , <i>s. (Pers.)</i> a day, <tam>நாள்</tam>. <p2><tam>ரோஜ்நாமா</tam>, daily account.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஜ்&searchhws=yes&matchtype=exact">ரோஜ்</a> rōj
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோஜ்</tam> <t>rōj</t></hw> , <i>n</i>. < Persn. <i>rōz</i>. 1. Day; <tam>நாள்</tam>. (<smallcap>W</smallcap>.) 2. Journal; day-book; <tam>நாள்வழிக்கணக்கு</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/winslow_query.py?qs=ரோஜ்&searchhws=yes&matchtype=exact">ரோஜ்</a> rōj
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=908">p. 908</a>)
+		<blockquote><p><hw><tam>ரோஜ்</tam></hw> , <i>s. [pers.]</i> A day, <tam>நாள்</tam>. <p2><tam>ரோஜ்நாமா</tam>, <i>s.</i> A daily account or report.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/fabricius_query.py?qs=ரோஜ்கார்&searchhws=yes&matchtype=exact">ரோஜ்கார்</a> rōjkār
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>ரோஜ்கார்</tam></hw> , <i>s. (Pers.)</i> service, situation, <tam>பணிவிடை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஜ்கார்&searchhws=yes&matchtype=exact">ரோஜ்கார்</a> rōjkār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோஜ்கார்</tam> <t>rōjkār</t></hw> , <i>n</i>. < Persn. <i>rōzgār</i>. Service; employment; <tam>தொழில்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/winslow_query.py?qs=ரோஜ்கார்&searchhws=yes&matchtype=exact">ரோஜ்கார்</a> rōjkār
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=908">p. 908</a>)
+		<blockquote><p><hw><tam>ரோஜ்கார்</tam></hw> , <i>s. [pers.]</i> Service, situation, <tam>பணிவிடை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஜ்நாமா&searchhws=yes&matchtype=exact">ரோஜ்நாமா</a> rōjnāmā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோஜ்நாமா</tam> <t>rōj-nāmā</t></hw> , <i>n</i>. See <tam>ரோஜுநாமா</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஜ்வேலை&searchhws=yes&matchtype=exact">ரோஜ்வேலை</a> rōjvēlai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோஜ்வேலை</tam> <t>rōj-vēlai</t></hw> , <i>n</i>. prob. E. <i>roast</i> +. Cooking, cookery; <tam>சமையற்றொழில்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோணி&searchhws=yes&matchtype=exact">ரோணி</a> rōṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோணி</tam> <t>rōṇi</t></hw> , <i>n</i>. cf. <tam>ரோகணி</tam>. Christmas rose. See <tam>கடுரோகிணி. (மூ. அ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோதணி&searchhws=yes&matchtype=exact">ரோதணி</a> rōtaṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோதணி</tam> <t>rōtaṇi</t></hw> , <i>n</i>. < <i>kaṭu-rōhiṇī</i>. Christmas rose. See <tam>கடுரோகிணி. (மூ. அ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோதனம்&searchhws=yes&matchtype=exact">ரோதனம்</a> rōtaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோதனம்¹</tam> <t>rōtaṉam</t></hw> , <i>n</i>. See <tam>ரோஜனம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோதனம்&searchhws=yes&matchtype=exact">ரோதனம்</a> rōtaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோதனம்²</tam> <t>rōtaṉam</t></hw> , <i>n</i>. < <i>rōdana</i>. 1. Cry; wail; <tam>அழுகை. ஓதரோதனவேலை</tam> (<tam>கம்பரா. இராவணன்சோ</tam>. 1). 2. See <tam>ரோதனை</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோதனம்&searchhws=yes&matchtype=exact">ரோதனம்</a> rōtaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோதனம்³</tam> <t>rōtaṉam</t></hw> , <i>n</i>. < <i>rōdhana</i>. Obstruction; <tam>தடை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/crea_query.py?qs=ரோதனை&searchhws=yes&matchtype=exact">ரோதனை</a> rōtaṉai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரோதனை</hw> பெ. [வ.வ.] 1: (பொறுக்க முடியாத) தொந்தரவு; தொல்லை; trouble; vexation. தினம் காலையில் இவனோடு பெரிய ரோதனை/ இருக்கிற வேதனையில் இது வேறு ரோதனை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோதனை&searchhws=yes&matchtype=exact">ரோதனை</a> rōtaṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோதனை</tam> <t>rōtaṉai</t></hw> , <i>n</i>. < <i>rōdana</i>. 1. Trouble; annoyance; <tam>தொந்தரை</tam>. <i>Loc</i>. 2. See <tam>ரோதனம்²</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோதம்&searchhws=yes&matchtype=exact">ரோதம்</a> rōtam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோதம்¹</tam> <t>rōtam</t></hw> , <i>n</i>. < <i>rōdha</i>. 1. Bank, shore; <tam>நீர்க்கரை. சீத ரோதக் குருதித் திரையொரீஇ</tam> (<tam>கம்பரா. இராவணன்சோ</tam>. 1). 2. Dam; <tam>அணை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோதம்&searchhws=yes&matchtype=exact">ரோதம்</a> rōtam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோதம்²</tam> <t>rōtam</t></hw> , <i>n</i>. < <i>rōda</i>. See <tam>ரோதனம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோதயித்திரி&searchhws=yes&matchtype=exact">ரோதயித்திரி</a> rōtayittiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோதயித்திரி</tam> <t>rōtayittiri</t></hw> , <i>n</i>. prob. <i>rōdha- yitrī</i>. (Šaiva.) Šivašakti doing the functions of <i>titi</i> and <i>tirōpavam</i>; <tam>திதிகிருத்தியமும் திரோபவ கிருத்தியமும் செய்யும் சிவசக்தி</tam>. (<tam>சி. சி</tam>. 1, 60. <tam>ஞானப். உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோதா&searchhws=yes&matchtype=exact">ரோதா</a> rōtā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோதா</tam> <t>rōtā</t></hw> , <i>n</i>. See <tam>ரோதை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோதை&searchhws=yes&matchtype=exact">ரோதை</a> rōtai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோதை</tam> <t>rōtai</t></hw> , <i>n</i>. cf. <tam>ரோதா</tam>. 1. Wheel of a cart; <tam>வண்டிச்சக்கரம். வண்டி ரோதை முரிந்து விட்டது</tam>. 2. Cart-track in a road, rut; <tam>ரஸ்தாவி லுள்ள வண்டித்தடம்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோத்தை&searchhws=yes&matchtype=exact">ரோத்தை</a> rōttai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோத்தை</tam> <t>rōttai</t></hw> , <i>n</i>. See <tam>ரோதை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோந்தடி-த்தல்&searchhws=yes&matchtype=exact">ரோந்தடி-த்தல்</a> rōntaṭi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோந்தடி-த்தல்</tam> <t>rōntaṭi-</t></hw> , <i>v</i>. < <tam>ரோந்து</tam> +. <i>tr</i>. To patrol, to keep watch at night; <tam>இரவில் ஊரைச்சுற்றிச்சென்று காத்தல்</tam>. — <i>intr</i>. To roam, wander about; <tam>அலைந்து திரிதல். உத்தியோகத்துக்கு ரோந்தடிக்கிறான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/crea_query.py?qs=ரோந்து&searchhws=yes&matchtype=exact">ரோந்து</a> rōntu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரோந்து</hw> பெ. 1: (காவல் புரிய) ராணுவத்தினர் அல்லது காவலர்கள் சுற்றி வருதல்; patrol (by the army or the police). இரவில் இந்தப் பகுதியில் போலீஸ் ரோந்து வருவதுண்டா?</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோந்து&searchhws=yes&matchtype=exact">ரோந்து</a> rōntu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோந்து</tam> <t>rōntu</t></hw> , <i>n</i>. < Fr. <i>ronde</i>. Night patrol; <tam>இராக்காவல்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/fabricius_query.py?qs=ரோந்தை&searchhws=yes&matchtype=exact">ரோந்தை</a> rōntai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p><hw><tam>ரோந்தை</tam></hw> , <i>s. (Tel.)</i> filthiness, vileness.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோந்தை&searchhws=yes&matchtype=exact">ரோந்தை</a> rōntai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோந்தை</tam> <t>rōntai</t></hw> , <i>n</i>. [T. <i>rōta</i>, K. <i>rōṭe</i>.] <i>Loc</i>. 1. Filthiness; <tam>அசங்கியம்</tam>. 2. Banter; <tam>புரளி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/winslow_query.py?qs=ரோந்தை&searchhws=yes&matchtype=exact">ரோந்தை</a> rōntai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=908">p. 908</a>)
+		<blockquote><p><hw><tam>ரோந்தை</tam></hw> , <i>s. [Tel.]</i> Filthiness, vileness.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரோமகன்&searchhws=yes&matchtype=exact">ரோமகன்</a> rōmakaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1220">p. 1220</a>)
+		<blockquote><p><hw>ரோமகன்</hw> - ரோமகபுரியிலிருந்து ஆரிய தேசத்தில்வந்து ஆரிய சாஸ்திரங்க ளைக்கற்று விளங்கின முற்காலத்துப் பண்டிதன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரோமகபுரி&searchhws=yes&matchtype=exact">ரோமகபுரி</a> rōmakapuri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1220">p. 1220</a>)
+		<blockquote><p><hw>ரோமகபுரி</hw> - இதுபூர்வகாலத்திலே மே கலாரேகையிலே இலங்கைக்கு மேற் கே தொண்ணூறுபாகை தூரத்திலி ருந்த பட்டணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரோமகர்ஷணன்&searchhws=yes&matchtype=exact">ரோமகர்ஷணன்</a> rōmakarṣaṇaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1220">p. 1220</a>)
+		<blockquote><p><hw>ரோமகர்ஷணன்</hw> - வேதவியாசபகவானு டைய மாணாக்கராகிய சூதர், இவர் அநேக புராணாதி காசங்களையுபதே சித்தவர் <tam>2</tam> உக்ரசிரவசன்தந்தை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரோமகஸித்தாந்தம்&searchhws=yes&matchtype=exact">ரோமகஸித்தாந்தம்</a> rōmakasittāntam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1220">p. 1220</a>)
+		<blockquote><p><hw>ரோமகஸித்தாந்தம்</hw> - ஜயோதிஷஸித் தாந்தங்களுளொன்று. இது ரோம கன் ஏன்னும் பண்டிதன் செய்தது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/crea_query.py?qs=ரோமக்கால்&searchhws=yes&matchtype=exact">ரோமக்கால்</a> rōmakkāl
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரோமக்கால்</hw> பெ. 1: முடியைத் தோலோடு இணைத்திருக்கும் அடிப்பகுதி; root of the hair. கொலையை நேரில் பார்த்ததும் ரோமக்கால்கள் குத்திட்டு நின்றன.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரோமபாதகன்&searchhws=yes&matchtype=exact">ரோமபாதகன்</a> rōmapātakaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1221">p. 1221</a>)
+		<blockquote><p><hw>ரோமபாதகன்</hw> - <tam>1</tam> (அங்) தசரதன் தரு மரதன் புத்திரன், இவன் தனக்குச் சந்ததியில்லாமையால் ஸ்ரீமான் தந் தையாகிய தசரதன் புத்திரியாகிய சாந்தையை யெடுத்து வளர்த்தவன் <tam>2</tam> விதர்ப்பன் மூன்றாம் புத்திரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/crea_query.py?qs=ரோமம்&searchhws=yes&matchtype=exact">ரோமம்</a> rōmam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரோமம்</hw> பெ. 1: (மனித உடலில்) முடி; (மிருகங்களின்) மயிர்; hair; (of sheep, etc.) wool. அவருக்குக் கைகால்களில் அடர்த்தியான ரோமம்/ ஆட்டு ரோமம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோமம்&searchhws=yes&matchtype=exact">ரோமம்</a> rōmam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோமம்</tam> <t>rōmam</t></hw> , <i>n</i>. < <i>rōma</i>. Hair; <tam>மயிர். என்பெலா நெக்குடைய ரோமஞ் சிலிர்ப்ப</tam> (<tam>தாயு. சுகவாரி</tam>. 4).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/winslow_query.py?qs=ரோமம்&searchhws=yes&matchtype=exact">ரோமம்</a> rōmam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=908">p. 908</a>)
+		<blockquote><p>*<hw><tam>ரோமம்</tam></hw> , <i>s.</i> The hair of the body. See <tam>உரோமம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோமவிருக்ஷம்&searchhws=yes&matchtype=exact">ரோமவிருக்ஷம்</a> rōmavirukṣam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோமவிருக்ஷம்</tam> <t>rōma-virukṣam</t></hw> , <i>n</i>. prob. <i>rōmala</i> +. A species of tree; <tam>மரவகை. (மூ. அ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரோமஸன்&searchhws=yes&matchtype=exact">ரோமஸன்</a> rōmasaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1221">p. 1221</a>)
+		<blockquote><p><hw>ரோமஸன்</hw> - இந்திரன் ஏவலால் அருச் சுநன் நாகலோகத்தி விருக்கிறானெ ன்று தருமருக்குணர்த்தி, அருச்சுந னைத் தீர்த்தயாத்திரைசெய்ய ஏவிய முனிவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோமான்கத்தோலிக்கன்&searchhws=yes&matchtype=exact">ரோமான்கத்தோலிக்கன்</a> rōmāṉkattōlikkaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோமான்கத்தோலிக்கன்</tam> <t>rōmāṉ-kattōlikkaṉ</t></hw> , <i>n</i>. < E. Roman Catholic; <tam>கிறிஸ்தவரில் ஒரு பிரிவினன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோமாபுரி&searchhws=yes&matchtype=exact">ரோமாபுரி</a> rōmāpuri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோமாபுரி</tam> <t>rōmā-puri</t></hw> , <i>n</i>. < Lat. <i>Roma</i> +. Rome; <tam>இத்தாலியதேசத்துத் தலைநகர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோமாவலி&searchhws=yes&matchtype=exact">ரோமாவலி</a> rōmāvali
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோமாவலி</tam> <t>rōmāvali</t></hw> , <i>n</i>. < <i>rōmāvali</i>. Line of hair above the navel; <tam>கொப்பூழுக்கு மேலுள்ள மயிரொழுங்கு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோம்புலுக்கா&searchhws=yes&matchtype=exact">ரோம்புலுக்கா</a> rōmpulukkā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோம்புலுக்கா</tam> <t>rōmpulukkā</t></hw> , <i>n</i>. Main hatch cover; <tam>கப்பலுறுப்புக்களு ளொன்று</tam>. <i>Naut</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோம்புவாசல்&searchhws=yes&matchtype=exact">ரோம்புவாசல்</a> rōmpuvācal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3433">p. 3433</a>)
+		<blockquote><p><hw><tam>ரோம்புவாசல்</tam> <t>rōmpuvācal</t></hw> , <i>n</i>. Main hatchway; <tam>கப்பலில் பெரிய பாய்மரத்தின் கீழுள்ள அடித்தளத்துக்குச் செல்லும்வழி</tam>. <i>Naut</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/crea_query.py?qs=ரோஷம்&searchhws=yes&matchtype=exact">ரோஷம்</a> rōṣam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=880">p. 880</a>)
+		<blockquote><p><hw>ரோஷம்</hw> பெ. 1: (தனக்கு ஏற்படும் அவமானம், இழிவு முதலியவற்றை எதிர்த்துச் செயல்படத் தூண்டும்) தன்மான உணர்ச்சி; self-respect; (proper) pride; sensitivity. அவன் ரோஷத்துடன் 'நான் ஏழை, ஆனால் பிச்சைக்காரன் இல்லை' என்றான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஷம்&searchhws=yes&matchtype=exact">ரோஷம்</a> rōṣam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3434">p. 3434</a>)
+		<blockquote><p><hw><tam>ரோஷம்</tam> <t>rōṣam</t></hw> , <i>n</i>. < <i>rōṣa</i>. 1. Keen sensibility; high sense of honour; <tam>மானம்</tam>. (<smallcap>W</smallcap>.) 2. Anger; <tam>கோபம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/fabricius_query.py?qs=ரோஸம்&searchhws=yes&matchtype=exact">ரோஸம்</a> rōsam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=837">p. 837</a>)
+		<blockquote><p>*<hw><tam>ரோஸம்</tam></hw> , <tam>ரோஷம்</tam>, <i>s.</i> see <tam>உரோசம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ரோஸீனா&searchhws=yes&matchtype=exact">ரோஸீனா</a> rōsīṉā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=3434">p. 3434</a>)
+		<blockquote><p><hw><tam>ரோஸீனா</tam> <t>rōsīṉā</t></hw> , <i>n</i>. < Hind. <i>rōzīnā</i>. A daily allowance granted to Brahmins, fakirs and poor persons; <tam>பார்ப்பார் பக்கிரி ஏழை இவர் களுக்குக் கொடுக்கும் நாட்படி</tam>. (<smallcap>R. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ரோஹிணி&searchhws=yes&matchtype=exact">ரோஹிணி</a> rōhiṇi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1221">p. 1221</a>)
+		<blockquote><p><hw>ரோஹிணி</hw> - நக்ஷத்திரங்களு ளொன்று. தக்ஷன் மகள், சந்திரன் அதிப்ரீதை யாகிய நாயகி,<tam>2</tam> பலராமன்தாய், வசுதேவன் மனைவி.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

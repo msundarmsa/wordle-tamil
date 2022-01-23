@@ -1,0 +1,3079 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>சை</b>
+                       <div id='no_results'>
+                                285 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/fabricius_query.py?qs=சை&searchhws=yes&matchtype=exact">சை</a> cai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p><hw><tam>சை</tam></hw> , <i>interj.</i> fie, <tam>சீ</tam>. <p2><tam>சையென</tam>, to show contempt.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சை&searchhws=yes&matchtype=exact">சை</a> cai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=708">p. 708</a>)
+		<blockquote><p><hw>சை</hw> - இகழ்ச்சிக்குறிப்பு, ஓரெழுத்து.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சை&searchhws=yes&matchtype=exact">சை</a> cai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1628">p. 1628</a>)
+		<blockquote><p><hw>சை</hw> - இகழ்ச்சி, ஓர்வகையெழுத்து.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சை&searchhws=yes&matchtype=exact">சை</a> cai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சை¹</tam> <t>cai</t></hw> . The compound of <tam>ச்</tam> and <tam>ஐ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சை&searchhws=yes&matchtype=exact">சை</a> cai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சை²</tam> <t>cai</t></hw> , <i>int</i>. Expr. of contempt, of abhorrence; <tam>இகழ்ச்சிக் குறிப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/winslow_query.py?qs=சை&searchhws=yes&matchtype=exact">சை</a> cai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=516">p. 516</a>)
+		<blockquote><p>*<hw><tam>சேனை</tam></hw> , <i>s.</i> A host, an army, <tam>படை</tam>. W. p. 943. <smallcaps>S'ENA.</smallcaps> 2. Market, a fair, <tam>கடைவீதி</tam>. 3. weapon, <tam>ஆயுதம்</tam>. (<tam>சது</tam>.) 4. <i>(fig.)</i> A large number, multitude, great quantity, &c., <tam>மிகுகூட்டம்</tam>. 5. <i>(Tel. loc.)</i>Much, plenty, <tam>மிகுதி</tam>–This word retains its compounds. <tam>அவர்கள்உன்சேனையார்தானே</tam>. They are your kindreds, friends, &c. <i>(a sarcastic ex- pression.)</i> <tam>அவர்வந்துசேனைநாளாச்சுது</tam>. It is now many days since he arrived. <p2><tam>சேனாங்கம்</tam>, <i>s.</i> A component part of an army; [<i>ex</i> <tam>அங்கம்</tam>.]</p2> <p2><tam>சேனாசமுத்திரம்</tam>, <i>s.</i> Ocean-like armies.</p2> <p2><tam>சேனாதிபதி</tam>, <i>s.</i> A general, a commander of an army; [<i>ex</i> <tam>அதிபதி</tam>.]</p2> <p2><tam>சேனாதிபத்தியம்</tam>, <i>s.</i> The office of a ge- neral.</p2> <p2><tam>சேனாதிபன்</tam>, <i>s.</i> As <tam>சேனாதிபதி</tam>. 2. <i>(in Culendars.)</i> A planet considered as ge- neral for the year, with corresponding astrological results, <tam>வருஷபலக்கிரகங்களிலொன்று</tam>.</p2> <p2><tam>சேனாபதி</tam>, <i>s.</i> A general. 2. Skanda, <tam>முருகன்</tam>; [<i>ex</i> <tam>பதி</tam>, lord.]</p2> <p2><tam>சேனாமுகம்</tam>, <i>s.</i> The front of an army. 2. A division of an army, consisting of three chariots, three elephants, nine horses and fifteen infantry.</p2> <p2><tam>சேனைத்தலைவன்</tam>, <i>s.</i> The leader of an army.</p2> <p2><tam>சேனைத்தொகை</tam>, <i>s.</i> The component parts of an army–also called <tam>படைத்தொகை</tam>, consisting of 29,524 chariots, 29,534 elephants, 88,572 horses, and 147,620 infantry, and making a grand- total of 295,340–are ten; <i>viz:</i> 1. <tam>பததி</tam>. –<tam>பதாதி</tam>. 2. <tam>சேனாமுகம்</tam>. 3. <tam>குலுமம்</tam>–<tam>குமுதம்</tam>. 4. <tam>கணகம்</tam>–<tam>கணம்</tam>. 5. <tam>வாகினி</tam>. 6. <tam>பிரளயம்</tam> –<tam>பிரதனை</tam>. 7. <tam>சமு</tam>–<tam>சமுத்திரம்</tam>. 8. <tam>சங்கம்</tam>. 9. <tam>அனிகம்</tam>. 10. <tam>அக்கோணி</tam>–<tam>அக்குரோணி</tam>, which see respectively in their places.</p2> <p2><tam>சேனைப்படைகள்</tam>, <i>s. [prov.]</i> A great many persons, a concourse of people. <i>(c.)</i></p2>  <p><hw><tam>சை</tam></hw> , A syllabic letter composed of <tam>ச்</tam> and <tam>ஐ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/winslow_query.py?qs=சை&searchhws=yes&matchtype=exact">சை</a> cai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=516">p. 516</a>)
+		<blockquote><p><hw><tam>சை</tam></hw> , <i>s.</i> [<i>com.</i> <tam>சி</tam>.] Interjection of contempt, abhorrence, disdain, <tam>இகழ்ச்சிக்குறிப்பு</tam>. <tam>சையெனத்திரியேல்</tam>. Do not lead a contemptible life. <i>(Avu.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/fabricius_query.py?qs=சைகதம்&searchhws=yes&matchtype=exact">சைகதம்</a> caikatam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைகதம்</tam></hw> , sand, <tam>மணல்</tam>; 2. a sand-bank; 3. river bank.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைகதம்&searchhws=yes&matchtype=exact">சைகதம்</a> caikatam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=708">p. 708</a>)
+		<blockquote><p><hw>சைகதம்</hw> - ஆற்றங்கரை, மணல், மணற் கரை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைகதம்&searchhws=yes&matchtype=exact">சைகதம்</a> caikatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைகதம்</tam> <t>caikatam</t></hw> , <i>n</i>. < <i>saikata</i>. (<tam>யாழ். அக</tam>.) 1. Sand; <tam>மணல்</tam>. 2. Sandbank; <tam>மணற் கரை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/winslow_query.py?qs=சைகதம்&searchhws=yes&matchtype=exact">சைகதம்</a> caikatam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=516">p. 516</a>)
+		<blockquote><p>*<hw><tam>சைகதம்</tam></hw> , <i>s.</i> Sand, <tam>மணல்</tam>. 2. Sand- bank, <tam>மணற்கரை</tam>. W. p. 944. <smallcaps>S'AIKATA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைகதலிங்கம்&searchhws=yes&matchtype=exact">சைகதலிங்கம்</a> caikataliṅkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைகதலிங்கம்</tam> <t>caikata-liṅkam</t></hw> , <i>n</i>. < id. +. Liṅgam made of sand; <tam>மணலால் ஆகிய சிவ லிங்கம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைகதவுண்டை&searchhws=yes&matchtype=exact">சைகதவுண்டை</a> caikatavuṇṭai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=708">p. 708</a>)
+		<blockquote><p><hw>சைகதவுண்டை</hw> - மலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைகதவுண்டை&searchhws=yes&matchtype=exact">சைகதவுண்டை</a> caikatavuṇṭai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைகதவுண்டை</tam> <t>caikata-v-uṇṭai</t></hw> , <i>n</i>. < id. +. Sand-hill; <tam>மணல்மலை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைகன்&searchhws=yes&matchtype=exact">சைகன்</a> caikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=708">p. 708</a>)
+		<blockquote><p><hw>சைகன்</hw> - ஒழுக்கந்தவறின பார்ப்பனப் புத்திரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைகிரி&searchhws=yes&matchtype=exact">சைகிரி</a> caikiri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைகிரி</hw> - ஒருமலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/crea_query.py?qs=சைகை&searchhws=yes&matchtype=exact">சைகை</a> caikai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சைகை</hw> பெ. 1: (செய்தி தெரிவிக்கும் முறையில் அல்லது குறிப்பாக உணர்த்தும் முறையில் கைகால்) அசைவு; ஜாடை; gesture (of hand, eyes, etc. to signal sth.); signal. அவர் என்னைத் தன்னருகில் வரும்படி சைகை காட்டினார்./ தொண்டையைத் தொட்டுக் கையை ஆட்டித் தன்னால் பேச முடியாது என்று சைகைசெய்தார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/fabricius_query.py?qs=சைகை&searchhws=yes&matchtype=exact">சைகை</a> caikai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p><hw><tam>சைகை</tam></hw> , <tam>சயிகை</tam>, <tam>சயிக்கை</tam>, <i>s.</i> a sign, gesture, wink, signal, token, <tam>சமிக்கை</tam>. <p2><tam>கண்சைகை</tam>, a wink.</p2> <p2><tam>கைச்சைகை</tam>, a beck, a sign.</p2> <p2><tam>சைகைகாட்ட</tam>, -<tam>பண்ண</tam>, to indicate by a sign or gesture.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைகை&searchhws=yes&matchtype=exact">சைகை</a> caikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைகை</tam> <t>caikai</t></hw> , <i>n</i>. < <i>saṃjñā</i>. [K. <i>saige</i>.] See <tam>சைக்கினை. செங்கட் சைகை</tam> (<tam>சூளா. குமார</tam>. 27).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/winslow_query.py?qs=சைகை&searchhws=yes&matchtype=exact">சைகை</a> caikai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=516">p. 516</a>)
+		<blockquote><p>*<hw><tam>சைகை</tam></hw> , <i>s.</i> (<i>also written</i> <tam>சயிகை</tam>.) Beckoning, beck, hint, wink, signal, nod, token. Also <tam>சமிக்கை</tam>. <i>(c.)</i> <p2><tam>கண்சைகை</tam>, <i>s.</i> A wink with the eyes.</p2> <p2><tam>கைச்சைகை</tam>, <i>s.</i> A beckoning with the hand. See <tam>கை</tam>.</p2> <p2><tam>சைகையாய்ப்பேச</tam>, <i>inf.</i> To speak by signs.</p2> <p2><tam>சைகைசெய்தழைக்க</tam>, <i>inf.</i> To call by signs.</p2> <p2><tam>சைகைகாட்ட</tam>–<tam>சைகைபண்ண</tam>, <i>inf.</i> To indicate by a sign, or gesture.</p2> <p2><tam>சைகைகாட்டிக்கொடுக்க</tam>, <i>inf.</i> To give or convey some thing surreptitiously, with a sign or gesture. <i>(R.)</i></p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைகை, சைக்கிளை&searchhws=yes&matchtype=exact">சைகை, சைக்கிளை</a> caikai, caikkiḷai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=708">p. 708</a>)
+		<blockquote><p><hw>சைகை, சைக்கிளை</hw> பயில்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/fabricius_query.py?qs=சைக்கினை&searchhws=yes&matchtype=exact">சைக்கினை</a> caikkiṉai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைக்கினை</tam></hw> , <tam>சயிக்கினை</tam>, <i>s.</i> beckon, wink, signal, <tam>சமிக்கை</tam>; 2. connivance, <tam>கண் சமிக்கை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைக்கினை&searchhws=yes&matchtype=exact">சைக்கினை</a> caikkiṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைக்கினை</tam> <t>caikkiṉai</t></hw> , <i>n</i>. < <i>saṃjñā</i>. Signal, gesture; <tam>சமிக்கை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/winslow_query.py?qs=சைக்கினை&searchhws=yes&matchtype=exact">சைக்கினை</a> caikkiṉai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=516">p. 516</a>)
+		<blockquote><p>*<hw><tam>சைக்கினை</tam></hw> , <i>s.</i> Beckon, wink, signal, <tam>சமிக்கை</tam>. 2. Connivance, <tam>கண்சமிக்கை</tam>. See <tam>சயிக்கனை</tam>. <i>(c.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/crea_query.py?qs=சைக்கிள்&searchhws=yes&matchtype=exact">சைக்கிள்</a> caikkiḷ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சைக்கிள்</hw> பெ. 1: மிதிவண்டி; bicycle.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/mcalpin_query.py?qs=சைக்கிள்&searchhws=yes&matchtype=exact">சைக்கிள்</a> caikkiḷ
+		from <a href="/dictionaries/mcalpin/">McAlpin's <i>"A core vocabulary for Tamil"</i></a>
+		(<a href="/cgi-bin/app/mcalpin_query.py?page=33">p. 33</a>)
+		<blockquote><p><hw><tam>சைக்கிள்</tam></hw> caykkiL, caykiL <tam>சய்க்கிள்</tam>, <tam>சய்கிள்</tam> bicycle</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/crea_query.py?qs=சைக்கிள் ரிக்ஷா&searchhws=yes&matchtype=exact">சைக்கிள் ரிக்ஷா</a> caikkiḷ rikṣā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சைக்கிள் ரிக்ஷா</hw> பெ. 1: பயணிகளை ஏற்றிச் செல்லப் பயன்படும் மூன்று சக்கர மிதிவண்டி; a three wheeler (mostly pedalled) used as a passenger transport; (in India) cycle rickshaw.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைக்கிள்வண்டி&searchhws=yes&matchtype=exact">சைக்கிள்வண்டி</a> caikkiḷvaṇṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைக்கிள்வண்டி</tam> <t>caikkiḷ-vaṇṭi</t></hw> , <i>n</i>. < E. <i>cycle</i> +. Bicycle; <tam>காலாலோட்டும் துவிசக்கரவண்டி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/fabricius_query.py?qs=சைங்கம்&searchhws=yes&matchtype=exact">சைங்கம்</a> caiṅkam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைங்கம்</tam></hw> , <i>s.</i> same as <tam>சிங்கம்</tam>. Also <tam>சைங் கியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைங்கம்&searchhws=yes&matchtype=exact">சைங்கம்</a> caiṅkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=708">p. 708</a>)
+		<blockquote><p><hw>சைங்கம்</hw> - சிங்கம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைங்கிகேயன்&searchhws=yes&matchtype=exact">சைங்கிகேயன்</a> caiṅkikēyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைங்கிகேயன்</tam> <t>caiṅkikēyaṉ</t></hw> , <i>n</i>. < <i>saiṃhi- kēya</i>. The moon's ascending node; <tam>இராகு. (இலக். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைங்கிகேயம்&searchhws=yes&matchtype=exact">சைங்கிகேயம்</a> caiṅkikēyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=708">p. 708</a>)
+		<blockquote><p><hw>சைங்கிகேயம்</hw> - இராகு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைங்கியம்&searchhws=yes&matchtype=exact">சைங்கியம்</a> caiṅkiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=708">p. 708</a>)
+		<blockquote><p><hw>சைங்கியம்</hw> - சைங்கம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைசவப்பருவம்&searchhws=yes&matchtype=exact">சைசவப்பருவம்</a> caicavapparuvam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைசவப்பருவம்</hw> - குழந்தைப்பருவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/fabricius_query.py?qs=சைசவம்&searchhws=yes&matchtype=exact">சைசவம்</a> caicavam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைசவம்</tam></hw> , <i>s.</i> youth, juvenility, pupilage, <tam>இளமை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைசவம்&searchhws=yes&matchtype=exact">சைசவம்</a> caicavam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=708">p. 708</a>)
+		<blockquote><p><hw>சைசவம்</hw> - இளமை பதினாறு வயதிற் குள்ளான பருவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைசவம்&searchhws=yes&matchtype=exact">சைசவம்</a> caicavam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைசவம்</tam> <t>caicavam</t></hw> , <i>n</i>. < <i>šaišava</i>. Infancy, childhood; <tam>இளமை. துன்பமாஞ் சைசவத்திற் றொடரும்</tam> (<tam>ஞானவா. முமுட்சு</tam>. 1).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/winslow_query.py?qs=சைசவம்&searchhws=yes&matchtype=exact">சைசவம்</a> caicavam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=516">p. 516</a>)
+		<blockquote><p>*<hw><tam>சைசவம்</tam></hw> , <i>s.</i> Youth, juvenility, childhood, pupilage, <tam>இளமை</tam>. W. p. 857. <smallcaps>S'AIS'AVA.</smallcaps> <i>(p.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைதனம்&searchhws=yes&matchtype=exact">சைதனம்</a> caitaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைதனம்</tam> <t>caitaṉam</t></hw> , <i>n</i>. < <i>cētana</i>. Individual soul; <tam>சீவான்மா. நுண்ணிய பிறப்பிறப்பி னுடங்கு சைதனங்கட் கெல்லாம்</tam> (<tam>த. நி. போ</tam>. 157).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைதனியம்&searchhws=yes&matchtype=exact">சைதனியம்</a> caitaṉiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைதனியம்</tam> <t>caitaṉiyam</t></hw> , <i>n</i>. < <i>caitanya</i>. 1. Intelligence; <tam>அறிவு. சுத்தான்ம சைதனியமே தனக்குச் சொரூபமாகக்கொண்டு</tam> (<tam>சி. போ</tam>. 8, 2). 2. Individual soul, jīva; <tam>சீவான்மா</tam>. 3. Universal soul; <tam>பரமான்மா</tam>. (<tam>சி. போ. சிற்</tam>. 2, 4.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைதனியவான்&searchhws=yes&matchtype=exact">சைதனியவான்</a> caitaṉiyavāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைதனியவான்</tam> <t>caitaṉiyavāṉ</t></hw> , <i>n</i>. < <i>caitanya-vān</i> nom. sing. of <i>caitanya-vat</i>. Sentient being; <tam>அறிவுள்ளவன். ஆன்மாச் சைதனியவா னென் றால்</tam> (<tam>மணி</tam>. 29, 176).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைதன்னியதரிசனம்&searchhws=yes&matchtype=exact">சைதன்னியதரிசனம்</a> caitaṉṉiyataricaṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைதன்னியதரிசனம்</hw> - தானுந்தலைவனு மொன்றெனக் காண்டல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/fabricius_query.py?qs=சைதன்னியம்&searchhws=yes&matchtype=exact">சைதன்னியம்</a> caitaṉṉiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைதன்னியம்</tam></hw> , <tam>சைதன்யம்</tam>, <i>s.</i> intelligence, understanding, <tam>தத்துவ ஞானம்</tam>. <p2><tam>பிரமசைதன்யம்</tam>, the supreme intelligence.</p2> <p2><tam>கூடஸ்த சைதன்யம்</tam>, intelligence universally the same.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைதன்னியம்&searchhws=yes&matchtype=exact">சைதன்னியம்</a> caitaṉṉiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைதன்னியம்</hw> - அறிவு, ஆத்துமா, கட வுள், தத்துவஞானம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/winslow_query.py?qs=சைதன்னியம்&searchhws=yes&matchtype=exact">சைதன்னியம்</a> caitaṉṉiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=516">p. 516</a>)
+		<blockquote><p>*<hw><tam>சைதன்னியம்</tam></hw> –<tam>சைதன்யம்</tam>, <i>s.</i> Intellect, intelligence, spirit–as applied either to deity, or souls; deity, or spirit, as distinguished from matter, <tam>தத்துவஞானம்</tam>. 2. Understanding; the faculty of knowledge, the knowing principle, <tam>அறிவு</tam>. W. p. 331. <smallcaps>CHAITANYA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/winslow_query.py?qs=சைதன்னியம்&searchhws=yes&matchtype=exact">சைதன்னியம்</a> caitaṉṉiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=516">p. 516</a>)
+		<blockquote><p2><tam>பிரமசைதன்னியம்</tam>, <i>s.</i> The supreme intelligence–understood not of Brahma, but of Brahm.</p2> <p2><tam>கூடஸ்தசைதன்னியம்</tam>, <i>s.</i> See <tam>கூடம்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைதன்னியர்&searchhws=yes&matchtype=exact">சைதன்னியர்</a> caitaṉṉiyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைதன்னியர்</hw> - இவர்கள் இலிங்கதாரி களைப்போல வருணாச்சிரம தருமங் களை நிராகரித்திருப்பவர்கள், இவர் களுக்கு பத்தியே சிறந்தது. விஷ்ணு வைப் பூசிப்பவர்கள். இவர்கள் உத்த ரத்திலே பெருக்கமுள்ளவர்கள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைதவாகிநி&searchhws=yes&matchtype=exact">சைதவாகிநி</a> caitavākini
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைதவாகிநி</hw> - ஒருநதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைதிகம்&searchhws=yes&matchtype=exact">சைதிகம்</a> caitikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S295">p. S295</a>)
+		<blockquote><p><hw><tam>சைதிகம்</tam> <t>caitikam</t></hw> , <i>n</i>. < <i>chaidika</i>. Cane; <tam>பிரம்பு. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/fabricius_query.py?qs=சைதிதம்&searchhws=yes&matchtype=exact">சைதிதம்</a> caititam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைதிதம்</tam></hw> , <i>s.</i> rattan, <tam>பிரம்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைதிதம்&searchhws=yes&matchtype=exact">சைதிதம்</a> caititam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைதிதம்</hw> - பிரம்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைதூண்&searchhws=yes&matchtype=exact">சைதூண்</a> caitūṇ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைதூண்</tam> <t>caitūṇ</t></hw> , <i>n</i>. < U. <i>zaitūn</i>. European olive. See <tam>ஒழிவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/crea_query.py?qs=சைத்தான்&searchhws=yes&matchtype=exact">சைத்தான்</a> caittāṉ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சைத்தான்</hw> பெ. காண்க: சாத்தான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்தான்&searchhws=yes&matchtype=exact">சைத்தான்</a> caittāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைத்தான்</tam> <t>caittāṉ</t></hw> , <i>n</i>. < Arab. <i>shaitan</i>. cf. E. <i>satan</i>. [M. <i>caittān</i>.] Devil; <tam>பிசாசு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்தியக்கட்டி&searchhws=yes&matchtype=exact">சைத்தியக்கட்டி</a> caittiyakkaṭṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைத்தியக்கட்டி</tam> <t>caittiya-k-kaṭṭi</t></hw> , <i>n</i>. < <i>šaitya</i> +. Tonsilitis. See <tam>சயித்தியக்கட்டி</tam>. (<smallcap>M. L</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/fabricius_query.py?qs=சைத்தியங்கொள்ள&searchhws=yes&matchtype=exact">சைத்தியங்கொள்ள</a> caittiyaṅkoḷḷa
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p><hw><tam>சைத்தியங்கொள்ள</tam></hw> , to catch a severe cold.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்தியன்&searchhws=yes&matchtype=exact">சைத்தியன்</a> caittiyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைத்தியன்</tam> <t>caittiyaṉ</t></hw> , <i>n</i>. prob. id. Planet Venus; <tam>சுக்கிரன். (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/fabricius_query.py?qs=சைத்தியமாயிருக்க&searchhws=yes&matchtype=exact">சைத்தியமாயிருக்க</a> caittiyamāyirukka
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p><hw><tam>சைத்தியமாயிருக்க</tam></hw> , to have rheumatic pain through cold-affection.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்தியமுகம்&searchhws=yes&matchtype=exact">சைத்தியமுகம்</a> caittiyamukam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைத்தியமுகம்</hw> - கமண்டலம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்தியமூடுதல்&searchhws=yes&matchtype=exact">சைத்தியமூடுதல்</a> caittiyamūṭutal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைத்தியமூடுதல்</tam> <t>caittiya-mūṭutal</t></hw> , <i>n</i>. < id. +. Spreading of extreme cold in the body, indicative of approaching death; <tam>மரணத் தின் அறிகுறியாக உடலிற் குளிர்ச்சிநோய் மிகுதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/crea_query.py?qs=சைத்தியம்&searchhws=yes&matchtype=exact">சைத்தியம்</a> caittiyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சைத்தியம்</hw> பெ. [அ.வ.] 1: புத்த மதத்தினரின் ஆலயம்; Buddhist shrine.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/fabricius_query.py?qs=சைத்தியம்&searchhws=yes&matchtype=exact">சைத்தியம்</a> caittiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைத்தியம்</tam></hw> , <tam>சயித்தியம்</tam>, <i>s.</i> cold, coldness, a cold cooling nature of vege- tables.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்தியம்&searchhws=yes&matchtype=exact">சைத்தியம்</a> caittiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைத்தியம்</hw> - இறப்புக்கல்வெட்டு, குளிர் மை, பலிபீடம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்தியம்&searchhws=yes&matchtype=exact">சைத்தியம்</a> caittiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>சைத்தியம்</hw> - சீதத்தன்மை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்தியம்&searchhws=yes&matchtype=exact">சைத்தியம்</a> caittiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைத்தியம்¹</tam> <t>caittiyam</t></hw> , <i>n</i>. < <i>caitya</i>. Temple or shrine, especially Buddhistic; <tam>பௌத்தர் முதலியோருக்குரிய ஆலயம். ஆவ்வூர்ப் புத்தசைத்தியத்து</tam> (<tam>சிலப்</tam>. 10, 14, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்தியம்&searchhws=yes&matchtype=exact">சைத்தியம்</a> caittiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைத்தியம்²</tam> <t>caittiyam</t></hw> , <i>n</i>. < <i>šaitya</i>. Coldness, chillness; <tam>குளிர்ச்சி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்தியம்&searchhws=yes&matchtype=exact">சைத்தியம்</a> caittiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S295">p. S295</a>)
+		<blockquote><p><hw><tam>சைத்தியம்</tam> <t>caittiyam</t></hw> , <i>n</i>. < <i>caitya</i>. Stone epitaph; <tam>இறப்புக் கல்வெட்டு. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/winslow_query.py?qs=சைத்தியம்&searchhws=yes&matchtype=exact">சைத்தியம்</a> caittiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைத்தியம்</tam></hw> –<tam>சயித்தியம்</tam>, <i>s.</i> Cold, coldness, <tam>குளிர்மை</tam>. 2. That which is cool, refreshing, <tam>குளிர்ச்சியுள்ளது</tam>. <i>(Sa. S'āithya.) (c.)</i> <tam>சைத்தியமுறிகிறது</tam>. The cold is breaking. <p2><tam>சைத்தியங்கொள்ள</tam>, <i>inf.</i> To take cold.</p2> <p2><tam>சைத்தியம்நீங்க</tam>–<tam>சைத்தியம்வாங்க</tam>, <i>inf.</i> To leave–said of a cold.</p2> <p2><tam>சைத்தியோபசாரம்</tam>, <i>s.</i> Cooling refreshment, cordials, fanning, &c. <i>(Rare.)</i></p2> <p2><tam>சைத்தியஉடம்பு</tam>, <i>s.</i> A phlegmatic temperament.</p2> <p2><tam>சைத்தியமூடுதல்</tam>, <i>v. noun.</i> The inducing of come, or cold fits.</p2> <p2><tam>சைத்தியகுணம்</tam>, <i>s.</i> Rheumatic tendencies.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/fabricius_query.py?qs=சைத்தியம் முறிந்தது&searchhws=yes&matchtype=exact">சைத்தியம் முறிந்தது</a> caittiyam muṟintatu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p><hw><tam>சைத்தியம் முறிந்தது</tam></hw> , the cold of the body is gone.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்தியர்&searchhws=yes&matchtype=exact">சைத்தியர்</a> caittiyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைத்தியர்</hw> - யாதவபேதம், விதரியன் புத்திரனாகிய ரோமபாதன் வமிசத் தனாகிய சேரிவழியிற் றோன்றியன வராதலால் இவர்களுக்கு இப்பெயர் வழங்கும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்தியவிருட்சம்&searchhws=yes&matchtype=exact">சைத்தியவிருட்சம்</a> caittiyaviruṭcam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S295">p. S295</a>)
+		<blockquote><p><hw><tam>சைத்தியவிருட்சம்</tam> <t>caittiya-viruṭcam</t></hw> , <i>n</i>. < id. +. See <tam>சேதிமரம்</tam>. (<tam>மேருமந்</tam>. 625, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/fabricius_query.py?qs=சைத்தியோபசாரம்&searchhws=yes&matchtype=exact">சைத்தியோபசாரம்</a> caittiyōpacāram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p><hw><tam>சைத்தியோபசாரம்</tam></hw> , cooling refreshments.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்தியோபசாரம்&searchhws=yes&matchtype=exact">சைத்தியோபசாரம்</a> caittiyōpacāram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1442">p. 1442</a>)
+		<blockquote><p><hw>சைத்தியோபசாரம்</hw> - சீதவுபசாரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்தியோபசாரம்&searchhws=yes&matchtype=exact">சைத்தியோபசாரம்</a> caittiyōpacāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1642">p. 1642</a>)
+		<blockquote><p><hw><tam>சைத்தியோபசாரம்</tam> <t>caittiyōpacāram</t></hw> , <i>n</i>. < id. + <i>upa-cāra</i>. Acts intended to cool and refresh the system; <tam>தாபந்தீர உபசரிக்கை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்திரகம்&searchhws=yes&matchtype=exact">சைத்திரகம்</a> caittirakam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைத்திரகம்</hw> - சித்திரைமா தம், வெற்றி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்திரகம்&searchhws=yes&matchtype=exact">சைத்திரகம்</a> caittirakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைத்திரகம்</tam> <t>caittirakam</t></hw> , <i>n</i>. < <i>caitraka</i>. See <tam>சைத்திரம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/fabricius_query.py?qs=சைத்திரம்&searchhws=yes&matchtype=exact">சைத்திரம்</a> caittiram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைத்திரம்</tam></hw> , <tam>சைத்திரிகம்</tam>, <i>s.</i> the Tamil month <tam>சித்திரை</tam>, April; 2. carved or curious work. <p2><tam>சைத்திரோச்சவம்</tam>, a festival in April.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்திரம்&searchhws=yes&matchtype=exact">சைத்திரம்</a> caittiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>சைத்திரம்</hw> - சித்திரைமாதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்திரம்&searchhws=yes&matchtype=exact">சைத்திரம்</a> caittiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைத்திரம்</tam> <t>caittiram</t></hw> , <i>n</i>. < <i>caitra</i>. (<tam>சங். அக</tam>.) 1. First lunar month extending from the day following the new moon in Paṅkuṉi to the new moon day in Cittirai; <tam>பங்குனி அமாவா சைக்கு அடுத்த பிரதமை முதல் சித்திரை அமாவாசை முடிவு வரையுள்ள சாந்திரமான மாதம்</tam>. 2. Artistic work; <tam>சித்திரவேலை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/winslow_query.py?qs=சைத்திரம்&searchhws=yes&matchtype=exact">சைத்திரம்</a> caittiram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைத்திரம்</tam></hw> –<tam>சைத்திரிகம்</tam>, <i>s.</i> April, <tam>சித்திரைமாதம்</tam>. 2. Carved or curious work, <tam>சித்திரவேலை</tam>. <i>(c.)</i> <p2><tam>சைத்திரோச்சவம்</tam>, <i>s.</i> (<i>com.</i> <tam>சித்திரைத்திருவிழா</tam>.) A festival in April.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்திரரதம்&searchhws=yes&matchtype=exact">சைத்திரரதம்</a> caittiraratam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைத்திரரதம்</hw> - குபேரன் உத்தியாநவநம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்திரரதம்&searchhws=yes&matchtype=exact">சைத்திரரதம்</a> caittiraratam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைத்திரரதம்</tam> <t>caittira-ratam</t></hw> , <i>n</i>. < <i>caitra-ratha</i>. Garden of Kubēra; <tam>குபேரனது நந்தவனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்திரவிரதம்&searchhws=yes&matchtype=exact">சைத்திரவிரதம்</a> caittiraviratam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைத்திரவிரதம்</tam> <t>caittira-v-iratam</t></hw> , <i>n</i>. See <tam>சைத்திராதம். பானுவுஞ் செல்கலாச் சைத்திர விரதம்</tam> (<tam>இரகு. நகர</tam>. 9).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்திராகன்&searchhws=yes&matchtype=exact">சைத்திராகன்</a> caittirākaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைத்திராகன்</hw> - வீரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/fabricius_query.py?qs=சைத்திராதம்&searchhws=yes&matchtype=exact">சைத்திராதம்</a> caittirātam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைத்திராதம்</tam></hw> , <i>s.</i> the pleasure-garden of Kubera.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்திராவலி&searchhws=yes&matchtype=exact">சைத்திராவலி</a> caittirāvali
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைத்திராவலி</tam> <t>caittirāvali</t></hw> , <i>n</i>. perh. <i>caitra</i> + <i>āvali</i>. Full moon in the month of Cittirai; <tam>சித்திராபூரணை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்திராவிலி&searchhws=yes&matchtype=exact">சைத்திராவிலி</a> caittirāvili
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைத்திராவிலி</hw> - சித்திராபூரணை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்திரி&searchhws=yes&matchtype=exact">சைத்திரி</a> caittiri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைத்திரி</hw> - சித்திரைமாதம், யாகமிருபத் தொன்றினொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்திரி&searchhws=yes&matchtype=exact">சைத்திரி</a> caittiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைத்திரி</tam> <t>caittiri</t></hw> , <i>n</i>. < <i>caitrī</i>. Sacrifice offered on the full moon day in Cittirai; <tam>சித்திரா பூரணையில் நடத்தப்பெறும் யாகம். (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/winslow_query.py?qs=சைத்திரி&searchhws=yes&matchtype=exact">சைத்திரி</a> caittiri
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைத்திரி</tam></hw> , <i>s.</i> One of the twenty-one <tam>யாகம்</tam>, <tam>ஓரியாகம்</tam>. 2. April, <tam>சித்திரை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/crea_query.py?qs=சைத்திரிகன்&searchhws=yes&matchtype=exact">சைத்திரிகன்</a> caittirikaṉ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சைத்திரிகன்</hw> பெ. [அ.வ.] 1: ஓவியன்; painter; artist.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்திரிகம்&searchhws=yes&matchtype=exact">சைத்திரிகம்</a> caittirikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைத்திரிகம்</hw> - சித்திரவேலை, சித்திரை மாதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/winslow_query.py?qs=சைத்திரிகம்&searchhws=yes&matchtype=exact">சைத்திரிகம்</a> caittirikam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைத்திரிகம்</tam></hw> , <i>s.</i> April, <tam>சித்திரை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/fabricius_query.py?qs=சைத்திரிய ஞானம்&searchhws=yes&matchtype=exact">சைத்திரிய ஞானம்</a> caittiriya ñāṉam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p><hw><tam>சைத்திரிய ஞானம்</tam></hw> , spirituality, the nature of the deity, the soul etc.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்திரியஞானம்&searchhws=yes&matchtype=exact">சைத்திரியஞானம்</a> caittiriyañāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைத்திரியஞானம்</tam> <t>caittiriya-ñāṉam</t></hw> , <i>n</i>. < <i>kṣaitrajña</i> +. Spiritual knowledge, the knowledge of nature of the god or the soul; <tam>கடவுள் உயிர்களைப் பற்றிய அறிவு. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/fabricius_query.py?qs=சைத்திரியம்&searchhws=yes&matchtype=exact">சைத்திரியம்</a> caittiriyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைத்திரியம்</tam></hw> , <i>s.</i> intelligence, the power which fastens the sense on its appropriate object, <tam>சித்தத்திடம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்திரியம்&searchhws=yes&matchtype=exact">சைத்திரியம்</a> caittiriyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைத்திரியம்</hw> - தெளிவு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்திரியம்&searchhws=yes&matchtype=exact">சைத்திரியம்</a> caittiriyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைத்திரியம்</tam> <t>caittiriyam</t></hw> , <i>n</i>. < <i>sthairya</i>. Steadfastness, stability, courage; <tam>மனோதிடம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/winslow_query.py?qs=சைத்திரியம்&searchhws=yes&matchtype=exact">சைத்திரியம்</a> caittiriyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைத்திரியம்</tam></hw> , <i>s.</i> Intelligence, the power which fastens the sense on its ap- propriate object, <tam>சித்ததிடம்</tam>. <i>(p.)</i> <p2><tam>சைத்திரியஞானம்</tam>, <i>s.</i> Spirituality, the nature of the deity, the soul, &c.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்திரியாஞானம்&searchhws=yes&matchtype=exact">சைத்திரியாஞானம்</a> caittiriyāñāṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைத்திரியாஞானம்</hw> - சித்தஞானம், பேரறிவு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைத்திரோற்சவம்&searchhws=yes&matchtype=exact">சைத்திரோற்சவம்</a> caittirōṟcavam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைத்திரோற்சவம்</tam> <t>caittirōṟcavam</t></hw> , <i>n</i>. < <i>caitra</i> + <i>utsava</i>. Temple festival celebrated in Cittirai; <tam>சித்திரையில் நிகழும் கோயிற்றிருவிழா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைத்துவம்&searchhws=yes&matchtype=exact">சைத்துவம்</a> caittuvam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைத்துவம்</hw> - செய்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைநாகர்&searchhws=yes&matchtype=exact">சைநாகர்</a> cainākar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைநாகர்</hw> - சிசுநாகன்வமிசத்தார், இவ ர் பதின்மர். பிரத்தியோதர்களுக்குப் பின்னே மகததேசத்திலே முந்நூற் றறுபத்திரண்டு வருஷம் அரசாண் டவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைநிகன்&searchhws=yes&matchtype=exact">சைநிகன்</a> cainikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைநிகன்</hw> - சேனைத்தலைவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைந்தவன்&searchhws=yes&matchtype=exact">சைந்தவன்</a> caintavaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைந்தவன்</hw> - ஜயத்திரதன், இவன் சிந் துதேசத்தரசன். துரியோதநன் தங் கையாகிய துர்ப்பலையை மணம்புரி ந்தவன். இவன் தந்தை விருத்த க்ஷ த்திரன். இவன் பாண்டவர்வன வாசகாலத்தில், ஒரு நாள் தனியே யிருந்த துரோபதையைக் கவர்ந்து போக, பாண்டவர்கள் இவனைத் தொடர்ந்துபோய்த் தடுத்த இவனை மாநபங்கஞ்செய்து துரோபதையை மீட்டுச்சென்றார்கள். இவன் பாரத யுத்தத்தில் அர்ஜுநனால் கொல்லப் பட்டான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/fabricius_query.py?qs=சைந்தவம்&searchhws=yes&matchtype=exact">சைந்தவம்</a> caintavam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைந்தவம்</tam></hw> , <i>s.</i> rock-salt, <tam>இந்துப்பு</tam>; 2. a horse, <tam>குதிரை</tam>; 3. the river Indus, <tam>சிந்துநதி</tam>; 4. head, <tam>தலை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைந்தவம்&searchhws=yes&matchtype=exact">சைந்தவம்</a> caintavam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைந்தவம்</hw> - இந்துப்பு, சிந்துநதி, குதி ரை, தலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைந்தவம்&searchhws=yes&matchtype=exact">சைந்தவம்</a> caintavam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைந்தவம்</tam> <t>caintavam</t></hw> , <i>n</i>. < <i>saindhava</i>. 1. See <tam>சயிந்தவம்¹. (சூடா.)</tam> 2. Sind; <tam>சிந்துதேசம். காம்போச மாரியஞ் சாம்ப்ராணி சைந்தவம்</tam> (<tam>திதிருவாலவா<ருவால வா</tam>. 27, 73).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/winslow_query.py?qs=சைந்தவம்&searchhws=yes&matchtype=exact">சைந்தவம்</a> caintavam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைந்தவம்</tam></hw> , <i>s.</i> Rock-salt. (See <tam>இந்துப்பு</tam>.) 2. A horse, <tam>குதிரை</tam>. 3. The river Indus, <tam>சிந்துநதி</tam>. W. p. 944. <smallcaps>S'AINDHAVA.</smallcaps> 4. Head, <tam>தலை</tam>. See <tam>சயிந்தவம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/fabricius_query.py?qs=சைந்தவி&searchhws=yes&matchtype=exact">சைந்தவி</a> caintavi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைந்தவி</tam></hw> , <tam>சயிந்தவி</tam>, <i>s.</i> a tune.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைந்தவி&searchhws=yes&matchtype=exact">சைந்தவி</a> caintavi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைந்தவி</hw> - சயிந்தவி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைந்தவி&searchhws=yes&matchtype=exact">சைந்தவி</a> caintavi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைந்தவி</tam> <t>caintavi</t></hw> , <i>n</i>. < <i>saindhavī</i>. (Mus.) A specific melody-type. See <tam>சயிந்தவி. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/winslow_query.py?qs=சைந்தவி&searchhws=yes&matchtype=exact">சைந்தவி</a> caintavi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைந்தவி</tam></hw> , <i>s.</i> A tune. See <tam>சயிந்தவி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		114) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைந்தியலவணம்&searchhws=yes&matchtype=exact">சைந்தியலவணம்</a> caintiyalavaṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைந்தியலவணம்</tam> <t>caintiya-lavaṇam</t></hw> , <i>n</i>. < <i>saindhava</i> +. Rock-salt; <tam>இந்துப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		115) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைந்யம்&searchhws=yes&matchtype=exact">சைந்யம்</a> cainyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைந்யம்</hw> - சதுரங்கபலம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		116) <a href="/cgi-bin/app/fabricius_query.py?qs=சைனன்&searchhws=yes&matchtype=exact">சைனன்</a> caiṉaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=450">p. 450</a>)
+		<blockquote><p>*<hw><tam>சைனன்</tam></hw> , <i>s.</i> (<i>fem.</i> <tam>சைனத்தி</tam>), a Jaina, an adherent of the Jaina religion; 2. Argha, <tam>அருகன்</tam>; 3. Buddha, <tam>புத்தன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		117) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைனன்&searchhws=yes&matchtype=exact">சைனன்</a> caiṉaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைனன்</hw> - அருகசமயத்தவன், அருகன், புத்தன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		118) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைனன்&searchhws=yes&matchtype=exact">சைனன்</a> caiṉaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைனன்</tam> <t>caiṉaṉ</t></hw> , <i>n</i>. < <i>Jaina</i>. 1. A Jaina; <tam>அருகசமயத்தவன்</tam>. 2. Buddha; <tam>புத்தன். (திவா.)</tam> 3. Arhat; <tam>அருகக்கடவுள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		119) <a href="/cgi-bin/app/winslow_query.py?qs=சைனன்&searchhws=yes&matchtype=exact">சைனன்</a> caiṉaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைனன்</tam></hw> , <i>s.</i> (<i>fem.</i> <tam>சைனத்தி</tam>, <i>plu.</i> <tam>சைனர்</tam>.) A Jaina, a follower of the Jaina or Buddhist system, <tam>சினனைவணங்குவோன்</tam>. W. p. 354. <smallcaps>JAINA.</smallcaps> 2. Argha, <tam>அருகன்</tam>. 3. Buddha, <tam>புத்தன்</tam>. <p2><tam>சைனவேளாளர்</tam>, <i>s.</i> Husbandmen of the Jainas.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		120) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைனம்&searchhws=yes&matchtype=exact">சைனம்</a> caiṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைனம்</tam> <t>caiṉam</t></hw> , <i>n</i>. < <i>Jaina</i>. Jainism; <tam>சைனமதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		121) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைனர்&searchhws=yes&matchtype=exact">சைனர்</a> caiṉar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைனர்</hw> - சமணர், சீனர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		122) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைனர்&searchhws=yes&matchtype=exact">சைனர்</a> caiṉar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S295">p. S295</a>)
+		<blockquote><p><hw><tam>சைனர்</tam> <t>caiṉar</t></hw> , <i>n</i>. < E. <i>China</i>. Chinamen; <tam>சீனதேசத்தார். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		123) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைனவேளாளர்&searchhws=yes&matchtype=exact">சைனவேளாளர்</a> caiṉavēḷāḷar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைனவேளாளர்</tam> <t>caiṉa-vēḷāḷar</t></hw> , <i>n</i>. < id. +. Jain farmers; <tam>சைன விவசாயி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		124) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைனாகமம்&searchhws=yes&matchtype=exact">சைனாகமம்</a> caiṉākamam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைனாகமம்</tam> <t>caiṉākamam</t></hw> , <i>n</i>. < id. + <i>ā-gama</i>. The sacred scriptures of the Jainas, of three kinds, viz., <i>aṅkākamam, pūrvākamam, paku-curuti-y-ākamam</i>; <tam>அங்காகமம், பூர்வாகமம், பகு சுருதியாகமம் என முப்பகுதிப்பட்ட சைனசமய ஆகம நூல்</tam>. (<tam>சீவக</tam>. 1246, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		125) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைனாக்கோழி&searchhws=yes&matchtype=exact">சைனாக்கோழி</a> caiṉākkōḻi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைனாக்கோழி</tam> <t>caiṉā-k-kōḻi</t></hw> , <i>n</i>. < <i>China</i> +. A species of fowl which hatches eggs without brooding; <tam>அடைகாக்காமல் முட்டைபொரிக்குஞ் சீனாக் கோழி</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		126) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைனாபத்தியம்&searchhws=yes&matchtype=exact">சைனாபத்தியம்</a> caiṉāpattiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைனாபத்தியம்</hw> - சேனாபதித்துவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		127) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைனாப்பெட்டி&searchhws=yes&matchtype=exact">சைனாப்பெட்டி</a> caiṉāppeṭṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S295">p. S295</a>)
+		<blockquote><p><hw><tam>சைனாப்பெட்டி</tam> <t>caiṉā-p-peṭṭi</t></hw> , <i>n</i>. < id. +. A kind of fireworks; <tam>சீனாப்பெட்டி</tam>. <i>Madr</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		128) <a href="/cgi-bin/app/crea_query.py?qs=சைனியம்&searchhws=yes&matchtype=exact">சைனியம்</a> caiṉiyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சைனியம்</hw> பெ. [அ.வ.] காண்க: சேனை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		129) <a href="/cgi-bin/app/fabricius_query.py?qs=சைனியம்&searchhws=yes&matchtype=exact">சைனியம்</a> caiṉiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=450">p. 450</a>)
+		<blockquote><p>*<hw><tam>சைனியம்</tam></hw> , <tam>சைன்னியம்</tam>, <i>s.</i> army, <tam>சேனை</tam> Also <tam>சைந்யம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		130) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைனியம்&searchhws=yes&matchtype=exact">சைனியம்</a> caiṉiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைனியம்</tam> <t>caiṉiyam</t></hw> , <i>n</i>. < <i>sainya</i>. Army; <tam>சேனை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		131) <a href="/cgi-bin/app/winslow_query.py?qs=சைனியம்&searchhws=yes&matchtype=exact">சைனியம்</a> caiṉiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைனியம்</tam></hw> –<tam>சைன்னியம்</tam>, <i>s.</i> As <tam>சேனை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		132) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைனியம், சைன்னியம்&searchhws=yes&matchtype=exact">சைனியம், சைன்னியம்</a> caiṉiyam, caiṉṉiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைனியம், சைன்னியம்</hw> சேனை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		133) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைப்பியர்&searchhws=yes&matchtype=exact">சைப்பியர்</a> caippiyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைப்பியர்</hw> - உசீநரன் புத்திரனாகியசிபி வமிசத்தார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		134) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைப்பியை&searchhws=yes&matchtype=exact">சைப்பியை</a> caippiyai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைப்பியை</hw> - விதேகராஜபுத்திரி, இவள் மஹா பதிவிரதை, சியாமகன்பாரி, விதர்ப்பன்தாய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		135) <a href="/cgi-bin/app/fabricius_query.py?qs=சைமானம்&searchhws=yes&matchtype=exact">சைமானம்</a> caimāṉam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைமானம்</tam></hw> , <i>s.</i> (<i>prop.</i> <tam>சம்மானம்</tam>) honor, <tam>வெகுமானம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		136) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைமானம்&searchhws=yes&matchtype=exact">சைமானம்</a> caimāṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைமானம்</hw> - வெகுமானம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		137) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைமானம்&searchhws=yes&matchtype=exact">சைமானம்</a> caimāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைமானம்</tam> <t>caimāṉam</t></hw> , <i>n</i>. < <i>sam-māna</i>. Present, reward; <tam>சம்மானம்</tam>. (<smallcap>R</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		138) <a href="/cgi-bin/app/winslow_query.py?qs=சைமானம்&searchhws=yes&matchtype=exact">சைமானம்</a> caimāṉam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p><hw><tam>சைமானம்</tam></hw> , <i>s.</i> [<i>prop.</i> <tam>சம்மானம்</tam>.] Honor, <tam>வெகுமானம்</tam>. <i>(R.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		139) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைமிநகரோன்&searchhws=yes&matchtype=exact">சைமிநகரோன்</a> caiminakarōṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைமிநகரோன்</hw> - நமன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		140) <a href="/cgi-bin/app/fabricius_query.py?qs=சைமினி&searchhws=yes&matchtype=exact">சைமினி</a> caimiṉi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைமினி</tam></hw> , <i>s.</i> famous Rishi. <p2><tam>சைமினிச்சூத்திரம்</tam>, the system of the Rishi.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		141) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைமினி&searchhws=yes&matchtype=exact">சைமினி</a> caimiṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைமினி</hw> - உத்தரமீமாமிச நூலாசிரியன் ஒரு மனிவன், இயமலோகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		142) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைமினி&searchhws=yes&matchtype=exact">சைமினி</a> caimiṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைமினி¹</tam> <t>caimiṉi</t></hw> , <i>n</i>. < <i>saṃyaminī</i>. See <tam>சையமினி. சைமினி நகரோன்</tam> (<tam>பிங்</tam>. 197).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		143) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைமினி&searchhws=yes&matchtype=exact">சைமினி</a> caimiṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைமினி²</tam> <t>caimiṉi</t></hw> , <i>n</i>. < <i>Jaimini</i>. A sage-philosopher, the author of Pūrva-Mīmāṃsā-Sūtra; <tam>பூருவமீமாஞ்சையின் ஆசிரியரான ஒரு முனிவர். அக்கபாதன் கணாதன் சைமினி</tam> (<tam>மணி</tam>. 27, 82).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		144) <a href="/cgi-bin/app/winslow_query.py?qs=சைமினி&searchhws=yes&matchtype=exact">சைமினி</a> caimiṉi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைமினி</tam></hw> , <i>s. (Sa Jaimini.)</i> A famous Rishi, <tam>ஓரிருடி</tam>. <p2><tam>சைமினிசூத்திரம்</tam>, <i>s.</i> The system of the Rishi.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		145) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைமினிசூத்திரம்&searchhws=yes&matchtype=exact">சைமினிசூத்திரம்</a> caimiṉicūttiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சைமினிசூத்திரம்</tam> <t>caimiṉi-cūttiram</t></hw> , <i>n</i>. < id. +. Aphoristic treatise on the Pūrva-Mīmāṃsā by Jaimini; <tam>சைமினியாற் சூத்திரரூபமா யியற்றப்பெற்ற பூருவமீமாஞ்சை நூல். சாற்றியவச் சைமினி சூத்திரத்திற்கு</tam> (<tam>வேதா. சூ. சிறப்பு</tam>. 4).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		146) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைமினிநகர்&searchhws=yes&matchtype=exact">சைமினிநகர்</a> caimiṉinakar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைமினிநகர்</hw> - இயமலோகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		147) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைமினிமுனி&searchhws=yes&matchtype=exact">சைமினிமுனி</a> caimiṉimuṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1442">p. 1442</a>)
+		<blockquote><p><hw>சைமினிமுனி</hw> - வியாசசீடன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		148) <a href="/cgi-bin/app/fabricius_query.py?qs=சைம்மினி&searchhws=yes&matchtype=exact">சைம்மினி</a> caimmiṉi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சைம்மினி</tam></hw> , <tam>சைமினிநகர்</tam>, <i>s.</i> the city of Yama. <p2><tam>சைமினிநகரோன்</tam>, <tam>சைம்மினிநகரோன்</tam>, Yama.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		149) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைம்மினி&searchhws=yes&matchtype=exact">சைம்மினி</a> caimmiṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைம்மினி</hw> - இயமன்பட்டணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		150) <a href="/cgi-bin/app/winslow_query.py?qs=சைம்மினி&searchhws=yes&matchtype=exact">சைம்மினி</a> caimmiṉi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைம்மினி</tam></hw> , <i>s.</i> The city of Yama, <tam>இயமன்பட்டணம்</tam>. <p2><tam>சைம்மினிநகரோன்</tam>, <i>s.</i> Yama of the city <tam>சைம்மினி</tam>. (<tam>சது</tam>.)</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		151) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையகம்&searchhws=yes&matchtype=exact">சையகம்</a> caiyakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சையகம்</tam> <t>caiyakam</t></hw> , <i>n</i>. < <i>šayyā</i>. Bed; <tam>படுக்கை. (அக. நி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		152) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையத்திரு-த்தல்&searchhws=yes&matchtype=exact">சையத்திரு-த்தல்</a> caiyattiru-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சையத்திரு-த்தல்</tam> <t>caiyattiru-</t></hw> , <i>v. intr</i>. prob. id. +. To be in prosperous circumstances; <tam>நன்னிலையிலிருத்தல்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		153) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையமினி&searchhws=yes&matchtype=exact">சையமினி</a> caiyamiṉi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சையமினி</tam> <t>caiyamiṉi</t></hw> , <i>n</i>. < <i>saṃyaminī</i>. City of Yama; <tam>யமனது நகரம். சையமினி யீது கொல்</tam> (<tam>காசிக. சிவசன். இயம</tam>. 18).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		154) <a href="/cgi-bin/app/fabricius_query.py?qs=சையம்&searchhws=yes&matchtype=exact">சையம்</a> caiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சையம்</tam></hw> , <i>s.</i> stone, <tam>கல்</tam>; 2. a hill, a mountain, <tam>மலை</tam>; 3. prosperity, <tam>செல்வம்</tam>; 4. a mountain in Coorg where the Kauvery rises. <p2><tam>சையத்திருக்க</tam>, to be in prosperous circumstances.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		155) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சையம்&searchhws=yes&matchtype=exact">சையம்</a> caiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சையம்</hw> - கல், குடகுமலை, செல்வம், மலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		156) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சையம்&searchhws=yes&matchtype=exact">சையம்</a> caiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>சையம்</hw> - கல், மலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		157) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையம்&searchhws=yes&matchtype=exact">சையம்</a> caiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சையம்¹</tam> <t>caiyam</t></hw> , <i>n</i>. < <i>Sahya</i>. 1. A mountain. See <tam>சகியம்²</tam>. <tam>புரைகெழு சையம் பொழிமழை</tam> (<tam>பரிபா</tam>. 11, 14). 2. Hill, mountain; <tam>மலை. சக்கர வாள சையம்</tam> (<tam>கந்தபு. அண்டகோ</tam>. 20). 3. Stone, rock; <tam>கல். சையம் பூண்டு சமுத்திர நீந்துவான்</tam> (<tam>சீவக</tam>. 1426).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		158) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையம்&searchhws=yes&matchtype=exact">சையம்</a> caiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சையம்²</tam> <t>caiyam</t></hw> , <i>n</i>. < <i>saṃ-yama</i>. Self-control; <tam>நியமம். சையமே லேற்றினான்</tam> (<tam>மேருமந்</tam>. 544).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		159) <a href="/cgi-bin/app/winslow_query.py?qs=சையம்&searchhws=yes&matchtype=exact">சையம்</a> caiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சையம்</tam></hw> , <i>s.</i> Stone, rock, <tam>கல்</tam>. 2. Hill, mountain, <tam>மலை</tam>. 3. Prosperity, <tam>செல்வம்</tam>. 4. The name of mountain in the Koorg country from which rises the Kavery river, <tam>ஓர்மலை</tam>. <i>(p.)</i> <p2><tam>சையகிரி</tam>, <i>s.</i> As <tam>சையம்</tam>, 4.</p2> <p2><tam>சையத்திருக்க</tam>, <i>inf.</i> To have prosperity, to be prosperous. (<tam>ஔவை</tam>.)</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		160) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சையர்&searchhws=yes&matchtype=exact">சையர்</a> caiyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>சையர்</hw> - மலைவாணர், புறங்கூறுவோர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		161) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையல்&searchhws=yes&matchtype=exact">சையல்</a> caiyal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S295">p. S295</a>)
+		<blockquote><p><hw><tam>சையல்</tam> <t>caiyal</t></hw> , <i>n</i>. cf. <tam>சாயல்</tam>. Exact likeness; <tam>சாயல். சாமிநடையைப்போல . . . சையலிலே நான் காணேன்</tam> (<tam>கட்டபொம்மு. பக்</tam>. 57).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		162) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையானம்&searchhws=yes&matchtype=exact">சையானம்</a> caiyāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சையானம்</tam> <t>caiyāṉam</t></hw> , <i>n</i>. See <tam>சையகம். (அக. நி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		163) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையுத்தசமவாயம்&searchhws=yes&matchtype=exact">சையுத்தசமவாயம்</a> caiyuttacamavāyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1643">p. 1643</a>)
+		<blockquote><p><hw><tam>சையுத்தசமவாயம்</tam> <t>caiyutta-camavāyam</t></hw> , <i>n</i>. < <i>saṃ-yukta</i> + <i>samavāya</i>. (Log.) The relation of inherence in that which is in conjunction, as of the sense of sight with the colour of an object in perception, one of six <i>caṉṉikariṭam</i>, q. v.; <tam>காட்சியில் ற்படும் அறுவகைச் சன்னி கரிடத்துள் இந்திரியத்திற்கும் ஒரு பொருளின் குணம் முதலியவற்றிற்குமுள்ள சம்பந்தம்</tam>. (<tam>தருக்கசந்</tam>. 31.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		164) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையுத்தசமவேதசமவாயம்&searchhws=yes&matchtype=exact">சையுத்தசமவேதசமவாயம்</a> caiyuttacamavētacamavāyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சையுத்தசமவேதசமவாயம்</tam> <t>caiyutta-camavēta-camavāyam</t></hw> , <i>n</i>. < id. +. (Log.) The relation of inherence in what is itself inherent in a thing that is in conjunction, one of six <i>caṉṉikariṭam</i>, q. v.; <tam>காட்சியில் அறுவகைச் சன்னிகரிடத்துள் இந்திரியத்திற்கும் ஒருபொருளின் உருவத்தன்மையாகிய சாதிக்கும் உள்ள சம்பந்தம்</tam>. (<tam>தருக்கசங்</tam>. 31.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		165) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையுத்தம்&searchhws=yes&matchtype=exact">சையுத்தம்</a> caiyuttam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சையுத்தம்</tam> <t>caiyuttam</t></hw> , <i>n</i>. < <i>saṃyukta</i>. See <tam>சையோகசம்பந்தம். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		166) <a href="/cgi-bin/app/fabricius_query.py?qs=சையெனல்&searchhws=yes&matchtype=exact">சையெனல்</a> caiyeṉal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p><hw><tam>சையெனல்</tam></hw> , <i>v. n.</i> (<tam>சீயெனல்</tam>) uttering the interjection <tam>சை</tam>; 2. being abominable, or hateful.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		167) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சையெனல்&searchhws=yes&matchtype=exact">சையெனல்</a> caiyeṉal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சையெனல்</hw> - இகழ்ச்சிக்குறிப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		168) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சையெனல்&searchhws=yes&matchtype=exact">சையெனல்</a> caiyeṉal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>சையெனல்</hw> - இகழ்ச்சிக்குறிப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		169) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையெனல்&searchhws=yes&matchtype=exact">சையெனல்</a> caiyeṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சையெனல்</tam> <t>cai-y-eṉal</t></hw> , <i>n</i>. Onom. expr. of contempt, abhorrence; <tam>இகழ்ச்சிக்குறிப்பு. சை யெனத் திரியேல் (ஆத்திசூ.)</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		170) <a href="/cgi-bin/app/winslow_query.py?qs=சையெனல்&searchhws=yes&matchtype=exact">சையெனல்</a> caiyeṉal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p><hw><tam>சையெனல்</tam></hw> , <i>v. noun.</i> [<i>com.</i> <tam>சீயெனல்</tam>.] Uttering the interjection <tam>சை</tam>, <tam>இகழ்ச்சிக்குறிப்பு</tam>. 2. To be abominable, hateful, abhorrent, <tam>வெறுப்புள்ளதாகுகை</tam>. <i>(p.)</i> See <tam>சை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		171) <a href="/cgi-bin/app/fabricius_query.py?qs=சையை&searchhws=yes&matchtype=exact">சையை</a> caiyai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சையை</tam></hw> , <i>s.</i> same as <tam>சைகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		172) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சையை&searchhws=yes&matchtype=exact">சையை</a> caiyai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சையை</hw> - சைகை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		173) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையை&searchhws=yes&matchtype=exact">சையை</a> caiyai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சையை¹</tam> <t>caiyai</t></hw> , <i>n</i>. < <i>saṃjñā</i>. See <tam>சைகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		174) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையை&searchhws=yes&matchtype=exact">சையை</a> caiyai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சையை²</tam> <t>caiyai</t></hw> , <i>n</i>. < <i>šayyā</i>. Flow of verse. See <tam>சய்யை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		175) <a href="/cgi-bin/app/winslow_query.py?qs=சையை&searchhws=yes&matchtype=exact">சையை</a> caiyai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சையை</tam></hw> , <i>s.</i> See <tam>சைகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		176) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையொத்திரு-த்தல்&searchhws=yes&matchtype=exact">சையொத்திரு-த்தல்</a> caiyottiru-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சையொத்திரு-த்தல்</tam> <t>caiyottiru-</t></hw> , <i>v. intr</i>. perh. <tam>இசை-</tam> + <tam>ஒ-</tam> + <tam>இரு-</tam>. To be friendly, familiar; <tam>இணக்கமாயிருத்தல்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		177) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையோகசம்பந்தம்&searchhws=yes&matchtype=exact">சையோகசம்பந்தம்</a> caiyōkacampantam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சையோகசம்பந்தம்</tam> <t>caiyōka-campantam</t></hw> , <i>n</i>. < <i>saṃ-yōga</i> +. Conjunction between two objects; <tam>இரண்டுபொருள்கள் கூடியிருத்தலாகிய சம்பந்தம்</tam>. (<tam>தருக்கசங்</tam>. 31.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		178) <a href="/cgi-bin/app/fabricius_query.py?qs=சையோகம்&searchhws=yes&matchtype=exact">சையோகம்</a> caiyōkam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=449">p. 449</a>)
+		<blockquote><p>*<hw><tam>சையோகம்</tam></hw> , <i>s.</i> copulation, coition, <tam>புணர்ச்சி</tam>; 2. <i>(Gr.)</i> combination, coalition. <p2><tam>சையோகிக்க</tam>, <tam>சையோகம்பண்ண</tam>, to copulate.</p2> <p2><tam>சையோகாட்சரம்</tam>, a compound letter.</p2> <p2><tam>சையோகை</tam>, spouse, consort, <tam>மனைவி</tam>.</p2> <p2><tam>பரசையோகம்</tam>, adultery.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		179) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சையோகம்&searchhws=yes&matchtype=exact">சையோகம்</a> caiyōkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சையோகம்</hw> - கூட்டம், புணர்ச்சி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		180) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையோகம்&searchhws=yes&matchtype=exact">சையோகம்</a> caiyōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சையோகம்</tam> <t>caiyōkam</t></hw> , <i>n</i>. < <i>saṃ-yōga</i>. 1. Union, absorption; <tam>கலக்கை</tam>. 2. See <tam>சையோகசம்பந்தம். (சி. சி.)</tam> 3. Sexual union; <tam>புணர்ச்சி. இரவுபக லேழையர்கள் சையோக மாயினோம்</tam> (<tam>தாயு. எங்குநிறை</tam>. 9).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		181) <a href="/cgi-bin/app/winslow_query.py?qs=சையோகம்&searchhws=yes&matchtype=exact">சையோகம்</a> caiyōkam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சையோகம்</tam></hw> , <i>s.</i> Copulation, coition, <tam>புணர்ச்சி</tam>. 2. <i>[in gram.]</i> Combination. coalition, <tam>ஏழுத்தின்புணர்ச்சி</tam>. See <tam>சய்யோகம்</tam>. <p2><tam>சையோகிக்க</tam>–<tam>சையோகம்பண்ண</tam>, <i>inf.</i> To copulate.</p2> <p2><tam>சையோகாட்சரம்</tam>, <i>s.</i> A compound letter; [<i>ex</i> <tam>அட்சரம்</tam>.</p2> <p2><tam>பரசையோகம்</tam>, <i>s.</i> Adultery; [<i>ex</i> <tam>பர</tam>.]</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		182) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையோகாட்சரம்&searchhws=yes&matchtype=exact">சையோகாட்சரம்</a> caiyōkāṭcaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சையோகாட்சரம்</tam> <t>caiyōkāṭcaram</t></hw> , <i>n</i>. < id. +. <i>akṣara</i>. Conjunct consonant in Sanskrit. See <tam>சம்யுக்தாட்சரம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		183) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையோகி-த்தல்&searchhws=yes&matchtype=exact">சையோகி-த்தல்</a> caiyōki-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சையோகி-த்தல்</tam> <t>caiyōki-</t></hw> , <i>11 v. intr</i>. < id. 1. To unite, mix; <tam>கலத்தல். (யாழ். அக.)</tam> 2. To copulate; <tam>புணர்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		184) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சையோகித்தல்&searchhws=yes&matchtype=exact">சையோகித்தல்</a> caiyōkittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சையோகித்தல்</hw> - கூடுதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		185) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சையோகை&searchhws=yes&matchtype=exact">சையோகை</a> caiyōkai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சையோகை</hw> - சத்தியினாற் சிவத்துக் குண்டாகுந் துன்பம் மனைவி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		186) <a href="/cgi-bin/app/winslow_query.py?qs=சையோகை&searchhws=yes&matchtype=exact">சையோகை</a> caiyōkai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சையோகை</tam></hw> , <i>s.</i> Spouse, consort, <tam>மனைவி</tam>. 2. <i>[in the Agama phil.]</i> The female principle of deity, as contributing to sen- sation, enjoyment, &c., in the male princi- ple, <tam>சிவத்துக்கின்பந்தருஞ்சத்தி</tam>. <i>(p.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		187) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையோத்தி&searchhws=yes&matchtype=exact">சையோத்தி</a> caiyōtti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சையோத்தி</tam> <t>caiyōtti</t></hw> , <i>n</i>. See <tam>சையோத்தியம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		188) <a href="/cgi-bin/app/winslow_query.py?qs=சையோத்தி&searchhws=yes&matchtype=exact">சையோத்தி</a> caiyōtti
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சையோத்தி</tam></hw> , <i>s.</i> As <tam>சையோத்தியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		189) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சையோத்தி, சையோத்திகம், சையோத்தியம்&searchhws=yes&matchtype=exact">சையோத்தி, சையோத்திகம், சையோத்தியம்</a> caiyōtti, caiyōttikam, caiyōttiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சையோத்தி, சையோத்திகம், சையோத்தியம்</hw> அயிக்கம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		190) <a href="/cgi-bin/app/fabricius_query.py?qs=சையோத்தியம்&searchhws=yes&matchtype=exact">சையோத்தியம்</a> caiyōttiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=450">p. 450</a>)
+		<blockquote><p>*<hw><tam>சையோத்தியம்</tam></hw> , <tam>சையோத்தி</tam>, <i>s.</i> communion, familiarity, <tam>இணக்கம்</tam>. <p2><tam>சையோத்தியமாயிருக்க</tam>, to be or live in union.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		191) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சையோத்தியம்&searchhws=yes&matchtype=exact">சையோத்தியம்</a> caiyōttiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சையோத்தியம்</tam> <t>caiyōttiyam</t></hw> , <i>n</i>. perh. <i>saṃ-yukta</i>. Amity, harmony; <tam>இணக்கம். சண் டையில்லாமல் சையோத்தியமாயிருந்தார்கள்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		192) <a href="/cgi-bin/app/winslow_query.py?qs=சையோத்தியம்&searchhws=yes&matchtype=exact">சையோத்தியம்</a> caiyōttiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சையோத்தியம்</tam></hw> -<tam>சய்யோத்தியம்</tam>- <tam>சயோத்தியம்</tam>, <i>s.</i> Familiarity, commounion, <tam>இணக்கம்</tam>.–<i>Note.</i> This word is commonly <tam>சையொத்து</tam>, in the participial form. <tam>சண்டையில்லாமற்சையோத்தியமாயிருக்கிறார்கள்</tam>.... They live in union o mutual harmony.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		193) <a href="/cgi-bin/app/fabricius_query.py?qs=சைரந்தரி&searchhws=yes&matchtype=exact">சைரந்தரி</a> cairantari
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=450">p. 450</a>)
+		<blockquote><p>*<hw><tam>சைரந்தரி</tam></hw> , <i>s.</i> a woman who lives in a stranger's house.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		194) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைரந்தரி&searchhws=yes&matchtype=exact">சைரந்தரி</a> cairantari
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1442">p. 1442</a>)
+		<blockquote><p><hw>சைரந்தரி</hw> - வண்ணமகள், திரௌபதி, பாஞ்சாலி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		195) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைரந்திரி&searchhws=yes&matchtype=exact">சைரந்திரி</a> cairantiri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைரந்திரி</hw> - அன்னியன்வீட்டிலிருப்பவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		196) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைரிகன்&searchhws=yes&matchtype=exact">சைரிகன்</a> cairikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைரிகன்</tam> <t>cairikaṉ</t></hw> , <i>n</i>. < id. (<tam>யாழ். அக</tam>.) 1. Ploughman; <tam>உழவன்</tam>. 2. Plough-bullock; <tam>ஏர்மாடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		197) <a href="/cgi-bin/app/fabricius_query.py?qs=சைரிகம்&searchhws=yes&matchtype=exact">சைரிகம்</a> cairikam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=450">p. 450</a>)
+		<blockquote><p>*<hw><tam>சைரிகம்</tam></hw> , <i>s.</i> mixture. <tam>கலப்பு</tam>; 2. plough bull, <tam>உழவெருது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		198) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைரிகம்&searchhws=yes&matchtype=exact">சைரிகம்</a> cairikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைரிகம்</hw> - உழவெருது, கலப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		199) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைரிகம்&searchhws=yes&matchtype=exact">சைரிகம்</a> cairikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைரிகம்</hw> - உழவன், ஏர்மாடு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		200) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைரிகம்&searchhws=yes&matchtype=exact">சைரிகம்</a> cairikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைரிகம்</tam> <t>cairikam</t></hw> , <i>n</i>. < <i>sairika</i>. Ploughshare; <tam>கலப்பை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		201) <a href="/cgi-bin/app/winslow_query.py?qs=சைரிகம்&searchhws=yes&matchtype=exact">சைரிகம்</a> cairikam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைரிகம்</tam></hw> , <i>s.</i> Mixture, <tam>கலப்பு</tam>. W. p. 944. <smallcaps>S'AIRIKA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		202) <a href="/cgi-bin/app/fabricius_query.py?qs=சைரிபம்&searchhws=yes&matchtype=exact">சைரிபம்</a> cairipam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=450">p. 450</a>)
+		<blockquote><p>*<hw><tam>சைரிபம்</tam></hw> , <i>s.</i> a buffalo, <tam>எருமை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		203) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைரிபம்&searchhws=yes&matchtype=exact">சைரிபம்</a> cairipam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைரிபம்</hw> - ஏருது, ஏருமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		204) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைரிபம்&searchhws=yes&matchtype=exact">சைரிபம்</a> cairipam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைரிபம்</tam> <t>cairipam</t></hw> , <i>n</i>. < <i>sairibha</i>. Buffalo; <tam>எருமை. (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		205) <a href="/cgi-bin/app/winslow_query.py?qs=சைரிபம்&searchhws=yes&matchtype=exact">சைரிபம்</a> cairipam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைரிபம்</tam></hw> , <i>s.</i> A buffalo, <tam>ஏருமை</tam>, W. p. 944. <smallcaps>S'AIRIBHA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		206) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைரியம்&searchhws=yes&matchtype=exact">சைரியம்</a> cairiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைரியம்</hw> - பெருங்குறிஞ்சி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		207) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைரியம்&searchhws=yes&matchtype=exact">சைரியம்</a> cairiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைரியம்</tam> <t>cairiyam</t></hw> , <i>n</i>. Medium-glabrous seven-nerved ovate-toothed-accuminate-leaved conehead. See <tam>பெருங்குறிஞ்சி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		208) <a href="/cgi-bin/app/fabricius_query.py?qs=சைரேயகம்&searchhws=yes&matchtype=exact">சைரேயகம்</a> cairēyakam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=450">p. 450</a>)
+		<blockquote><p><hw><tam>சைரேயகம்</tam></hw> , <tam>சயிரேகம்</tam> <i>s.</i> one of the <tam>மருதோன்றி</tam>, class of trees with sky-coloured flowers.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		209) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைரேயகம்&searchhws=yes&matchtype=exact">சைரேயகம்</a> cairēyakam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைரேயகம்</hw> - சயிரேகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		210) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைரேயகம்&searchhws=yes&matchtype=exact">சைரேயகம்</a> cairēyakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைரேயகம்</tam> <t>cairēyakam</t></hw> , <i>n</i>. < <i>sairēyaka</i>. Western Ghats blue-nail dye. See <tam>மேகவண்ணக்குறிஞ்சி</tam>. (<smallcap>L</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		211) <a href="/cgi-bin/app/winslow_query.py?qs=சைரேயகம்&searchhws=yes&matchtype=exact">சைரேயகம்</a> cairēyakam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைரேயகம்</tam></hw> , <i>s.</i> See <tam>சயிரேகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		212) <a href="/cgi-bin/app/fabricius_query.py?qs=சைலகம்&searchhws=yes&matchtype=exact">சைலகம்</a> cailakam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=450">p. 450</a>)
+		<blockquote><p>*<hw><tam>சைலகம்</tam></hw> , <i>s.</i> a grass growing on hills.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		213) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைலகம்&searchhws=yes&matchtype=exact">சைலகம்</a> cailakam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைலகம்</hw> - மலையிருவேலி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		214) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைலகம்&searchhws=yes&matchtype=exact">சைலகம்</a> cailakam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைலகம்</tam> <t>cailakam</t></hw> , <i>n</i>. < <i>šailaka</i>. 1. A mountain grass; <tam>மலையிருவேலி. (மலை.)</tam> 2. Benzoin; <tam>சாம்பிராணி. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		215) <a href="/cgi-bin/app/winslow_query.py?qs=சைலகம்&searchhws=yes&matchtype=exact">சைலகம்</a> cailakam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைலகம்</tam></hw> , <i>s.</i> A grass growing on hills, <tam>மலையிருவேலி</tam>; [<i>ex</i> <tam>சைலம்</tam>.]</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		216) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைலகுரு&searchhws=yes&matchtype=exact">சைலகுரு</a> cailakuru
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைலகுரு</hw> - சைவாசாரியர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		217) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைலசிருங்கம்&searchhws=yes&matchtype=exact">சைலசிருங்கம்</a> cailaciruṅkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைலசிருங்கம்</hw> - மலைமுடி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		218) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைலதரன்&searchhws=yes&matchtype=exact">சைலதரன்</a> cailataraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைலதரன்</hw> - கிருட்டிணன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		219) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைலதரன்&searchhws=yes&matchtype=exact">சைலதரன்</a> cailataraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைலதரன்</tam> <t>caila-taraṉ</t></hw> , <i>n</i>. < <i>šaila</i> + <i>dhara</i>. Kṛṣṇa, as holding the Gōvardhana mountain; <tam>[மலையைத் தாங்கியவன்] கண்ணபிரான். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		220) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைலபதி&searchhws=yes&matchtype=exact">சைலபதி</a> cailapati
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைலபதி</hw> - இமயமலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		221) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைலபதி&searchhws=yes&matchtype=exact">சைலபதி</a> cailapati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைலபதி</tam> <t>caila-pati</t></hw> , <i>n</i>. < id. + <i>pati</i>. The Himalayas, as the Lord of mountains; <tam>[மலை களுக்குத் தலைவன்] இமயமலை. (யாழ். அக.)</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		222) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைலபித்தி&searchhws=yes&matchtype=exact">சைலபித்தி</a> cailapitti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைலபித்தி</hw> - கல்லூளி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		223) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைலபித்தி&searchhws=yes&matchtype=exact">சைலபித்தி</a> cailapitti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைலபித்தி</tam> <t>cailapitti</t></hw> , <i>n</i>. < id. + prob. <i>bhid</i>. Stone chisel; <tam>கல்லுளி. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		224) <a href="/cgi-bin/app/fabricius_query.py?qs=சைலம்&searchhws=yes&matchtype=exact">சைலம்</a> cailam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=450">p. 450</a>)
+		<blockquote><p>*<hw><tam>சைலம்</tam></hw> , <tam>சயிலம்</tam>, <i>s.</i> a mountain, <tam>மலை</tam>; 2. rockiness, <tam>கல்லுள்ளது</tam>. <p2><tam>சைலசிருங்கம்</tam>, the summit of a mountain.</p2> <p2><tam>சைலபதி</tam>, the Himalayas.</p2> <p2><tam>சைலாந்திரம்</tam>, a cave in a mountain.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		225) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைலம்&searchhws=yes&matchtype=exact">சைலம்</a> cailam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைலம்</hw> - கல்லுள்ளது, சேலை, மலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		226) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைலம்&searchhws=yes&matchtype=exact">சைலம்</a> cailam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைலம்¹</tam> <t>cailam</t></hw> , <i>n</i>. < <i>šaila</i>. Mountain, hill; <tam>மலை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		227) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைலம்&searchhws=yes&matchtype=exact">சைலம்</a> cailam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைலம்²</tam> <t>cailam</t></hw> , <i>n</i>. < <i>cēla</i>. Saree; <tam>சேலை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		228) <a href="/cgi-bin/app/winslow_query.py?qs=சைலம்&searchhws=yes&matchtype=exact">சைலம்</a> cailam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைலம்</tam></hw> , <i>s.</i> Mountain, <tam>மலை</tam>. 2. Rockiness, <tam>கல்லுள்ளது</tam>. See <tam>சயிலம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		229) <a href="/cgi-bin/app/fabricius_query.py?qs=சைலா&searchhws=yes&matchtype=exact">சைலா</a> cailā
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=450">p. 450</a>)
+		<blockquote><p><hw><tam>சைலா</tam></hw> , <i>(Hind.)</i> flowing dress; 2. a silk turban.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		230) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைலா&searchhws=yes&matchtype=exact">சைலா</a> cailā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைலா</tam> <t>cailā</t></hw> , <i>n</i>. < Hind. <i>selā</i>. 1. Flowing dress; <tam>நீண்ட அங்கி</tam>. <i>Muham</i>. 2. A silk turban; <tam>பட்டுத் தலைப்பாகைவகை</tam>. <i>Muham</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		231) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைலாந்திரம்&searchhws=yes&matchtype=exact">சைலாந்திரம்</a> cailāntiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=709">p. 709</a>)
+		<blockquote><p><hw>சைலாந்திரம்</hw> - மலைக்குகை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		232) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைலாந்திரம்&searchhws=yes&matchtype=exact">சைலாந்திரம்</a> cailāntiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைலாந்திரம்</tam> <t>cailāntiram</t></hw> , <i>n</i>. < <i>šaila</i> + <i>antara</i>. Cave or hollow in a mountain; <tam>மலைக் குகை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		233) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைலாஸ்துணி&searchhws=yes&matchtype=exact">சைலாஸ்துணி</a> cailāstuṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைலாஸ்துணி</tam> <t>cailās-tuṇi</t></hw> , <i>n</i>. < <tam>சைலா</tam> +. A kind of tartan cloth, worn by Muhammadans; <tam>முகமதியருடுத்தும் கைலித்துணி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		234) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைலி&searchhws=yes&matchtype=exact">சைலி</a> caili
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைலி</tam> <t>caili</t></hw> , <i>n</i>. perh. <i>šailī</i>. 1. A kind of garland strung with pairs of flowers; <tam>பூக்களை இரண்டிரண்டாகத் தொடுக்கும் மாலைவகை</tam>. <i>Colloq</i>. 2. Style; <tam>மொழிநடை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		235) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவகலாலயசக்கரவர்த்தி&searchhws=yes&matchtype=exact">சைவகலாலயசக்கரவர்த்தி</a> caivakalālayacakkaravartti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S295">p. S295</a>)
+		<blockquote><p><hw><tam>சைவகலாலயசக்கரவர்த்தி</tam> <t>caiva-kalālaya-cakkaravartti</t></hw> , <i>n</i>. < <i>šaiva</i> + <i>kalā</i> + <i>ā-laya</i> +. A title of the learned Šivācāryas; <tam>கல்வி கேள்விகளில் வல்ல சிவாசாரியரது பட்டங்களு ளொன்று. சைவகலாலயசக்கரவர்த்தி உள்ளிட்டோ மும்</tam> (<smallcap>S. I. I</smallcap>. v, 98).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		236) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவக்குருக்கள்&searchhws=yes&matchtype=exact">சைவக்குருக்கள்</a> caivakkurukkaḷ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைவக்குருக்கள்</tam> <t>caiva-k-kurukkaḷ</t></hw> , <i>n</i>. < <i>šaiva</i> +. Non-Brahmin Šaiva priests; <tam>பார்ப் பனரல்லாதவருள் சிவதீக்ஷைபெற்ற குருக்கள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		237) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவசக்கரவர்த்தி&searchhws=yes&matchtype=exact">சைவசக்கரவர்த்தி</a> caivacakkaravartti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S295">p. S295</a>)
+		<blockquote><p><hw><tam>சைவசக்கரவர்த்தி</tam> <t>caiva-cakkaravartti</t></hw> , <i>n</i>. < id. +. A title of Šivācāryas; <tam>சிவாசாரியரது பட்டங்களு ளொன்று. பாண்டியன் தனஞ்செயன் சைவேசுரமுடையான் சைவசக்கரவர்த்தி உள்ளிட் டோமும்</tam> (<smallcap>S. I. I</smallcap>. v, 98).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		238) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவசமயகுரவர்&searchhws=yes&matchtype=exact">சைவசமயகுரவர்</a> caivacamayakuravar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைவசமயகுரவர்</hw> - திருஞானசம்பந்த மூர்த்தி நாயனார், திருநாவுக் கரசு நாயனார், சுந்தர மூர்த்தி நாயனார், மாணிக்க வாசக நாயனார் ஏன்னும் இந்நால்வரும் இப்பெயரால் வழங் கப்படுவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		239) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவசமயநெறி&searchhws=yes&matchtype=exact">சைவசமயநெறி</a> caivacamayaneṟi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைவசமயநெறி</tam> <t>caiva-camaya-neṟi</t></hw> , <i>n</i>. < id. +. A treatise on Šaivite religious practice by Maṟaiñāṉa-campantar; <tam>மறைஞான சம்பந்தர் இயற்றிய ஒரு சைவநூல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		240) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவசமயம்&searchhws=yes&matchtype=exact">சைவசமயம்</a> caivacamayam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைவசமயம்</hw> - சிவசமயம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		241) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவசமயாசாரியர்&searchhws=yes&matchtype=exact">சைவசமயாசாரியர்</a> caivacamayācāriyar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைவசமயாசாரியர்</tam> <t>caiva-camayācāriyar</t></hw> , <i>n</i>. < id. +. See <tam>சமயாசாரியர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		242) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவசாத்திரம்&searchhws=yes&matchtype=exact">சைவசாத்திரம்</a> caivacāttiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைவசாத்திரம்</hw> - சிவாகமம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		243) <a href="/cgi-bin/app/crea_query.py?qs=சைவசித்தாந்தம்&searchhws=yes&matchtype=exact">சைவசித்தாந்தம்</a> caivacittāntam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சைவசித்தாந்தம்</hw> பெ. "தத்." 1: இறைவன் (=பதி), ஆன்மா (=பசு), ஆன்மாவுக்குத் தடையாக இருப்பது (=பாசம்) ஆகிய மூன்று அடிப்படைகளில் அமைக்கப்பட்ட இந்து சமயத் தத்துவம்; a philosophical system of Hindu religion based on the three entities viz. god, soul and binding principle.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		244) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவசித்தாந்தம்&searchhws=yes&matchtype=exact">சைவசித்தாந்தம்</a> caivacittāntam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைவசித்தாந்தம்</hw> - ஒருநூல், சைவசம யத் தெளிவுண்மை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		245) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவசித்தாந்தம்&searchhws=yes&matchtype=exact">சைவசித்தாந்தம்</a> caivacittāntam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1644">p. 1644</a>)
+		<blockquote><p><hw><tam>சைவசித்தாந்தம்</tam> <t>caiva-cittāntam</t></hw> , <i>n</i>. < id. +. (Šaiva.) A philosophical system. See <tam>சித்தாந்தசைவம். இலகு சைவசித்தாந்தம்</tam> (<tam>திருவாலவா</tam>. 38, 6).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		246) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவசூக்கம்&searchhws=yes&matchtype=exact">சைவசூக்கம்</a> caivacūkkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைவசூக்கம்</tam> <t>caiva-cūkkam</t></hw> , <i>n</i>. < id. +. Vēdic mantra on Šiva; <tam>சிவபிரானுக்கு உரிய வேத மந்திரம். புனிதநீர் சைவசூக்கம் புருடசூக்கத்தான் . . . ஆட்டி</tam> (<tam>சூத. சிவமான்</tam>. 4, 20).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		247) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவசூளாமணி&searchhws=yes&matchtype=exact">சைவசூளாமணி</a> caivacūḷāmaṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S295">p. S295</a>)
+		<blockquote><p><hw><tam>சைவசூளாமணி</tam> <t>caiva-cūḷāmaṇi</t></hw> , <i>n</i>. < id. +. A title of Šivācāryas; <tam>சிவாசாரியரது பட்டங்களு ளொன்று. பாண்டியன் கந்தனான சைவ சூளாமணி பிரமாதராயனேன்</tam> (<smallcap>S. I. I</smallcap>. v, 101).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		248) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவதீட்சை&searchhws=yes&matchtype=exact">சைவதீட்சை</a> caivatīṭcai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைவதீட்சை</tam> <t>caiva-tīṭcai</t></hw> , <i>n</i>. < id. +. (Šaiva.) Rite of initiation into the Šaiva religion, of three kinds, viz., <i>camaya-tīṭcai, vicēṭa-tīṭcai, nirvāṇa-tīṭcai</i>; <tam>சமயதீட்சை, விசேடதீட்சை, நிர்வாண தீட்சை என்ற முப்பகுதியுடையதாய்ச் சைவசமயத்திற் குரிய சடங்கு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		249) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவநூல்&searchhws=yes&matchtype=exact">சைவநூல்</a> caivanūl
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைவநூல்</hw> - சிவாகமநூல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		250) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவநூல்&searchhws=yes&matchtype=exact">சைவநூல்</a> caivanūl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S295">p. S295</a>)
+		<blockquote><p><hw><tam>சைவநூல்</tam> <t>caiva-nūl</t></hw> , <i>n</i>. < id. +. The Šaiva Āgamas; <tam>சைவாகமம்</tam>. (<tam>சி. சி</tam>. 8, 15.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		251) <a href="/cgi-bin/app/crea_query.py?qs=சைவன்&searchhws=yes&matchtype=exact">சைவன்</a> caivaṉ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சைவன்<sup>1</sup></hw> பெ. 1: இந்துக்களின் சைவப் பிரிவைச் சார்ந்தவன்; one who follows Saivism; Saivite.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		252) <a href="/cgi-bin/app/crea_query.py?qs=சைவன்&searchhws=yes&matchtype=exact">சைவன்</a> caivaṉ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சைவன்<sup>2</sup></hw> பெ. 1: சைவ உணவு உண்பவன்; vegetarian.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		253) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவன்&searchhws=yes&matchtype=exact">சைவன்</a> caivaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைவன்</tam> <t>caivaṉ</t></hw> , <i>n</i>. < <i>Šaiva</i>. 1. One who professes the Šaiva religion; <tam>சிவனை வழிபடுவோன்</tam>. 2. Šiva; <tam>சிவன். தழவிலங்கு திருவுருச் சைவனே</tam> (<tam>தேவா</tam>. 866, 7). 3. Vegetarian; <tam>புலாலுண்ணாதவன்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		254) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவபஞ்சதபனம்&searchhws=yes&matchtype=exact">சைவபஞ்சதபனம்</a> caivapañcatapaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S295">p. S295</a>)
+		<blockquote><p><hw><tam>சைவபஞ்சதபனம்</tam> <t>caiva-pañca-tapaṉam</t></hw> , <i>n</i>. < id. +. <i>pañca</i>. The five Upaniṣads of Šaivism, viz., <i>kālākkiṉiruttiram, cuvētāccuvataram, kaivalliyam, atarvacikai, atarvaciracu</i>; <tam>காலாக் கினிருத்திரம் சுவேதாச்சுவதரம் கைவல்லியம் அதர்வ சிகை அதர்வசிரசு என்னுஞ் சைவசமயத்துக்குரிய உபநிஷதங்கள்</tam>. (<tam>சைவபூ. சந்</tam>. 24.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		255) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவபருவம்&searchhws=yes&matchtype=exact">சைவபருவம்</a> caivaparuvam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1442">p. 1442</a>)
+		<blockquote><p><hw>சைவபருவம்</hw> - பாலப்பருவம், பாலாவத் த, இளமைக்காலம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		256) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவபூடணம்&searchhws=yes&matchtype=exact">சைவபூடணம்</a> caivapūṭaṇam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைவபூடணம்</hw> - ஒருநூல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		257) <a href="/cgi-bin/app/crea_query.py?qs=சைவப்பழம்&searchhws=yes&matchtype=exact">சைவப்பழம்</a> caivappaḻam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சைவப்பழம்</hw> பெ. காண்க: சிவப்பழம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		258) <a href="/cgi-bin/app/crea_query.py?qs=சைவம்&searchhws=yes&matchtype=exact">சைவம்</a> caivam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சைவம்<sup>1</sup></hw> பெ. 1: சிவனை முழு முதல் கடவுளாகக் கொண்ட இந்து மதப் பிரிவு; (a sect of) Hindu religion which regards Siva as the Supreme God; Saivism.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		259) <a href="/cgi-bin/app/crea_query.py?qs=சைவம்&searchhws=yes&matchtype=exact">சைவம்</a> caivam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சைவம்<sup>2</sup></hw> பெ. 1: (இறைச்சி, மீன் முதலியவற்றைத் தவிர்த்து) காய்கறிகளை உணவாகக்கொள்ளும் முறை; vegetarianism. சைவ உணவுச் சிற்றுண்டி/ நீ சைவமா அசைவமா?</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		260) <a href="/cgi-bin/app/fabricius_query.py?qs=சைவம்&searchhws=yes&matchtype=exact">சைவம்</a> caivam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=450">p. 450</a>)
+		<blockquote><p>*<hw><tam>சைவம்</tam></hw> , <i>s.</i> that which relates to Siva, the worship of Siva, <tam>சிவசமயம்</tam>; 2. abstaining from eating flesh; 3. the Siva Purana, one of the 18 Puranas. <p2><tam>சைவன்</tam>, a. Saivite; 2. one who abstains from eating flesh.</p2> <p2><tam>சைவசமயம்</tam>, -<tam>மதம்</tam>, the religion of Siva.</p2> <p2><tam>சைவசித்தாந்தம்</tam>, the Agama philo- sophy.</p2> <p2><tam>சைவதீட்சை</tam>, a degree in Saivism or a secret mantra whispered by a guru in the ear of his disciple.</p2> <p2><tam>சைவநடை</tam>, observance of the pre- cepts of the Saiva religion.</p2> <p2><tam>சைவாசாரம்</tam>, the prescribed rites and ceremonies of the Saiva religion.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		261) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவம்&searchhws=yes&matchtype=exact">சைவம்</a> caivam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைவம்</hw> - சிவசமயம், அது உட்சமயமாறி னொன்று, பதினெண்புராணத்தொ ன்று, புலால் தின்னாமலிருக்கை. ஒரு புராணம், இது வாயுவினாற் கூறப்ப ட்டது. சுவேதவராச கற்பசம்பந்த மாகிய சிவமான்மியங்களை யெடுத்து ரைப்பது. இது பன்னீராயிரம் கிரந் தமுடையது. சிவனை முதற்கடவு ளாகக்கொண்ட சமயம். இச்சமயத் தோர் சைவர் ஏனப்படுவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		262) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவம்&searchhws=yes&matchtype=exact">சைவம்</a> caivam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1550">p. 1550</a>)
+		<blockquote><p><hw>சைவம்</hw> - <tam>16</tam>- ஊர்த்தசைவம், அநாதி சைவம், ஆதிசைவம், மகாசைவம், பே தசைவம், அபேதசைவம், அந்தரசை வம், குணசைவம், நிர்க்குணசைவம், அ்துவாசைவம், யோகசைவம், ஞா னசைவம், அணுச்சைவம், கிரியாசை வம், நாற்பாதசைவம், சுத்தசைவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		263) <a href="/cgi-bin/app/mcalpin_query.py?qs=சைவம்&searchhws=yes&matchtype=exact">சைவம்</a> caivam
+		from <a href="/dictionaries/mcalpin/">McAlpin's <i>"A core vocabulary for Tamil"</i></a>
+		(<a href="/cgi-bin/app/mcalpin_query.py?page=34">p. 34</a>)
+		<blockquote><p><hw><tam>சைவம்</tam></hw> cayvam <tam>சய்வம்</tam> vegetarianism, Śaivism; a vegetarian, Śaivite</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		264) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவம்&searchhws=yes&matchtype=exact">சைவம்</a> caivam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைவம்¹</tam> <t>caivam</t></hw> , <i>n</i>. < <i>šaiva</i>. 1. The religion which regards Šiva as the Supreme Being and is exclusively devoted to His worship, of sixteen sects, viz., <i>ūrtta-caivam, aṉāti-caivam, āti-caivam, makā-caivam, pēta-caivam, apēta-caivam, antara-caivam, kuṇa-caivam, nirkkuṇa-caivam, attuvā-caivam, yōka-caivam, ñāṉa-caivam, aṇu-caivam, kiriyā-caivam, nālupāta-caivam, cutta-caivam</i>; <tam>ஊர்த்தசைவம், அனாதி சைவம், ஆதிசைவம், மகாசைவம், பேதசைவம், அபேத சைவம், அந்தரசைவம், குணசைவம், நிர்க்குணசைவம், அத்துவாசைவம், யோகசைவம், ஞானசைவம், அணு சைவம், கிரியாசைவம், நாலுபாதசைவம், சுத்தசைவம் என்று பதினாறுவகைப்பட்டதாய்ச் சிவனைப் பரதெய்வ மாகக்கொண்டு வழிபடுஞ் சமயம்</tam>. 2. A chief Purāṇa. See <tam>சிவமகாபுராணம். எதிரில் சைவமே பவிடியம்</tam> (<tam>கந்தபு. பாயி</tam>. 54). 3. Āgama; <tam>ஆகமம். (அக. நி.)</tam> 4. Vegetarianism; <tam>புலாலுண்ணாமை</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		265) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவம்&searchhws=yes&matchtype=exact">சைவம்</a> caivam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைவம்²</tam> <t>caivam</t></hw> , <i>n</i>. < <i>šaišava</i>. Childhood; <tam>இளமை. (அக. நி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		266) <a href="/cgi-bin/app/winslow_query.py?qs=சைவம்&searchhws=yes&matchtype=exact">சைவம்</a> caivam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைவம்</tam></hw> , <i>s.</i> The Saiva religion, <tam>சிவசமயம்</tam>. W. p. 857. <smallcaps>SAIVAM.</smallcaps> 2. The Siva. Purana, one of the eighteen, <tam>சிவபுராணம்</tam>. 3. Abstaining. from eating flesh, fish, eggs, &c., <tam>புலால்தின்னாமலிருக்கை</tam>.–<i>Note.</i> In the Saiva system there are sixteen divisions. <i>viz:</i> 1. <tam>ஊர்த்தசைவம்</tam> 2. <tam>அநாதிசைவம்</tam>. 3. <tam>ஆதிசைவம்</tam>. 4. <tam>மகாசைவம்</tam>. 5. <tam>பேதசைவம்</tam>. 6. <tam>அபேதசைவம்</tam>. 7. <tam>அந்தரசைவம்</tam>. 8. <tam>குணசைவம்</tam>. 9. <tam>நிர்க்குணசைவம்</tam>. 10. <tam>அத்துவாசைவம்</tam>. 11. <tam>யோகசைவம்</tam>. 12. <tam>ஞானசைவம்</tam>. 13. <tam>அணுசைவம்</tam>. 14. <tam>கிரியாசைவம்</tam>. 15. <tam>நாலுபாதசைவம்</tam>. 16. <tam>சுத்தசைவம்</tam>. <p2><tam>சைவக்குருக்கள்</tam>, <i>s.</i> A brahman guru of the <tam>சைவம்</tam> sect, as distinguished from the <tam>வைதிகம்</tam> class. 2. Guru of a caste inferior to the brahmin, professing the <tam>சைவம்</tam> religion.</p2> <p2><tam>சைவசமயம்</tam>–<tam>சைவமதம்</tam>, <i>s.</i> The reli- gion of <tam>சிவன்</tam>.</p2> <p2><tam>சைவசித்தாந்தம்</tam>, <i>s.</i> The Agama philosophy, theology, doctrines, &c. See under <tam>சித்தாந்தம்</tam>.</p2> <p2><tam>சைதீட்சை</tam>, <i>s.</i> A degree in Saivism, or a secret mantra whispered in the ear of a disciple, by his guru.</p2> <p2><tam>சைவநடை</tam>, <i>s.</i> Observance of the pre- cepts of the Saiva religion.</p2> <p2><tam>சைவர்</tam>, <i>s.</i> (<i>sing.</i> <tam>சைவன்</tam>.) Professors of the Saiva religion. 2. Persons who have received the second degree or <tam>விசேஷதீட்சை</tam>, who eat in secret, abstain from fish, flesh and eggs, perform <tam>பூசை</tam>, &c.</p2> <p2><tam>சைவன்</tam>, <i>s.</i> One who abstains from eating flesh. 2. A Saivite.</p2> <p2><tam>சைவாகமம்</tam>–<tam>சைவநூல்</tam>, <i>s.</i> The Aga- mas of the Saiva religion. (See <tam>சிவாகமம்</tam>.) 2. Writings or doctrines according to the Agamas.</p2> <p2><tam>சைவாசாரம்</tam>, <i>s.</i> Prescribed rites and ceremonies of the Saiva religion.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		267) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவரல்&searchhws=yes&matchtype=exact">சைவரல்</a> caivaral
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைவரல்</tam> <t>cai-varal</t></hw> , <i>n</i>. < <tam>சை²</tam> +. Contempt, act of despising; <tam>இகழ்கை. (இலக். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		268) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவர்&searchhws=yes&matchtype=exact">சைவர்</a> caivar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைவர்</hw> - சிவசமயத்தார், விசேடதீட்சை பெற்றோர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		269) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவர்&searchhws=yes&matchtype=exact">சைவர்</a> caivar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1442">p. 1442</a>)
+		<blockquote><p><hw>சைவர்</hw> - மாதிரவியர், பாசுபதர், களா முகர், வாமர், வைரவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		270) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவர்&searchhws=yes&matchtype=exact">சைவர்</a> caivar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைவர்</tam> <t>caivar</t></hw> , <i>n</i>. < <i>Šaiva</i>. Those who profess the Šaiva religion, of seven classes, viz., <i>aṉāti-caivar, āti-caivar, makā-caivar, aṇu-caivar, avāntara-caivar, piravara-caivar, antiya-caivar</i>; <tam>அனாதிசைவர், ஆதிசைவர், மகா சைவர், அணுசைவர், அவாந்தரசைவர், பிரவரசைவர், அந்தியசைவர் என்ற எழுவகைச் சைவசமயிகள்</tam>. (<tam>சைவச. பொது</tam>. 435, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		271) <a href="/cgi-bin/app/fabricius_query.py?qs=சைவலம்&searchhws=yes&matchtype=exact">சைவலம்</a> caivalam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=450">p. 450</a>)
+		<blockquote><p>*<hw><tam>சைவலம்</tam></hw> , <i>s.</i> a class of aquatic plants, moss etc. <tam>பாசி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		272) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவலம்&searchhws=yes&matchtype=exact">சைவலம்</a> caivalam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைவலம்</hw> - பாசி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		273) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவலம்&searchhws=yes&matchtype=exact">சைவலம்</a> caivalam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைவலம்</tam> <t>caivalam</t></hw> , <i>n</i>. < <i>šaivala</i>. Duckweed, green, moss-like plant growing in pools, <i>Blyxa octandra</i>; <tam>ஒருவகைப் பாசி. (சூடா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		274) <a href="/cgi-bin/app/winslow_query.py?qs=சைவலம்&searchhws=yes&matchtype=exact">சைவலம்</a> caivalam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைவலம்</tam></hw> , <i>s.</i> A class of aquatic plants, moss, &c., <tam>பாசி</tam>. W. p. 857. <smallcaps>S'AIVALA.</smallcaps>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		275) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவவாதி&searchhws=yes&matchtype=exact">சைவவாதி</a> caivavāti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைவவாதி</tam> <t>caiva-vāti</t></hw> , <i>n</i>. < <i>Šaiva</i> +. An exponent of Šaiva philosophy; <tam>சைவசமயக் கொள்கையை எடுத்து வாதிப்போன். நின்ற சைவ வாதி நேர்படுதலும்</tam> (<tam>மணி</tam>. 27, 87).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		276) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவாகமங்கள்&searchhws=yes&matchtype=exact">சைவாகமங்கள்</a> caivākamaṅkaḷ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைவாகமங்கள்</hw> - அவை காமியம் முதலி யஇருபத்தெட்டு, இவைசிவபெருமா னுடைய மேன்முகத்திற் பிறந்தன, இவை ஒவ்வொன்றும் கோடி கிரந் தமுடையன, சரியைகிரியை யோக ஞானங்களை விரித்துரைப்பன.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		277) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவாகமச்சார்புநூல்கள்&searchhws=yes&matchtype=exact">சைவாகமச்சார்புநூல்கள்</a> caivākamaccārpunūlkaḷ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1550">p. 1550</a>)
+		<blockquote><p><hw>சைவாகமச்சார்புநூல்கள்</hw> - <tam>8</tam>- தத்து வப்பிரபாசிகை, தத்துவசங்கிரகம், தத்துவத்திரயநிர்ணயம், போககாரி கை, மோக்ஷகாரிகை, நாதகாரிகை, பரமோக்ஷநிராசகாரிகை, இரத்தினத் திரயம். இவை அட்டப்பிரகரணம் ஏனவும் பெயர்பெறும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		278) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவாகமம்&searchhws=yes&matchtype=exact">சைவாகமம்</a> caivākamam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைவாகமம்</tam> <t>caivākamam</t></hw> , <i>n</i>. < id. +. <i>ā-gama</i>. The sacred Āgamas of the Šaivites. See <tam>சிவாகமம். சைவாகமத்தினெறி நன்றுணர்ந்த . . . முனிவன்</tam> (<tam>பிரமோத். சத்தியாத</tam>. 32).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		279) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவாசாரம்&searchhws=yes&matchtype=exact">சைவாசாரம்</a> caivācāram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைவாசாரம்</hw> - சிவசமயவொழுங்கு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		280) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவாதிராயர்&searchhws=yes&matchtype=exact">சைவாதிராயர்</a> caivātirāyar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw><tam>சைவாதிராயர்</tam> <t>caivātirāyar</t></hw> , <i>n</i>. < id. +. <i>adhirāja</i>. A title given to a sect of Šaiva priests; <tam>சைவாசாரியர்களுல் ஒருசாரார்க்கு வழங்கிய பட்டப் பெயர்</tam>. (<smallcap>S. I. I</smallcap>. i, 132.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		281) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சைவாத்திரம்&searchhws=yes&matchtype=exact">சைவாத்திரம்</a> caivāttiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S295">p. S295</a>)
+		<blockquote><p><hw><tam>சைவாத்திரம்</tam> <t>caivāttiram</t></hw> , <i>n</i>. < id. + <i>astra. Pācupatāttiram</i>, an arrow which has Šiva as its presiding deity; <tam>பாசுபதாத்திரம். தவம்புரியச் சைவாத்திரங் கொடுக்கவாங்கி</tam> (<tam>கடம்பர். உலா</tam>. 34).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		282) <a href="/cgi-bin/app/fabricius_query.py?qs=சைவியம்&searchhws=yes&matchtype=exact">சைவியம்</a> caiviyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=450">p. 450</a>)
+		<blockquote><p>*<hw><tam>சைவியம்</tam></hw> , <i>s.</i> the Saiva, religion; that which relates the Saivism.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		283) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவியம்&searchhws=yes&matchtype=exact">சைவியம்</a> caiviyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைவியம்</hw> - சைவத்திற்குரியது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		284) <a href="/cgi-bin/app/winslow_query.py?qs=சைவியம்&searchhws=yes&matchtype=exact">சைவியம்</a> caiviyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=517">p. 517</a>)
+		<blockquote><p>*<hw><tam>சைவியம்</tam></hw> , <i>s.</i> The Saiva religion, that which relates to Saivism; [<i>ex</i> <tam>சைவம்</tam>.]</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		285) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சைவை&searchhws=yes&matchtype=exact">சைவை</a> caivai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=710">p. 710</a>)
+		<blockquote><p><hw>சைவை</hw> - அநிலன்பாரி.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1159 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>ஞெ</b>
+                       <div id='no_results'>
+                                93 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெ&searchhws=yes&matchtype=exact">ஞெ</a> ñe
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெ</tam> <t>ñe</t></hw> . The compound of <tam>ஞ்</tam> and <tam>எ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெ&searchhws=yes&matchtype=exact">ஞெ</a> ñe
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெ</tam></hw> , <i>s.</i> A syllabic letter composed of <tam>ஞ்</tam> and <tam>ஏ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெகிழம்&searchhws=yes&matchtype=exact">ஞெகிழம்</a> ñekiḻam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெகிழம்</tam></hw> , <i>s.</i> tinkling foot-rings of gold etc., <tam>பொற்சிலம்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெகிழம்&searchhws=yes&matchtype=exact">ஞெகிழம்</a> ñekiḻam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெகிழம்</hw> - பொற்சிலம்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெகிழம்&searchhws=yes&matchtype=exact">ஞெகிழம்</a> ñekiḻam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெகிழம்</tam> <t>ñekiḻam</t></hw> , <i>n</i>. < <tam>ஞெகிழ்-</tam>. See <tam>ஞெகிழி</tam>, 6. <tam>சீரார் ஞெகிழஞ் சிலம்ப</tam> (<tam>கலித்</tam>. 90).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெகிழம்&searchhws=yes&matchtype=exact">ஞெகிழம்</a> ñekiḻam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெகிழம்</tam></hw> , <i>s.</i> Tinkling foot-rings of gold, &c., <tam>பொற்சிலம்பு</tam>. <i>(p.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெகிழி&searchhws=yes&matchtype=exact">ஞெகிழி</a> ñekiḻi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெகிழி</tam></hw> , <i>s.</i> sounding foot rings, <tam>சிலம் பணி</tam>; 2. a fire brand, <tam>கொள்ளி</tam>; 3. a spark, <tam>தீப்பொறி</tam>; 4. fire, <tam>தீ</tam>; 5. an oblong ring of brass filled with sto- nes and shaken in a temple, <tam>சிலம்பு</tam>; 6. the shrub, <tam>கொடுவேலி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெகிழி&searchhws=yes&matchtype=exact">ஞெகிழி</a> ñekiḻi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெகிழி</hw> - கொடுவேலி, சிலம்பணி, சிவ ப்பு, தீ, தீப்பொறி, நெருப்புக்கொ ள்ளி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெகிழி&searchhws=yes&matchtype=exact">ஞெகிழி</a> ñekiḻi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெகிழி</tam> <t>ñekiḻi</t></hw> , <i>n</i>. < id. 1. Fire-brand; <tam>கடைக்கொள்ளி. விடுபொறி ஞெகிழியிற் கொடிபட மின்னி</tam> (<tam>அகநா</tam>. 108). 2. Piece of wood used for kindling fire by friction; <tam>தீக்கடைகோல். கானவர் . . . ஞெகிழி பொத்த</tam> (<tam>குறிஞ்சிப்</tam>. 226). 3. [T. <i>negaḍi</i>.] Fire; <tam>தீ. (பிங்.)</tam> 4. Fuel; <tam>விறகு. (பிங்.)</tam> 5. Ceylon leadwort. See <tam>கொடுவேலி. (மலை.)</tam> 6. Tinkling anklet; <tam>சிலம்பு. (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெகிழி&searchhws=yes&matchtype=exact">ஞெகிழி</a> ñekiḻi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெகிழி</tam></hw> , <i>s.</i> Sounding foot-rings, <tam>சிலம்பணி</tam>. 2. An oblong ring of brass filled with stones and shaken in a temple, <tam>சிலம்பு</tam>. 3. Fire-brand, <tam>கொள்ளி</tam>. 4. Spark, <tam>தீப்பொறி</tam>. 5. Fire, <tam>தீ</tam>. (<tam>சது</tam>.) <i>(p.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெகிழ்&searchhws=yes&matchtype=exact">ஞெகிழ்</a> ñekiḻ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெகிழ்</tam></hw> , <tam>ஞெகிழு</tam>, II. <i>v. i.</i> be agitated, waver, wander as the mind; 2. get loose, <tam>கழல்</tam>; 3. be dull, slothful, weak, or faint, <tam>சோர்</tam>; 4. slip off, as a garment, <tam>நழுவு</tam>. <p2><tam>அவளுக்குடை ஞெகிழ்ந்தது</tam>, her clothes have slipped down.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெகிழ்&searchhws=yes&matchtype=exact">ஞெகிழ்</a> ñekiḻ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெகிழ்</tam></hw> –<tam>ஞெகிழு</tam>, <tam>கிறேன்</tam>, <tam>ந்தேன்</tam>, <tam>வேன்</tam>, <tam>ஞெகிழ</tam>, <i>v. n.</i> To be agitated–as water, to waver, wander–as the mind, &c., <tam>அலைய</tam>. 2. To become loose, <tam>கழல</tam>. 3. To be dull, inactive, listless, slothful, languid, weak, faint, <tam>சோர</tam>. 4. To slip off–as a garment, <tam>நழுவ</tam>. <i>(p.)</i> Compare <tam>நெகிழ்</tam>. <tam>அவளுக்குடைஞெகிழ்ந்தது</tam>. Her clothes have slipped down. <i>[prov.]</i> <p2><tam>ஞெகிழ்தல்</tam>–<tam>ஞெகிழுதல்</tam>, <i>v. noun.</i> Used in all the meanings of the verb.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெகிழ்-தல்&searchhws=yes&matchtype=exact">ஞெகிழ்-தல்</a> ñekiḻ-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெகிழ்-தல்</tam> <t>ñekiḻ-</t></hw> , <i>4 v. intr</i>. < <tam>நெகிழ்-</tam>. 1. To become loose, slip off, as bangles; <tam>கழலுதல். ஞெகிழ்தொடி யிளையவர்</tam> (<tam>கலித்</tam>. 73, 8). 2. To languish, faint; <tam>தளர்தல்</tam>. (<smallcap>W</smallcap>.) 3. To be tender-hearted; <tam>மனமிளகுதல். மனஞெகிழ்ந்து</tam> (<tam>தொல். பொ</tam>. 72, <tam>உரை</tam>). 4. To blossom; <tam>மலர்தல். ஞெகி ழிதழ்க் கோடலும்</tam> (<tam>கலித்</tam>. 101). 5. To melt, as wax; <tam>உருகுதல். தீயுறு மெழுகின் ஞெகிழ்வனர்</tam> (<tam>ஐங்குறு</tam>. 32). 6. To become thin, emaciated; <tam>மெலி தல். தோண்ஞெகிழ்பு</tam> (<tam>கலித்</tam>. 146, 6). 7. To be lazy: <tam>சோம்புதல். (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெகிழ்தல்&searchhws=yes&matchtype=exact">ஞெகிழ்தல்</a> ñekiḻtal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெகிழ்தல்</hw> - அலையல், அவிழ்தல், வாடுதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெண்டு&searchhws=yes&matchtype=exact">ஞெண்டு</a> ñeṇṭu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெண்டு</tam></hw> , <i>s.</i> same as <tam>ஞண்டு</tam>, see <tam>நண்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெண்டு&searchhws=yes&matchtype=exact">ஞெண்டு</a> ñeṇṭu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெண்டு</hw> - கற்கடகவிராசி, நண்டு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெண்டு&searchhws=yes&matchtype=exact">ஞெண்டு</a> ñeṇṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெண்டு²</tam> <t>ñeṇṭu</t></hw> , <i>n</i>. < <tam>ஞெண்டு-</tam>. [M. <i>ñaṇṭu</i>.] 1. Crab; <tam>நண்டு. வேப்பு நனையன்ன நெடுங்க ணீர்ஞெண்டு</tam> (<tam>அகநா</tam>. 176). 2. Cancer in the Zodiac; <tam>கடகராசி. (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெண்டு&searchhws=yes&matchtype=exact">ஞெண்டு</a> ñeṇṭu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெண்டு</tam></hw> , <i>s.</i> Crab, &c. See <tam>ஞண்டு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெண்டு-தல்&searchhws=yes&matchtype=exact">ஞெண்டு-தல்</a> ñeṇṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெண்டு¹-தல்</tam> <t>ñeṇṭu-</t></hw> , <i>5 v. tr</i>. To scratch up, as a hen; <tam>கிண்டுதல். (சூடா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெண்டுகம்&searchhws=yes&matchtype=exact">ஞெண்டுகம்</a> ñeṇṭukam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெண்டுகம்</hw> - பெருவாகை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெண்டுகம்&searchhws=yes&matchtype=exact">ஞெண்டுகம்</a> ñeṇṭukam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெண்டுகம்</tam> <t>ñeṇṭukam</t></hw> , <i>n</i>. Siris. See <tam>பெருவாகை. (மலை.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெப்தி&searchhws=yes&matchtype=exact">ஞெப்தி</a> ñepti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெப்தி</hw> - ஞாபகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெப்தி&searchhws=yes&matchtype=exact">ஞெப்தி</a> ñepti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெப்தி</tam> <t>ñepti</t></hw> , <i>n</i>. < <i>jñapti</i>. 1. Memory; <tam>ஞாபகம். எனக்கு ஞெப்தியில்லை</tam>. <i>Loc</i>. 2. Intelligence; <tam>அறிவு. ஞெப்தி ஸ்வரூபம்</tam> (<tam>வேதா. சூ</tam>. 148, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெமன்கோல்&searchhws=yes&matchtype=exact">ஞெமன்கோல்</a> ñemaṉkōl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெமன்கோல்</tam> <t>ñemaṉ-kōl</t></hw> , <i>n</i>. < <i>sama</i> +. Balance, steelyard; <tam>துலாக்கோல். ஞெமன் கோ லன்ன செம்மைத்தாகி</tam> (<tam>மதுரைக்</tam>. 491).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெமர்-தல்&searchhws=yes&matchtype=exact">ஞெமர்-தல்</a> ñemar-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெமர்-தல்</tam> <t>ñemar-</t></hw> , <i>4 v. intr</i>. < <tam>நிமிர்-</tam>. 1. To spread, extend; <tam>பரத்தல். நீர்ஞெமர வந்தீண்டி</tam> (<tam>பதிற்றுப்</tam>. 72, 9). 2. To be full; <tam>நிறைதல். இலம்படு புலவ ரேற்றகை ஞெமர</tam> (<tam>பரிபா</tam>. 10, 126).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெமலி&searchhws=yes&matchtype=exact">ஞெமலி</a> ñemali
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெமலி</tam> <t>ñemali</t></hw> , <i>n</i>. perh. id. The 10th <i>nakṣạtra</i>. See <tam>மகம்</tam>. (<tam>வீமேசு. உள். நட்சத்</tam>. 3.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெமல்&searchhws=yes&matchtype=exact">ஞெமல்</a> ñemal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெமல்²</tam> <t>ñemal</t></hw> , <i>n</i>. < <tam>ஞெமல்-</tam>. Dry leaf; <tam>சருகு. படுஞெமல் புதையப் பொத்தி</tam> (<tam>அகநா</tam>. 39, 7).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெமல்-தல், ஞெமலு-தல்&searchhws=yes&matchtype=exact">ஞெமல்-தல், ஞெமலு-தல்</a> ñemal-tal, ñemalu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெமல்¹-(லு)-தல்</tam> <t>ñemal-</t></hw> , <i>3 v. intr</i>. To wander, roam about; <tam>திரிதல். அலர் ஞெமன் மகன்றில்</tam> (<tam>பரிபா</tam>. 8, 44).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெமி-தல்&searchhws=yes&matchtype=exact">ஞெமி-தல்</a> ñemi-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெமி-தல்</tam> <t>ñemi-</t></hw> , <i>4 v. intr</i>. cf. <tam>ஞெமிர்¹-</tam>. To break, to give way, as under a weight; <tam>நெரி தல். தேம்பலிடை ஞெமிய</tam> (<tam>திருக்கோ</tam>. 165).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெமிடு-தல்&searchhws=yes&matchtype=exact">ஞெமிடு-தல்</a> ñemiṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெமிடு-தல்</tam> <t>ñemiṭu-</t></hw> , <i>5 v. tr</i>. cf. <tam>நிமிண்டு-</tam>. [M. <i>ñamuṇṭuka</i>.] To crush, press out with the hands; to rub; <tam>கசக்குதல். அங்கை நிறைய ஞெமிடிக் கொண்டுதன்</tam> (<tam>நற்</tam>. 22).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெமிர்&searchhws=yes&matchtype=exact">ஞெமிர்</a> ñemir
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெமிர்</tam></hw> , II. <i>v. i.</i> snap off. break as a stick, <tam>ஒடி</tam>; 2. bruised, crushed or pressed, become compressed and broken, <tam>நெரி</tam> III. 3. spread, <tam>பரவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெமிர்&searchhws=yes&matchtype=exact">ஞெமிர்</a> ñemir
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெமிர்</tam></hw> , VI. <i>v. t.</i> snap, break off short, <tam>ஒடி</tam>, 2. bruise, crush, press in, compress, <tam>நெரி</tam>, VI; 3. spread, diffuse, <tam>பரப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெமிர்&searchhws=yes&matchtype=exact">ஞெமிர்</a> ñemir
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெமிர்</tam></hw> –<tam>ஞெமிரு</tam>, <tam>கிறது</tam>, <tam>ந்தது</tam>, <tam>ஞெமிரும்</tam>, <tam>ஞெமிர</tam>, <i>v. n.</i> To break as a stick, snap off, <tam>ஒடிய</tam>. 2. To be cracked, bruised, crushed, pressed, become compresses and broken, <tam>நெரிய</tam>. 3. To spread, extend, to be pressed out as pulp, &c., to protrude, <tam>பரவ</tam>. <i>(p.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெமிர்&searchhws=yes&matchtype=exact">ஞெமிர்</a> ñemir
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெமிர்</tam></hw> , <tam>க்கிறேன்</tam>, <tam>த்தேன்</tam>, <tam>ப்பேன்</tam>, <tam>க்க</tam>, <i>v. a.</i> To snap, break off short, <tam>ஒடிக்க</tam>. 2. To bruise, crack, press in or down, compress, <tam>நெரிக்க</tam>. 3. To press out, <tam>அழுத்த</tam>. 4. To spread, diffuse, <tam>பரப்ப</tam>. <i>(p.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெமிர்-தல்&searchhws=yes&matchtype=exact">ஞெமிர்-தல்</a> ñemir-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெமிர்¹-தல்</tam> <t>ñemir-</t></hw> , <i>4 v. intr</i>. prob. <tam>நிமிர்-</tam>. 1. To spread, extend; <tam>பரத்தல். தருமணன் ஞெமிரிய திருநகர் முற்றத்து</tam> (<tam>நெடுநல்</tam>. 90). 2. To rest, stay; <tam>தங்குதல். திருஞெமி ரகலத்து</tam> (<tam>சிலப்</tam>. 28, 157). 3. To be mature, ripe; <tam>முற்றுதல். (அக. நி.)</tam> 4. To break, snap off; <tam>ஒடிதல். (சூடா.)</tam> 5. To be crushed, compressed; to be pressed out, as pulp; <tam>நெரிதல். மார்புறு முயக்கிடை ஞெமிர்ந்த சோர்குழை</tam> (<tam>நற்</tam>. 20). (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெமிர்-த்தல்&searchhws=yes&matchtype=exact">ஞெமிர்-த்தல்</a> ñemir-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெமிர்²-த்தல்</tam> <t>ñemir-</t></hw> , <i>11 v. tr</i>. cause of <tam>ஞெமிர்-</tam>. 1. To snap, break off; <tam>ஒடித்தல். (திவா.)</tam> 2. To press with the hands; <tam>நெரித்தல். சிறுமந்தி . . . தந்தையை . . . விரலான் ஞெமிர்த்திட்டு</tam> (<tam>நாலடி</tam>, 237).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெமிர்தல்&searchhws=yes&matchtype=exact">ஞெமிர்தல்</a> ñemirtal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெமிர்தல்</hw> - ஒடிதல், நெரிதல், பரத்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெமிர்தல்&searchhws=yes&matchtype=exact">ஞெமிர்தல்</a> ñemirtal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1623">p. 1623</a>)
+		<blockquote><p><hw>ஞெமிர்தல்</hw> - ஒடித்தல், பரத்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெமிர்த்தல்&searchhws=yes&matchtype=exact">ஞெமிர்த்தல்</a> ñemirttal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெமிர்த்தல்</hw> - ஒடித்தல், நெரித்தல், பரப்புதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெமுக்கம்&searchhws=yes&matchtype=exact">ஞெமுக்கம்</a> ñemukkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெமுக்கம்</hw> - அழுந்துகை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெமுக்கம்&searchhws=yes&matchtype=exact">ஞெமுக்கம்</a> ñemukkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெமுக்கம்</tam> <t>ñemukkam</t></hw> , <i>n</i>. < <tam>ஞெமுங்கு-</tam>. Yielding to pressure; <tam>அழுந்துகை. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெமுக்கு-தல்&searchhws=yes&matchtype=exact">ஞெமுக்கு-தல்</a> ñemukku-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1691">p. 1691</a>)
+		<blockquote><p><hw><tam>ஞெமுக்கு-தல்</tam> <t>ñemukku-</t></hw> , <i>5 v. tr</i>. To press hard; <tam>நெருக்கி வருத்துதல். ஒண்டொடி ஞெமுக்காதீமோ</tam> (<tam>அகநா</tam>. 60).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெமுங்கல், ஞெமுங்குதல்&searchhws=yes&matchtype=exact">ஞெமுங்கல், ஞெமுங்குதல்</a> ñemuṅkal, ñemuṅkutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெமுங்கல், ஞெமுங்குதல்</hw> அழுந்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெமுங்கு&searchhws=yes&matchtype=exact">ஞெமுங்கு</a> ñemuṅku
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெமுங்கு</tam></hw> , III. <i>v. i.</i> yield to pressure, be squeezed or pressed in. <p2><tam>ஞெமுங்கல்</tam>, <tam>ஞெமுக்கம்</tam>, <i>v. n.</i> yielding to pressure.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெமுங்கு&searchhws=yes&matchtype=exact">ஞெமுங்கு</a> ñemuṅku
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெமுங்கு</tam></hw> , <tam>கிறது</tam>, <tam>ஞெமுங்கினது</tam>, <tam>ம்</tam>, <tam>ஞெமுங்க</tam>, <i>v. n.</i> To yield to pressure, to be presses in squeezed as a ripe fruit, <tam>அழுந்த</tam>. (<tam>சது</tam>.) Compare <tam>அமுங்கு</tam>. <i>(p.)</i> <p2><tam>ஞெமுக்கம்</tam>, <i>v. noun.</i> Yielding to pressure, <tam>அழுந்துகை</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெமுங்கு-தல்&searchhws=yes&matchtype=exact">ஞெமுங்கு-தல்</a> ñemuṅku-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெமுங்கு-தல்</tam> <t>ñemuṅku-</t></hw> , <i>5 v. intr</i>. [M. <i>ñamuṅṅuka</i>.] 1. To yield to pressure, to be pressed in, squeezed, as ripe fruit; <tam>அழுந்து தல். வனைந்துவர லிளமுலை ஞெமுங்க</tam> (<tam>அகநா</tam>. 58). 2. To be compact, in close contact; <tam>செறிதல். (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெமை&searchhws=yes&matchtype=exact">ஞெமை</a> ñemai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெமை</tam> <t>ñemai</t></hw> , <i>n</i>. A tree; <tam>மரவகை. திருந் தரை ஞெமைய பெரும்புனற் குன்றத்து</tam> (<tam>அகநா</tam>. 395).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெரல்&searchhws=yes&matchtype=exact">ஞெரல்</a> ñeral
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெரல்</tam> <t>ñeral</t></hw> , <i>n</i>. < <tam>ஞரல்-. (அக. நி.)</tam> 1. Sound, noise; <tam>ஒலி</tam>. 2. Haste, quickness; <tam>விரைவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெரி&searchhws=yes&matchtype=exact">ஞெரி</a> ñeri
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெரி</tam></hw> , II. <i>v. i.</i> (a change of <tam>நெரி</tam>) snap off, break, be bruised. <p2><tam>ஞெரி</tam>, <i>v. n.</i> a break, a snap, a bruise, <tam>நெரிவு</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெரி&searchhws=yes&matchtype=exact">ஞெரி</a> ñeri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெரி</hw> - ஞெரியென்னேனவல், நெரிவு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெரி&searchhws=yes&matchtype=exact">ஞெரி</a> ñeri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெரி²</tam> <t>ñeri</t></hw> , <i>n</i>. < <tam>ஞெரி-</tam>. [T. <i>neriya</i>.] Cut or broken piece; <tam>முறிந்த துண்டு. முண்ஞெரி</tam> (<tam>நன்</tam>. 227, <tam>விருத்</tam>.).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெரி&searchhws=yes&matchtype=exact">ஞெரி</a> ñeri
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெரி</tam></hw> , <tam>கிறேன்</tam>, <tam>ந்தேன்</tam>, <tam>வேன்</tam>, <tam>ஞெரிய</tam>, <i>v. n.</i> (<i>a change of</i> <tam>நெரி</tam>.) To break, be bruised, snap off. Compare <tam>முறி</tam>. <i>(p.)</i> <p2><tam>ஞெரி</tam>, <i>v. noun.</i> A break, bruise, snap, <tam>நெரிவு</tam>.</p2> <p2><tam>ஞெரிக்க</tam>, <i>v. a. inf.</i> To break, bruise, snap off a stick, &c. See <tam>நெரி</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெரி-தல்&searchhws=yes&matchtype=exact">ஞெரி-தல்</a> ñeri-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெரி¹-தல்</tam> <t>ñeri-</t></hw> , <i>4 v. intr</i>. < <tam>நெரி-</tam>. [M. <i>ñeriyuka</i>.] To break, snap off, to be crushed; <tam>முறிதல். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெரிதல்&searchhws=yes&matchtype=exact">ஞெரிதல்</a> ñerital
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெரிதல்</hw> - நெரிதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெரித்தல்&searchhws=yes&matchtype=exact">ஞெரித்தல்</a> ñerittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெரித்தல்</hw> - நெரித்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெரேரெனல்&searchhws=yes&matchtype=exact">ஞெரேரெனல்</a> ñerēreṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெரேரெனல்</tam> <t>ñerēr-eṉal</t></hw> , <i>n</i>. Expr. of (a) haste; <tam>விரைவுக்குறிப்பு. ஞெரேரெனக்குணக் கெழு திங்கள் கனையிரு ளகற்ற</tam> (<tam>புறநா</tam>. 376, 7): (b) suddenness; <tam>பொதுக்கெனல்</tam>. (<tam>அகநா</tam>. 32.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெரேலெனல்&searchhws=yes&matchtype=exact">ஞெரேலெனல்</a> ñerēleṉal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெரேலெனல்</tam></hw> , <i>v. n.</i> throbbing as the heart by fear or suffering; 2. sounding as tinkling, rattling; 3. hastening.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெரேலெனல்&searchhws=yes&matchtype=exact">ஞெரேலெனல்</a> ñerēleṉal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெரேலெனல்</hw> - அச்சக்குறிப்பு, அனுக ரணவோசை, ஒலிக்குறிப்பு, சீக்கிரக் குறிப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெரேலெனல்&searchhws=yes&matchtype=exact">ஞெரேலெனல்</a> ñerēleṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெரேலெனல்</tam> <t>ñerēl-eṉal</t></hw> , <i>n</i>. Expr. of (a) haste; <tam>விரைவுக்குறிப்பு. சிலைகா லூன்றி ஞெரேலென வளைத்து</tam> (<tam>கந்தபு. அக்கினிமுக</tam>. 139): (b) quivering with fear; <tam>அச்சக்குறிப்பு. (திவா.)</tam>: (c) sounding, tinkling, rattling; <tam>ஒலிக்குறிப்பு. (பிங்.)</tam>: (d) being chill; <tam>தண்மைக்குறிப்பு. (அக. நி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெரேலெனல்&searchhws=yes&matchtype=exact">ஞெரேலெனல்</a> ñerēleṉal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெரேலெனல்</tam></hw> , <i>v. noun.</i> Throbbing, as the heart by fear, suffering pangs, <tam>அச்சுக்குறிப்பு</tam>. 2. Sounding–as tinkling, rattling, &c., <tam>ஒலிக்குறிப்பு</tam>. 3. Hastening, moving with celerity, <tam>விரைவுக்குறிப்பு</tam>. <i>(p.)</i> Compare <tam>சுரீரெனல்</tam>, <tam>சரேரெனல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெலி&searchhws=yes&matchtype=exact">ஞெலி</a> ñeli
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெலி</tam></hw> , II. <i>v. t.</i> twirl one stick over another so as to produce fire by friction, churl, <tam>கடை</tam>; 2. make hollow <tam>குடை</tam>. <p2><tam>ஞெலிகோல்</tam>, sticks for producing fire by friction, <tam>தீக்கடைகோல்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெலி&searchhws=yes&matchtype=exact">ஞெலி</a> ñeli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெலி²</tam> <t>ñeli</t></hw> , <i>n</i>. < <tam>ஞெலி-</tam>. Grating bamboo; <tam>கடையப்பட்ட மூங்கில். ஞெலிசொரி யொண் பொறி</tam> (<tam>அகநா</tam>. 39, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெலி&searchhws=yes&matchtype=exact">ஞெலி</a> ñeli
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெலி</tam></hw> , <tam>கிறேன்</tam>, <tam>ந்தேன்</tam>, <tam>வேன்</tam>, <tam>ய</tam>, <i>v. a.</i> To twirl one stick on another in order to produce fire by friction, to work a churning stick, <tam>கடைய</tam>. 2. To make hollow, <tam>குடைய</tam>. <i>(p.)</i> <p2><tam>ஞெலிகோல்</tam>, <i>s.</i> Sticks for producing fire by friction, <tam>தீக்கடைகோல்</tam>. (<tam>நிக</tam>.)</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெலி-தல்&searchhws=yes&matchtype=exact">ஞெலி-தல்</a> ñeli-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெலி¹-தல்</tam> <t>ñeli-</t></hw> , <i>4 v. tr</i>. 1. To rub one stick on another for producing fire by friction; <tam>தீக்கடைதல். ஞெலிதீ விளக்கத்து</tam> (<tam>அக. நி</tam>. 247, 2). 2. To make hollow; <tam>குடைதல். (அக. நி.)</tam> — <i>intr</i>. To rub, grate, as bamboos; <tam>உரசுதல். ஞெலிகழை</tam> (<tam>ஐங்குறு</tam>. 307).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெலிகோல்&searchhws=yes&matchtype=exact">ஞெலிகோல்</a> ñelikōl
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெலிகோல்</hw> - தீக்கடைகோல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெலிகோல்&searchhws=yes&matchtype=exact">ஞெலிகோல்</a> ñelikōl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெலிகோல்</tam> <t>ñeli-kōl</t></hw> , <i>n</i>. < id. +. Piece of wood for producing fire by friction; <tam>தீக்கடை கோல். ஞெலிகோற் கொண்ட பெருவிறன் ஞெகிழி</tam> (<tam>பெரும்பாண்</tam>. 178).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெலிதல்&searchhws=yes&matchtype=exact">ஞெலிதல்</a> ñelital
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெலிதல்</hw> - கடைதல், குடைதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெலிதல்&searchhws=yes&matchtype=exact">ஞெலிதல்</a> ñelital
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1645">p. 1645</a>)
+		<blockquote><p><hw>ஞெலிதல்</hw> - கடைதல், குடைதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெலுவன்&searchhws=yes&matchtype=exact">ஞெலுவன்</a> ñeluvaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெலுவன்</tam></hw> , <i>s.</i> a friend, a companion.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெலுவன்&searchhws=yes&matchtype=exact">ஞெலுவன்</a> ñeluvaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெலுவன்</hw> - தோழன், சினேகன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெலுவன்&searchhws=yes&matchtype=exact">ஞெலுவன்</a> ñeluvaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெலுவன்</tam> <t>ñeluvaṉ</t></hw> , <i>n</i>. cf. <tam>எலுவன்</tam>. Male companion; <tam>தோழன். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெலுவல்&searchhws=yes&matchtype=exact">ஞெலுவல்</a> ñeluval
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெலுவல்</hw> - செத்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெலுவல்&searchhws=yes&matchtype=exact">ஞெலுவல்</a> ñeluval
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெலுவல்</tam> <t>ñeluval</t></hw> , <i>n</i>. See <tam>செத்தல். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெளி-தல்&searchhws=yes&matchtype=exact">ஞெளி-தல்</a> ñeḷi-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெளி-தல்</tam> <t>ñeḷi-</t></hw> , <i>4 v. intr</i>. See <tam>நெளி-</tam>. (<tam>நன்</tam>. 104, <tam>மயிலை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெளிர்&searchhws=yes&matchtype=exact">ஞெளிர்</a> ñeḷir
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெளிர்</tam></hw> , <i>s.</i> sound perceived within one's self, as of the bowels etc. <tam>உள் ளோசை</tam>; 2. sound, <tam>ஒலி</tam>. <p2><tam>ஞெள்</tam>, <tam>ஞெள்ளு</tam> I. <i>v. i.</i> become hollow; 2. consent, agree; 3. sound.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெளிர்&searchhws=yes&matchtype=exact">ஞெளிர்</a> ñeḷir
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெளிர்</hw> - உள்ளோசை, ஒலி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெளிர்&searchhws=yes&matchtype=exact">ஞெளிர்</a> ñeḷir
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1658">p. 1658</a>)
+		<blockquote><p><hw>ஞெளிர்</hw> - உள்ளோசை, ஒலி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெளிர்&searchhws=yes&matchtype=exact">ஞெளிர்</a> ñeḷir
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெளிர்²</tam> <t>ñeḷir</t></hw> , <i>n</i>. < <tam>ஞெளிர்-</tam>. 1. Gentle, vibrant sound; <tam>யாழ் முதலியவற்றின் உள்ளோசை. (பிங்.)</tam> 2. Sound; <tam>ஒலி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெளிர்&searchhws=yes&matchtype=exact">ஞெளிர்</a> ñeḷir
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெளிர்</tam></hw> , <i>s.</i> Sound perceived within one's self, as of the bowels, &c., <tam>உள்ளோசை</tam>. 2. Sound, <tam>ஒலி</tam>. <i>(p.)</i> Compare <tam>குளிறு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெளிர்-தல்&searchhws=yes&matchtype=exact">ஞெளிர்-தல்</a> ñeḷir-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெளிர்¹-தல்</tam> <t>ñeḷir-</t></hw> , <i>4 v. intr</i>. To sound in a high pitch; <tam>எடுத்தலோசையுடன் ஒலித்தல். (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெள்&searchhws=yes&matchtype=exact">ஞெள்</a> ñeḷ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெள்</tam></hw> -<tam>ஞெள்ளு</tam>, <tam>கிறேன்</tam>, <tam>ஞெண்டேன்</tam>, <tam>ஞெள்ளுவேன்</tam>, <tam>ஞெள்ள</tam>, <i>v. n.</i> To become hollow, <tam>பள்ளமாக</tam>. (Compare <tam>தொள்ளு</tam>, <i>v.</i>) 2. To agree, yield, consent, <tam>உடன்பட</tam>. 3. To sound, <tam>ஒலிக்க</tam>. <i>(p.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெள்-தல், ஞெளு-தல்&searchhws=yes&matchtype=exact">ஞெள்-தல், ஞெளு-தல்</a> ñeḷ-tal, ñeḷu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெள்(ளு)-தல்</tam> <t>ñeḷ-</t></hw> , <i>2 v. intr</i>. 1. To become hollow; <tam>பள்ளமாதல்</tam>. (<smallcap>W</smallcap>.) 2. To sound; <tam>ஒலித்தல்</tam>. (<smallcap>W</smallcap>.) 3. To agree, yield, consent; <tam>உடன்படுதல். (அக. நி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெள்ளல்&searchhws=yes&matchtype=exact">ஞெள்ளல்</a> ñeḷḷal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெள்ளல்</tam></hw> , <i>v. n.</i> quickness, intensity, <tam>சீக்கிரம்</tam>; 2. hole, hollow, pit, <tam>பள்ளம்</tam>; 3. sounding; 4. fainting, <tam>சோர்வு</tam>; 5. yielding, consenting, <tam>உடன்படல்</tam>; 6. being plentiful; <tam>மிகுதி</tam>, 7. superio- rity, eminence, <tam>மேன்மை</tam>; 8. road, way, <tam>வீதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெள்ளல்&searchhws=yes&matchtype=exact">ஞெள்ளல்</a> ñeḷḷal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெள்ளல்</hw> - உடன்படல், ஒலித்தல், சீக்கி ரம், சோர்பு, தவறு, பள்ளம், மிகுதி, மேன்மை, வீதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெள்ளல்&searchhws=yes&matchtype=exact">ஞெள்ளல்</a> ñeḷḷal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1659">p. 1659</a>)
+		<blockquote><p><hw>ஞெள்ளல்</hw> - உடன்படல், ஒலித்தல், சீக் கிரம், சோர்வு, தெரு, பள்ளம், மிகுதி, மேன்மை, வியங்கோண்முற்று, வீதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெள்ளல்&searchhws=yes&matchtype=exact">ஞெள்ளல்</a> ñeḷḷal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெள்ளல்</tam> <t>ñeḷḷal</t></hw> , <i>n</i>. < <tam>ஞெள்-</tam>. 1. Weakness, exhaustion; <tam>சோர்வு. (திவா.)</tam> 2. Defect, fault; <tam>குற்றம். ஞெள்ளற்பை</tam> (<tam>திருப்பு</tam>. 289). 3. Hole, hollow, pit, depression; <tam>பள்ளம். (பிங்.)</tam> 4. Road, way; <tam>வீதி. கடுந்தேர் குழித்த ஞெள்ள லாங்கண்</tam> (<tam>புறநா</tam>. 15). 5. Greatness; <tam>மேன்மை. (திவா.)</tam> 6. Yielding, consenting; <tam>உடன்படுகை. (திவா.)</tam> 7. Quickness, haste; <tam>விரைவு. (சூடா.)</tam> 8. Abundance; <tam>மிகுதி. (திவா.)</tam> 9. Sounding; <tam>ஒலிக்கை. (திவா.)</tam> 10. Fight, strife; <tam>பூசல். (அக. நி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெள்ளல்&searchhws=yes&matchtype=exact">ஞெள்ளல்</a> ñeḷḷal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெள்ளல்</tam></hw> , <i>v. noun.</i> Quickness, velocity, intensity, <tam>சீக்கிரம்</tam>. 2. Eminence, superiority, <tam>மேன்மை</tam>. 3. Road, way, <tam>வீதி</tam>. 4. Abounding, <tam>மிகுதி</tam>. (<tam>சது</tam>.) 5. Hole, hollow, pit, depression, <tam>பள்ளம்</tam>. 6. Sounding, <tam>ஒலித்தல்</tam>. 7. Fainting, <tam>சோர்வு</tam>. Compare <tam>ஞொள்ளு</tam>. 8. Yielding, consenting, <tam>உடன்படல்</tam>. <i>(p.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/fabricius_query.py?qs=ஞெள்ளெனல்&searchhws=yes&matchtype=exact">ஞெள்ளெனல்</a> ñeḷḷeṉal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=468">p. 468</a>)
+		<blockquote><p><hw><tam>ஞெள்ளெனல்</tam></hw> , <i>v. n.</i> sounding imitatively. <tam>அணுகரணவோசை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெள்ளெனல்&searchhws=yes&matchtype=exact">ஞெள்ளெனல்</a> ñeḷḷeṉal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=726">p. 726</a>)
+		<blockquote><p><hw>ஞெள்ளெனல்</hw> - அனுகரணவோசை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெள்ளெனல்&searchhws=yes&matchtype=exact">ஞெள்ளெனல்</a> ñeḷḷeṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெள்ளெனல்</tam> <t>ñeḷ-ḷ-eṉal</t></hw> , <i>n</i>. An imitative sound; <tam>ஒலிக்குறிப்பு. (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/winslow_query.py?qs=ஞெள்ளெனல்&searchhws=yes&matchtype=exact">ஞெள்ளெனல்</a> ñeḷḷeṉal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=534">p. 534</a>)
+		<blockquote><p><hw><tam>ஞெள்ளெனல்</tam></hw> , <i>v. noun.</i> Sounding imitatively, <tam>அனுகரணவோசை</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஞெள்ளெனல், பொள்ளெனல்&searchhws=yes&matchtype=exact">ஞெள்ளெனல், பொள்ளெனல்</a> ñeḷḷeṉal, poḷḷeṉal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1660">p. 1660</a>)
+		<blockquote><p><hw>ஞெள்ளெனல், பொள்ளெனல்</hw> அநுகரணவோசை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஞெள்ளை&searchhws=yes&matchtype=exact">ஞெள்ளை</a> ñeḷḷai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1692">p. 1692</a>)
+		<blockquote><p><hw><tam>ஞெள்ளை</tam> <t>ñeḷḷai</t></hw> , <i>n</i>. cf. <tam>ஞெள்-</tam>. Dog; <tam>நாய்</tam>. (<tam>தொல். சொல்</tam>. 400, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

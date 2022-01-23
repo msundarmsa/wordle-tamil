@@ -1,0 +1,2879 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>பை</b>
+                       <div id='no_results'>
+                                265 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/crea_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=770">p. 770</a>)
+		<blockquote><p><hw>பை</hw> பெ. 1: (பொருள்களைப் போட்டுவைத்தல் அல்லது போட்டு எடுத்துச்செல்லுதல் போன்ற செயல்களுக்கு ஏற்ற வகையில்) துணி, தோல், காகிதம் முதலியவற்றால் மேல்புறம் திறப்புடையதாகச் செய்யப்படும் சாதனம்; bag of various types; satchel. 2: (சட்டை முதலியவற்றில்) பொருள்களைப் போடுவதற்கு ஏற்ற வகையில் தைத்து ஏற்படுத்தப்பட்டிருக்கும் சிறு அமைப்பு; pocket (in a shirt, etc.). 3: (சில விலங்குகளின் வயிறு, வாய் போன்றவை) ஏதேனும் ஒன்றைக் கொண்டிருக்கும் வகையில் (பை போல்) அமைந்திருப்பது; (of animals) pouch; pouch-like part. கங்காரு தன் குட்டியை வயிற்றின் பையில் வைத்திருக்கும்./ குரங்கிற்கு வாயின் இரு பக்கத்திலும் பைகள் உண்டு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/fabricius_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பை</tam></hw> , <i>s.</i> a bag, a purse, a sack, <tam>சாக்கு</tam>; 2. hood of a cobra, <tam>படம்</tam>; 3. beauty, <tam>அழகு</tam>; 4. colour, <tam>நிறம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/fabricius_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பை</tam></hw> , VI. <i>v. i.</i> become green; 2. become angry; 3. color as by anger; 4. spread the hood, as a cobra.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/fabricius_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பை</tam></hw> , (with <tam>ம்</tam> etc.) <i>abj.</i> from <tam>பசுமை</tam>, green. <p2><tam>பைங்கண்</tam>, a fresh green place.</p2> <p2><tam>பைங்கிளி</tam>, a green parrot.</p2> <p2><tam>பைங்கூழ்</tam>, growing corn or other crops.</p2> <p2><tam>பைந்தார்</tam>, a green garland.</p2> <p2><tam>பைந்தொடி</tam>, bracelet; 2. a lady wearing bracelets.</p2> <p2><tam>பைந்நாகம்</tam>, the hooded cobra.</p2> <p2><tam>பைம்பொன்</tam>, see <tam>பசும்பொன்</tam>, fine gold.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/fabricius_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பை</tam></hw> , <i>com.</i> <tam>பைய</tam>, <i>adv.</i> softly, slowly. <p2><tam>பையப் பைய</tam>, gently, gently.</p2> <p2><tam>பையப் பையப்</tam>, <tam>பேச</tam>, to speak slowly.</p2> <p2><tam>பையப்போ</tam>, go softly.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பை</hw> - அழகு, ஓரெழுத்து, குடர், சா க்கு, நிறம், பசுமை, பச்சைநிறம், பாம்பின்படம், பையென்னேவல், பொக்கணம், மந்தக்குணம், மெத்தெ னவு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1628">p. 1628</a>)
+		<blockquote><p><hw>பை</hw> - அழகு, ஓர்வகையெழுத்து, நிறம், பச்சை, பாம்பின்படம், பை, பை யென்னேவல், மந்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/mcalpin_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/mcalpin/">McAlpin's <i>"A core vocabulary for Tamil"</i></a>
+		(<a href="/cgi-bin/app/mcalpin_query.py?page=53">p. 53</a>)
+		<blockquote><p><hw><tam>பை</tam></hw> payyi <tam>பய்யி</tam> bag, pocket</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2904">p. 2904</a>)
+		<blockquote><p><hw><tam>பை¹</tam> <t>pai</t></hw> . The compound of <tam>ப்</tam> and <tam>ஐ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2904">p. 2904</a>)
+		<blockquote><p><hw><tam>பை²</tam> <t>pai</t></hw> , <i>n</i>. < <tam>பசு-மை</tam>. [M. <i>pai</i>.] 1. Greenness, freshness; <tam>பசுமை. (பிங்.)</tam> 2. Colour; <tam>நிறம்</tam>. (<smallcap>W</smallcap>.) 3. Youth; <tam>இளமை. பைதீர் பாணரொடு</tam> (<tam>மலைபடு</tam>. 40). 4. Beauty; <tam>அழகு. (திவா.) பைவண்ண மணிக்கூடந்தனில்</tam> (<tam>பாரத. கிருட்டிணன்</tam>. 33). 5. Strength, vigour; <tam>உடல்வலி. நும் பைதீர் கடும் பொடு</tam> (<tam>பெரும்பாண்</tam>. 105).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2904">p. 2904</a>)
+		<blockquote><p><hw><tam>பை⁴</tam> <t>pai</t></hw> , <i>n</i>. perh. <tam>பெய்-</tam>. 1. Bag, sack, purse, satchel; <tam>துணி தோல்முதலியவற்றால் அமைந்த கொள்கலம். தோற்பையுணின்று . . . கூத்தன் புறப் பட்டக்கால்</tam> (<tam>நாலடி</tam>, 26). 2. Hood of a cobra; <tam>பாம்புப்படம். அரவம் . . . பைவிரித்தென</tam> (<tam>மணி</tam>. 20, 105). 3. Bladder; duct; pouch, as in animal bodies; <tam>மூத்திரப்பை முதலிய உடலுள்ளுறுப்பு</tam>. 4. Five hundred or thousand rupees, as the amount usually kept in a treasury bag; 500 <tam>அல்லது</tam> 1,000 <tam>ரூபா. இரண்டு பை அந்த வித்வான் பெற்றார்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பை⁶</tam> <t>pai</t></hw> , <i>n</i>. < U. <i>paisā</i>. A small token coin of copper = ¹⁄₁₂ anna; <tam>அணாவில் பன்னிரண்டில் ஒரு பங்கு மதிப்புள்ள சிறு செப்புநாணயம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/winslow_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=817">p. 817</a>)
+		<blockquote><p><hw><tam>பை</tam></hw> . A syllabic letter formed of <tam>ப்</tam> and <tam>ஐ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/winslow_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=817">p. 817</a>)
+		<blockquote><p><hw><tam>பை</tam></hw> , <i>s.</i> Bag, sack, purse, satchel, <tam>சாக்கு</tam>. 2. Hood of a cobra, <tam>பாம்பின்படம்</tam>. 3. Any bladder, duct or sack in animal bodies, <tam>குடற்பை</tam>. <i>(c.)</i> 4. [<i>ex</i> <tam>பசு</tam>.] Color, <tam>நிறம்</tam>. 5. Beauty, <tam>அழகு</tam>. 6. Green, <tam>பச்சை</tam>. <p2><tam>பைங்கண்</tam>, <i>s.</i> A fresh green place, <tam>பசுமையாகியவிடம்</tam>; [<i>ex</i> <tam>கண்</tam>, place.]</p2> <p2><tam>பைங்கிளி</tam>–<tam>பைந்தார்</tam>–<tam>பைந்தினை</tam>. <i>See under</i> <tam>பசு</tam>, <i>adj. signifying green, &c.</i></p2> <p2><tam>பைங்கூழ்</tam>, <i>s.</i> Growing corn, or other crops, <tam>பயிர்</tam>. 2. Disease, <tam>நோய்</tam>. (<tam>சது</tam>.)</p2> <p2><tam>பைந்தொடி</tam>, <i>s.</i> A bracelet, an ornament of the arm, <tam>கைவளை</tam>. 2. See <tam>தொடி</tam>.</p2> <p2><tam>பைந்நாகம்</tam>, <i>s.</i> The hooded cobra, <tam>சர்ப்பம்</tam>.</p2> <p2><tam>பைம்பூண்</tam>, <i>s.</i> An ornament of fine gold. (<tam>நீதிநெறி</tam>.)</p2> <p2><tam>பைம்பொன்</tam>, <i>s.</i> Fine gold, as <tam>பசும்பொன்</tam>. 2. Mount Meru, <tam>மேருகிரி</tam>. (<tam>சது</tam>.)</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/winslow_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பை</tam></hw> , <i>adv.</i> [<i>com.</i> <tam>பைய</tam>.] Slowly, softly. <tam>பையப்பைய</tam>. Gently, gently. <tam>பையப்பையப்பேசு</tam>. Speak slowly. <tam>பையப்பையநட</tam>. Walk quietly. <tam>பையப்பையமென்றால் பனையையுமெல்லலாம்</tam>. If one munch slowly, even a palmyra tree may be chewed; i. e. patience will overcome difficulties.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/winslow_query.py?qs=பை&searchhws=yes&matchtype=exact">பை</a> pai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பை</tam></hw> , <tam>க்கிறது</tam>, <tam>த்தது</tam>, <tam>க்கும்</tam>, <tam>க்க</tam>, <i>v. n.</i> To become green or greenish, <tam>பசுமையாக</tam>. 2. To color, as by anger, <tam>சினக்குறிப்புக்காட்ட</tam>. 3. To be angry, <tam>கோபிக்க</tam>. 4. To spread to hood of the neck–as a cobra, <tam>பாம்பு படம்விரிக்க</tam>. (<tam>சது</tam>.) <tam>பைத்தபாம்பு</tam>. An excited snake. (<tam>நைட</tam>.) <p2><tam>பைத்தல்</tam>, <i>v. noun.</i> Sorrow, affliction. <tam>துன்பம்</tam>. 2. Change of color from love–sickness, &c., <i>as the verb.</i></p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பை-த்தல்&searchhws=yes&matchtype=exact">பை-த்தல்</a> pai-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2904">p. 2904</a>)
+		<blockquote><p><hw><tam>பை³-த்தல்</tam> <t>pai-</t></hw> , <i>11 v. intr</i>. < <tam>பை²</tam>. 1. To become green or greenish; <tam>பசுமையாதல். (சூடா.)</tam> 2. cf. <i>bhā</i>. To look bright; <tam>சோபித்தல். பைத்த சோதி</tam> (<tam>தக்கயாகப்</tam>. 467).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பை-த்தல்&searchhws=yes&matchtype=exact">பை-த்தல்</a> pai-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பை⁵-த்தல்</tam> <t>pai-</t></hw> , <i>11 v. intr</i>. < <tam>பை⁴</tam>. 1. To spread the hood, as a cobra; <tam>படம் விரித்தல். பைத்த பாம்பின் றுத்தி யேய்ப்ப</tam> (<tam>பொருந</tam>. 69). 2. To be angry; <tam>கோபித்தல். (பிங்.)</tam> 3. To be tumultuous, as the sea; <tam>பொங்குதல். பைத்தரவத் திரை சிந்திய . . . நித்திலம்</tam> (<tam>சீவக</tam>. 1766). 4. To be excessive; <tam>மிகுதல். (அக. நி.) பைத்தபல் பீடை</tam> (<tam>விநாயகபு</tam>. 73, 36).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைகஸ்தி&searchhws=yes&matchtype=exact">பைகஸ்தி</a> paikasti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைகஸ்தி</tam> <t>paikasti</t></hw> , <i>n</i>. < U. <i>paigaṣti</i>. Superintendent on patrol duty; detective; <tam>துப் பாள்</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைகி&searchhws=yes&matchtype=exact">பைகி</a> paiki
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைகி</tam> <t>paiki</t></hw> , <i>part</i>. < Mhr. <i>paiki</i>. Out of, in respect of, regarding; <tam>அளவுக்கு. பத்துக்காணி பைகி ஒன்பது சாகுபடி</tam>. <i>Sm</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைகிரி&searchhws=yes&matchtype=exact">பைகிரி</a> paikiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைகிரி</tam> <t>paikiri</t></hw> , <i>n</i>. perh. <i>bhairava</i>. Dog; <tam>நாய். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/fabricius_query.py?qs=பைகோ&searchhws=yes&matchtype=exact">பைகோ</a> paikō
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைகோ</tam></hw> , <tam>பைகோவு</tam>, <i>s. (for.)</i> Pegu, the country. <p2><tam>பைகோமட்டம்</tam>, a Pegu pony.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/winslow_query.py?qs=பைகோ&searchhws=yes&matchtype=exact">பைகோ</a> paikō
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பைகோ</tam></hw> –<tam>பைகோவு</tam>–<tam>பைகோவை</tam>, <i>s. [for.]</i> Pegu, the country, <tam>ஓர்தேயம்</tam>. <p2><tam>பைகோமட்டம்</tam>, <i>s.</i> A pegu pony.</p2> <p2><tam>பைகோவைச்சிவப்பு</tam>, <i>s.</i> The Pegu ruby, <tam>ஓர்வகைமாணிக்கம்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைகோ, பைகோவு, பைகோவை&searchhws=yes&matchtype=exact">பைகோ, பைகோவு, பைகோவை</a> paikō, paikōvu, paikōvai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைகோ, பைகோவு, பைகோவை</hw> ஒருதேயம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைகோமட்டம்&searchhws=yes&matchtype=exact">பைகோமட்டம்</a> paikōmaṭṭam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைகோமட்டம்</tam> <t>paikō-maṭṭam</t></hw> , <i>n</i>. < Malay. <i>paigu</i> +. Pegu pony; <tam>மட்டக் குதிரைச்சாதி வகை. பைகோ மட்டங்களாக</tam> (<tam>பிரதாப. விலா</tam>. 18).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைகோவை&searchhws=yes&matchtype=exact">பைகோவை</a> paikōvai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைகோவை</tam> <t>paikōvai</t></hw> , <i>n</i>. < Malay, <i>paigu</i>. Pegu, near Burma; <tam>பர்மாவை யடுத்துள்ளதோர் நாடு</tam>. (<tam>பணவிடு</tam>. 208.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைகோவைச்சிவப்பு&searchhws=yes&matchtype=exact">பைகோவைச்சிவப்பு</a> paikōvaiccivappu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைகோவைச்சிவப்பு</hw> - ஒருவகை மா ணிக்கம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைகோவைச்சிவப்பு&searchhws=yes&matchtype=exact">பைகோவைச்சிவப்பு</a> paikōvaiccivappu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைகோவைச்சிவப்பு</tam> <t>paikōvai-c-civappu</t></hw> , <i>n</i>. < <tam>பைகோவை</tam> +. Pegu ruby; <tam>ஒருவகைச் சிவப்பு ரத்தினம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/fabricius_query.py?qs=பைக்கம்&searchhws=yes&matchtype=exact">பைக்கம்</a> paikkam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைக்கம்</tam></hw> , <tam>பயிக்கம்</tam>, <i>s.</i> alms, <tam>பிச்சை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைக்கம்&searchhws=yes&matchtype=exact">பைக்கம்</a> paikkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைக்கம்</hw> - பிச்சை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைக்கம்&searchhws=yes&matchtype=exact">பைக்கம்</a> paikkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைக்கம்</tam> <t>paikkam</t></hw> , <i>n</i>. < <i>bhaikṣa</i>. Alms. See <tam>பயிக்கம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/winslow_query.py?qs=பைக்கம்&searchhws=yes&matchtype=exact">பைக்கம்</a> paikkam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p>*<hw><tam>பைக்கம்</tam></hw> , <i>s.</i> [<i>also</i> <tam>பயிக்கம்</tam>.] Alms. See <tam>பிச்சை</tam>. W. p. 627. <smallcaps>B'HAIKSHA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைக்கலம்&searchhws=yes&matchtype=exact">பைக்கலம்</a> paikkalam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைக்கலம்</tam> <t>pai-k-kalam</t></hw> , <i>n</i>. < <tam>பை²</tam> +. Green flask; <tam>பச்சைக்குப்பி. கள்ளி னிரும்பைக் கலம்</tam> (<tam>மதுரைக்</tam>. 228).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/tamil-idioms_query.py?qs=பைக்குள் போட்டுக்கொள்&searchhws=yes&matchtype=exact">பைக்குள் போட்டுக்கொள்</a> paikkuḷ pōṭṭukkoḷ
+		from <a href="/dictionaries/tamil-idioms/"><i>"Taṟkālat Tamiḻ maraputtoṭar akarāti"</i></a>
+		(<a href="/cgi-bin/app/tamil-idioms_query.py?page=267">p. 267</a>)
+		<blockquote><p><hw>பைக்குள் போட்டுக்கொள்</hw> <nmbr>1463</nmbr> <b>1:</b> (பிறர் பணத்தை) தன் பணமாக எடுத்துக்கொள்ளுதல்; pocket (s.o. else's money). சங்கத்திற்குக் கட்டடம் கட்ட வசூலித்த நிதியில் கணக்குக் காட்டியது பாதி, பைக்குள் போட்டுக்கொண்டது பாதி!</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைக்கூறை&searchhws=yes&matchtype=exact">பைக்கூறை</a> paikkūṟai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைக்கூறை</hw> - பை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைக்கே&searchhws=yes&matchtype=exact">பைக்கே</a> paikkē
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S374">p. S374</a>)
+		<blockquote><p><hw><tam>பைக்கே</tam> <t>paikkē</t></hw> , <i>n</i>. [T. <i>paikam</i>.] Money; <tam>பணம்</tam>. (<smallcap>P. T. L</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைங்கண்&searchhws=yes&matchtype=exact">பைங்கண்</a> paiṅkaṇ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைங்கண்</hw> - பசியகண்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைங்கண்&searchhws=yes&matchtype=exact">பைங்கண்</a> paiṅkaṇ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைங்கண்</tam> <t>pai-ṅ-kaṇ</t></hw> , <i>n</i>. < <tam>பை²</tam> +. 1. Tender eye; <tam>குளிர்ந்த கண். பைங்கண்ணன் புன் மயிரன்</tam> (<tam>இறை</tam>. 1, <tam>பக்</tam>. 7). 2. Tender body; <tam>பசிய வுடம்பு. பைங்கண் மாஅல்</tam> (<tam>பரிபா</tam>. 3, 82). 3. Eye fuming with anger; <tam>கோபத்தாற் பசிய கண்</tam>. (<tam>பரிபா</tam>. 5, 27.) 4. Fresh, green spot; <tam>பச்சென்ற விடம். பைங்கட் புனத்த பைங்கூழ்</tam> (<tam>குமர. பிர. நீதி நெறி</tam>. 61).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைங்கலம்&searchhws=yes&matchtype=exact">பைங்கலம்</a> paiṅkalam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைங்கலம்</tam> <t>paiṅkalam</t></hw> , <i>n</i>. < <i>Paiṅgala</i>. An Upaniṣad, one of 108; <tam>நூற்றெட்டுபநிடதங்களுள் ஒன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைங்கழை&searchhws=yes&matchtype=exact">பைங்கழை</a> paiṅkaḻai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைங்கழை</hw> - பசுமையானமூங்கில்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைங்காய்&searchhws=yes&matchtype=exact">பைங்காய்</a> paiṅkāy
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைங்காய்</hw> - பசுங்காய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைங்கால் நிலம்&searchhws=yes&matchtype=exact">பைங்கால் நிலம்</a> paiṅkāl nilam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S374">p. S374</a>)
+		<blockquote><p><hw><tam>பைங்கால் நிலம்</tam> <t>pai-ṅ-kāl-nilam</t></hw> , <i>n</i>. prob. <tam>பை</tam> + <tam>கால்</tam> +. Wet field; <tam>நஞ்சைநிலம். பைங்கால் நிலத்தைப் பருமரக் காடென்று</tam> (<tam>சரவண. பணவிடு</tam>. 142).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைங்கிணறு&searchhws=yes&matchtype=exact">பைங்கிணறு</a> paiṅkiṇaṟu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S374">p. S374</a>)
+		<blockquote><p><hw><tam>பைங்கிணறு</tam> <t>pai-ṅ-kiṇaṟu</t></hw> , <i>n</i>. < id. +. Small pond; <tam>குட்டை</tam>. (<smallcap>S. I. I</smallcap>. vii, 41.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/crea_query.py?qs=பைங்கிளி&searchhws=yes&matchtype=exact">பைங்கிளி</a> paiṅkiḷi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=770">p. 770</a>)
+		<blockquote><p><hw>பைங்கிளி</hw> பெ. [உ.வ.] 1: பச்சைக் கிளி; green parrot.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைங்கிளி&searchhws=yes&matchtype=exact">பைங்கிளி</a> paiṅkiḷi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைங்கிளி</hw> - பச்சைக்கிளி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைங்கிளி&searchhws=yes&matchtype=exact">பைங்கிளி</a> paiṅkiḷi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைங்கிளி</tam> <t>pai-ṅ-kiḷi</t></hw> , <i>n</i>. < <tam>பை²</tam> +. 1. Parrot with green plumage; <tam>பச்சைக்கிளி. பைங் கிளிப் பாய்கலை . . . கொற்றவை</tam> (<tam>பு. வெ</tam>. 1, 20). 2. Young, beautiful lady; <tam>அழகிய இளம்பெண்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைங்குழி&searchhws=yes&matchtype=exact">பைங்குழி</a> paiṅkuḻi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைங்குழி</tam> <t>pai-ṅ-kuḻi</t></hw> , <i>n</i>. < <tam>பை⁴</tam> +. Womb; <tam>கருத்தங்கும் இடம். (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைங்கூன்&searchhws=yes&matchtype=exact">பைங்கூன்</a> paiṅkūṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைங்கூன்</tam> <t>paiṅkūṉ</t></hw> , <i>n</i>. Citronella grass. See <tam>காவட்டம்புல். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைங்கூழ்&searchhws=yes&matchtype=exact">பைங்கூழ்</a> paiṅkūḻ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைங்கூழ்</hw> - நோய், பயிர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைங்கூழ்&searchhws=yes&matchtype=exact">பைங்கூழ்</a> paiṅkūḻ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைங்கூழ்</tam> <t>pai-ṅ-kūḻ</t></hw> , <i>n</i>. < <tam>பை²</tam> +. 1. Tender crops; <tam>இளம்பயிர். பைங்கூழ் களைகட் டதனொடு நேர்</tam> (<tam>குறள்</tam>, 550). 2. Cultivated field; <tam>விளைநிலம். பைங்கூழ் . . . உமிழ்வோ டிருபுலனுஞ் சோரார்</tam> (<tam>ஆசாரக்</tam>. 33). 3. Disease; <tam>நோய். (சது.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைங்கொடி&searchhws=yes&matchtype=exact">பைங்கொடி</a> paiṅkoṭi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைங்கொடி</hw> - பசுங்கொடி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைங்கொடி&searchhws=yes&matchtype=exact">பைங்கொடி</a> paiṅkoṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைங்கொடி</tam> <t>pai-ṅ-koṭi</t></hw> , <i>n</i>. < <tam>பை²</tam> +. 1. A fragrant creeper; <tam>பச்சிலைக்கொடிவகை. பைங் கொடி நறைக்காய்</tam> (<tam>திருமுரு</tam>. 190). 2. Woman; <tam>பெண்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/fabricius_query.py?qs=பைசந்தி&searchhws=yes&matchtype=exact">பைசந்தி</a> paicanti
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைசந்தி</tam></hw> , <i>s.</i> one of the four different sounds - the sound from the lungs.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைசந்தி&searchhws=yes&matchtype=exact">பைசந்தி</a> paicanti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைசந்தி</hw> - வாக்குநான்கினொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசந்தி&searchhws=yes&matchtype=exact">பைசந்தி</a> paicanti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைசந்தி¹</tam> <t>pai-canti</t></hw> , <i>n</i>. perh. <tam>பை⁴</tam> + <tam>சந்து</tam>. See <tam>பைங்குழி. (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசந்தி&searchhws=yes&matchtype=exact">பைசந்தி</a> paicanti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைசந்தி²</tam> <t>paicanti</t></hw> , <i>n</i>. < <i>pašyantī</i>. Sound from the navel, one of four kinds of <i>vākku</i>, q.v.; <tam>நால்வகை வாக்குக்களுள் ஒன்றாய் நாபி யினின்று தோன்றி இதயத்தையடைந்த நாதரூபமான ஒலிவடிவெழுத்து. பைசந்தி யமர்ந்து நிற்கும்</tam> (<tam>சி. சி</tam>. 1, 22).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/winslow_query.py?qs=பைசந்தி&searchhws=yes&matchtype=exact">பைசந்தி</a> paicanti
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பைசந்தி</tam></hw> , <i>s.</i> One of the four <tam>வாக்கு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைசந்தியாவது&searchhws=yes&matchtype=exact">பைசந்தியாவது</a> paicantiyāvatu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1473">p. 1473</a>)
+		<blockquote><p><hw>பைசந்தியாவது</hw> - மேல்விளக்கத் திருந் துதோன்றுவனவாகிய பஞ்சவன்ன ங்களையுஞ் சூக்கும ரூபமாம். அடை வுபட ஒடுக்கிநிற்பதாய் மயின்முட் டையிற் றறித்திடுநீர்போல வேற்று மைப்பட்டவண்ணம் வெவ்வேறு வி யாபகமாகி அங்கே மிகவுஞ் சூக்கும ரூபமாய்க்கொண்டு நிரவிகற்பவுண விற்கு ஏதுவாம் ஏன்னும் இவ்விர டிலக்கணத்தை யுடைத்தாமென்க.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/crea_query.py?qs=பைசல்&searchhws=yes&matchtype=exact">பைசல்</a> paical
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=770">p. 770</a>)
+		<blockquote><p><hw>பைசல்</hw> பெ. 1: (வழக்குகள்) தீர்ப்பின்மூலமாகவோ (கோப்பு, மனு போன்றவை) பரிசீலனையின்மூலமாகவோ (தகராறு முதலியவை) பேச்சின்மூலமாகவோ அடையும் முடிவு அல்லது தீர்வு; disposal (of a suit, request, etc.); decree. ஆயிரத்துக்கு மேற்பட்ட வழக்குகள் நீதிமன்றங்களில் பைசலாகாமல் தேங்கிக்கிடக்கின்றன./ மக்களின் மனுக்களை உடனுக்குடன் பைசல் செய்யும்படி அமைச்சர் உத்தரவிட்டார். 2: [பே.வ.] (கடனை) அடைத்தல்; clearance (of debts). பணத்தைப் பைசா பாக்கி இல்லாமல் பைசல் செய்துவிட்டுப் போ!</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/fabricius_query.py?qs=பைசல்&searchhws=yes&matchtype=exact">பைசல்</a> paical
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைசல்</tam></hw> , <i>(Hind.)</i> judgment, decision, <tam>தீர்ப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசல்&searchhws=yes&matchtype=exact">பைசல்</a> paical
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைசல்¹</tam> <t>paical</t></hw> , <i>n</i>. < <tam>பைதல்</tam>. Small boy; urchin; <tam>பையன். பைசல் கைசு நோய் முக்கைசு</tam> (<tam>திவ். பெரியதி</tam>. 8, 1, 1, <tam>வ்யா</tam>.).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசல்&searchhws=yes&matchtype=exact">பைசல்</a> paical
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைசல்²</tam> <t>paical</t></hw> , <i>n</i>. < U. <i>faisal</i>. 1. Decree, judgement, decision, settlement of a quarrel, settlement of a debt; <tam>வழக்கு முதலியவற்றின் தீர் மானம்</tam>. (<smallcap>C. G</smallcap>.) 2. Original settlement, assessment fixed at the time of the original settlement, assessment fixed at the time of the original survey in Madras, generally about the year 1801 (<smallcap>R. F</smallcap>.); 1801-<tam>ம் ஆண்டு சென்னைத் துரைத்தனத்தாராற் செய்யப்பட்ட நிலவரித் திட்டம்</tam>. 3. Death; <tam>மரணம். ஆள் பைசல்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/winslow_query.py?qs=பைசல்&searchhws=yes&matchtype=exact">பைசல்</a> paical
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பைசல்</tam></hw> , <i>s. (Hind.)</i> A judgment, decision, adjustment, <tam>தீர்ப்பு</tam>. <i>(Govt. usage.)</i> <p2><tam>பைசல்தீர்வை</tam>, <i>s.</i> The rates settled on each field at the time of the original assessment. <tam>இந்தக்காரியம்பைசலாயிற்று</tam>. This case has been decided.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசல்கம்மி&searchhws=yes&matchtype=exact">பைசல்கம்மி</a> paicalkammi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைசல்கம்மி</tam> <t>paical-kammi</t></hw> , <i>n</i>. < <tam>பைசல்²</tam> +. Partial remission of revenue on account of scanty crop, etc.; <tam>விளைவுக்குறைவால் ஏற்படும் வரிவஜா</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசல்ஜாஸ்தி&searchhws=yes&matchtype=exact">பைசல்ஜாஸ்தி</a> paicaljāsti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைசல்ஜாஸ்தி</tam> <t>paical-jāsti</t></hw> , <i>n</i>. < id. +. Any payment levied over and above the <i>paical-tīrvai</i> (<smallcap>R. F</smallcap>.); <tam>பைசல்தீர்வைக்கு அதிகமாக வசூலிக் கப்படும் வரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசல்தீர்வை&searchhws=yes&matchtype=exact">பைசல்தீர்வை</a> paicaltīrvai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைசல்தீர்வை</tam> <t>paical-tīrvai</t></hw> , <i>n</i>. < id. +. Rate of assessment fixed on each field at the time of the first settlement; <tam>தீர்வை திட்டப்படுத் திய காலத்தில் ஏற்பட்ட நிலவரி</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசல்நாமா&searchhws=yes&matchtype=exact">பைசல்நாமா</a> paicalnāmā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைசல்நாமா</tam> <t>paical-nāmā</t></hw> , <i>n</i>. < id. +. Written order or award (<smallcap>R. F</smallcap>.); <tam>எழுத்து மூலமான தீர்ப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசல்புல்வரி&searchhws=yes&matchtype=exact">பைசல்புல்வரி</a> paicalpulvari
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைசல்புல்வரி</tam> <t>paical-pul-vari</t></hw> , <i>n</i>. < id. +. Fixed grazing tax or cess; <tam>மேய்ச்சற் புல்லுக்கு இடும் தீர்வை</tam>. (<smallcap>M. M</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/crea_query.py?qs=பைசா&searchhws=yes&matchtype=exact">பைசா</a> paicā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=770">p. 770</a>)
+		<blockquote><p><hw>பைசா</hw> பெ. 1: ரூபாயில் நூறில் ஒரு பங்கு; காசு; one hundredth of a rupee. பத்து பைசா இருந்தால் கொடு!/ அவர் பைசா தரமாட்டார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/fabricius_query.py?qs=பைசா&searchhws=yes&matchtype=exact">பைசா</a> paicā
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைசா</tam></hw> , <tam>பைஸ்</tam>, <i>s.</i> a pie, one twelfth of an anna; 2. a pice, a quarter anna.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/mcalpin_query.py?qs=பைசா&searchhws=yes&matchtype=exact">பைசா</a> paicā
+		from <a href="/dictionaries/mcalpin/">McAlpin's <i>"A core vocabulary for Tamil"</i></a>
+		(<a href="/cgi-bin/app/mcalpin_query.py?page=53">p. 53</a>)
+		<blockquote><p><hw><tam>பைசா</tam></hw> paycaa, kaacu <tam>பய்சா</tam>, <tam>காசு</tam> paise, 1/100 rupee; money</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசா&searchhws=yes&matchtype=exact">பைசா</a> paicā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2905">p. 2905</a>)
+		<blockquote><p><hw><tam>பைசா¹</tam> <t>paicā</t></hw> , <i>n</i>. < U. <i>paisā</i>. 1. See <tam>பை⁶</tam>. 2. Quarter anna; <tam>காலணா</tam>. 3. Copper change; <tam>சில்லறை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசா&searchhws=yes&matchtype=exact">பைசா</a> paicā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைசா²</tam> <t>paicā</t></hw> , <i>n</i>. < U. <i>paiyā</i>. See <tam>பைதா</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/winslow_query.py?qs=பைசா&searchhws=yes&matchtype=exact">பைசா</a> paicā
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=976">p. 976</a>)
+		<blockquote><p><hw><tam>பைசா</tam></hw> .........A pie........<tam>?</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசாசசத்துவம்&searchhws=yes&matchtype=exact">பைசாசசத்துவம்</a> paicācacattuvam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைசாசசத்துவம்</tam> <t>paicāca-cattuvam</t></hw> , <i>n</i>. < <i>paišāca</i> +. A quality of woman, one of <i>pattu-cattuvam</i>, q.v.; <tam>பெண்டிரது பத்துசத்துவங் களுள் ஒன்று</tam>. (<tam>கொக்கோ</tam>. 4, 24.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசாசசுரம்&searchhws=yes&matchtype=exact">பைசாசசுரம்</a> paicācacuram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைசாசசுரம்</tam> <t>paicāca-curam</t></hw> , <i>n</i>. < id. +. A kind of fever; <tam>ஒருவகைச் சுரநோய்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைசாசநிலை&searchhws=yes&matchtype=exact">பைசாசநிலை</a> paicācanilai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைசாசநிலை</hw> - ஒருதாளினின்று மற் றைத்தாண் முட்கிநிற்றல், இது யுத்தநிலை நான்கினொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசாசநிலை&searchhws=yes&matchtype=exact">பைசாசநிலை</a> paicācanilai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைசாசநிலை</tam> <t>paicāca-nilai</t></hw> , <i>n</i>. < <tam>பைசாசம்</tam> +. See <tam>பைசாசம்¹</tam>, 2.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைசாசநிலைவகை&searchhws=yes&matchtype=exact">பைசாசநிலைவகை</a> paicācanilaivakai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1473">p. 1473</a>)
+		<blockquote><p><hw>பைசாசநிலைவகை</hw> - ஒருகால்நிலைநின்று ஒருகாலினை, முடக்கல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசாசபூமி&searchhws=yes&matchtype=exact">பைசாசபூமி</a> paicācapūmi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S374">p. S374</a>)
+		<blockquote><p><hw><tam>பைசாசபூமி</tam> <t>paicāca-pūmi</t></hw> , <i>n</i>. < <tam>பைசாசம்</tam> +. One of the mythological divisions of the world; <tam>புராணங்கள் கூறும் பூமிகளு ளொன்று. (அபி. சிந்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைசாசமணம்&searchhws=yes&matchtype=exact">பைசாசமணம்</a> paicācamaṇam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைசாசமணம்</hw> - துயின்றாளைச்சென்று கூடுங் கூட்டம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/crea_query.py?qs=பைசாசம்&searchhws=yes&matchtype=exact">பைசாசம்</a> paicācam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=770">p. 770</a>)
+		<blockquote><p><hw>பைசாசம்</hw> பெ. [அ.வ.] 1: பிசாசு; devil.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/fabricius_query.py?qs=பைசாசம்&searchhws=yes&matchtype=exact">பைசாசம்</a> paicācam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p>*<hw><tam>பைசாசம்</tam></hw> , <i>s.</i> a demon, a devil, <tam>பிசாசம்</tam>; 2. one of the eight modes of marriage, marriage in which a girl is forced when asleep or in a state of insensibility; 3. one of the four attitudes of an archer–standing with one leg straight and the other bent, as devils are said to stand.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைசாசம்&searchhws=yes&matchtype=exact">பைசாசம்</a> paicācam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1077">p. 1077</a>)
+		<blockquote><p><hw>பைசாசம்</hw> - இரும்பு, ஒருமணம், ஒரு யுத்தநிலை, பிசாசம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசாசம்&searchhws=yes&matchtype=exact">பைசாசம்</a> paicācam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைசாசம்¹</tam> <t>paicācam</t></hw> , <i>n</i>. < <i>paišāca</i>. 1. Devil, goblin; <tam>பேய்</tam>. 2. Position of an archer in which one leg is held straight and the other bent, one of four <i>villōr-nilai</i>, q.v.; <tam>வில்லோர்நிலை நால்வகையுள் ஒருகாலை நிலையாக ஊன்றி ஒருகாலை முடக்கி நிற்கும் நிலை. (பிங்.)</tam> 3. A form of marriage in which a man embraces a sleeping or intoxicated woman or a woman older than himself or of a lower caste, as prevailing among the <i>Pišācas</i>; <tam>எண்வகை மணங்களுள் துயின்றாள். களித் தாள், மூத்தாள், இழித்தவள் முதலிய மகளிரைச் சேரும் மணம்</tam>. (<tam>தொல். பொ</tam>. 92, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசாசம்&searchhws=yes&matchtype=exact">பைசாசம்</a> paicācam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைசாசம்²</tam> <t>paicācam</t></hw> , <i>n</i>. cf. <tam>பசாசம்²</tam>. Iron; <tam>இரும்பு. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/winslow_query.py?qs=பைசாசம்&searchhws=yes&matchtype=exact">பைசாசம்</a> paicācam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p>*<hw><tam>பைசாசம்</tam></hw> , <i>s.</i> That which appertains to devils, fiends or vampires; <i>(fig.)</i> the devil. See <tam>பிசாசம்</tam>. 2. One of the four attitudes of the archer. See <tam>நிலை</tam>. 3. One of the eight modes of marriage. See <tam>மணம்</tam>. W. p. 554. <smallcaps>PISACHA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைசாசி&searchhws=yes&matchtype=exact">பைசாசி</a> paicāci
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைசாசி</hw> - இராக்கத்தி, சடாமாஞ்சில், பிராகிருத பாஷைகளு ளொன்று, இது பைசாசி குளிகையென்றும் வழங்கும், இது பிசாச தேசங்களில் பேசப்படுவது கேகயம், நேபாளம் பாகிலீகம் முதலிய தேசங்கள் பிசா சதேசங்க ளெனப்படும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசாசி&searchhws=yes&matchtype=exact">பைசாசி</a> paicāci
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைசாசி</tam> <t>paicāci</t></hw> , <i>n</i>. < <i>paišācī</i>. 1. Paišācī, a Prakrit dialect; <tam>பிராகிருதபாஷையின்வகை</tam>. (<tam>சி. சி. பாயி</tam>. 2, <tam>மறைஞா</tam>.) 2. Spikenard. See <tam>சடாமாஞ்சி. (தைலவ. தைல.)</tam> 3. She-goblin; <tam>பெண் பிசாசு. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசாரம்&searchhws=yes&matchtype=exact">பைசாரம்</a> paicāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைசாரம்</tam> <t>paicāram</t></hw> , <i>n</i>. cf. <tam>பைதிரம்</tam>. Locality or neighbourhood; <tam>பிரதேசம். கச்சிப் பேட்டுக் கீழைப் பைசாரத்து</tam> (<smallcap>S. I. I</smallcap>. ii, 517).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/fabricius_query.py?qs=பைசார்&searchhws=yes&matchtype=exact">பைசார்</a> paicār
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைசார்</tam></hw> , <i>s. (Hind.)</i> slippers, <tam>பசார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைசார்&searchhws=yes&matchtype=exact">பைசார்</a> paicār
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைசார்</hw> - ஒருதொடுதோல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசார்&searchhws=yes&matchtype=exact">பைசார்</a> paicār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைசார்</tam> <t>paicār</t></hw> , <i>n</i>. < U. <i>paizār</i>. Slippers, Indian shoes; <tam>காலில் அணியும் சோடு</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/winslow_query.py?qs=பைசார்&searchhws=yes&matchtype=exact">பைசார்</a> paicār
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பைசார்</tam></hw> , <i>s. (Hind.)</i> Slippers, Indian shoes. See <tam>பசார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசாவரி&searchhws=yes&matchtype=exact">பைசாவரி</a> paicāvari
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைசாவரி</tam> <t>paicā-vari</t></hw> , <i>n</i>. < <tam>பைசா¹</tam> +. A kind of poll tax of quarter anna per head, once in vogue in Salem District; <tam>சேலம் ஜில்லாவில் காலணா அளவாக வசூலிக்கப்பட்டுவந்த ஆள்வரி</tam>. (<smallcap>R. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசு&searchhws=yes&matchtype=exact">பைசு</a> paicu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைசு</tam> <t>paicu</t></hw> , <i>n</i>. < <i>payas</i>. Milk; <tam>பால். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைசுனம்&searchhws=yes&matchtype=exact">பைசுனம்</a> paicuṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைசுனம்</hw> - உலோபத்தனம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசுனம்&searchhws=yes&matchtype=exact">பைசுனம்</a> paicuṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைசுனம்</tam> <t>paicuṉam</t></hw> , <i>n</i>. < <i>paišuna</i>. (<tam>சங். அக</tam>.) 1. Miserliness, niggardliness; <tam>உலோபத் தனம்</tam>. 2. Backbiting; <tam>புறங்கூறுகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைசுன்யம்&searchhws=yes&matchtype=exact">பைசுன்யம்</a> paicuṉyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S375">p. S375</a>)
+		<blockquote><p><hw><tam>பைசுன்யம்</tam> <t>paicuṉyam</t></hw> , <i>n</i>. < <i>paišuna</i>. Miserliness; <tam>உலோபம். பைசுன்ய பண்பினர்</tam> (<tam>பாடு</tam>. 28, <tam>அடியவர்</tam>.).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/crea_query.py?qs=பைஜாமா&searchhws=yes&matchtype=exact">பைஜாமா</a> paijāmā
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=770">p. 770</a>)
+		<blockquote><p><hw>பைஜாமா</hw> பெ. 1: (பெரும்பாலும் வீட்டில் அணிந்துகொள்வதற்குப் பயன்படும்) மெல்லிய துணியாலான இறுக்கம் இல்லாத (தொளதொளவென்ற) கால்சட்டை; pyjamas.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைஞ்சாய்&searchhws=yes&matchtype=exact">பைஞ்சாய்</a> paiñcāy
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைஞ்சாய்</tam> <t>pai-ñ-cāy</t></hw> , <i>n</i>. < <tam>பை²</tam> +. A kind of grass. See <tam>பஞ்சாய்¹</tam>. <tam>பைஞ்சாய்ப்பாவை யீன்றனென் யானே</tam> (<tam>ஐங்குறு</tam>. 155).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைஞ்சேறு&searchhws=yes&matchtype=exact">பைஞ்சேறு</a> paiñcēṟu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைஞ்சேறு</tam> <t>pai-ñ-cēṟu</t></hw> , <i>n</i>. < id. +. Cowdung, as greenish; <tam>சாணம். பைஞ்சேறு மெழுகிய படிவ நன்னகர்</tam> (<tam>பெரும்பாண்</tam>. 298).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைஞ்ஞிணம்&searchhws=yes&matchtype=exact">பைஞ்ஞிணம்</a> paiññiṇam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைஞ்ஞிணம்</tam> <t>pai-ñ-ñiṇam</t></hw> , <i>n</i>. < id. + <tam>நிணம்</tam>. Fresh meat; <tam>புதிய இறைச்சி. பைஞ்ஞிணம் பெருத்த பசுவெள் ளமலை</tam> (<tam>புறநா</tam>. 177).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைஞ்ஞிலம்&searchhws=yes&matchtype=exact">பைஞ்ஞிலம்</a> paiññilam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைஞ்ஞிலம்</tam> <t>pai-ñ-ñilam</t></hw> , <i>n</i>. < id. + <tam>நிலம்</tam>. Mankind, human race; <tam>மக்கட் டொகுதி. உண்ணாப் பைஞ்ஞிலம் பனித்துறை மண்ணி</tam> (<tam>பதிற்றுப்</tam>. 31, 6).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/fabricius_query.py?qs=பைஞ்ஞீலம்&searchhws=yes&matchtype=exact">பைஞ்ஞீலம்</a> paiññīlam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைஞ்ஞீலம்</tam></hw> , <tam>பைஞ்ஞீல்</tam>, <i>s.</i> mankind, the human race.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைஞ்ஞீலம்&searchhws=yes&matchtype=exact">பைஞ்ஞீலம்</a> paiññīlam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைஞ்ஞீலம்</hw> - பசியநீலம், மக்கட்பரப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைஞ்ஞீலம்&searchhws=yes&matchtype=exact">பைஞ்ஞீலம்</a> paiññīlam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைஞ்ஞீலம்¹</tam> <t>pai-ñ-ñīlam</t></hw> , <i>n</i>. See <tam>பைஞ்ஞிலம். (சூடா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைஞ்ஞீலம்&searchhws=yes&matchtype=exact">பைஞ்ஞீலம்</a> paiññīlam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைஞ்ஞீலம்²</tam> <t>pai-ñ-ñīlam</t></hw> , <i>n</i>. < <tam>பை²</tam> + <tam>நீலம்</tam>. 1. Greenish sapphire; <tam>பசிய நீலம். (யாழ். அக.)</tam> 2. A species of plantain; <tam>வாழைவகை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/winslow_query.py?qs=பைஞ்ஞீலம்&searchhws=yes&matchtype=exact">பைஞ்ஞீலம்</a> paiññīlam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பைஞ்ஞீலம்</tam></hw> –<tam>பைஞ்ஞீல்</tam>, <i>s.</i> Mankind, the race of man, <tam>மக்கட்பரப்பு</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/fabricius_query.py?qs=பைஞ்ஞீலி&searchhws=yes&matchtype=exact">பைஞ்ஞீலி</a> paiññīli
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைஞ்ஞீலி</tam></hw> , <i>s.</i> the name of a town, <tam>ஓரூர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைஞ்ஞீலி&searchhws=yes&matchtype=exact">பைஞ்ஞீலி</a> paiññīli
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைஞ்ஞீலி</hw> - ஒரு சிவக்ஷேத்திரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைஞ்ஞீலி&searchhws=yes&matchtype=exact">பைஞ்ஞீலி</a> paiññīli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைஞ்ஞீலி</tam> <t>pai-ñ-ñīli</t></hw> , <i>n</i>. See <tam>பைஞ்ஞிலம். (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/winslow_query.py?qs=பைஞ்ஞீலி&searchhws=yes&matchtype=exact">பைஞ்ஞீலி</a> paiññīli
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பைஞ்ஞீலி</tam></hw> , <i>s.</i> The name of a town, <tam>ஓரூர்</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		114) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைஞ்ஞீல்&searchhws=yes&matchtype=exact">பைஞ்ஞீல்</a> paiññīl
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைஞ்ஞீல்</hw> - பைஞ்ஞீலம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		115) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைஞ்ஞீல்&searchhws=yes&matchtype=exact">பைஞ்ஞீல்</a> paiññīl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைஞ்ஞீல்</tam> <t>pai-ñ-ñīl</t></hw> , <i>n</i>. < <tam>பைஞ்ஞிலம்</tam>. See <tam>பைஞ்ஞிலம். (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		116) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைண்டின்னியம்&searchhws=yes&matchtype=exact">பைண்டின்னியம்</a> paiṇṭiṉṉiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைண்டின்னியம்</hw> - யாசகம்பண்ணி வயிறு வளர்த்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		117) <a href="/cgi-bin/app/fabricius_query.py?qs=பைதல்&searchhws=yes&matchtype=exact">பைதல்</a> paital
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைதல்</tam></hw> , <i>v. n.</i> of <tam>பை</tam>, sorrow, affliction, <tam>துன்பம்</tam>; 2. change of colour from love-sickness; 3. (<tam>பையல்</tam>) a boy.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		118) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைதல்&searchhws=yes&matchtype=exact">பைதல்</a> paital
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைதல்</hw> - துன்பம், பையல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		119) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைதல்&searchhws=yes&matchtype=exact">பைதல்</a> paital
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1628">p. 1628</a>)
+		<blockquote><p><hw>பைதல்</hw> - துன்பம், பையல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		120) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைதல்&searchhws=yes&matchtype=exact">பைதல்</a> paital
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைதல்</tam> <t>paital</t></hw> , <i>n</i>. < id. 1. That which is young or small; <tam>இளையது. பைதல் வெண்பிறை</tam> (<tam>தேவா</tam>. 628, 5). <tam>சிறுகிளிப் பைதலே</tam> (<tam>திவ். திருவாய்</tam>. 9, 5, 6). 2. Boy; <tam>சிறுவன். பைதலை யித்தனை பொழுதுகொண் டிருப்பதோ</tam> (<tam>கம்பரா. பிணிவீட்</tam>. 2). 3. Sorrow, affliction; <tam>துன்பம். பைத லுழப்ப தெவன்</tam> (<tam>குறள்</tam>, 1172). 4. Cold, chilliness; <tam>குளிர். பனிப்படு பைதல்</tam> (<tam>பரிபா</tam>. 11, 75).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		121) <a href="/cgi-bin/app/winslow_query.py?qs=பைதல்&searchhws=yes&matchtype=exact">பைதல்</a> paital
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பைதல்</tam></hw> , <i>s.</i> [<i>for</i> <tam>பையல்</tam>.] A boy. 2. As <tam>பைத்தல்</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		122) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைதா&searchhws=yes&matchtype=exact">பைதா</a> paitā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைதா</tam> <t>paitā</t></hw> , <i>n</i>. < U. <i>paiyā</i>. Wheel of a cart; <tam>வண்டிச்சக்கரம்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		123) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைதாவடை-த்தல்&searchhws=yes&matchtype=exact">பைதாவடை-த்தல்</a> paitāvaṭai-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைதாவடை-த்தல்</tam> <t>paitā-v-aṭai-</t></hw> , <i>v. intr</i>. < <tam>பைதா</tam> +. To fit the wheel in the axle of a cart; <tam>வண்டிச்சக்கரத்தை அச்சிற் கோத்தல்</tam>. <i>Nāñ</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		124) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைதாவரைத்தல்&searchhws=yes&matchtype=exact">பைதாவரைத்தல்</a> paitāvaraittal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைதாவரைத்தல்</tam> <t>paitā-v-araittal</t></hw> , <i>n</i>. < id. +. Rubbing of the wheel against the body of the cart; <tam>வண்டிக்கூட்டிற் சக்கரம் உரசு கை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		125) <a href="/cgi-bin/app/fabricius_query.py?qs=பைதிரம்&searchhws=yes&matchtype=exact">பைதிரம்</a> paitiram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p>*<hw><tam>பைதிரம்</tam></hw> , <i>s.</i> a country, a district, <tam>நாடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		126) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைதிரம்&searchhws=yes&matchtype=exact">பைதிரம்</a> paitiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைதிரம்</hw> - நாடு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		127) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைதிரம்&searchhws=yes&matchtype=exact">பைதிரம்</a> paitiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைதிரம்</tam> <t>paitiram</t></hw> , <i>n</i>. perh. <tam>பைது</tam> + <tam>இரு-</tam>. Country, district; <tam>நாடு. வளனறு பைதிரம்</tam> (<tam>பதிற்றுப்</tam>. 19, 18).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		128) <a href="/cgi-bin/app/winslow_query.py?qs=பைதிரம்&searchhws=yes&matchtype=exact">பைதிரம்</a> paitiram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p>*<hw><tam>பைதிரம்</tam></hw> , <i>s.</i> A country, district, <tam>நாடு</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		129) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைதிருகம்&searchhws=yes&matchtype=exact">பைதிருகம்</a> paitirukam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைதிருகம்</tam> <t>paitirukam</t></hw> , <i>n</i>. < <i>paitṛka</i>. 1. That which pertains to father; <tam>தந்தைக்குரியது</tam>. 2. That which is inherited from one's father; <tam>தந்தைவழியாக வந்த பொருள். இந்தச் சொத்து பைதிருகமானது</tam>. <i>Brāh</i>. 3. The fourth of 15 divisions of day; <tam>பகல்</tam> 15 <tam>முகூர்த்தத்துள் நான்கா வது</tam>. (<tam>விதான. குணாகுண</tam>. 73, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		130) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைது&searchhws=yes&matchtype=exact">பைது</a> paitu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைது</tam> <t>paitu</t></hw> , <i>n</i>. < <tam>பை²</tam>. 1. Greenness, freshness; <tam>பசுமை. நிலம் பைதற்ற புலங்கெடு காலை யும்</tam> (<tam>பதிற்றுப்</tam>. 23). 2. Moisture, dampness; <tam>ஈரம். நிலம் பைதறச் செல்கதிர் ஞாயிறு செயிர் சினஞ் சொரிதலின்</tam> (<tam>கலித்</tam>. 20).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		131) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைத்தம்&searchhws=yes&matchtype=exact">பைத்தம்</a> paittam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைத்தம்</hw> - பித்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		132) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைத்தம்&searchhws=yes&matchtype=exact">பைத்தம்</a> paittam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைத்தம்</tam> <t>paittam</t></hw> , <i>n</i>. < <i>paitta</i>. See <tam>பைத்தியம். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		133) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைத்தல்&searchhws=yes&matchtype=exact">பைத்தல்</a> paittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைத்தல்</hw> - கோபம்,சினக்குறிப்பு, துன் பம், பசுமையாதல், பாம்பு, படம் விரித்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		134) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைத்தல்&searchhws=yes&matchtype=exact">பைத்தல்</a> paittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1628">p. 1628</a>)
+		<blockquote><p><hw>பைத்தல்</hw> - கோபம், சினக்குறிப்பு, பசுத் தல், பாம்புபடம்விரித்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		135) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைத்திகம்&searchhws=yes&matchtype=exact">பைத்திகம்</a> paittikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைத்திகம்</hw> - பைத்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		136) <a href="/cgi-bin/app/crea_query.py?qs=பைத்தியக்கார ஆஸ்பத்திரி&searchhws=yes&matchtype=exact">பைத்தியக்கார ஆஸ்பத்திரி</a> paittiyakkāra āspattiri
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=770">p. 770</a>)
+		<blockquote><p><hw>பைத்தியக்கார ஆஸ்பத்திரி</hw> பெ. [அ.வ.] 1: உளநிலை பாதிக்கப்பட்டவருக்கான மருத்துவமனை; மனநல மருத்துவமனை; hospital for the mentally ill.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		137) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைத்தியக்காரன்&searchhws=yes&matchtype=exact">பைத்தியக்காரன்</a> paittiyakkāraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைத்தியக்காரன்</hw> - பித்தன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		138) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைத்தியக்காரன்&searchhws=yes&matchtype=exact">பைத்தியக்காரன்</a> paittiyakkāraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைத்தியக்காரன்</tam> <t>paittiya-k-kāraṉ</t></hw> , <i>n</i>. < <tam>பைத்தியம்</tam> +. Crazy person, madman; <tam>பித்துப் பிடித்தவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		139) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைத்தியன்&searchhws=yes&matchtype=exact">பைத்தியன்</a> paittiyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S375">p. S375</a>)
+		<blockquote><p><hw><tam>பைத்தியன்</tam> <t>paittiyaṉ</t></hw> , <i>n</i>. < <tam>பைத்தியம்</tam>. Madman; <tam>பைத்தியக்காரன்</tam>. <i>Pond</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		140) <a href="/cgi-bin/app/tamil-idioms_query.py?qs=பைத்தியமாக அடி&searchhws=yes&matchtype=exact">பைத்தியமாக அடி</a> paittiyamāka aṭi
+		from <a href="/dictionaries/tamil-idioms/"><i>"Taṟkālat Tamiḻ maraputtoṭar akarāti"</i></a>
+		(<a href="/cgi-bin/app/tamil-idioms_query.py?page=267">p. 267</a>)
+		<blockquote><p><hw>பைத்தியமாக அடி</hw> <nmbr>1464</nmbr> <b>1:</b> (ஒருவரை) தன்வசப்படுத்தி மதி மயங்கவைத்தல்; கிறங்கவைத்தல்; send s.o. crazy. இந்த இளம் இசையமைப்பாளரின் இனிய மெட்டுகள் இளைஞர்களைப் பைத்தியமாக அடித்துவருகின்றன. / அவர் எடுத்த திரைப்படங்கள் அந்தக் காலத்து இளைஞர்களைப் பைத்தியமாக அடித்திருக்கின்றன.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		141) <a href="/cgi-bin/app/crea_query.py?qs=பைத்தியம்&searchhws=yes&matchtype=exact">பைத்தியம்</a> paittiyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=770">p. 770</a>)
+		<blockquote><p><hw>பைத்தியம்</hw> பெ. 1: சிந்தனை ஒழுங்கிலிருந்து பிறழ்ந்த நிலை; மன நலம் குன்றிய நிலை; insanity. திடீரென்று மனைவி இறந்துபோனதில் அவருக்குப் பைத்தியம் பிடித்துவிட்டது./ உனக்கென்ன பைத்தியமா, ஏன் இப்படி உளறுகிறாய்? 2: மேற்குறிப்பிட்ட நிலையில் உள்ளவர்; insane person. அவரைப் பைத்தியம் என்று சொல்கிறவர்கள்தான் பைத்தியங்கள். 3: ஒன்றின் மீது காட்டும் தீவிரமான விருப்பம் அல்லது தீவிர விருப்பம் கொண்டவர்; one who is crazy or mad about sth. அவன் சரியான புத்தகப் பைத்தியம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		142) <a href="/cgi-bin/app/fabricius_query.py?qs=பைத்தியம்&searchhws=yes&matchtype=exact">பைத்தியம்</a> paittiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p>*<hw><tam>பைத்தியம்</tam></hw> , <i>s.</i> see <tam>பயித்தியம்</tam>, madness.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		143) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைத்தியம்&searchhws=yes&matchtype=exact">பைத்தியம்</a> paittiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைத்தியம்</hw> - பயித்தியம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		144) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைத்தியம்&searchhws=yes&matchtype=exact">பைத்தியம்</a> paittiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>பைத்தியம்</hw> - பித்தநோய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		145) <a href="/cgi-bin/app/mcalpin_query.py?qs=பைத்தியம்&searchhws=yes&matchtype=exact">பைத்தியம்</a> paittiyam
+		from <a href="/dictionaries/mcalpin/">McAlpin's <i>"A core vocabulary for Tamil"</i></a>
+		(<a href="/cgi-bin/app/mcalpin_query.py?page=53">p. 53</a>)
+		<blockquote><p><hw><tam>பைத்தியம்</tam></hw> payttyam, payittiyam <tam>பய்த்தயம்</tam>, <tam>பயித்தியம்</tam> madness, insanity, folly; mania; mad person</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		146) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைத்தியம்&searchhws=yes&matchtype=exact">பைத்தியம்</a> paittiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைத்தியம்</tam> <t>paittiyam</t></hw> , <i>n</i>. < <i>paittika</i>. 1. Insanity, mania, craziness; <tam>கிறுக்கு</tam>. 2. Folly; <tam>மூடத்தனம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		147) <a href="/cgi-bin/app/winslow_query.py?qs=பைத்தியம்&searchhws=yes&matchtype=exact">பைத்தியம்</a> paittiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p>*<hw><tam>பைத்தியம்</tam></hw> , <i>s.</i> Derangement, delirium, &c. See <tam>பயித்தியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		148) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைத்தியரோகம்&searchhws=yes&matchtype=exact">பைத்தியரோகம்</a> paittiyarōkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைத்தியரோகம்</tam> <t>paittiya-rōkam</t></hw> , <i>n</i>. < id. +. Giddiness, vertigo; <tam>பித்தக்கிருகிருப்பு</tam>. (<tam>பைஷஜ</tam>. 280.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		149) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைத்திராகோரத்திரம்&searchhws=yes&matchtype=exact">பைத்திராகோரத்திரம்</a> paittirākōrattiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைத்திராகோரத்திரம்</hw> - பிதிர்களின் ஓர்நாள் அது மனிதருக்கோர் மாதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		150) <a href="/cgi-bin/app/fabricius_query.py?qs=பைத்து&searchhws=yes&matchtype=exact">பைத்து</a> paittu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைத்து</tam></hw> , <tam>பைமை</tam>, <i>s.</i> greenness. <tam>பசுமை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		151) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைத்து&searchhws=yes&matchtype=exact">பைத்து</a> paittu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைத்து</hw> - பசுமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		152) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைத்து&searchhws=yes&matchtype=exact">பைத்து</a> paittu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>பைத்து</hw> - பச்சை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		153) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைத்து&searchhws=yes&matchtype=exact">பைத்து</a> paittu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2906">p. 2906</a>)
+		<blockquote><p><hw><tam>பைத்து</tam> <t>paittu</t></hw> , <i>n</i>. < <tam>பசு-மை</tam>. See <tam>பைது</tam>, 1. (<tam>திவா</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		154) <a href="/cgi-bin/app/winslow_query.py?qs=பைத்து&searchhws=yes&matchtype=exact">பைத்து</a> paittu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பைத்து</tam></hw> , <i>s.</i> Green–the color; [<i>ex</i> <tam>பசுமை</tam>.] (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		155) <a href="/cgi-bin/app/fabricius_query.py?qs=பைத்துப்பத்து&searchhws=yes&matchtype=exact">பைத்துப்பத்து</a> paittuppattu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைத்துப்பத்து</tam></hw> , <i>s.</i> (<i>vulg. for</i> <tam>பதிற்றுப் பத்து</tam>) ten times ten.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		156) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைத்ருகதநம்&searchhws=yes&matchtype=exact">பைத்ருகதநம்</a> paitrukatanam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைத்ருகதநம்</hw> - பிதுரார்ஜிததநம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		157) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைத்ருகபூமி&searchhws=yes&matchtype=exact">பைத்ருகபூமி</a> paitrukapūmi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைத்ருகபூமி</hw> - பிதுரார்ஜிதபூமி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		158) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைத்ருகம்&searchhws=yes&matchtype=exact">பைத்ருகம்</a> paitrukam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைத்ருகம்</hw> - பித்ருசம்பந்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		159) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைந்தார்&searchhws=yes&matchtype=exact">பைந்தார்</a> paintār
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைந்தார்</hw> - பசியபூமாலை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		160) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைந்தார்&searchhws=yes&matchtype=exact">பைந்தார்</a> paintār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைந்தார்</tam> <t>pai-n-tār</t></hw> , <i>n</i>. < id. +. Garland of fresh flowers; <tam>செவ்வி மாலை. பனிமலர்ப் பைந் தார்</tam> (<tam>பு. வெ</tam>. 9, 1).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		161) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைந்தினை&searchhws=yes&matchtype=exact">பைந்தினை</a> paintiṉai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைந்தினை</hw> - ஒருதினை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		162) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைந்தினை&searchhws=yes&matchtype=exact">பைந்தினை</a> paintiṉai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1473">p. 1473</a>)
+		<blockquote><p><hw>பைந்தினை</hw> - ஏனல், குரவல், நுவணை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		163) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைந்தினை&searchhws=yes&matchtype=exact">பைந்தினை</a> paintiṉai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைந்தினை</tam> <t>pai-n-tiṉai</t></hw> , <i>n</i>. < <tam>பை²</tam> +. 1. Italian millet. See <tam>தினை. (பிங்.)</tam> 2. Black Italian millet. See <tam>கருந்தினை. (மலை.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		164) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைந்திரம்&searchhws=yes&matchtype=exact">பைந்திரம்</a> paintiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைந்திரம்</tam> <t>paintiram</t></hw> , <i>n</i>. < <i>bhagan-dara</i>. Fistula in ano. See <tam>பவுந்திரம்</tam>. (<smallcap>M. L</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		165) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைந்து&searchhws=yes&matchtype=exact">பைந்து</a> paintu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைந்து</tam> <t>paintu</t></hw> , <i>n</i>. < <i>bandh</i>. Ball; <tam>பந்து. தண்மலர் நறும்பைந் தூழறிந் துருட்டா</tam> (<tam>பெருங். மகத</tam>. 8, 64).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		166) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைந்தொடி&searchhws=yes&matchtype=exact">பைந்தொடி</a> paintoṭi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைந்தொடி</hw> - பச்சைவளையல், பெண்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		167) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைந்தொடி&searchhws=yes&matchtype=exact">பைந்தொடி</a> paintoṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைந்தொடி</tam> <t>pai-n-toṭi</t></hw> , <i>n</i>. < <tam>பை²</tam> +. 1. Golden bracelet; <tam>பொன் வளையல். பைந்தொடி சோரும்</tam> (<tam>குறள்</tam>, 1234). 2. Woman with golden bracelet; <tam>பெண். உடம்பா டெனவறி பைந்தொடியே</tam> (<tam>வீரசோ. யாப்</tam>. 18).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		168) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைந்நாகம்&searchhws=yes&matchtype=exact">பைந்நாகம்</a> painnākam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைந்நாகம்</hw> - சர்ப்பம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		169) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைந்நாகம்&searchhws=yes&matchtype=exact">பைந்நாகம்</a> painnākam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைந்நாகம்</tam> <t>pai-n-nākam</t></hw> , <i>n</i>. < <tam>பை⁴</tam> + <tam>நாகம்</tam>. cf. <i>pannaga</i>. 1. Cobra, as hooded; <tam>நாகப்பாம்பு. பைந்நாகப் பாய்சுருட்டிக் கொள்</tam> (<tam>பெருந் தொ</tam>. 1875). 2. Top-cover, as of a palanquin. See <tam>பன்னாங்கு</tam>, 2. <tam>திருப்பல்லக்குப் பைந்நாக முதலா னவை</tam> (<tam>கோயிலொ</tam>. 94).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		170) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைபய&searchhws=yes&matchtype=exact">பைபய</a> paipaya
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைபய</tam> <t>pai-paya</t></hw> , <i>adv</i>. See <tam>பைப்பய. பைபயத் தணந்தனையாகி</tam> (<tam>ஐங்குறு</tam>. 83).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		171) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைபலவான், பைலன்&searchhws=yes&matchtype=exact">பைபலவான், பைலன்</a> paipalavāṉ, pailaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைபலவான், பைலன்</hw> ஓரிருடி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		172) <a href="/cgi-bin/app/crea_query.py?qs=பைபிள்&searchhws=yes&matchtype=exact">பைபிள்</a> paipiḷ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=770">p. 770</a>)
+		<blockquote><p><hw>பைபிள்</hw> பெ. 1: கிறித்தவர்களின் புனித நூல்; விவிலியம்; the Bible.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		173) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைபிள்&searchhws=yes&matchtype=exact">பைபிள்</a> paipiḷ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைபிள்</tam> <t>paipiḷ</t></hw> , <i>n</i>. < E. Bible; <tam>கிறிஸ்தவர் வேதநூல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		174) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைபீலம்&searchhws=yes&matchtype=exact">பைபீலம்</a> paipīlam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைபீலம்</hw> - ஏறும்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		175) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைபீலம்&searchhws=yes&matchtype=exact">பைபீலம்</a> paipīlam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைபீலம்</tam> <t>paipīlam</t></hw> , <i>n</i>. < <i>pipīla</i>. Ant; <tam>எறும்பு. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		176) <a href="/cgi-bin/app/fabricius_query.py?qs=பைபீலவாதம்&searchhws=yes&matchtype=exact">பைபீலவாதம்</a> paipīlavātam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p>*<hw><tam>பைபீலவாதம்</tam></hw> , <tam>பைபீலிகாவாதம்</tam>, <i>s.</i> see <tam>பிபீலவாதம்</tam> the fancied language of brutes etc; 2. the Epicurean philosophy.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		177) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைபீலவாதம்&searchhws=yes&matchtype=exact">பைபீலவாதம்</a> paipīlavātam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைபீலவாதம்¹</tam> <t>paipīla-vātam</t></hw> , <i>n</i>. < <i>paipīla-vāda</i>. The art of knowing the language of creatures from ant upwards, one of <i>aṟupattu-<?> nālu-kalai</i>, q.v.; <tam>அறுபத்துநாலுகலையுள் எறும்பு முதலிய பிராணிகளின் பாஷைகளை அறியும் வித்தை. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		178) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைபீலவாதம்&searchhws=yes&matchtype=exact">பைபீலவாதம்</a> paipīlavātam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைபீலவாதம்²</tam> <t>paipīlavātam</t></hw> , <i>n</i>. < <i>pīlu</i> + <i>vāda</i>. A system of metaphysics. See <tam>பீலுவாதம்¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		179) <a href="/cgi-bin/app/winslow_query.py?qs=பைபீலவாதம்&searchhws=yes&matchtype=exact">பைபீலவாதம்</a> paipīlavātam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p>*<hw><tam>பைபீலவாதம்</tam></hw> –<tam>பைபீலிகாவாதம்</tam>, <i>s.</i> The fancied language of brutes, &c. 2. The Epicurean philosophy. See <tam>பிபீலவாதம்</tam>, <tam>பிபீலிகாவாதம்</tam>, <tam>பீலுவாதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		180) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைபீலவாதம், பைபீலிகாவாதம்&searchhws=yes&matchtype=exact">பைபீலவாதம், பைபீலிகாவாதம்</a> paipīlavātam, paipīlikāvātam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைபீலவாதம், பைபீலிகாவாதம்</hw> ஏறும்புகளின் பே ச்சறிதல், அது கலைஞான மறுபத்து நான்கின் ஒன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		181) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைபீலிகாவாதம்&searchhws=yes&matchtype=exact">பைபீலிகாவாதம்</a> paipīlikāvātam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைபீலிகாவாதம்¹</tam> <t>paipīlikā-vātam</t></hw> , <i>n</i>. < <i>paipīlikā-vāda</i>. See <tam>பைபீலவாதம்¹. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		182) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைபீலிகாவாதம்&searchhws=yes&matchtype=exact">பைபீலிகாவாதம்</a> paipīlikāvātam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைபீலிகாவாதம்²</tam> <t>paipīlikā-vātam</t></hw> , <i>n</i>. See <tam>பைபீலவாதம்²</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		183) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைபீலிகை&searchhws=yes&matchtype=exact">பைபீலிகை</a> paipīlikai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைபீலிகை</hw> - ஏறும்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		184) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைபீலிகை&searchhws=yes&matchtype=exact">பைபீலிகை</a> paipīlikai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைபீலிகை</tam> <t>paipīlikai</t></hw> , <i>n</i>. < <i>pipīlikā</i>. Ant; <tam>எறும்பு. (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		185) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைபைய&searchhws=yes&matchtype=exact">பைபைய</a> paipaiya
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைபைய</hw> - மெல்லமெல்ல.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		186) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைப்பய&searchhws=yes&matchtype=exact">பைப்பய</a> paippaya
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைப்பய</tam> <t>pai-p-paya</t></hw> , <i>adv</i>. Redupl. of <tam>பைய</tam>. Slowly, softly, gently; <tam>மெல்லமெல்ல. காமம் பைப்பயக் கழிய</tam> (<tam>சீவக</tam>. 2760).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		187) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைமறி&searchhws=yes&matchtype=exact">பைமறி</a> paimaṟi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைமறி</tam> <t>pai-maṟi</t></hw> , <i>n</i>. < <tam>பை⁴</tam> + <tam>மறி-</tam>. Turning a bag inside out; <tam>பையின் உட்புறத்தை வெளிப்புறமாகத் திருப்புகை</tam>. (<tam>மணி. அரும். பக்</tam>. 504.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		188) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைமாலி&searchhws=yes&matchtype=exact">பைமாலி</a> paimāli
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைமாலி</tam> <t>paimāli</t></hw> , <i>n</i>. (<smallcap>R. T</smallcap>.) 1. Land or crops damaged by the marching of troops; <tam>பட்டாளத்தால் அழிக்கப்பட்ட நிலம்</tam>. 2. Compensation for damage done to standing crops by march of troops; <tam>படைகளால் அழிபட்ட விளைவுச் சேதத்திற்கு ஈடாகக் கொடுக்கப்படும் பொருள்</tam>. 3. Remission of revenue for crops destroyed by floods; <tam>வெள்ளச்சேதத்தின் பொருட்டுச் செய்யப் படும் வரிவஜா</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		189) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைமாஷ்&searchhws=yes&matchtype=exact">பைமாஷ்</a> paimāṣ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைமாஷ்</tam> <t>paimāṣ</t></hw> , <i>n</i>. < U. <i>paimāyaṣ</i>. Land measurement made early in the nineteenth century by the British in India; 19-<tam>ஆம் நூற்றாண்டில் ஆங்கிலத் துரைத்தனத்தாரால் இந்தி யாவிற் செய்யப்பட்ட நிலவளவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		190) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைமாஷ்தார்&searchhws=yes&matchtype=exact">பைமாஷ்தார்</a> paimāṣtār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைமாஷ்தார்</tam> <t>paimāṣ-tār</t></hw> , <i>n</i>. < id. +. Surveyor; <tam>நிலவளவு செய்யும் உத்தியோகஸ்தன்</tam>. (<smallcap>R. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		191) <a href="/cgi-bin/app/fabricius_query.py?qs=பைமை&searchhws=yes&matchtype=exact">பைமை</a> paimai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைமை</tam></hw> , <i>s.</i> greenness, <tam>பச்சை நிறம்</tam>; 2. a female ascetic, a nun, <tam>தவப்பெண்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		192) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைமை&searchhws=yes&matchtype=exact">பைமை</a> paimai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைமை</hw> - தவப்பெண், பசுமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		193) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைமை&searchhws=yes&matchtype=exact">பைமை</a> paimai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>பைமை</hw> - தவப்பெண், பச்சை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		194) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைமை&searchhws=yes&matchtype=exact">பைமை</a> paimai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைமை¹</tam> <t>paimai</t></hw> , <i>n</i>. See <tam>பைம்மை¹</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		195) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைமை&searchhws=yes&matchtype=exact">பைமை</a> paimai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைமை²</tam> <t>paimai</t></hw> , <i>n</i>. See <tam>பைம்மை²</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		196) <a href="/cgi-bin/app/winslow_query.py?qs=பைமை&searchhws=yes&matchtype=exact">பைமை</a> paimai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பைமை</tam></hw> , <i>s.</i> Greenness–the color, <tam>பச்சைநிறம்</tam>; [<i>ex</i> <tam>பை</tam>, <i>v.</i>] 2. A female ascetic, a nun, <tam>தவப்பெண்</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		197) <a href="/cgi-bin/app/fabricius_query.py?qs=பைம்பல்&searchhws=yes&matchtype=exact">பைம்பல்</a> paimpal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைம்பல்</tam></hw> , <i>s. (vulg.)</i> joviality, festivity.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		198) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைம்பல்&searchhws=yes&matchtype=exact">பைம்பல்</a> paimpal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைம்பல்</tam> <t>paimpal</t></hw> , <i>n</i>. (<smallcap>W</smallcap>.) 1. Joviality. See <tam>பம்பல்</tam>, 3. 2. Luxuriance. See <tam>பம்பல்</tam>, 4.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		199) <a href="/cgi-bin/app/winslow_query.py?qs=பைம்பல்&searchhws=yes&matchtype=exact">பைம்பல்</a> paimpal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பைம்பல்</tam></hw> , <i>s. [vul.]</i> Joviality, festivity, &c. See <tam>பம்பு</tam>, <i>(v.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		200) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைம்பூண்&searchhws=yes&matchtype=exact">பைம்பூண்</a> paimpūṇ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைம்பூண்</hw> - பொன்னாபரணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		201) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைம்பூண்&searchhws=yes&matchtype=exact">பைம்பூண்</a> paimpūṇ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைம்பூண்</tam> <t>pai-m-pūṇ</t></hw> , <i>n</i>. < <tam>பை²</tam> +. Ornament made of fine gold; <tam>பசும்பொன்னாற் செய்யப்பட்ட அணி. பைம்பூ ணடல் வேந்தன்</tam> (<tam>பு. வெ</tam>. 8, 1).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		202) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைம்பொன்&searchhws=yes&matchtype=exact">பைம்பொன்</a> paimpoṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைம்பொன்</hw> - பசும்பொன், மேருகிரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		203) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைம்பொன்&searchhws=yes&matchtype=exact">பைம்பொன்</a> paimpoṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைம்பொன்</tam> <t>pai-m-poṉ</t></hw> , <i>n</i>. < id. +. 1. Fine gold; <tam>பசும்பொன். பைம்பொன் செய்ஞ்ஞரும்</tam> (<tam>மணி</tam>. 28, 36). 2. Mt. Mēru; <tam>மேருகிரி. (அக. நி.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		204) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைம்மறி-த்தல்&searchhws=yes&matchtype=exact">பைம்மறி-த்தல்</a> paimmaṟi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைம்மறி-த்தல்</tam> <t>pai-m-maṟi-</t></hw> , <i>v. tr</i>. < <tam>பை⁴</tam> +. 1. To turn a thing inside out, as a bag; <tam>உட்புறத்தை வெளிப்புறமாகத் திருப்புதல். பைம்மறியாப் பார்க்கப் படும்</tam> (<tam>நாலடி</tam>, 42). 2. To close the mouth of a bag; <tam>பையின் வாயை மூடுதல். பைம்மறித் தியற்றியன்ன . . . குரம்பை</tam> (<tam>தேவா</tam>. 632, 8).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		205) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைம்மை&searchhws=yes&matchtype=exact">பைம்மை</a> paimmai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைம்மை¹</tam> <t>paimmai</t></hw> , <i>n</i>. < <tam>பை²</tam>. Greenness; green colour; <tam>பசுமை. (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		206) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைம்மை&searchhws=yes&matchtype=exact">பைம்மை</a> paimmai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2907">p. 2907</a>)
+		<blockquote><p><hw><tam>பைம்மை²</tam> <t>paimmai</t></hw> , <i>n</i>. prob. fem. of <tam>பம் மன்</tam>. Nun or female ascetic among Jains; <tam>அருக தவப்பெண். (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		207) <a href="/cgi-bin/app/crea_query.py?qs=பைய&searchhws=yes&matchtype=exact">பைய</a> paiya
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=770">p. 770</a>)
+		<blockquote><p><hw>பைய</hw> வி.அ. [வ.வ.] 1: மெதுவாக; மெல்ல; slowly; gently. அவள் பைய நடந்து வந்தாள்./ மண்பானையைத் தரையில் பைய வைக்க வேண்டும்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		208) <a href="/cgi-bin/app/fabricius_query.py?qs=பைய&searchhws=yes&matchtype=exact">பைய</a> paiya
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பைய</tam></hw> , <i>adv.</i> see <tam>பை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		209) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைய&searchhws=yes&matchtype=exact">பைய</a> paiya
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைய</hw> - மெல்ல.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		210) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைய&searchhws=yes&matchtype=exact">பைய</a> paiya
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைய</tam> <t>paiya</t></hw> , <i>adv</i>. By degrees, slowly; softly, gently; <tam>மெல்ல. பைய நகும்</tam> (<tam>குறள்</tam>, 1098).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		211) <a href="/cgi-bin/app/fabricius_query.py?qs=பையட்டை&searchhws=yes&matchtype=exact">பையட்டை</a> paiyaṭṭai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பையட்டை</tam></hw> , <i>s.</i> that part of a woman's cloth that covers the breast and the shoulders.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		212) <a href="/cgi-bin/app/crea_query.py?qs=பையன்&searchhws=yes&matchtype=exact">பையன்</a> paiyaṉ
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=770">p. 770</a>)
+		<blockquote><p><hw>பையன்</hw> பெ. 1: வயதில் சிறியவன்; a male who is young; boy. கடைப் பையன்/ வேலைக்காரப் பையன் 2: மகன்; son. மாமாவின் பையன்/ உனக்கு எத்தனை பையன்கள்? 3: இளைஞன்; young man. பையனுக்குப் பெண்ணைப் பிடிக்கவில்லை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		213) <a href="/cgi-bin/app/fabricius_query.py?qs=பையன்&searchhws=yes&matchtype=exact">பையன்</a> paiyaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பையன்</tam></hw> , <i>s.</i> same as <tam>பய்யன்</tam> a boy.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		214) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பையன்&searchhws=yes&matchtype=exact">பையன்</a> paiyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பையன்</hw> - சிறுவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		215) <a href="/cgi-bin/app/mcalpin_query.py?qs=பையன்&searchhws=yes&matchtype=exact">பையன்</a> paiyaṉ
+		from <a href="/dictionaries/mcalpin/">McAlpin's <i>"A core vocabulary for Tamil"</i></a>
+		(<a href="/cgi-bin/app/mcalpin_query.py?page=53">p. 53</a>)
+		<blockquote><p><hw><tam>பையன்</tam></hw> payyan <tam>பய்யன்</tam> boy, son</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		216) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பையன்&searchhws=yes&matchtype=exact">பையன்</a> paiyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பையன்</tam> <t>paiyaṉ</t></hw> , <i>n</i>. < id. 1. See <tam>பையல்</tam>, 1. 2. Son; <tam>புத்திரன்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		217) <a href="/cgi-bin/app/winslow_query.py?qs=பையன்&searchhws=yes&matchtype=exact">பையன்</a> paiyaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பையன்</tam></hw> , <i>s.</i> [<i>also</i> <tam>பய்யன்</tam>.] A boy, <tam>சிறியன்</tam>. <i>(c.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		218) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பையம்&searchhws=yes&matchtype=exact">பையம்</a> paiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பையம்</tam> <t>paiyam</t></hw> , <i>n</i>. (<tam>அக. நி</tam>.) 1. cf. <tam>பை⁴</tam>. Basket; <tam>கூடை</tam>. 2. Sedge. See <tam>கோரை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		219) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பையர&searchhws=yes&matchtype=exact">பையர</a> paiyara
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பையர</tam> <t>pai-y-ara</t></hw> , <i>n</i>. < <tam>பை⁴</tam> +. See <tam>பையரவு. பையர விழுங்கப்பட்ட . . . மதியம்</tam> (<tam>சீவக</tam>. 1540).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		220) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பையரவு&searchhws=yes&matchtype=exact">பையரவு</a> paiyaravu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பையரவு</tam> <t>pai-y-aravu</t></hw> , <i>n</i>. < id. +. Hooded cobra; <tam>நாகம். பையர வல்குலார்த முள்ளமும் பளிங் கும்போல</tam> (<tam>கம்பரா. மிதிலை</tam>. 16).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		221) <a href="/cgi-bin/app/fabricius_query.py?qs=பையல்&searchhws=yes&matchtype=exact">பையல்</a> paiyal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பையல்</tam></hw> , <i>s.</i> see <tam>பயல்</tam>, a boy.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		222) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பையல்&searchhws=yes&matchtype=exact">பையல்</a> paiyal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பையல்</hw> - பயல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		223) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பையல்&searchhws=yes&matchtype=exact">பையல்</a> paiyal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>பையல்</hw> - பயல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		224) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பையல்&searchhws=yes&matchtype=exact">பையல்</a> paiyal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பையல்</tam> <t>paiyal</t></hw> , <i>n</i>. < <tam>பைதல்</tam>. 1. Boy, little fellow; <tam>சிறுவன். அளிய னம்பைய லென்னார்</tam> (<tam>திவ். திருமாலை</tam>, 37). 2. Unworthy, mean fellow; <tam>அற் பன். அப்பையல் அது தனக்கு எளிவரவாக நினைத் திருக்குமே</tam> (<tam>ஈடு</tam>, 3, 6, <tam>ப்ர</tam>.).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		225) <a href="/cgi-bin/app/winslow_query.py?qs=பையல்&searchhws=yes&matchtype=exact">பையல்</a> paiyal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பையல்</tam></hw> , [<i>com.</i> <tam>பயல்</tam>, <i>which see.</i>] A boy, &c.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		226) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பையா-த்தல்&searchhws=yes&matchtype=exact">பையா-த்தல்</a> paiyā-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பையா-த்தல்</tam> <t>paiyā-</t></hw> , <i>11 v. intr</i>. 1. To be distressed; to suffer pain; <tam>வருந்துதல். அரவம் வைகிக்கேட்டுப் பையாந்திசினே</tam> (<tam>நற்</tam>. 114). 2. To show signs of fear; <tam>பயந்தோற்றுதல். பையாக்க விழிக்கத் தொடங்கினான்</tam> (<tam>ஈடு</tam>, 5, 10, 3).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		227) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பையாப்பு&searchhws=yes&matchtype=exact">பையாப்பு</a> paiyāppu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பையாப்பு</tam> <t>paiyāppu</t></hw> , <i>n</i>. < <tam>பையா-</tam>. Distress, suffering; <tam>துன்பம். அதனால் பையாப்புற்ற நம்முடைய சுற்றத்தை</tam> (<tam>புறநா</tam>. 221, <tam>உரை</tam>). <tam>பையாப் போடு பசிகாட்டி</tam> (<tam>கலிங்</tam>. 557).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		228) <a href="/cgi-bin/app/fabricius_query.py?qs=பையுள்&searchhws=yes&matchtype=exact">பையுள்</a> paiyuḷ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பையுள்</tam></hw> , <i>s.</i> poverty, adversity, lowness of circumstances, <tam>சிறுமை</tam>; 2. distress, <tam>துன்பம்</tam>; 3. disease, pain, <tam>நோய்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		229) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பையுள்&searchhws=yes&matchtype=exact">பையுள்</a> paiyuḷ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பையுள்</hw> - அற்பம், சிறுமை, துன்பம், நோய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		230) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பையுள்&searchhws=yes&matchtype=exact">பையுள்</a> paiyuḷ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>பையுள்</hw> - சிறுமை, துன்பம், நோய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		231) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பையுள்&searchhws=yes&matchtype=exact">பையுள்</a> paiyuḷ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பையுள்</tam> <t>paiyuḷ</t></hw> , <i>n</i>. cf. Pkt. <i>payyāula</i>. 1. Disease; <tam>நோய்</tam>. (<tam>தொல். சொல்</tam>. 341.) 2. Distress, suffering; <tam>துன்பம். (திவா.) மெல்லிய நெஞ்சு பை யுள் கூர</tam> (<tam>கலித்</tam>. 137, 8). 3. Poverty, adversity, straitened circumstances; <tam>சிறுமை. (சூடா.)</tam> 4. Confusion; <tam>மயக்கம்</tam>. (<tam>திருக்கோ</tam>. 19, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		232) <a href="/cgi-bin/app/winslow_query.py?qs=பையுள்&searchhws=yes&matchtype=exact">பையுள்</a> paiyuḷ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பையுள்</tam></hw> , <i>s.</i> Poverty, adversity, lowness of circumstances, <tam>சிறுமை</tam>. 2. Distress, suffering, <tam>துன்பம்</tam>. 3. Pain, <tam>நோய்</tam>. (<tam>சது</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		233) <a href="/cgi-bin/app/fabricius_query.py?qs=பையெனல்&searchhws=yes&matchtype=exact">பையெனல்</a> paiyeṉal
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p><hw><tam>பையெனல்</tam></hw> , <i>v. n.</i> being slow or dull, <tam>மந்தக்குறிப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		234) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பையெனல்&searchhws=yes&matchtype=exact">பையெனல்</a> paiyeṉal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பையெனல்</hw> - மந்தக்குறிப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		235) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பையெனல்&searchhws=yes&matchtype=exact">பையெனல்</a> paiyeṉal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>பையெனல்</hw> - மந்தக்குறிப்பு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		236) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பையெனல்&searchhws=yes&matchtype=exact">பையெனல்</a> paiyeṉal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பையெனல்</tam> <t>pai-y-eṉal</t></hw> , <i>n</i>. Onom. expr. of (a) being slow or gentle; <tam>மெதுவாதற்குறிப்பு. கையிற் சுட்டிப் பையென வெண்ணி</tam> (<tam>புறநா</tam>. 257). (<tam>சூடா</tam>.): (b) being dim, dull; <tam>ஒளிமழுங்குதற் குறிப்பு. பாடுநர் கடும்பும் பையென் றனவே</tam> (<tam>புறநா</tam>. 238): (c) being distressed; <tam>வருந்தற்குறிப்பு. பையென்ற நெஞ்சத்தேம்</tam> (<tam>கலித்</tam>. 118).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		237) <a href="/cgi-bin/app/winslow_query.py?qs=பையெனல்&searchhws=yes&matchtype=exact">பையெனல்</a> paiyeṉal
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பையெனல்</tam></hw> , <i>v. noun.</i> Being slow, gentle, gradual, dull, <tam>மந்தக்குறிப்பு</tam>. (<tam>சது</tam>.) <tam>பையப்பைய</tam>. Slowly, slowly. See <tam>பை</tam>, <i>adv.</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		238) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பையை&searchhws=yes&matchtype=exact">பையை</a> paiyai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S375">p. S375</a>)
+		<blockquote><p><hw><tam>பையை</tam> <t>paiyai</t></hw> , <i>n</i>. perh. <i>paryāya</i>. Transformation; <tam>பரியாயம். பட்டனவப்பொருள் பையை களே யென்னும் பான்மையினால்</tam> (<tam>நீலகேசி</tam>, 389).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		239) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பையோடதி&searchhws=yes&matchtype=exact">பையோடதி</a> paiyōṭati
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பையோடதி</hw> - பச்சைக்கொடி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		240) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பையோடதி&searchhws=yes&matchtype=exact">பையோடதி</a> paiyōṭati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பையோடதி</tam> <t>pai-y-ōṭati</t></hw> , <i>n</i>. < <tam>பை²</tam> +. Green creeper; <tam>பச்சைக்கொடி. (தைவல. தைல.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		241) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பையோலை&searchhws=yes&matchtype=exact">பையோலை</a> paiyōlai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பையோலை</tam> <t>pai-y-ōlai</t></hw> , <i>n</i>. < id. +. Green ola; <tam>பச்சோலை. பனைப்பையோலை</tam> (<tam>திருவாலவா</tam>. 27, 68).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		242) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைரவன்&searchhws=yes&matchtype=exact">பைரவன்</a> pairavaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைரவன்</hw> - சிவன், வயிரன், சிவமூர்த் தங்களுளொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		243) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைரவன்&searchhws=yes&matchtype=exact">பைரவன்</a> pairavaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைரவன்</tam> <t>pairavaṉ</t></hw> , <i>n</i>. < <i>bhairava</i>. 1. A manifestation of Šiva; <tam>சிவமூர்த்தங்களுள் ஒருவரான வைரவக்கடவுள். (பிங்.)</tam> 2. Man born of a Niṣāda and a Šūdra woman; <tam>நிஷாதனுக்கும் சூத்திரப்பெண்ணுக்கும் பிறந்தவன். பின்னவர்மாது நிடாதனைப் புணரப் பிறந்தவன் பைரவனென்பான்</tam> (<tam>சூத. சிவமான்</tam>. 12, 31).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		244) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைரவமாத்திரை&searchhws=yes&matchtype=exact">பைரவமாத்திரை</a> pairavamāttirai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைரவமாத்திரை</tam> <t>pairava-māttirai</t></hw> , <i>n</i>. < id. +. A medicinal pill; <tam>ஒருவகை மருந்துக் குளிகை</tam>. (<tam>பதார்த்த</tam>. 1209.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		245) <a href="/cgi-bin/app/fabricius_query.py?qs=பைரவம்&searchhws=yes&matchtype=exact">பைரவம்</a> pairavam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p>*<hw><tam>பைரவம்</tam></hw> , <i>s.</i> formidableness, <tam>பயங்கரம்</tam>; 2. the religion of Bhairava, one of the forms of Siva as ferocious deity. <tam>பைரவன்</tam>, Bhairava, a manifestation of Siva. <p2><tam>பைரவி</tam>, Kali, Durga, <tam>துர்க்கை</tam>; 2. a tune exciting terrific emotions, <tam>ஓரிராகம்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		246) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைரவம்&searchhws=yes&matchtype=exact">பைரவம்</a> pairavam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைரவம்</hw> - அச்சம், உட்சயமாறினொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		247) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைரவம்&searchhws=yes&matchtype=exact">பைரவம்</a> pairavam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1629">p. 1629</a>)
+		<blockquote><p><hw>பைரவம்</hw> - அச்சம், பயங்கரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		248) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைரவம்&searchhws=yes&matchtype=exact">பைரவம்</a> pairavam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைரவம்</tam> <t>pairavam</t></hw> , <i>n</i>. < <i>bhairava</i>. 1. Terribleness; <tam>பயங்கரம்</tam>. (<smallcap>W</smallcap>.) 2. Dread, awe, fear; <tam>அச்சம்</tam>. (<smallcap>W</smallcap>.) 3. A subdivision of Šaiva religion; <tam>சைவசமயவகை</tam>. 4. (Mus.) An ancient secondary melody-type of <i>cevvaḻi</i> class; <tam>செவ்வழி யாழ்த்திறங்களுள் ஒன்று. (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		249) <a href="/cgi-bin/app/winslow_query.py?qs=பைரவம்&searchhws=yes&matchtype=exact">பைரவம்</a> pairavam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p>*<hw><tam>பைரவம்</tam></hw> , <i>s.</i> Formidableness, terribleness, <tam>பயங்கரம்</tam>. 2. Dread, awe, great fear, <tam>அச்சம்</tam>. (<tam>சது</tam>.) 3. [<i>as</i> <tam>வைரவம்</tam>.] Sect or religion of Bhairava, one of the forms of Siva, as a ferocious deity. See <tam>சமயம்</tam>. W. p. 627. <smallcaps>B'HAIRAVA.</smallcaps> <p2><tam>பைரவசந்தானம்</tam>, <i>s.</i> Succession of gurus of the Bhairava sect.</p2> <p2><tam>பைரவன்</tam>, <i>s.</i> [<i>com.</i> <tam>வைரவன்</tam>.] Bhairava, the god.</p2> <p2><tam>பைரவி</tam>, <i>s.</i> A tune exciting terrific emotions. See <tam>இராகம்</tam>. 2. Kali, Durga, <tam>காளி</tam>. (<tam>சது</tam>.)</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		250) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைரவரசம்&searchhws=yes&matchtype=exact">பைரவரசம்</a> pairavaracam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைரவரசம்</tam> <t>pairava-racam</t></hw> , <i>n</i>. < id. +. A medicine prepared with mercury; <tam>இரசங்கூட்டிச் செய்யும் மருந்துவகை</tam>. (<tam>பைஷஜ</tam>. 154.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		251) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைரவர்&searchhws=yes&matchtype=exact">பைரவர்</a> pairavar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைரவர்</tam> <t>pairavar</t></hw> , <i>n</i>. < id. Durgā's hosts; <tam>துர்க்கையின் படையினரான கணங்கள். இறைவி பைரவர்களே</tam> (<tam>தக்கயாகப்</tam>. 429).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		252) <a href="/cgi-bin/app/crea_query.py?qs=பைரவி&searchhws=yes&matchtype=exact">பைரவி</a> pairavi
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=770">p. 770</a>)
+		<blockquote><p><hw>பைரவி</hw> பெ. 1: துர்க்கை; the Goddess பார்வதி in one of her many forms.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		253) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைரவி&searchhws=yes&matchtype=exact">பைரவி</a> pairavi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைரவி</hw> - ஓரிராகம், காளி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		254) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைரவி&searchhws=yes&matchtype=exact">பைரவி</a> pairavi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைரவி</tam> <t>pairavi</t></hw> , <i>n</i>. < <i>Bhairavī</i>. 1. Durgā; <tam>துர்க்கை. பைரவி யகம்படியரே</tam> (<tam>தக்கயாகப்</tam>. 431). 2. (Mus.) A specific melody-type; <tam>ஓர் இராகம்</tam>. (<tam>பரத. இராக</tam>. 56.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		255) <a href="/cgi-bin/app/crea_query.py?qs=பைராகி&searchhws=yes&matchtype=exact">பைராகி</a> pairāki
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=770">p. 770</a>)
+		<blockquote><p><hw>பைராகி</hw> பெ. [அ.வ.] 1: (வடதேசத்து) துறவி; (north Indian) ascetic.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		256) <a href="/cgi-bin/app/fabricius_query.py?qs=பைராகி&searchhws=yes&matchtype=exact">பைராகி</a> pairāki
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=743">p. 743</a>)
+		<blockquote><p>*<hw><tam>பைராகி</tam></hw> , <i>s.</i> an ascetic, <tam>வைராகி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		257) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைராகி&searchhws=yes&matchtype=exact">பைராகி</a> pairāki
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைராகி</hw> - வைராகி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		258) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைராகி&searchhws=yes&matchtype=exact">பைராகி</a> pairāki
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைராகி</tam> <t>pairāki</t></hw> , <i>n</i>. < U. <i>bairāgī</i>. Ascetic pilgrim from North India; <tam>வடதேசத்துத் துறவி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		259) <a href="/cgi-bin/app/winslow_query.py?qs=பைராகி&searchhws=yes&matchtype=exact">பைராகி</a> pairāki
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p>*<hw><tam>பைராகி</tam></hw> , <i>s.</i> An ascetic. See <tam>வைராகி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		260) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைரி&searchhws=yes&matchtype=exact">பைரி</a> pairi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைரி</tam> <t>pairi</t></hw> , <i>n</i>. < U. <i>bhairij</i>. Peregrine falcon, <i>Falco peregrinus</i>; <tam>இராசாளிவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		261) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைரி&searchhws=yes&matchtype=exact">பைரி</a> pairi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S375">p. S375</a>)
+		<blockquote><p><hw><tam>பைரி</tam> <t>pairi</t></hw> , <i>n</i>. Inspector of cattle; <tam>கால்நடைகளைப் பரிசோதிப்பவன்</tam>. (<tam>மதி. க</tam>. ii, 13.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		262) <a href="/cgi-bin/app/kadirvelu_query.py?qs=பைலன்&searchhws=yes&matchtype=exact">பைலன்</a> pailaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1078">p. 1078</a>)
+		<blockquote><p><hw>பைலன்</hw> - ஒரு வேதவியாசர் மாணாக் கருளொருவன், ருக்வேதாத்யாப கன், ஜாதகர்ணி சீடன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		263) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைல்வான்&searchhws=yes&matchtype=exact">பைல்வான்</a> pailvāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=2908">p. 2908</a>)
+		<blockquote><p><hw><tam>பைல்வான்</tam> <t>pailvāṉ</t></hw> , <i>n</i>. < U. <i>pahlwān</i>. Athlete, wrestler, pugilist; <tam>மற்போர் செய்வோன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		264) <a href="/cgi-bin/app/tamil-lex_query.py?qs=பைவா-தல், பைவருதல்&searchhws=yes&matchtype=exact">பைவா-தல், பைவருதல்</a> paivā-tal, paivarutal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S375">p. S375</a>)
+		<blockquote><p><hw><tam>பைவா-தல் [பைவருதல்]</tam> <t>pai-vā-</t></hw> , <i>13 v. intr</i>. cf. <tam>பையெனல்</tam>. To be distressed; <tam>துன் புறுத்தல். பைவருங்கேளிரும் பதியும் கதறமெய் விடும்போது</tam> (<tam>கந்தரலங்</tam>. 84).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		265) <a href="/cgi-bin/app/winslow_query.py?qs=பைஸ்&searchhws=yes&matchtype=exact">பைஸ்</a> pais
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=818">p. 818</a>)
+		<blockquote><p><hw><tam>பைஸ்</tam></hw> , <i>s. (Hind.)</i> A pie, <i>commonly</i> <tam>பைசா</tam>, one twelfth of an anna.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

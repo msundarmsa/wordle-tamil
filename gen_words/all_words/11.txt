@@ -1,0 +1,1359 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>ஔ</b>
+                       <div id='no_results'>
+                                113 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔ&searchhws=yes&matchtype=exact">ஔ</a> au
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔ</hw> - தமிழ் மொழியின் நெடுங்கணக்கில் உயிர் வருக்கத்திலேவரும் பன்னிர ண்டாம் ஏழுத்து, உயிர்முயற்சியாற் பிறக்கும் ஏழுத்துக்களுள் வாயைத் திறந்தும் உதட்டைக் குவித்தும் உச் சரிக்கவரும் ஒரு நெட்டுயிர். அழைத் தல், வியப்பு,தடைஇவற்றைக்காட் டுமோருபசருக்கம், அனந்தம்,ஓரெ ழுத்து ஔவென்னேவல், கடித்தல், பூமி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔ&searchhws=yes&matchtype=exact">ஔ</a> au
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=631">p. 631</a>)
+		<blockquote><p><hw><tam>ஔ¹</tam> <t>au</t></hw> . The 12th vowel, diphthong of <i>a</i> and <i>u</i>; <tam>பன்னிரண்டாம் உயிரெழுத்து</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔ&searchhws=yes&matchtype=exact">ஔ</a> au
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=631">p. 631</a>)
+		<blockquote><p><hw><tam>ஔ²</tam> <t>au</t></hw> , <i>n</i>. The symbol representing the seventh note of the gamut, usu. <i>ni</i>; <tam>தாரவிசையி னெழுத்து. (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/winslow_query.py?qs=ஔ&searchhws=yes&matchtype=exact">ஔ</a> au
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=214">p. 214</a>)
+		<blockquote><p><hw><tam>ஔ</tam></hw> –<tam>ஔகாரம்</tam>. The twelfth or last of the vowels in Tamil, <tam>உயிரெழுத்திலொன்று</tam>. <p2><tam>ஔகாரக்குறுக்கம்</tam>, <i>s.</i> The letter <tam>ஔ</tam> shortened in sound, <tam>சார்பெழுத்துக்களிலொன்று</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔகம்&searchhws=yes&matchtype=exact">ஔகம்</a> aukam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1403">p. 1403</a>)
+		<blockquote><p><hw>ஔகம்</hw> - இடைப்பாட்டு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔகம்&searchhws=yes&matchtype=exact">ஔகம்</a> aukam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=631">p. 631</a>)
+		<blockquote><p><hw><tam>ஔகம்</tam> <t>aukam</t></hw> , <i>n</i>. Repetition by a chorus of the leader's song in a dancing performance; <tam>இடைப்பாட்டு</tam>. (<tam>சிலப்</tam>. 14, 156, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔகாரக்குறுக்கம்&searchhws=yes&matchtype=exact">ஔகாரக்குறுக்கம்</a> aukārakkuṟukkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔகாரக்குறுக்கம்</hw> - தன்மாத்திரையிற் குறுகிய ஔகாரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔகாரக்குறுக்கம்&searchhws=yes&matchtype=exact">ஔகாரக்குறுக்கம்</a> aukārakkuṟukkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=631">p. 631</a>)
+		<blockquote><p><hw><tam>ஔகாரக்குறுக்கம்</tam> <t>aukāra-k-kuṟukkam</t></hw> , <i>n</i>. < <tam>ஔகாரம்¹</tam> +. (Gram.) Shortened '<i>au</i>', as in <tam>மௌவல்</tam>, one of ten <i>cārpeḻuttu</i>, q.v.; <tam>தன் மாத்திரையிற்குறுகிய ஔகாரம்</tam>. (<tam>நன்</tam>. 95.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔகாரம், ஔகான்&searchhws=yes&matchtype=exact">ஔகாரம், ஔகான்</a> aukāram, aukāṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔகாரம், ஔகான்</hw> ஓரெழுத்து.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔகி&searchhws=yes&matchtype=exact">ஔகி</a> auki
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1403">p. 1403</a>)
+		<blockquote><p><hw>ஔகி</hw> - இடைப்பாட்டுக்கூத்தி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔசனசம்&searchhws=yes&matchtype=exact">ஔசனசம்</a> aucaṉacam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔசனசம்</hw> - அட்டாதசத்ருமசாத்திரத்தி னொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/winslow_query.py?qs=ஔசனசம்&searchhws=yes&matchtype=exact">ஔசனசம்</a> aucaṉacam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=214">p. 214</a>)
+		<blockquote><p>*<hw><tam>ஔசனசம்</tam></hw> , <i>s.</i> (<i>Tam.</i> <tam>உசனம்</tam>.) The code, &c., of Usanas, <tam>அட்டாதசதரமசாத்திரத்தொன்று</tam>. Wils. p. 177. <smallcaps>OUSHANASA.</smallcaps> See <tam>தருமநூல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔசனம்&searchhws=yes&matchtype=exact">ஔசனம்</a> aucaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=631">p. 631</a>)
+		<blockquote><p><hw><tam>ஔசனம்</tam> <t>aucaṉam</t></hw> , <i>n</i>. < <i>aušanasa</i>. A secondary <i>purāṇa</i>, one of 18 <i>upa-purāṇam</i>, q.v.; <tam>உபபுராணம் பதினெட்டனுள் ஒன்று</tam>. (<tam>கூர்மபு. இந்திரத்</tam>. 10.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔசரம்&searchhws=yes&matchtype=exact">ஔசரம்</a> aucaram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔசரம்</hw> - கோடாங்கல்லு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔசித்தியம்&searchhws=yes&matchtype=exact">ஔசித்தியம்</a> aucittiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p>*<hw><tam>ஔசித்தியம்</tam></hw> , <tam>ஔசித்யம்</tam>, <i>s.</i> see under <tam>உசிதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔசித்தியம்&searchhws=yes&matchtype=exact">ஔசித்தியம்</a> aucittiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=631">p. 631</a>)
+		<blockquote><p><hw><tam>ஔசித்தியம்</tam> <t>aucittiyam</t></hw> , <i>n</i>. < <i>aucitya</i>. Fitness, suitableness; <tam>தகுதி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔசித்யம்&searchhws=yes&matchtype=exact">ஔசித்யம்</a> aucityam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔசித்யம்</hw> - உசிததர்மம், தகுதிமெய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔசீரம்&searchhws=yes&matchtype=exact">ஔசீரம்</a> aucīram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔசீரம்</hw> - ஆசனம், கவரிமாமயிர்,படு க்கை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔசு&searchhws=yes&matchtype=exact">ஔசு</a> aucu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1403">p. 1403</a>)
+		<blockquote><p><hw>ஔசு</hw> - நோற்பாகுணவு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔடதம்&searchhws=yes&matchtype=exact">ஔடதம்</a> auṭatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔடதம்</tam> <t>auṭatam</t></hw> , <i>n</i>. < <i>auṣadha</i>. Medicine, medicament, drug, antidote; <tam>மருந்து</tam>. (<tam>சிலப்</tam>. 14, 170, <tam>அரும்</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/winslow_query.py?qs=ஔடதம்&searchhws=yes&matchtype=exact">ஔடதம்</a> auṭatam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=214">p. 214</a>)
+		<blockquote><p>*<hw><tam>ஔடதம்</tam></hw> –<tam>ஔஷதம்</tam>, <i>s.</i> [<i>com.</i> <tam>அவுழ்தம்</tam>.] Medicine, a medicament or drug, <tam>மருந்து</tam>. 2. An antidote, a remedy, <tam>மாற்றுமருந்து</tam>. 3. A feigned class of vegetable medicines possessing wonderful proper- ties, of which four kinds are specified, viz.: 1. <tam>சல்லியகரணி</tam>, medicines curing wounds made with pointed weapons. 2. <tam>சந்தானகரணி</tam>, setting broken bones. 3. <tam>சமானகரணி</tam>, or <tam>சம்பன்னகரணி</tam>, curing bruises, scars, &c. 4. <tam>சஞ்சீவகரணி</tam>, or <tam>சஞ்சீவி</tam> restor- ation of the swooning or the dead. Wils. p. 177. <smallcaps>OUSHATA.</smallcaps> <tam>இலங்கனம்பரமௌஷதம்</tam>. Dieting or absti- nence is the best medicine for the sick.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔடதவாதி&searchhws=yes&matchtype=exact">ஔடதவாதி</a> auṭatavāti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔடதவாதி</hw> - ஒருமதக்காரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔடதவாதி&searchhws=yes&matchtype=exact">ஔடதவாதி</a> auṭatavāti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S176">p. S176</a>)
+		<blockquote><p><hw><tam>ஔடதவாதி</tam> <t>auṭata-vāti</t></hw> , <i>n</i>. < <tam>ஔடதம்</tam> +. One who holds that life was created out of herbs; <tam>மூலிகையிலிருந்து ஜீவன் உற்பத்தியாயிற் றென்று கூறுவோன். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔடவம்&searchhws=yes&matchtype=exact">ஔடவம்</a> auṭavam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔடவம்</tam> <t>auṭavam</t></hw> , <i>n</i>. < <i>auḍava</i>. See <tam>ஔடவராகம்</tam>. (<tam>சிலப்</tam> 13, 106, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔடவராகம்&searchhws=yes&matchtype=exact">ஔடவராகம்</a> auṭavarākam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔடவராகம்</tam> <t>auṭava-rākam</t></hw> , <i>n</i>. < id. + <i>rāga</i>. Musical mode which moves up and down within five notes of the scale; pentatonis; <tam>ஐந்து சுரமட்டும் உபயோகிக்கப்படும் இராகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔடும்பரம்&searchhws=yes&matchtype=exact">ஔடும்பரம்</a> auṭumparam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔடும்பரம்</hw> - தாமிரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔட்டு&searchhws=yes&matchtype=exact">ஔட்டு</a> auṭṭu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p><hw><tam>ஔட்டு</tam></hw> , <i>s. (Hind.)</i> firework, bomb which when fired into the air, bursts into shining sparks, <tam>ஔட்டுவிட</tam>, to shoot off a fire-work; 2. to start false rumours.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔட்டு&searchhws=yes&matchtype=exact">ஔட்டு</a> auṭṭu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p><hw><tam>ஔட்டு</tam></hw> , <i>s.</i> a game of cards played by two persons.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔட்டு&searchhws=yes&matchtype=exact">ஔட்டு</a> auṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=631">p. 631</a>)
+		<blockquote><p><hw><tam>ஔட்டு¹</tam> <t>auṭṭu</t></hw> , <i>n</i>. < U. <i>auṭ</i>. Firework; bomb which, when fired into the air, bursts into glowing sparks; <tam>ஒருவகை ஆகாசவெடி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔட்டு&searchhws=yes&matchtype=exact">ஔட்டு</a> auṭṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=631">p. 631</a>)
+		<blockquote><p><hw><tam>ஔட்டு²</tam> <t>auṭṭu</t></hw> , <i>n</i>. < E. A game at cards played by two persons, finished with saying 'out' when either has scored 108; <tam>சீட்டுவிளை யாட்டுவகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔட்டுவிடு-தல்&searchhws=yes&matchtype=exact">ஔட்டுவிடு-தல்</a> auṭṭuviṭu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔட்டுவிடு-தல்</tam> <t>auṭṭu-viṭu-</t></hw> , <i>v. intr</i>. < <tam>ஔட்டு¹</tam> +. 1. To shoot off a firework; <tam>ஔட்டு வாணம் விடுதல்</tam>. 2. To start false rumours; <tam>பொய்வதந்தியெழுப்புதல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔதகம்&searchhws=yes&matchtype=exact">ஔதகம்</a> autakam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p>*<hw><tam>ஔதகம்</tam></hw> , <i>s.</i> water, <tam>உதகம்</tam>; 2. emerald <tam>நீலரத்னம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔதகம்&searchhws=yes&matchtype=exact">ஔதகம்</a> autakam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔதகம்</hw> - உதகம், நீலரத்தினம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔதசியம்&searchhws=yes&matchtype=exact">ஔதசியம்</a> autaciyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔதசியம்</hw> - பால்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔதரிகன்&searchhws=yes&matchtype=exact">ஔதரிகன்</a> autarikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔதரிகன்</hw> - சமயல்செய்கிறவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔதரிகன்&searchhws=yes&matchtype=exact">ஔதரிகன்</a> autarikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔதரிகன்</hw> - உதரபோஷகன்</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔதரிகம்&searchhws=yes&matchtype=exact">ஔதரிகம்</a> autarikam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p>*<hw><tam>ஔதரிகம்</tam></hw> , <i>s.</i> see under, <tam>உதரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔதலாவணிகம்&searchhws=yes&matchtype=exact">ஔதலாவணிகம்</a> autalāvaṇikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔதலாவணிகம்</hw> - உப்பு,நீராற்பக்குவ மானவஸ்து.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔதா&searchhws=yes&matchtype=exact">ஔதா</a> autā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔதா</tam> <t>autā</t></hw> , <i>n</i>. < U. <i>haudah</i>. Howdah; <tam>அம்பாரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔதாரிகன்&searchhws=yes&matchtype=exact">ஔதாரிகன்</a> autārikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔதாரிகன்</hw> - வேறு வேலையில்லாமல் வயிறு வளர்ப்பவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔதாரியன்&searchhws=yes&matchtype=exact">ஔதாரியன்</a> autāriyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔதாரியன்</hw> - வரையாதுகொடுப்போன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔதாரியம்&searchhws=yes&matchtype=exact">ஔதாரியம்</a> autāriyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p>*<hw><tam>ஔதாரியம்</tam></hw> , <i>s.</i> munificence, liberality, <tam>மிகுகொடை</tam>; 2. nobility, magnanimity, <tam>பெருந்தன்மை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔதாரியம்&searchhws=yes&matchtype=exact">ஔதாரியம்</a> autāriyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔதாரியம்</hw> - உதாரம், மிகுகொடை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔதாரியம்&searchhws=yes&matchtype=exact">ஔதாரியம்</a> autāriyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔதாரியம்</tam> <t>autāriyam</t></hw> , <i>n</i>. < <i>audārya</i>. Generosity, nobility, magnanimity, liberality; <tam>உதாரகுணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/winslow_query.py?qs=ஔதாரியம்&searchhws=yes&matchtype=exact">ஔதாரியம்</a> autāriyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=214">p. 214</a>)
+		<blockquote><p>*<hw><tam>ஔதாரியம்</tam></hw> , <i>s.</i> Munificence, li- berality, <tam>மிகுகொடை</tam>; [<i>ex</i> <tam>உதாரம்</tam>.] Wils. p. 176. <smallcaps>OUDARYA.</smallcaps> <p2><tam>ஔதாரியன்</tam>, <i>s.</i> One who gives without limit, a very generous person, <tam>வரையாதுகொடுப்போன்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔதும்பரம்&searchhws=yes&matchtype=exact">ஔதும்பரம்</a> autumparam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔதும்பரம்</hw> - செம்பு, அத்திமரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔதேயர்&searchhws=yes&matchtype=exact">ஔதேயர்</a> autēyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔதேயர்</hw> - உசீகரன்மகனாகிய நிருகன் வமிசத்தார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔத்தமர்ணிகம்&searchhws=yes&matchtype=exact">ஔத்தமர்ணிகம்</a> auttamarṇikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S176">p. S176</a>)
+		<blockquote><p><hw><tam>ஔத்தமர்ணிகம்</tam> <t>auttamarṇikam</t></hw> , <i>n</i>. < <i>auttamarṇika</i>. Money borrowed on interest; <tam>வட்டியோடு தருவதாக வாங்கியபொருள்</tam>. (<tam>சுக்கிரநீதி</tam>, 96.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔத்தாநபாதி&searchhws=yes&matchtype=exact">ஔத்தாநபாதி</a> auttānapāti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔத்தாநபாதி</hw> - துருவநக்ஷத்திரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔத்தாலகம், ஔத்தாலிகம்&searchhws=yes&matchtype=exact">ஔத்தாலகம், ஔத்தாலிகம்</a> auttālakam, auttālikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔத்தாலகம், ஔத்தாலிகம்</hw> புற்றுத்தேன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔத்திரி&searchhws=yes&matchtype=exact">ஔத்திரி</a> auttiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔத்திரி</tam> <t>auttiri</t></hw> , <i>n</i>. < <i>hautrī</i>. (Šaiva.) See <tam>ஔத்திரிதீட்சை</tam>. (<tam>சி. சி</tam>. 8, 3, <tam>சிவஞா</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔத்திரிதீட்சை&searchhws=yes&matchtype=exact">ஔத்திரிதீட்சை</a> auttiritīṭcai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔத்திரிதீட்சை</tam> <t>auttiri-tīṭcai</t></hw> , <i>n</i>. < id. +. (Šaiva.) A mode of initiation in which the <i>guru</i> performs the regular rites accompanied by <i>hōma</i>, one of seven <i>tīṭcai</i>, q.v., itself being of two kinds, viz., <tam>கிரியர்வதி, ஞானவதி</tam> and again <tam>நிர்ப்பீசதீட்சை, சபீசதீட்சை; சிவதீட்சையே ழனு ளொன்று</tam>. (<tam>சைவச. ஆசாரி</tam>. 62, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔனம்&searchhws=yes&matchtype=exact">ஔனம்</a> auṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔனம்</hw> - மிளகுரசம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔபசாரிகம்&searchhws=yes&matchtype=exact">ஔபசாரிகம்</a> aupacārikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔபசாரிகம்</tam> <t>aupacārikam</t></hw> , <i>n</i>. < <i>aupacārika</i>. A kind of metonymy by which the attributes of one are spoken of as those of something or some one connected with it; <tam>ஒன் றன்தன்மையை மற்றொன்றிலேற்றிக் கூறுவது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔபசிலேஷம்&searchhws=yes&matchtype=exact">ஔபசிலேஷம்</a> aupacilēṣam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔபசிலேஷம்</hw> - ஒருவழிமேவல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔபதேயம்&searchhws=yes&matchtype=exact">ஔபதேயம்</a> aupatēyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔபதேயம்</hw> - பண்டிச்சில்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔபத்தியம்&searchhws=yes&matchtype=exact">ஔபத்தியம்</a> aupattiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔபத்தியம்</hw> - புணர்ச்சி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔபனிதிகம்&searchhws=yes&matchtype=exact">ஔபனிதிகம்</a> aupaṉitikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S176">p. S176</a>)
+		<blockquote><p><hw><tam>ஔபனிதிகம்</tam> <t>aupaṉitikam</t></hw> , <i>n</i>. < <i>aupani- dhika</i>. Deposit, entrusted for safe keeping; <tam>அடைக்கலப்பொருள்</tam>. (<tam>சுக்கிரநீதி</tam>, 96.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔபரிதிகம்&searchhws=yes&matchtype=exact">ஔபரிதிகம்</a> auparitikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔபரிதிகம்</hw> - ஈடு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔபவாகியம்&searchhws=yes&matchtype=exact">ஔபவாகியம்</a> aupavākiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔபவாகியம்</hw> - அரசரேறும் பட்டத்தி யானை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔபாசனம்&searchhws=yes&matchtype=exact">ஔபாசனம்</a> aupācaṉam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p>*<hw><tam>ஔபாசனம்</tam></hw> , <i>s.</i> a religious practice, worship of the consecrated fire both morning and evening.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔபாசனம்&searchhws=yes&matchtype=exact">ஔபாசனம்</a> aupācaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔபாசனம்</tam> <t>aupācaṉam</t></hw> , <i>n</i>. < <i>aupāsana</i>. The worship of the consecrated fire both morning and evening, a duty enjoined on a married Brahman; <tam>காலைமாலைகளில் கிருகஸ்தர் ஓமத்தீயோம் புகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/winslow_query.py?qs=ஔபாசனம்&searchhws=yes&matchtype=exact">ஔபாசனம்</a> aupācaṉam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=214">p. 214</a>)
+		<blockquote><p>*<hw><tam>ஔபாசனம்</tam></hw> , <i>s.</i> Religious practice, the performance of prescribed rites–as <tam>உபாசனம்</tam>. 2. A daily offering made by fire kept always burning, <tam>ஓமத்தீயோம்புகை</tam>. Wils. p. 176. <smallcaps>OUPASANA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔபாசனம், ஔபாசனை&searchhws=yes&matchtype=exact">ஔபாசனம், ஔபாசனை</a> aupācaṉam, aupācaṉai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔபாசனம், ஔபாசனை</hw> உபாசனை, வைதீகச்சட ங்கு நடத்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔபாதிகம்&searchhws=yes&matchtype=exact">ஔபாதிகம்</a> aupātikam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p>*<hw><tam>ஔபாதிகம்</tam></hw> , <i>s.</i> (<tam>உபாதி</tam>) that which is limited by particular conditions valid under particular suppositions, <tam>உபாதி சம்பந்தமுள்ளது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔபாதிகம்&searchhws=yes&matchtype=exact">ஔபாதிகம்</a> aupātikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔபாதிகம்</hw> - நியாயத்துடன்கூடினது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔபாதிகம்&searchhws=yes&matchtype=exact">ஔபாதிகம்</a> aupātikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔபாதிகம்</tam> <t>aupātikam</t></hw> , <i>n</i>. < <i>aupādhikā</i>. That which is limited by particular conditions which are valid under particular suppositions; <tam>உபாதிசம்பந்தமுள்ளது</tam>. (<tam>சி. சி</tam>. 2, 1, <tam>ஞானப்</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔமீனம்&searchhws=yes&matchtype=exact">ஔமீனம்</a> aumīṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔமீனம்</hw> - காசாநெல்விளையும்பூமி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔரகம்&searchhws=yes&matchtype=exact">ஔரகம்</a> aurakam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔரகம்</hw> - உரகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔரசன்&searchhws=yes&matchtype=exact">ஔரசன்</a> auracaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p>*<hw><tam>ஔரசன்</tam></hw> , <i>s.</i> a child by a duly married wife of the same tribe, own legitimate son. ( x <tam>சுவீகார புத்திரன்</tam>, an adopted son).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔரசன்&searchhws=yes&matchtype=exact">ஔரசன்</a> auracaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔரசன்</hw> - குலமொத்தகன்னியைத் தீ வேட்டுப் பெற்றபுத்திரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔரசன்&searchhws=yes&matchtype=exact">ஔரசன்</a> auracaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔரசன்</tam> <t>auracaṉ</t></hw> , <i>n</i>. < <i>aurasa</i>. See <tam>ஔரசபுத்திரன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/winslow_query.py?qs=ஔரசன்&searchhws=yes&matchtype=exact">ஔரசன்</a> auracaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=214">p. 214</a>)
+		<blockquote><p><hw><tam>ஔரசன்</tam></hw> , <i>s.</i> A child by a wife of the same tribe, <tam>குலமொத்தகன்னியைத்தீவேட்டுப்பெற்றபுத்திரன்</tam>. Wils. p. 176. <smallcaps>OURASA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔரசபுத்திரன்&searchhws=yes&matchtype=exact">ஔரசபுத்திரன்</a> auracaputtiraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔரசபுத்திரன்</tam> <t>auraca-puttiraṉ</t></hw> , <i>n</i>. < <i>aurasa</i> +. Lit., produced from the breast, own son, legitimate son; son by a wife of the same caste married according to the prescribed rules, one of twelve kinds of <i>puttiraṉ</i>, q.v. opp. to <tam>சுவீகாரபுத்திரன்; சொந்தப்பிள்ளை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔரசியன்&searchhws=yes&matchtype=exact">ஔரசியன்</a> auraciyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔரசியன்</hw> - சொந்தஜாதியில் விவாகம் பண்ணின மனைவியிடத்துத் தனக் குப்பிறந்தபுத்திரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔரதன்&searchhws=yes&matchtype=exact">ஔரதன்</a> aurataṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S176">p. S176</a>)
+		<blockquote><p><hw><tam>ஔரதன்</tam> <t>aurataṉ</t></hw> , <i>n</i>. < <i>aurasa</i>. Son born in wedlock; <tam>ஔரசன்</tam>. (<tam>ஏலா</tam>. 30.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔரப்பிரகம்&searchhws=yes&matchtype=exact">ஔரப்பிரகம்</a> aurappirakam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔரப்பிரகம்</hw> - ஆட்டுமந்தை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔராத்து&searchhws=yes&matchtype=exact">ஔராத்து</a> aurāttu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔராத்து</tam> <t>aurāttu</t></hw> , <i>n</i>. < Arab. <i>aurad</i>. Formulae of daily devotional exercises; <tam>நித்திய பாராயணத்துக்குரிய பிரார்த்தனை. அவர்கள் காலைநேரங் களில் ஔராத்து ஓதிக்கொண்டிருப்பார்கள்</tam>. <i>Muham</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔரிதம்&searchhws=yes&matchtype=exact">ஔரிதம்</a> auritam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔரிதம்</hw> - தருமநூல் பதினெட்டினொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔரிதம்&searchhws=yes&matchtype=exact">ஔரிதம்</a> auritam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔரிதம்</tam> <t>auritam</t></hw> , <i>n</i>. < <i>hārīta</i>. Code of laws by Hārīta; <tam>ஒரு தருமநூல். (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/winslow_query.py?qs=ஔரிதம்&searchhws=yes&matchtype=exact">ஔரிதம்</a> auritam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=214">p. 214</a>)
+		<blockquote><p>*<hw><tam>ஔரிதம்</tam></hw> , <i>s.</i> One of the eighteen <tam>தருமநூல்</tam>. <i>(p.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔருவசேயன்&searchhws=yes&matchtype=exact">ஔருவசேயன்</a> auruvacēyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔருவசேயன்</hw> - அகத்தியமுனிவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔருவவிரதி&searchhws=yes&matchtype=exact">ஔருவவிரதி</a> auruvavirati
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔருவவிரதி</hw> - நீரொன்றையே யுட் கொண்டு தவஞ்செய்பவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔர்வன்&searchhws=yes&matchtype=exact">ஔர்வன்</a> aurvaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔர்வன்</hw> - ஊர்வன் மகன், சியவன்ன மநுகன்னிகையிடத்துப் பெற்றவிரு டி. இவனுக்கு நூற்றுவர் புத்திரர். அவருள் இருஷிகன் மூத்தோன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔறி&searchhws=yes&matchtype=exact">ஔறி</a> auṟi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=609">p. 609</a>)
+		<blockquote><p><hw><tam>ஔறி</tam> <t>oḷaṟi</t></hw> , <i>n</i>. cf. <tam>ஒலரி</tam>. A greenish river-fish, <i>Lenciscus melettina</i>; <tam>உலரிமீன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔலாத்து&searchhws=yes&matchtype=exact">ஔலாத்து</a> aulāttu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p><hw><tam>ஔலாத்து</tam></hw> , <i>s. (Arab.)</i> issue, children, <tam>சந்ததி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔலாத்து&searchhws=yes&matchtype=exact">ஔலாத்து</a> aulāttu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔலாத்து</tam> <t>aulāttu</t></hw> , <i>n</i>. < Arab. <i>aulad</i>. Issue, children; <tam>சந்ததி ஔலாத்துகளை நல்வழி யில் பயிற்றவேண்டியது பெற்றோர்களின் கடைமை</tam>. <i>Muham</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔலியா&searchhws=yes&matchtype=exact">ஔலியா</a> auliyā
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p><hw><tam>ஔலியா</tam></hw> , <i>s. (Arab.)</i> saints, holy persons, <tam>அடியார்கள்</tam>, <tam>பக்தர்கள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔலியா&searchhws=yes&matchtype=exact">ஔலியா</a> auliyā
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔலியா</tam> <t>aulivā</t></hw> , <i>n</i>. < Arab. <i>auliya</i>. Saints; <tam>பக்தர்கள்</tam>. <i>Muham</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔவி&searchhws=yes&matchtype=exact">ஔவி</a> auvi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p><hw><tam>ஔவி</tam></hw> , VI. <i>v. i.</i> be envious, <tam>பொறாமைப் படு</tam>, see <tam>அவ்வி</tam>. <p2><tam>ஔவியம்</tam>, <i>s.</i> envy, jealousy, <tam>பொறாமை</tam>.</p2> <p2><tam>ஔவியம் பேசேல்</tam>, do not speak enviously.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔவி-த்தல்&searchhws=yes&matchtype=exact">ஔவி-த்தல்</a> auvi-ttal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔவி-த்தல்</tam> <t>auvi-</t></hw> , <i>11 v. intr</i>. To be envious. See <tam>அவ்வி-</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔவித்தல்&searchhws=yes&matchtype=exact">ஔவித்தல்</a> auvittal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔவித்தல்</hw> - அழுக்காறடைதல், பொறா டையடைதல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔவியம்&searchhws=yes&matchtype=exact">ஔவியம்</a> auviyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔவியம்</hw> - அழுக்காறு, பொறாமை, தே வர்களுக்குச்செய்யும் சடங்கு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔவியம்&searchhws=yes&matchtype=exact">ஔவியம்</a> auviyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔவியம்</tam> <t>auviyam</t></hw> , <i>n</i>. < <tam>ஔவி-</tam>. Envy. See <tam>அவ்வியம். (ஆத்திசூ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/winslow_query.py?qs=ஔவியம்&searchhws=yes&matchtype=exact">ஔவியம்</a> auviyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=214">p. 214</a>)
+		<blockquote><p><hw><tam>ஔவியம்</tam></hw> , <i>s.</i> Envy, <tam>பொறாமை</tam>. <i>(p.)</i> <tam>ஔவியநெஞ்சத்தானாக்கமுஞ்செவ்வியான்கேடுநினைக்கப்படும்</tam>. The prosperity of the envious and adversity of the ingenuous will be pondered by the wise as things myste- rious. <tam>ஔவியம்பேசேல்</tam>. Don't speak enviously. (<tam>ஔவை</tam>.) <p2><tam>ஔவிக்க</tam>, <i>inf.</i> To be envious, <tam>பொறாமையடைய</tam>. <i>(p.)</i> <tam>ஔவித்தழுக்காறுடையானைச்செய்யவடெளவையைக்காட்டிவிடும்</tam>. Luckshmi envying (the prosperity) of the envious man will introduce her sister to him and take her own departure.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔவு&searchhws=yes&matchtype=exact">ஔவு</a> auvu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p><hw><tam>ஔவு</tam></hw> , III. <i>v. t.</i> grasp, seize, <tam>கௌவு</tam>; 2. rub off the skin, excoriate, <tam>அழுத்தி யெடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔவு-தல்&searchhws=yes&matchtype=exact">ஔவு-தல்</a> auvu-tal
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔவு-தல்</tam> <t>auvu-</t></hw> , <i>5 v. intr</i>. < <tam>கவ்வு-</tam>. (<smallcap>W</smallcap>.) 1. To grasp, seize, take hold of, with the mouth; <tam>வாயாற்பற்றுதல். கன்று புல்லை யெளவித் தின்கிறது</tam>. 2. To graze; to rub off, as the skin; to burn, scald so as to excoriate; <tam>அழுந்தியெடுத்தல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔவுதல்&searchhws=yes&matchtype=exact">ஔவுதல்</a> auvutal
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔவுதல்</hw> - அங்கலாய்த்துவிழுதல், அழுந் தியெடுத்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔவை&searchhws=yes&matchtype=exact">ஔவை</a> auvai
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=172">p. 172</a>)
+		<blockquote><p><hw><tam>ஔவை</tam></hw> , <i>s.</i> mother, matron, <tam>தாய்</tam>; 2. the eldest of the 4 sisters of <tam>திரு வள்ளுவர்</tam> and authress of several popular moral poems, <tam>ஔவையார்</tam>; 3 a female ascetic, especially of the Jaina sect.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔவை&searchhws=yes&matchtype=exact">ஔவை</a> auvai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔவை</hw> - தவப்பெண், தாய், திருவள்ளு வர் சகோதரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔவை&searchhws=yes&matchtype=exact">ஔவை</a> auvai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1652">p. 1652</a>)
+		<blockquote><p><hw>ஔவை</hw> - தவப்பெண், தாயின்தாய்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔவை&searchhws=yes&matchtype=exact">ஔவை</a> auvai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔவை</tam> <t>auvai</t></hw> , <i>n</i>. 1. [T. K. <i>avva</i>.] Mother, matron, old woman. See <tam>அவ்வை</tam>. 2. Female ascetic, especially used of the Jaina sect; <tam>ஆரியாங்கனை. கூந்தலை யௌவைமார்கடாம் பணி விலர் பறித்தனர்</tam> (<tam>சீவக</tam>. 2637). 3. See <tam>ஔவையார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/winslow_query.py?qs=ஔவை&searchhws=yes&matchtype=exact">ஔவை</a> auvai
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=214">p. 214</a>)
+		<blockquote><p><hw><tam>ஔவை</tam></hw> , <i>s.</i> A mother, a matron, an old lady, <tam>தாய்</tam>. 2. A female ascetic–chiefly used of the Jaina sect, <tam>தவப்பெண்</tam>. <i>(p.)</i> 3. An ancient authoress who wrote on moral subjects; she was the eldest of four sisters, who also were authoresses. They were the reputed sisters of <tam>திருவள்ளுவர்</tam> the author of the Cural, <tam>ஔவையார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔவைநோன்பு&searchhws=yes&matchtype=exact">ஔவைநோன்பு</a> auvainōṉpu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔவைநோன்பு</tam> <t>auvai-nōṉpu</t></hw> , <i>n</i>. < <tam>ஔவை</tam> + Secret ceremony performed by some Vēḷāḷa women twice a year on a Tuesday, at midnight, when no males, even babes in arms, are allowed to be present; <tam>செவ்வாய்நோன்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔவையார்&searchhws=yes&matchtype=exact">ஔவையார்</a> auvaiyār
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔவையார்</hw> - ஔவை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔவையார்&searchhws=yes&matchtype=exact">ஔவையார்</a> auvaiyār
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1404">p. 1404</a>)
+		<blockquote><p><hw>ஔவையார்</hw> - இவர் சரசுவதியின் அவ தாரமென்ப. கருவூர்ஆதியென்பாள் வயிற்றிற் பகவன் ஏன்னும் பிராம ணர்க்குப் புத்திரியாக அவதரித்து "நரப்புக்கருவியோர் நண்ணிடுசேரி யிற்-பாணரகத்தி லௌவை பிறந்த னள்" ஏன்பதனால் பாணர்சேரியில் வளர்ந்து வந்தனர், "இல்லறமல்லது நல்லறமன்று" ஏன்று கூறினாராயி னும் பிரமசரியவிரதத்தை யநுட்டி த்துவந்தனர். ஆத்திச்சூடி, கொன் றைவேந்தன்கல்வியொழுக்கம், மூது ரை, நல்வழி, விநாயகரகவல், பந்தனந் தாதி அசதிக்கோவை, நன்னூற்கோ வை, நான்மணிக்கோவை, அருந்த மிழ்மாலை, தரிசனப்பத்து, ஞானக் குறள்ஏன்பவற்றோடு பிடகநிகண்டு ஏன்னுநூலையும்பாடினார் முன்னைய வாயஆத்திச்சூடி கொன்றைவேந்த ன் ஏன்னுமிரண்டினையும் டாக்டர். ஜோன்ஏன்பவரும்சட்சென்ஏன்ப வரும்ஆகிய ஆங்கிலர் மூவரும்வியந்து இங்கிலீஷ் பாஷையின் மொழிபெ யர்த்திருக்கின்றனர். அன்றி ஜர்மனிபாடையாரும் உ லாந்தாக்காரரும் தத்தம் பாஷையின் மொழிபெயர்த்திருக்கின்றனர். இவர் அதிகமான் வஞ்சியினாற் கொடுக்கப்பட் டஅழிழ்துவிளையும் கருநெல்லிப் பழத் தைப்புசித்து அநேககாலம் வசித்திருந் தனர் ஏனத்தெரிகிறது. அது புறநா னூற்றுச் செய்யுளாற் காட்டியுள்ளாம், இவர் பற்பல தனிப்பாடல்களைப் பாடி னர் கணபதிபூஜைசெய்து அவர் துதி க்கையாற் கைக்குவிட அங்குவாழ்ந் திருக்கின்றனராம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔவையார்&searchhws=yes&matchtype=exact">ஔவையார்</a> auvaiyār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔவையார்</tam> <t>auvaiyār</t></hw> , <i>n</i>. < id. Name of a famous poetess, author of many verses found in ancient classics and to whom are ascribed some popular minor moral works also; <tam>பழைய பெண்புலவரு ளொருவர். (புறநா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔவையோ&searchhws=yes&matchtype=exact">ஔவையோ</a> auvaiyō
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=172">p. 172</a>)
+		<blockquote><p><hw><tam>ஔவையோ</tam></hw> , <i>interj.</i> alas! (<i>expressing pity.</i>)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔவையோ&searchhws=yes&matchtype=exact">ஔவையோ</a> auvaiyō
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔவையோ</tam> <t>auvaiyō</t></hw> , <i>int</i>. Alas! expressing pity; <tam>அம்மையோ. ஔவையோவென்று போக</tam> (<tam>சீவக</tam>. 1271).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/crea_query.py?qs=ஔஷதம்&searchhws=yes&matchtype=exact">ஔஷதம்</a> auṣatam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=220">p. 220</a>)
+		<blockquote><p><hw>ஔஷதம்</hw> பெ. [அ.வ.] 1: மருந்து; medicine. கைகண்ட ஔஷதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/fabricius_query.py?qs=ஔஷதம்&searchhws=yes&matchtype=exact">ஔஷதம்</a> auṣatam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=171">p. 171</a>)
+		<blockquote><p>*<hw><tam>ஔஷதம்</tam></hw> , <tam>ஔடதம்</tam>, <i>s.</i> medicine, physic, a remedy, <tam>அவிழ்தம்</tam>. <p2><tam>இலங்கனம் பரம ஔஷதம்</tam>, fasting is the best medicine.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/tamil-lex_query.py?qs=ஔஷதம்&searchhws=yes&matchtype=exact">ஔஷதம்</a> auṣatam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=632">p. 632</a>)
+		<blockquote><p><hw><tam>ஔஷதம்</tam> <t>auṣatam</t></hw> , <i>n</i>. < <i>auṣadha</i>. See <tam>ஔடதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/kadirvelu_query.py?qs=ஔஷதம், ஔடதம்&searchhws=yes&matchtype=exact">ஔஷதம், ஔடதம்</a> auṣatam, auṭatam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=349">p. 349</a>)
+		<blockquote><p><hw>ஔஷதம், ஔடதம்</hw> மருந்து.</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>

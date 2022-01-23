@@ -1,0 +1,3189 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Combined Tamil Dictionary Search</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL=stylesheet  HREF="/dictionaries/resp.css" TYPE="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/dictionaries/bootstrap/bootstrap.min.css">
+
+<META NAME ="description" CONTENT ="Online version of Kriyavin tarkalat Tamil akarati from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Kriyavin tarkalat Tamil akarati : Tamil-Tamil-Ankilam">
+<META NAME = "DC.creator" CONTENT = "Subramanian, Pavoorchatram Rajagopal">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : Kriya">
+<META NAME ="DC.date" CONTENT ="1992">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/crea/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K750">
+
+<META NAME ="description" CONTENT ="Online version of J.P. Fabricius' 'J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary,Online Tamil Dictionary,Tamil English Dictionary, Tamil English Online Dictionary,Online Tamil English Dictionary, Tamil to English Dictionary,Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="J. P. Fabricius's Tamil and English dictionary. 4th ed., rev.and enl">
+<META NAME ="DC.creator" CONTENT ="J. P. Fabricius">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Evangelical Lutheran Mission Pub. House">
+<META NAME ="DC.date" CONTENT ="1972">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/fabricius">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.F22">
+
+<META NAME ="description" CONTENT ="Online version of M. Kadirvelu Pillai's 'Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil Tamil Dictionary, Tamil Tamil Online Dictionary, Online Tamil Tamil Dictionary, Tamil to Tamil Dictionary, Online Tamil to Tamil Dictionary, Tamil to Tamil Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil Moli Akarathi. N. Kathiraiver Pillai's Tamil Moli Akarathi : Tamil-Tamil dictionary = Na. Kathiraiver Pillayin Tamil Moliyakarati : Tamil-Tamil akarathi">
+<META NAME ="DC.creator" CONTENT ="Kadirvelu Pillai, Na">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- Tamil.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/kadirvelu">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4757.K30">
+
+<META NAME ="description" CONTENT ="Online version of David W. McAlpin's 'A core vocabulary for Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A core vocabulary for Tamil">
+<META NAME ="DC.creator" CONTENT ="McAlpin, David W.">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Philadelphia, Pa. : Dept. of South Asia Regional Studies, University of Pennsylvania">
+<META NAME ="DC.date" CONTENT ="1981">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2002-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/mcalpin">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M322">
+
+<META NAME ="description" CONTENT ="Online version of the University of Madras's 'Tamil lexicon' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="Tamil lexicon">
+<META NAME ="DC.creator" CONTENT ="University of Madras">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : University of Madras">
+<META NAME ="DC.date" CONTENT ="1924-1936">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2005-02-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/tamil-lex">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.M2">
+
+<META NAME ="description" CONTENT ="Online version of Miron Winslow's 'A comprehensive Tamil and English dictionary of high and low Tamil' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Tamil Dictionary, Online Tamil Dictionary, Tamil English Dictionary, Tamil English Online Dictionary, Online Tamil English Dictionary, Tamil to English Dictionary, Online Tamil to English Dictionary, Tamil to English Online Dictionary">
+<META NAME ="DC.title" CONTENT ="A comprehensive Tamil and English dictionary of high and low Tamil">
+<META NAME ="DC.creator" CONTENT ="Winslow, Miron">
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Tamil language -- Dictionaries -- English.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="Madras : P.R. Hunt">
+<META NAME ="DC.date" CONTENT ="1862">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="eng">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2"  CONTENT ="tam">
+<META NAME ="DC.Date.Created" CONTENT ="2004-06-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT ="https://dsal.uchicago.edu/dictionaries/winslow">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PL4756.W50">
+
+<style>
+blockquote {
+    margin: .5em 0 1rem 2.5em;
+}
+</style>
+</head>
+
+
+<body bgcolor="white" link="navy" text="black" vlink="green">
+<div class="body_div">
+<div id="responsive_results_banner_table">
+    <div id="responsive_results_banner_tr">
+        <div id="responsive_banner_td_left">
+        <a href="/dictionaries/"><img class="results_banner" src="/dictionaries/graphics/ddsa-small.jpg" alt="Digital Dictionaries of South Asia" border="0"></a>
+        </div>
+        <div id="responsive_banner_td_center">
+        <a href="/dictionaries/tamil/"><img class="results_banner" src="/dictionaries/graphics/combined-tamil-dictionaries-search.jpg" alt="Combined Tamil Dictionary Search" border="0" style="width:100%;"></a>
+        </div>
+        <div id="responsive_banner_td_right"></div>
+    </div>
+</div>
+
+
+
+<div id='page'>
+
+		<div id='query_display'>
+			Search for headword: <b>சௌ</b>
+                       <div id='no_results'>
+                                296 results
+                        <span id='transliteration_tip'>
+                        Highlight Tamil and press "t" to transliterate.
+                        </span>
+                        </div>
+		</div>
+
+	<div id='results_display'>
+	
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		1) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌ&searchhws=yes&matchtype=exact">சௌ</a> cau
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1680">p. 1680</a>)
+		<blockquote><p><hw><tam>சௌ¹</tam> <t>cau</t></hw> . The compound of <tam>ச்</tam> and <tam>ஔ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		2) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌ&searchhws=yes&matchtype=exact">சௌ</a> cau
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1680">p. 1680</a>)
+		<blockquote><p><hw><tam>சௌ²</tam> <t>cau</t></hw> , <i>n</i>. < <i>saubhāgyavatī</i>. The initial letter of the word <i>caupākkiyavati</i>, used by elderly persons before the names of young girls and married women; <tam>சிறுமி சுமங்கலிகளைக் குறிக்க வழங்கும் சௌபாக்கியவதி என்ற சொல்லின் முதலெழுத்துக்குறிப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		3) <a href="/cgi-bin/app/winslow_query.py?qs=சௌ&searchhws=yes&matchtype=exact">சௌ</a> cau
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p><hw><tam>சௌ</tam></hw> . A syllabic letter composed of <tam>ச்</tam> and <tam>ஔ</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		4) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகசூத்திரன்&searchhws=yes&matchtype=exact">சௌகசூத்திரன்</a> caukacūttiraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகசூத்திரன்</hw> - பள்ளியெழுச்சி பாடு வோன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		5) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌகதன்&searchhws=yes&matchtype=exact">சௌகதன்</a> caukataṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌகதன்</tam></hw> , <i>s.</i> a Buddist, <tam>புத்தன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		6) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகதன்&searchhws=yes&matchtype=exact">சௌகதன்</a> caukataṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகதன்</hw> - சூனியவாதி,புத்தன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		7) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌகதிகம்&searchhws=yes&matchtype=exact">சௌகதிகம்</a> caukatikam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌகதிகம்</tam></hw> , <i>s.</i> doubt, <tam>சந்தேகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		8) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகதிகம்&searchhws=yes&matchtype=exact">சௌகதிகம்</a> caukatikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகதிகம்</hw> - சந்தேகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		9) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌகந்தம்&searchhws=yes&matchtype=exact">சௌகந்தம்</a> caukantam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌகந்தம்</tam></hw> , <i>s.</i> sweet fragrance, <tam>நறு மணம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		10) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகந்தம்&searchhws=yes&matchtype=exact">சௌகந்தம்</a> caukantam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகந்தம்</hw> - சுகந்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		11) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌகந்தி&searchhws=yes&matchtype=exact">சௌகந்தி</a> caukanti
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌகந்தி</tam></hw> , <i>s.</i> a kind of native arsenic.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		12) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகந்தி&searchhws=yes&matchtype=exact">சௌகந்தி</a> caukanti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகந்தி</hw> - கந்தபாஷாணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		13) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌகந்தி&searchhws=yes&matchtype=exact">சௌகந்தி</a> caukanti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1680">p. 1680</a>)
+		<blockquote><p><hw><tam>சௌகந்தி</tam> <t>caukanti</t></hw> , <i>n</i>. < <i>saugandhika</i>. 1. A kind of ruby having the tint of the red-flowered water-lily, one of four <i>māṇikkam</i>, q. v.; <tam>மாணிக்கவகை</tam>. (<tam>சிலப்</tam>. 14, 186, <tam>உரை</tam>.) 2. A mineral poison; <tam>கந்தகபாஷாணம்</tam> (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		14) <a href="/cgi-bin/app/winslow_query.py?qs=சௌகந்தி&searchhws=yes&matchtype=exact">சௌகந்தி</a> caukanti
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌகந்தி</tam></hw> , <i>s.</i> A kind of native arsenic, <tam>கந்தகபாஷாணம்</tam>. <i>(M. Dic.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		15) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌகந்திகம்&searchhws=yes&matchtype=exact">சௌகந்திகம்</a> caukantikam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌகந்திகம்</tam></hw> , <i>s.</i> a kind of lily, <tam>வெள் ளாம்பல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		16) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகந்திகம்&searchhws=yes&matchtype=exact">சௌகந்திகம்</a> caukantikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகந்திகம்</hw> - சௌகந்திக புஷ்பங்கள் நிறைந்துள்ள ஒரு தடாகம் இது குபேரன் நந்தநவநத்திலுள்ளது. இ ந்தச் சௌகந்திக புட்பமொன்றை வாயு பறித்துவீச அதுதுரோபதை க்கு முன்னே வந்து விழுந்தது, அ தைக்கண்ட துரோபதை, அந்தப் புட்பமொன்று வீமனை வேண்ட அவன் அவ்வாறே கொண்டுவந்து கொடுத்தான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		17) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகந்திகம்&searchhws=yes&matchtype=exact">சௌகந்திகம்</a> caukantikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகந்திகம்</hw> - கருங்குவளை, செங்குவ ளை, பதுமராகமணி, மாணிகத்தின் மூன்றாவது சாதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		18) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌகந்திகம்&searchhws=yes&matchtype=exact">சௌகந்திகம்</a> caukantikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1680">p. 1680</a>)
+		<blockquote><p><hw><tam>சௌகந்திகம்</tam> <t>caukantikam</t></hw> , <i>n</i>. < <i>saugandhika</i>. 1. Blue Indian water-lily See <tam>நீலோற்பலம்</tam>. (<smallcap>M. M</smallcap>. 369.) 2. See <tam>சௌகந்தி</tam>. 3. White Indian water-lily. See <tam>வெள்ளாம்பல். (மலை.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		19) <a href="/cgi-bin/app/winslow_query.py?qs=சௌகந்திகம்&searchhws=yes&matchtype=exact">சௌகந்திகம்</a> caukantikam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌகந்திகம்</tam></hw> , <i>s.</i> A kind of lily, <tam>வெள்ளாம்பல்</tam>. W. p. 946. <smallcaps>SOUGANDHIKA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		20) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகந்திகை&searchhws=yes&matchtype=exact">சௌகந்திகை</a> caukantikai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகந்திகை</hw> - ஒருவகைத்தாமரை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		21) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகந்தியம்&searchhws=yes&matchtype=exact">சௌகந்தியம்</a> caukantiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகந்தியம்</hw> - சுகந்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		22) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகம்&searchhws=yes&matchtype=exact">சௌகம்</a> caukam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகம்</hw> - கிளி, துக்கம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		23) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌகம்&searchhws=yes&matchtype=exact">சௌகம்</a> caukam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌகம்</tam> <t>caukam</t></hw> , <i>n</i>. < Hind. <i>cauk</i>. Four; <tam>நான்கு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		24) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகரிகன்&searchhws=yes&matchtype=exact">சௌகரிகன்</a> caukarikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகரிகன்</hw> - வேடன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		25) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌகரிகம்&searchhws=yes&matchtype=exact">சௌகரிகம்</a> caukarikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌகரிகம்</tam> <t>caukarikam</t></hw> , <i>n</i>. See <tam>சௌகரியம். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		26) <a href="/cgi-bin/app/crea_query.py?qs=சௌகரியப்படு&searchhws=yes&matchtype=exact">சௌகரியப்படு</a> caukariyappaṭu
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சௌகரியப்படு</hw> வி. (-பட, -பட்டு) 1: (ஒன்று ஒருவருக்கு) ஏற்றதாக அமைதல்; வசதிப்படுதல்; be convenient. நாளை என் வீட்டுக்குச் சாப்பிட வர உங்களுக்கு சௌகரியப்படுமா?/ எனக்கு சௌகரியப்பட்டுவராததால் கடையை இன்னொருவரிடம் விட்டுவிட்டேன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		27) <a href="/cgi-bin/app/crea_query.py?qs=சௌகரியம்&searchhws=yes&matchtype=exact">சௌகரியம்</a> caukariyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சௌகரியம்</hw> பெ. (-ஆக, -ஆன) 1: வசதி; advantage; convenience. இந்த வீடு சௌகரியமாக இருக்கிறது./ மருத்துவர் அவர் சௌகரியம் போலத்தான் வருவார், போவார்./ நீ போகாதது அவனுக்கு சௌகரியமாகப் போய்விட்டது. 2: நல்ல நிலை; comfortable state. எங்கேயோ சௌகரியமாக வாழ்ந்தால் சரி. 3: காண்க: சௌக்கியம், 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		28) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌகரியம்&searchhws=yes&matchtype=exact">சௌகரியம்</a> caukariyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌகரியம்</tam></hw> , <tam>சவுகரியம்</tam>, <tam>சோகரியம்</tam>, <i>s.</i> delight, pleasantness, comfort, health, <tam>சுகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		29) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகரியம்&searchhws=yes&matchtype=exact">சௌகரியம்</a> caukariyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகரியம்</hw> - சுகம், சோகரியம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		30) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌகரியம்&searchhws=yes&matchtype=exact">சௌகரியம்</a> caukariyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌகரியம்</tam> <t>caukariyam</t></hw> , <i>n</i>. < <i>saukarya</i>. 1. Ease, comfort, convenience; <tam>வசதி</tam>. 2. Cheapness; <tam>மலிவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		31) <a href="/cgi-bin/app/winslow_query.py?qs=சௌகரியம்&searchhws=yes&matchtype=exact">சௌகரியம்</a> caukariyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌகரியம்</tam></hw> –<tam>சோகரியம்</tam>, <i>s.</i> Delight, pleasantness, health, that which is gratifying, <tam>சுகம்</tam>. See <tam>சவுகரியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		32) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகாதிகம்&searchhws=yes&matchtype=exact">சௌகாதிகம்</a> caukātikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகாதிகம்</hw> - மகா யோகபீடம், மங் கல, சூத்திரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		33) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகாந்தியம், சௌகார்த்தகம், சௌகிருத்தியம்&searchhws=yes&matchtype=exact">சௌகாந்தியம், சௌகார்த்தகம், சௌகிருத்தியம்</a> caukāntiyam, caukārttakam, caukiruttiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகாந்தியம், சௌகார்த்தகம், சௌகிருத்தியம்</hw> சினேகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		34) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌகுமாரியம்&searchhws=yes&matchtype=exact">சௌகுமாரியம்</a> caukumāriyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌகுமாரியம்</hw> - இளமை, சுகுமாரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		35) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌக்கம்&searchhws=yes&matchtype=exact">சௌக்கம்</a> caukkam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1680">p. 1680</a>)
+		<blockquote><p><hw><tam>சௌக்கம்</tam> <t>caukkam</t></hw> , <i>n</i>. < T. <i>tcauka</i>. Cheapness; <tam>பண்டங்களின் மலிவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		36) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌக்காரி&searchhws=yes&matchtype=exact">சௌக்காரி</a> caukkāri
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p><hw><tam>சௌக்காரி</tam></hw> , <i>s. (Hind.)</i> same as <tam>சாவகாரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		37) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌக்காரி&searchhws=yes&matchtype=exact">சௌக்காரி</a> caukkāri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1680">p. 1680</a>)
+		<blockquote><p><hw><tam>சௌக்காரி</tam> <t>caukkāri</t></hw> , <i>n</i>. See <tam>சாவ்கார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		38) <a href="/cgi-bin/app/winslow_query.py?qs=சௌக்காரி&searchhws=yes&matchtype=exact">சௌக்காரி</a> caukkāri
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=973">p. 973</a>)
+		<blockquote><p><hw><tam>சௌக்காரி</tam></hw> , <i>s. [Hind.]</i> A merchant of the first rank, <tam>பாரிவர்த்தகன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		39) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌக்கார்&searchhws=yes&matchtype=exact">சௌக்கார்</a> caukkār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1680">p. 1680</a>)
+		<blockquote><p><hw><tam>சௌக்கார்</tam> <t>caukkār</t></hw> , <i>n</i>. A merchant. See <tam>சாவ்கார்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		40) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌக்கிதார்&searchhws=yes&matchtype=exact">சௌக்கிதார்</a> caukkitār
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1680">p. 1680</a>)
+		<blockquote><p><hw><tam>சௌக்கிதார்</tam> <t>caukkitār</t></hw> , <i>n</i>. < Hind. <i>caukidār</i>. Chokidar, guard, sentinel; <tam>பாராக்காரன்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		41) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌக்கியத்தப்பு&searchhws=yes&matchtype=exact">சௌக்கியத்தப்பு</a> caukkiyattappu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1680">p. 1680</a>)
+		<blockquote><p><hw><tam>சௌக்கியத்தப்பு</tam> <t>caukkiya-t-tappu</t></hw> , <i>n</i>. < <tam>சௌக்கியம்</tam> +. Ill-health, indisposition; <tam>நோய்</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		42) <a href="/cgi-bin/app/crea_query.py?qs=சௌக்கியம்&searchhws=yes&matchtype=exact">சௌக்கியம்</a> caukkiyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சௌக்கியம்</hw> பெ. (-ஆக) 1: (பெரும்பாலும் விசாரிக்கும்போது) ஆரோக்கியம்; நலம்; state of being well. சௌக்கியமாக இருக்கிறீர்களா? 2: சௌகரியம்; வசதி; comfortable state. அவர் அமெரிக்காவில் சௌக்கியமாக வாழ்கிறார்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		43) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌக்கியம்&searchhws=yes&matchtype=exact">சௌக்கியம்</a> caukkiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌக்கியம்</tam></hw> , <i>s.</i> see <tam>சவுக்கியம்</tam>, health, 2. ease, comfort 3. kindness attention, tenderness of treatment, <tam>சௌ சன்னியம்</tam>. <p2><tam>சௌக்கியமா</tam>? are you well?</p2> <p2><tam>சௌக்கியகீனம்</tam>, <tam>வீனம்</tam>, indisposition, slight disease.</p2> <p2><tam>சௌக்கியத் தப்பு</tam>, illness, sickness.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		44) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌக்கியம்&searchhws=yes&matchtype=exact">சௌக்கியம்</a> caukkiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌக்கியம்</hw> - சந்தோஷம், சுகம், வசதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		45) <a href="/cgi-bin/app/mcalpin_query.py?qs=சௌக்கியம்&searchhws=yes&matchtype=exact">சௌக்கியம்</a> caukkiyam
+		from <a href="/dictionaries/mcalpin/">McAlpin's <i>"A core vocabulary for Tamil"</i></a>
+		(<a href="/cgi-bin/app/mcalpin_query.py?page=34">p. 34</a>)
+		<blockquote><p><hw><tam>சௌக்கியம்</tam></hw> cavkkyam <tam>சவ்க்கயம்</tam> (good) health, well-being</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		46) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌக்கியம்&searchhws=yes&matchtype=exact">சௌக்கியம்</a> caukkiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1680">p. 1680</a>)
+		<blockquote><p><hw><tam>சௌக்கியம்</tam> <t>caukkiyam</t></hw> , <i>n</i>. < <i>saukhya</i>. 1. Health, convalescence; <tam>சொஸ்தம்</tam>. 2. See <tam>சௌகரியம்</tam>. 3. Evacuation; <tam>மலங்கழிக்கை</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		47) <a href="/cgi-bin/app/winslow_query.py?qs=சௌக்கியம்&searchhws=yes&matchtype=exact">சௌக்கியம்</a> caukkiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌக்கியம்</tam></hw> , <i>s.</i> (<i>also</i> <tam>சவுக்கியம்</tam>.) Health, convalescence, <tam>சுகம்</tam>. 2. Salubriousness, <tam>ஆரோக்கியம்</tam>. 3. Ease, comfort, delight, refreshment, pleasantness–as <tam>சௌகரியம்</tam>. <i>(c.)</i> 4. Kindness, attention, tenderness of treatment, <tam>சௌசன்னியம்</tam>. W. p. 946. <smallcaps>SOUKHYA.</smallcaps> <tam>சௌக்கியமா</tam>. Are you well? <tam>அவ்விடத்துக்குஇவ்விடஞ்சௌக்கியம்</tam>. This is a better place than that. <p2><tam>சௌக்கியத்தப்பு</tam>, <i>v. noun.</i> Illness, sickness. <i>(c.)</i></p2> <p2><tam>சௌக்கியகீனம்</tam>–<tam>சௌக்கியவீனம்</tam>. <i>s.</i> Indisposition, slight disease; [<i>ex</i> <tam>கீனம்</tam>, <tam>ஈனம்</tam>, want.] <i>(Colloq.)</i></p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		48) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌக்கியவீனம்&searchhws=yes&matchtype=exact">சௌக்கியவீனம்</a> caukkiyavīṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1680">p. 1680</a>)
+		<blockquote><p><hw><tam>சௌக்கியவீனம்</tam> <t>caukkiya-v-īṉam</t></hw> , <i>n</i>. < id. + <i>hīna</i>. See <tam>சௌக்கியத்தப்பு</tam>. <i>Loc</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		49) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌக்கு&searchhws=yes&matchtype=exact">சௌக்கு</a> caukku
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1680">p. 1680</a>)
+		<blockquote><p><hw><tam>சௌக்கு</tam> <t>caukku</t></hw> , <i>n</i>. See <tam>சவுக்கம்</tam>, 1.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		50) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌசன்னியன்&searchhws=yes&matchtype=exact">சௌசன்னியன்</a> caucaṉṉiyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌசன்னியன்</hw> - பட்சமுடையோன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		51) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌசன்னியம்&searchhws=yes&matchtype=exact">சௌசன்னியம்</a> caucaṉṉiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌசன்னியம்</tam></hw> , <i>s.</i> friendship, kindness. <tam>அன்பு</tam>. <p2><tam>சௌசன்னியன்</tam>, a kind friendly man.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		52) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌசன்னியம்&searchhws=yes&matchtype=exact">சௌசன்னியம்</a> caucaṉṉiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌசன்னியம்</hw> - அன்பு, இரக்கம், சி னேகம், பட்சம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		53) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌசன்னியம்&searchhws=yes&matchtype=exact">சௌசன்னியம்</a> caucaṉṉiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌசன்னியம்</tam> <t>caucaṉṉiyam</t></hw> , <i>n</i>. < <i>saujanya</i>. 1. Kindly disposition, amiability; <tam>இனிய குணம்</tam>. 2. Friendship, intimacy; <tam>அன்னியோன்னி யம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		54) <a href="/cgi-bin/app/winslow_query.py?qs=சௌசன்னியம்&searchhws=yes&matchtype=exact">சௌசன்னியம்</a> caucaṉṉiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌசன்னியம்</tam></hw> , <i>s.</i> (<i>also</i> <tam>சவுசன்னியம்</tam>.) Kindness, compassion, friendship, familiarity, <tam>அன்பு</tam>. W. p. 946. <smallcaps>SOUJANYA.</smallcaps> <p2><tam>சௌசன்னியன்</tam>, <i>s.</i> A kind, friendly man.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		55) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌசம்&searchhws=yes&matchtype=exact">சௌசம்</a> caucam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌசம்</tam></hw> , <tam>சவுசம்</tam>, <i>s.</i> cleanliness, purity, <tam>சுத்தம்</tam>; 2. clansing, ablusion, <tam>சுத்தி கரம்</tam>. <p2><tam>சௌச அறை</tam>, a privy.</p2> <p2><tam>சௌசம்பண்ண</tam>, to wash after passing excrements, <tam>கால்கழுவ</tam>.</p2> <p2><tam>சௌசவிதி</tam>, the prescribed mode of purifying after passing excrements.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		56) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌசம்&searchhws=yes&matchtype=exact">சௌசம்</a> caucam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌசம்</hw> - சுத்தஞ்செய்கை, சுத்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		57) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌசம்&searchhws=yes&matchtype=exact">சௌசம்</a> caucam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌசம்</tam> <t>caucam</t></hw> , <i>n</i>. < <i>šauca</i>. 1. Purity, cleanliness; <tam>சுத்தம். (சூடா.)</tam> 2. Cleansing, washing after evacuation; <tam>கால்கழுவுகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		58) <a href="/cgi-bin/app/winslow_query.py?qs=சௌசம்&searchhws=yes&matchtype=exact">சௌசம்</a> caucam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌசம்</tam></hw> , <i>s.</i> (<i>also</i> <tam>சவுசம்</tam>.) Purity, cleanliness, <tam>சுத்தம்</tam>. 2. Cleansing, purifying, ablution, washing one! self, <tam>சுத்தஞ்செய்கை</tam>. W. p. 859. <smallcaps>SOUCHA.</smallcaps> <p2><tam>சௌசஅறை</tam>, <i>s.</i> A privy. <i>(R.)</i></p2> <p2><tam>சௌசம்பண்ண</tam>, <i>inf.</i> To wash after passing excrements, <tam>கால்கழுவ</tam>.</p2> <p2><tam>சௌசவிதி</tam>, <i>s.</i> The prescribed mode of purifying after passing excrements. <i>(p.)</i></p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		59) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌசவிதி&searchhws=yes&matchtype=exact">சௌசவிதி</a> caucaviti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌசவிதி</hw> - சுத்தஞ்செய்விதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		60) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌசவிதி&searchhws=yes&matchtype=exact">சௌசவிதி</a> caucaviti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌசவிதி</tam> <t>cauca-viti</t></hw> , <i>n</i>. < id. +. Rules prescribed for washing one's body; <tam>சரீரத்தைச் சுத்தஞ்செய்யவேண்டிய முறை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		61) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌசாசாரம்&searchhws=yes&matchtype=exact">சௌசாசாரம்</a> caucācāram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌசாசாரம்</hw> - ஆசவுசநிவர்த்திசெய்வி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		62) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌசி&searchhws=yes&matchtype=exact">சௌசி</a> cauci
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌசி</tam></hw> , <tam>சௌசிகன்</tam>, <i>s.</i> a tailor; a whip- cat.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		63) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌசி, சௌசிகன்&searchhws=yes&matchtype=exact">சௌசி, சௌசிகன்</a> cauci, caucikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌசி, சௌசிகன்</hw> தையற்காரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		64) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌசேயன்&searchhws=yes&matchtype=exact">சௌசேயன்</a> caucēyaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌசேயன்</tam></hw> , <i>s.</i> a washerman, <tam>வண்ணான்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		65) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌசேயன்&searchhws=yes&matchtype=exact">சௌசேயன்</a> caucēyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌசேயன்</hw> - வண்ணான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		66) <a href="/cgi-bin/app/crea_query.py?qs=சௌசௌ&searchhws=yes&matchtype=exact">சௌசௌ</a> caucau
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சௌசௌ</hw> பெ. 1: வெளிர்ப் பச்சை நிறமுடைய சொரசொரப்பான மேற்பகுதியையும், நீர்ச் சத்து மிகுந்த சதைப் பகுதியையும் கொண்ட ஒரு வகைக் காய்; a kind of vegetable with light green skin.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		67) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌசௌ&searchhws=yes&matchtype=exact">சௌசௌ</a> caucau
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌசௌ</tam> <t>caucau</t></hw> , <i>n</i>. 1. Chow-chow; <tam>உணவுவகை</tam>. <i>Loc</i>. 2. A kind of vegetable; <tam>காய் கறிவகை</tam>. <i>Loc</i>. 3. A variety entertainment made up of several short dramatic performances; <tam>பல நாடகங்களிலிருந்து ஒரோர் அங்கங்களை எடுத்துக் கொண்டு நடிக்கும் நாடகவிசேடம்</tam>. <i>Mod</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		68) <a href="/cgi-bin/app/crea_query.py?qs=சௌஜன்யம், சௌஜன்னியம்&searchhws=yes&matchtype=exact">சௌஜன்யம், சௌஜன்னியம்</a> caujaṉyam, caujaṉṉiyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சௌஜன்(னி)யம்</hw> பெ. [அ.வ.] 1: (பழகுதல், பேசுதல் முதலியவற்றில் காட்டும்) சுமுகம்; இனிய குணம்; kindly disposition; amiability. அவர் எல்லோரிடமும் சௌஜன்னியமாகப் பழகுவார். 2: அன்னியோன்னியம்; நெருக்கம்; intimacy. எதையாவது பேசி எங்கள் இருவருக்கிடையே உள்ள சௌஜன்னியத்தைக் கெடுத்துவிடாதே.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		69) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌடால்&searchhws=yes&matchtype=exact">சௌடால்</a> cauṭāl
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p><hw><tam>சௌடால்</tam></hw> , <i>s. (Hind.)</i> foppery, <tam>சவுடால்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		70) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌடால்&searchhws=yes&matchtype=exact">சௌடால்</a> cauṭāl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌடால்</tam> <t>cauṭāl</t></hw> , <i>n</i>. < U. <i>cautāl</i>. Ostentation, stylishness. See <tam>சவடால்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		71) <a href="/cgi-bin/app/winslow_query.py?qs=சௌடால்&searchhws=yes&matchtype=exact">சௌடால்</a> cauṭāl
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p><hw><tam>சௌடால்</tam></hw> , <i>s. (Hind.)</i> Foppery, &c. –as <tam>சவுடால்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		72) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌடீரியம்&searchhws=yes&matchtype=exact">சௌடீரியம்</a> cauṭīriyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌடீரியம்</hw> - வீரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		73) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌடு&searchhws=yes&matchtype=exact">சௌடு</a> cauṭu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p><hw><tam>சௌடு</tam></hw> , <i>s.</i> see <tam>சவடு</tam>, sediment.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		74) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌடு&searchhws=yes&matchtype=exact">சௌடு</a> cauṭu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌடு</hw> - சவுடு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		75) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌடு&searchhws=yes&matchtype=exact">சௌடு</a> cauṭu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌடு</tam> <t>cauṭu</t></hw> , <i>n</i>. [K. <i>cavuḷu</i>.] Sediment. See <tam>சவடு</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		76) <a href="/cgi-bin/app/winslow_query.py?qs=சௌடு&searchhws=yes&matchtype=exact">சௌடு</a> cauṭu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p><hw><tam>சௌடு</tam></hw> , <i>s.</i> Sediment, &c.–as <tam>சவுடு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		77) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌடோல்&searchhws=yes&matchtype=exact">சௌடோல்</a> cauṭōl
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p><hw><tam>சௌடோல்</tam></hw> , <i>s.</i> a howdah, <tam>சவுடோல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		78) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌடோல்&searchhws=yes&matchtype=exact">சௌடோல்</a> cauṭōl
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌடோல்</tam> <t>cauṭōl</t></hw> , <i>n</i>. < Hind. <i>cauḍōla</i>. Howdah; <tam>அம்பாரி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		79) <a href="/cgi-bin/app/winslow_query.py?qs=சௌடோல்&searchhws=yes&matchtype=exact">சௌடோல்</a> cauṭōl
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p><hw><tam>சௌடோல்</tam></hw> , <i>s.</i> A howdah–as <tam>சவுடோல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		80) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌண்டி&searchhws=yes&matchtype=exact">சௌண்டி</a> cauṇṭi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌண்டி</tam></hw> , <i>s.</i> long pepper, <tam>சவுண்டி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		81) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌண்டி&searchhws=yes&matchtype=exact">சௌண்டி</a> cauṇṭi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌண்டி</hw> - ஒருபிதிர், திப்பிலி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		82) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌண்டி&searchhws=yes&matchtype=exact">சௌண்டி</a> cauṇṭi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌண்டி</tam> <t>cauṇṭi</t></hw> , <i>n</i>. < <i>šauṇḍī</i>. Long pepper. See <tam>திப்பலி. (மலை.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		83) <a href="/cgi-bin/app/winslow_query.py?qs=சௌண்டி&searchhws=yes&matchtype=exact">சௌண்டி</a> cauṇṭi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌண்டி</tam></hw> –<tam>சவுண்டி</tam>, <i>s.</i> Long-pepper. See <tam>சவுண்டம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		84) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌண்டிகன்&searchhws=yes&matchtype=exact">சௌண்டிகன்</a> cauṇṭikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌண்டிகன்</tam> <t>cauṇṭikaṉ</t></hw> , <i>n</i>. < <i>šauṇḍika</i>. Toddy-seller; <tam>கள்விற்போன். (சூடா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		85) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌண்டிகரணம்&searchhws=yes&matchtype=exact">சௌண்டிகரணம்</a> cauṇṭikaraṇam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌண்டிகரணம்</hw> - சிராத்தக்கிரியையி னொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		86) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌண்டிகர்&searchhws=yes&matchtype=exact">சௌண்டிகர்</a> cauṇṭikar
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌண்டிகர்</tam></hw> , <tam>சவுண்டிகர்</tam> <i>s.</i> toddy-sellers; dealers in spirituous liquors.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		87) <a href="/cgi-bin/app/winslow_query.py?qs=சௌண்டிகர்&searchhws=yes&matchtype=exact">சௌண்டிகர்</a> cauṇṭikar
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌண்டிகர்</tam></hw> , <i>s.</i> (<i>plu. also</i> <tam>சவுண்டிகர்</tam>.) Toddy-sellers, dealers in spirituous liquors, <tam>கள்விற்போர்</tam>. W. p. 859. <smallcaps>S'OUND'IKA.</smallcaps></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		88) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌண்டிதர்&searchhws=yes&matchtype=exact">சௌண்டிதர்</a> cauṇṭitar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌண்டிதர்</hw> - சாணார்,கள்விற்போர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		89) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌதம்&searchhws=yes&matchtype=exact">சௌதம்</a> cautam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌதம்</hw> - அரண்மனை, சாலை, மலிவு, வெள்ளி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		90) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌதாகிரி&searchhws=yes&matchtype=exact">சௌதாகிரி</a> cautākiri
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p><hw><tam>சௌதாகிரி</tam></hw> , <tam>சவுதாகிரி</tam> <i>s. (Hind.)</i> a horse- dealer. <p2><tam>சௌதாகிரிக் குதிரை</tam>, a horse that is to be sold.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		91) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌதாகிரி&searchhws=yes&matchtype=exact">சௌதாகிரி</a> cautākiri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌதாகிரி</hw> - குதிரை வியாபாரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		92) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌதாகிரி&searchhws=yes&matchtype=exact">சௌதாகிரி</a> cautākiri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌதாகிரி</tam> <t>cautākiri</t></hw> , <i>n</i>. < Persn. <i>saudāgari</i>. Horse-dealer; <tam>குதிரை வியாபாரி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		93) <a href="/cgi-bin/app/winslow_query.py?qs=சௌதாகிரி&searchhws=yes&matchtype=exact">சௌதாகிரி</a> cautākiri
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p><hw><tam>சௌதாகிரி</tam></hw> , <i>s. (Hind.)</i> A horse-dealer, <tam>சவுதாகிரி</tam>. <p2><tam>சௌதாகிரிக்குதிரை</tam>, <i>s.</i> A horse to be sold. <i>(R.)</i></p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		94) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌதாகிரிக்குதிரை&searchhws=yes&matchtype=exact">சௌதாகிரிக்குதிரை</a> cautākirikkutirai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌதாகிரிக்குதிரை</tam> <t>cautākiri-k-kutirai</t></hw> , <i>n</i>. < id. +. Horse for sale; <tam>விற்கப்படுங்குதிரை</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		95) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌதாக்கிரிக்குதிரை&searchhws=yes&matchtype=exact">சௌதாக்கிரிக்குதிரை</a> cautākkirikkutirai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌதாக்கிரிக்குதிரை</hw> - விலைக்குதிரை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		96) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌதாசன்&searchhws=yes&matchtype=exact">சௌதாசன்</a> cautācaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌதாசன்</hw> - இட்சுவாகு வமிசத்திற் பிறந்த ஓரரசன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		97) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌதாமனி&searchhws=yes&matchtype=exact">சௌதாமனி</a> cautāmaṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌதாமனி</hw> - மின்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		98) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌதாயம்&searchhws=yes&matchtype=exact">சௌதாயம்</a> cautāyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌதாயம்</tam></hw> , <i>s.</i> a nuptial gift, <tam>சீதனம்</tam>; 2. prize, reward; (<tam>சு</tam>, good+<tam>தாயம்</tam>, gift).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		99) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌதாயம்&searchhws=yes&matchtype=exact">சௌதாயம்</a> cautāyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌதாயம்</hw> - சீதனம், நன்கொடை பந்தயப் பொருள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		100) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌதாயம்&searchhws=yes&matchtype=exact">சௌதாயம்</a> cautāyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌதாயம்</tam> <t>cautāyam</t></hw> , <i>n</i>. < <i>su-dāya</i>. (<smallcap>W</smallcap>.) 1. Gift made to a woman by affectionate kindred, before or after marriage; <tam>விவாகத்திற்கு முன்பின்னாக அன்புடைச் சுற்றத்தாராற் கொடுக்கப்படுஞ் சீதனவகை</tam>. 2. Prize, reward; <tam>வெகுமதிப்பொருள்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		101) <a href="/cgi-bin/app/winslow_query.py?qs=சௌதாயம்&searchhws=yes&matchtype=exact">சௌதாயம்</a> cautāyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌதாயம்</tam></hw> , <i>s.</i> A nuptial gift, <tam>சீதனம்</tam>. W. p. 930. <smallcaps>SODHYA.</smallcaps> 2. A prize, reward, <tam>பந்தயப்பொருள்</tam>; [<i>ex</i> <tam>ச</tam>, good, <i>et</i> <tam>தாயம்</tam> gift.]</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		102) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌதாயிகம்&searchhws=yes&matchtype=exact">சௌதாயிகம்</a> cautāyikam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p><hw><tam>சௌதாயிகம்</tam></hw> , <i>s.</i> coldness, frigidity, <tam>சீதளம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		103) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌதாயிகம்&searchhws=yes&matchtype=exact">சௌதாயிகம்</a> cautāyikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌதாயிகம்</hw> - சீதளம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		104) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌதாயிகம்&searchhws=yes&matchtype=exact">சௌதாயிகம்</a> cautāyikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌதாயிகம்</tam> <t>cautāyikam</t></hw> , <i>n</i>. < <i>saudāyika</i>. See <tam>சௌதாயம்</tam>, 1. (<tam>விவகாரசங். சிறப். பக்</tam>. 90.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		105) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌதாய்ப்புல்லரி&searchhws=yes&matchtype=exact">சௌதாய்ப்புல்லரி</a> cautāyppullari
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌதாய்ப்புல்லரி</tam> <t>cautāy-p-pul-vari</t></hw> , <i>n</i>. < U. <i>cauth</i> +. Tax levied for grazing = ¼ of the full assessment of the land when used for cultivation; <tam>மேய்ச்சல் தரைக்காக இடப்படும் நாலிலொரு பங்கு நிலவரி</tam>. (<smallcap>M. M</smallcap>. 703.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		106) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌத்தி&searchhws=yes&matchtype=exact">சௌத்தி</a> cautti
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌத்தி</tam></hw> , <i>s. (Tel.)</i> the fourth day of the moon's age, <tam>சதுர்த்தி</tam>, 2. (<i>prop.</i> <tam>சவித்தி</tam>) as <tam>சக்களத்தி</tam>, used abusively.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		107) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌத்தி&searchhws=yes&matchtype=exact">சௌத்தி</a> cautti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌத்தி</hw> - சக்களத்தி, சகக்கிழித்தி, சக களத்தி, சதுர்த்தி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		108) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌத்தி&searchhws=yes&matchtype=exact">சௌத்தி</a> cautti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌத்தி</tam> <t>cautti</t></hw> , <i>n</i>. < T. <i>savati</i> < <i>sa-patnī</i>. [K. <i>savati</i>.] Rival or co-wife; <tam>சக்களத்தி</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		109) <a href="/cgi-bin/app/winslow_query.py?qs=சௌத்தி&searchhws=yes&matchtype=exact">சௌத்தி</a> cautti
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p><hw><tam>சௌத்தி</tam></hw> , <i>s. (Tel.)</i> The fourth day of the moon's age. See <tam>சதுர்த்தி</tam>–used abusively. <i>(c.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		110) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌத்திரன்&searchhws=yes&matchtype=exact">சௌத்திரன்</a> cauttiraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌத்திரன்</hw> - சூத்திரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		111) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌத்திரன்&searchhws=yes&matchtype=exact">சௌத்திரன்</a> cauttiraṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌத்திரன்</tam> <t>cauttiraṉ</t></hw> , <i>n</i>. < <i>šaudra</i>. Son of a Šūdra mother and a father belonging to any one of the first three castes, one of twelve <i>puttiraṉ</i>, q.v.; <tam>முதன்மூன்று குலத்தைச்சேர்ந்த ஒரு வனுக்குச் சூத்திரஸ்திரீயிடம் பிறந்தவன். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		112) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌத்திராந்திகன்&searchhws=yes&matchtype=exact">சௌத்திராந்திகன்</a> cauttirāntikaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌத்திராந்திகன்</tam> <t>cauttirāntikaṉ</t></hw> , <i>n</i>. < id. Follower or adherent of <i>cauttirāntika</i> sect of Buddhism; <tam>புத்தமதத்தில் சௌத்திராந்திகப் பிரிவைச் சேர்ந்தவன்</tam>. (<tam>சி. போ. பா. அவை. பக்</tam>. 37.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		113) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌத்திராந்திகம்&searchhws=yes&matchtype=exact">சௌத்திராந்திகம்</a> cauttirāntikam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p>*<hw><tam>சௌத்திராந்திகம்</tam></hw> , <i>s.</i> a system of atheis- tical philosophy.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		114) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌத்திராந்திகம்&searchhws=yes&matchtype=exact">சௌத்திராந்திகம்</a> cauttirāntikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌத்திராந்திகம்</tam> <t>cauttirāntikam</t></hw> , <i>n</i>. < <i>sautrāntika</i>. A school of Buddhism which admits the authority of the Buddhist Sūtras only; <tam>சூத்திரபிடகத்தைமட்டும் பிரமாணமாகக் கொள் ளும் பௌத்தமதப் பிரிவு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		115) <a href="/cgi-bin/app/winslow_query.py?qs=சௌத்திராந்திகம்&searchhws=yes&matchtype=exact">சௌத்திராந்திகம்</a> cauttirāntikam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌத்திராந்திகம்</tam></hw> , <i>s.</i> A system of atheistical philosophy. See <tam>சவுந்திராந்திகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		116) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌத்திராமணி&searchhws=yes&matchtype=exact">சௌத்திராமணி</a> cauttirāmaṇi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌத்திராமணி</hw> - யாகமிருபத் தொன் றி னொன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		117) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌத்திராமணி&searchhws=yes&matchtype=exact">சௌத்திராமணி</a> cauttirāmaṇi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌத்திராமணி</tam> <t>cauttirāmaṇi</t></hw> , <i>n</i>. < <i>sautrāmaṇī</i>. A sacrifice in honour of Indra; <tam>இந்தி ரனைக்குறித்துச் செய்யும் யாகவகை. (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		118) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌத்து&searchhws=yes&matchtype=exact">சௌத்து</a> cauttu
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=460">p. 460</a>)
+		<blockquote><p><hw><tam>சௌத்து</tam></hw> , <i>s.</i> see <tam>சவுத்து</tam>, pattern.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		119) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌத்து&searchhws=yes&matchtype=exact">சௌத்து</a> cauttu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌத்து¹</tam> <t>cauttu</t></hw> , <i>n</i>. < T. <i>savatu</i>. cf. <i>samatā</i>. Pattern, sample, model; <tam>மாதிரிகை</tam>. (<smallcap>C. G</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		120) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌத்து&searchhws=yes&matchtype=exact">சௌத்து</a> cauttu
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌத்து²</tam> <t>cauttu</t></hw> , <i>n</i>. < U. <i>cauth</i> < <i>caturtha</i>. One-fourth of the actual collections of revenue, levied by the Mahrattas on their subordinate rulers; <tam>மகாராஷ்டிரரது ஆட்சியின் கீழ்ப்பட்ட அரச ரிடமிருந்து வசூல்செய்துவந்த நாலிலொருபாகமான அர சிறை</tam>. (<smallcap>M. M</smallcap>. 184.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		121) <a href="/cgi-bin/app/winslow_query.py?qs=சௌத்து&searchhws=yes&matchtype=exact">சௌத்து</a> cauttu
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p><hw><tam>சௌத்து</tam></hw> , <i>s.</i> A kind. See <tam>சவுத்து</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		122) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌநந்தம்&searchhws=yes&matchtype=exact">சௌநந்தம்</a> caunantam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌநந்தம்</hw> - பலராமனுலக்கை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		123) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌநந்தி&searchhws=yes&matchtype=exact">சௌநந்தி</a> caunanti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌநந்தி</hw> - பலதேவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		124) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌநந்தை&searchhws=yes&matchtype=exact">சௌநந்தை</a> caunantai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌநந்தை</hw> - முதாவதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		125) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌந்தம்&searchhws=yes&matchtype=exact">சௌந்தம்</a> cauntam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌந்தம்</tam> <t>cauntam</t></hw> , <i>n</i>. A mineral poison; <tam>பிறவிப்பாஷாணவகை. (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		126) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌந்தரநாயகி&searchhws=yes&matchtype=exact">சௌந்தரநாயகி</a> cauntaranāyaki
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌந்தரநாயகி</hw> - சௌந்தரியவதி திரு ப்பெரும்புலியூரில் கோயில் கொண் டிருக்கும் தேவியார் பெயர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		127) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌந்தரநாயகியம்மை&searchhws=yes&matchtype=exact">சௌந்தரநாயகியம்மை</a> cauntaranāyakiyammai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌந்தரநாயகியம்மை</hw> - திருக்கோளம் பத்திலே கோயில்கொண்டிருக்கும் தேவியார் பெயர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		128) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌந்தரன்&searchhws=yes&matchtype=exact">சௌந்தரன்</a> cauntaraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌந்தரன்</hw> - அழகன், சிவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		129) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌந்தரபாண்டியன்&searchhws=yes&matchtype=exact">சௌந்தரபாண்டியன்</a> cauntarapāṇṭiyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌந்தரபாண்டியன்</hw> - இவர் தடாதகை ப்பிராட்டியார்க்கு மணவாளன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		130) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌந்தரமுகம்&searchhws=yes&matchtype=exact">சௌந்தரமுகம்</a> cauntaramukam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌந்தரமுகம்</hw> - பூரித்தமகிழ்ச்சியான் மலர்ந்தமுகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		131) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌந்தரமுகம்&searchhws=yes&matchtype=exact">சௌந்தரமுகம்</a> cauntaramukam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌந்தரமுகம்</tam> <t>cauntara-mukam</t></hw> , <i>n</i>. < <i>sundara</i> +. 1. Blooming, joyful countenance; <tam>மலர்ந்த முகம்</tam>. (<smallcap>W</smallcap>.) 2. (Nāṭya.) Showing a cheerful countenance indicative of overflowing happiness, one of 14 <i>muka-v-apiṉayam</i>, q.v.; <tam>முகவபிநயம் பதினான்கனுள் ஒன்றாய் மிக்க மகிழ்ச்சியால் மலர்ந்தமுகத்தைக் காட்டுகை. (சது.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		132) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌந்தரம்&searchhws=yes&matchtype=exact">சௌந்தரம்</a> cauntaram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p>*<hw><tam>சௌந்தரம்</tam></hw> , <tam>சௌந்தரியம்</tam>, <tam>சௌந்தரீகம்</tam>, <i>s.</i> see <tam>சவுந்தரம்</tam>, beauty. <p2><tam>சௌந்தரன்</tam>, Siva; 2. a handsome man (<i>fem.</i> <tam>சௌந்தரி</tam>).</p2> <p2><tam>சௌந்தரநாயகி</tam>, <tam>சௌந்தரியவதி</tam>, a beautiful female.</p2> <p2><tam>சௌந்தரேசன்</tam>, <tam>சுந்தரேசன்</tam>, as worshipped at Madura and called <tam>சொக்கலிங்கம்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		133) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌந்தரம்&searchhws=yes&matchtype=exact">சௌந்தரம்</a> cauntaram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌந்தரம்</hw> - அழகு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		134) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌந்தரம்&searchhws=yes&matchtype=exact">சௌந்தரம்</a> cauntaram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌந்தரம்</tam> <t>cauntaram</t></hw> , <i>n</i>. See <tam>சௌந்தரியம்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		135) <a href="/cgi-bin/app/winslow_query.py?qs=சௌந்தரம்&searchhws=yes&matchtype=exact">சௌந்தரம்</a> cauntaram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌந்தரம்</tam></hw> , <i>s.</i> Beauty, <tam>அழகு</tam>. See <tam>சவுந்தரம்</tam>, <tam>சுந்தரம்</tam>. <p2><tam>சௌந்தரமுகம்</tam>, <i>s.</i> A blooming, joyful countenance, arising from happiness of mind–one of the thirty-two expressions of countenance.</p2> <p2><tam>சௌந்தரன்</tam>, <i>s.</i> Siva–as <tam>சுந்தரேசன்</tam>.</p2> <p2><tam>சௌந்தரநாயகி</tam>, <i>s.</i> As <tam>சௌந்தரியவதி</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		136) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌந்தரலகிரி&searchhws=yes&matchtype=exact">சௌந்தரலகிரி</a> cauntaralakiri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌந்தரலகிரி</hw> - ஒருநூல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		137) <a href="/cgi-bin/app/winslow_query.py?qs=சௌந்தரலகிரி&searchhws=yes&matchtype=exact">சௌந்தரலகிரி</a> cauntaralakiri
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌந்தரலகிரி</tam></hw> , <i>s.</i> A book of praises to Parvati, <tam>ஓர்நூல்</tam>. <i>(c.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		138) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌந்தரி&searchhws=yes&matchtype=exact">சௌந்தரி</a> cauntari
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌந்தரி</hw> - அழகு, பார்வதி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		139) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌந்தரி&searchhws=yes&matchtype=exact">சௌந்தரி</a> cauntari
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌந்தரி</tam> <t>cauntari</t></hw> , <i>n</i>. < <i>sundarī</i>. A lovely woman; <tam>அழகுடையவள்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		140) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌந்தரிகம், சௌந்தரியம்&searchhws=yes&matchtype=exact">சௌந்தரிகம், சௌந்தரியம்</a> cauntarikam, cauntariyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌந்தரிகம், சௌந்தரியம்</hw> சௌந்தரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		141) <a href="/cgi-bin/app/crea_query.py?qs=சௌந்தரியம்&searchhws=yes&matchtype=exact">சௌந்தரியம்</a> cauntariyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சௌந்தரியம்</hw> பெ. [அ.வ.] 1: அழகு; எழில்; beauty; grace.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		142) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌந்தரியம்&searchhws=yes&matchtype=exact">சௌந்தரியம்</a> cauntariyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1681">p. 1681</a>)
+		<blockquote><p><hw><tam>சௌந்தரியம்</tam> <t>cauntarịyam</t></hw> , <i>n</i>. < <i>saundarya</i>. Beauty, loveliness; <tam>அழகு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		143) <a href="/cgi-bin/app/winslow_query.py?qs=சௌந்தரியம்&searchhws=yes&matchtype=exact">சௌந்தரியம்</a> cauntariyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌந்தரியம்</tam></hw> –<tam>சௌந்தரீகம்</tam>, <i>s.</i> Beauty, great beauty, loveliness, <tam>பேரழகு</tam>. W. p. 946. <smallcaps>SOUND'ARYYA.</smallcaps> <p2><tam>சௌந்தரியவதி</tam>, <i>s.</i> A beautiful female.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		144) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌந்தரியலகரி&searchhws=yes&matchtype=exact">சௌந்தரியலகரி</a> cauntariyalakari
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌந்தரியலகரி</tam> <t>cauntariya-lakari</t></hw> , <i>n</i>. < id. + <i>laharī</i>. A metrical version in Tamil of Šankarācārya's Saundaryalaharī, by Vīrai-k-kavirāca-paṇṭitar; <tam>வீரைக் கவிராசபண்டிதரால் தமிழ்ச்செய்யுளாகச் செய்யப்பட்டதும் சங்கராசாரியர் செய்த சௌந்தரியலகரியின் மொழிப்பெயர்ப்புமான ஒரு நூல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		145) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌந்தரியவதி&searchhws=yes&matchtype=exact">சௌந்தரியவதி</a> cauntariyavati
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌந்தரியவதி</hw> - அழகுள்ளவள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		146) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌந்தரியவதி&searchhws=yes&matchtype=exact">சௌந்தரியவதி</a> cauntariyavati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌந்தரியவதி</tam> <t>cauntariyavati</t></hw> , <i>n</i>. < <i>saundarya-vatī</i>. Beautiful woman; <tam>அழகுள்ள வள்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		147) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌந்தரீகம்&searchhws=yes&matchtype=exact">சௌந்தரீகம்</a> cauntarīkam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌந்தரீகம்</hw> - பேரழகு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		148) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌந்தரேசன்&searchhws=yes&matchtype=exact">சௌந்தரேசன்</a> cauntarēcaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌந்தரேசன்</hw> - சிவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		149) <a href="/cgi-bin/app/winslow_query.py?qs=சௌந்தரேசன்&searchhws=yes&matchtype=exact">சௌந்தரேசன்</a> cauntarēcaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌந்தரேசன்</tam></hw> –<tam>சுந்தரேசன்</tam>, <i>s.</i> Siva, as worshiped at Madura, and called <tam>சொக்கலிங்கம்</tam>. <i>ex</i> <tam>ஈசன்</tam>.]</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		150) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌந்தரேசர்&searchhws=yes&matchtype=exact">சௌந்தரேசர்</a> cauntarēcar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌந்தரேசர்</hw> - திருநாரையூரிலே கோ யில் கொண்டிருக்கும் சுவாமிபெயர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		151) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌனகன்&searchhws=yes&matchtype=exact">சௌனகன்</a> cauṉakaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌனகன்</hw> - சுநகன் புத்திரன், கருத சிரமதன பௌத்திரன், இவன் தபோநியதியோடும் பிறந்தவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		152) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌனகன்&searchhws=yes&matchtype=exact">சௌனகன்</a> cauṉakaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌனகன்</hw> - ஒருமுனிவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		153) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌனகீயம்&searchhws=yes&matchtype=exact">சௌனகீயம்</a> cauṉakīyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p>*<hw><tam>சௌனகீயம்</tam></hw> , <i>s.</i> one of the 32 Upanishads.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		154) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌனகீயம்&searchhws=yes&matchtype=exact">சௌனகீயம்</a> cauṉakīyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌனகீயம்</hw> - உபநிடத முப்பத்திரண் டில் ஒன்று.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		155) <a href="/cgi-bin/app/winslow_query.py?qs=சௌனகீயம்&searchhws=yes&matchtype=exact">சௌனகீயம்</a> cauṉakīyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p>*<hw><tam>சௌனகீயம்</tam></hw> , <i>s.</i> One of the thirty-two Upanishads, <tam>உபரிடதத்தொன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		156) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌனந்தி&searchhws=yes&matchtype=exact">சௌனந்தி</a> cauṉanti
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌனந்தி</hw> - பலராமன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		157) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌனிகன்&searchhws=yes&matchtype=exact">சௌனிகன்</a> cauṉikaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p>*<hw><tam>சௌனிகன்</tam></hw> , <i>s.</i> a dealer in flesh; a meat seller; 2. one of low cast, <tam>புலைஞன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		158) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌனிகன்&searchhws=yes&matchtype=exact">சௌனிகன்</a> cauṉikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌனிகன்</hw> - ஊன்விற்போன், புலைஞன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		159) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌன்னம்&searchhws=yes&matchtype=exact">சௌன்னம்</a> cauṉṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌன்னம்</hw> - பலிபுத்திரனாகிய சுந்ஹ னால் நிருமிக்கப்பட்ட நகரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		160) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌபஞ்சனம்&searchhws=yes&matchtype=exact">சௌபஞ்சனம்</a> caupañcaṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌபஞ்சனம்</hw> - புனன்முருங்கை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		161) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌபஞ்சனம்&searchhws=yes&matchtype=exact">சௌபஞ்சனம்</a> caupañcaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌபஞ்சனம்</tam> <t>caupañcaṉam</t></hw> , <i>n</i>. < <i>šau- bhāñjana</i>. Three-leaved indigo. See <tam>புனல்முருங்கை. (மலை.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		162) <a href="/cgi-bin/app/winslow_query.py?qs=சௌபஞ்சனம்&searchhws=yes&matchtype=exact">சௌபஞ்சனம்</a> caupañcaṉam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌபஞ்சனம்</tam></hw> , <i>s.</i> A plant, <tam>புனல் முருங்கை</tam>, Indigofera. <i>(R.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		163) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌபதிகம்&searchhws=yes&matchtype=exact">சௌபதிகம்</a> caupatikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌபதிகம்</hw> - இராப்போர், பாரதத்தி லோர் பருவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		164) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌபத்திரன்&searchhws=yes&matchtype=exact">சௌபத்திரன்</a> caupattiraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌபத்திரன்</hw> - சுபத்திரைமகன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		165) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌபத்திரேயன்&searchhws=yes&matchtype=exact">சௌபத்திரேயன்</a> caupattirēyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌபத்திரேயன்</hw> - அபிமந்யன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		166) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌபன்னம்&searchhws=yes&matchtype=exact">சௌபன்னம்</a> caupaṉṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌபன்னம்</hw> - சுக்கு, மரகதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		167) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌபன்னம்&searchhws=yes&matchtype=exact">சௌபன்னம்</a> caupaṉṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S298">p. S298</a>)
+		<blockquote><p><hw><tam>சௌபன்னம்</tam> <t>caupaṉṉam</t></hw> , <i>n</i>. < <i>sauparṇa</i>. (<tam>யாழ். அக</tam>.) 1. Dried ginger; <tam>சுக்கு</tam>. 2. Emerald; <tam>மரகதம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		168) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌபம்&searchhws=yes&matchtype=exact">சௌபம்</a> caupam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌபம்</hw> - அரிச்சந்திரன் பட்டணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		169) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌபரி&searchhws=yes&matchtype=exact">சௌபரி</a> caupari
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌபரி</hw> - ஒருமுநி மாந்தாதாவுக்குமரு கனாகிய வோரிருடி, வேதமித்திரன் சீடன், சாகல்லியன் தந்தை, இவன் யமுனாநதி நீரினுள்ளே பன்னிரண் டு வருடம் தவங்கிடந்து பின்பு மாந் தாதாவினிடஞ் சென்று தனக் கொரு பெண் கொடுக்கும்படி வே ண்ட அவன் ஏன் பெண்களில் ஏவ ள் உன்னை விரும்புகிறாளோ அவ ளை மணக்கக்கடவீரென்று சொல்லித் தன் பெண்களெல்லாரையும் கன்னி மாடத்துக்கனுப்ப, இவ்விருடிமன்ம தன் போலப் பேரழகான வுருவங்கொ ண்டு அங்கே செல்ல, அப்பெண்க ளெல்லாரும் இவனைக்கண்டு மோ கிக்க, அவர்களையெல்லாம் மணம்பு ரிந்து கொண்டு சென்று நெடுங்கா லம் காமவின்பம் நுகர்ந்தவன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		170) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌபலன்&searchhws=yes&matchtype=exact">சௌபலன்</a> caupalaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌபலன்</tam> <t>caupalaṉ</t></hw> , <i>n</i>. < <i>saubala</i>. Šakuni; <tam>சகுனி. கன்னசௌபலர்</tam> (<tam>பாரத. வாரணா</tam>. 5).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		171) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌபாக்கியசிந்தாமணி&searchhws=yes&matchtype=exact">சௌபாக்கியசிந்தாமணி</a> caupākkiyacintāmaṇi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌபாக்கியசிந்தாமணி</hw> - ஒரு ஔஷதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		172) <a href="/cgi-bin/app/crea_query.py?qs=சௌபாக்கியம்&searchhws=yes&matchtype=exact">சௌபாக்கியம்</a> caupākkiyam
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சௌபாக்கியம்</hw> பெ. [அ.வ.] 1: சகல சீரும் சிறப்பும் கொண்ட நிலை; being in a state of health and prosperity. 'உனக்குச் சகல சௌபாக்கியங்களும் உண்டாகட்டும்' என்று வாழ்த்தினார்!</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		173) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌபாக்கியம்&searchhws=yes&matchtype=exact">சௌபாக்கியம்</a> caupākkiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p>*<hw><tam>சௌபாக்கியம்</tam></hw> , <i>s.</i> auspiciousness, <tam>சவு பாக்கியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		174) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌபாக்கியம்&searchhws=yes&matchtype=exact">சௌபாக்கியம்</a> caupākkiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌபாக்கியம்</hw> - நித்தியயோகத்தொன் று, மிகுபாக்கியம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		175) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌபாக்கியம்&searchhws=yes&matchtype=exact">சௌபாக்கியம்</a> caupākkiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌபாக்கியம்</tam> <t>caupākkiyam</t></hw> , <i>n</i>. < <i>saubhāgya</i>. 1. Auspiciousness, good fortune, prosperity; <tam>மிகுபாக்கியம். இகபர சௌபாக்கிய மருள் வாயே</tam> (<tam>திருப்பு</tam>. 177). 2. (Astron.) A division of time, one of 27 <i>yōkam</i>, q.v.; <tam>யோகமிருபத்தேழ னுள் ஒன்று. (வருஷாதி.)</tam> 3. An Upaniṣad, one of 108; <tam>நுற்றெட்டுபநிடதங்களுள் ஒன்று</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		176) <a href="/cgi-bin/app/winslow_query.py?qs=சௌபாக்கியம்&searchhws=yes&matchtype=exact">சௌபாக்கியம்</a> caupākkiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌபாக்கியம்</tam></hw> , <i>s.</i> Auspiciousness, <tam>மிகுபாக்கியம்</tam>. W. p. 946. <smallcaps>SOUBHAG'YA.</smallcaps> See <tam>சவுபாக்கியம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		177) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌபாக்கியரேகை&searchhws=yes&matchtype=exact">சௌபாக்கியரேகை</a> caupākkiyarēkai
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌபாக்கியரேகை</tam> <t>caupākkiya-rēkai</t></hw> , <i>n</i>. < id. +. A kind of distinctive mark on the palm, believed to indicate one's fortune; <tam>ஒருவனது அதிருஷ்டத்தைக் குறிப்பதாகக் கருதப்படும் கைரேகைவகை</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		178) <a href="/cgi-bin/app/crea_query.py?qs=சௌபாக்கியவதி&searchhws=yes&matchtype=exact">சௌபாக்கியவதி</a> caupākkiyavati
+		from <a href="/dictionaries/crea/"><i>"Kriyāvin̲ taṟkālat Tamiḻ akarāti"</i></a>
+		(<a href="/cgi-bin/app/crea_query.py?page=480">p. 480</a>)
+		<blockquote><p><hw>சௌபாக்கியவதி</hw> பெ. [அ.வ.] 1: இளம் பெண்கள், சுமங்கலிகள் ஆகியோரின் பெயருக்கு முன்னால் இடப்படும் மங்கலச் சொல்; a form of address for a girl or a married woman.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		179) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌபாக்கியவதி&searchhws=yes&matchtype=exact">சௌபாக்கியவதி</a> caupākkiyavati
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌபாக்கியவதி</hw> - மிகுபாக்கிய முடை யவள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		180) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌபாக்கியவதி&searchhws=yes&matchtype=exact">சௌபாக்கியவதி</a> caupākkiyavati
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌபாக்கியவதி</tam> <t>caupākkiya-vati</t></hw> , <i>n</i>. < <i>saubhāgyavatī</i>. A title applied to a girl or woman whose husband is alive; <tam>சிறுபெண்கள், மாங்கலியந்தரித்த மகளிர் இவர்களின் பெயர்க்கு முன் வழங்கும் ஒரு மங்கலச்சொல்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		181) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌபாஞ்சநம்&searchhws=yes&matchtype=exact">சௌபாஞ்சநம்</a> caupāñcanam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌபாஞ்சநம்</hw> - முருங்கைமரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		182) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌபானம்&searchhws=yes&matchtype=exact">சௌபானம்</a> caupāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌபானம்</tam> <t>caupāṉam</t></hw> , <i>n</i>. < <i>sōpāna</i>. Steps, as of a staircase; <tam>படிக்கட்டு. பண்புறவே சௌபான பட்சங்காட்டி</tam> (<tam>தாயு. ஆகார</tam>. 10).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		183) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌபிகன்&searchhws=yes&matchtype=exact">சௌபிகன்</a> caupikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌபிகன்</hw> - இந்திரசாலிகன்,மாந்திரகன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		184) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌப்திகம்&searchhws=yes&matchtype=exact">சௌப்திகம்</a> cauptikam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌப்திகம்</tam> <t>cauptikam</t></hw> , <i>n</i>. < <i>sauptika</i>. Night attack and slaughter of sleeping persons; <tam>துயில்வோரை எதிர்த்துக் கொல்லுகை. சௌப்திக பருவம். (பாரத.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		185) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமனசியம்&searchhws=yes&matchtype=exact">சௌமனசியம்</a> caumaṉaciyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமனசியம்</hw> - பூரணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		186) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌமன்&searchhws=yes&matchtype=exact">சௌமன்</a> caumaṉ
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p>*<hw><tam>சௌமன்</tam></hw> , <i>s.</i> Mercury, the planet, as son of the Moon.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		187) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமன்&searchhws=yes&matchtype=exact">சௌமன்</a> caumaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமன்</hw> - புதன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		188) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமன்&searchhws=yes&matchtype=exact">சௌமன்</a> caumaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1652">p. 1652</a>)
+		<blockquote><p><hw>சௌமன்</hw> - புதன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		189) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌமன்&searchhws=yes&matchtype=exact">சௌமன்</a> caumaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌமன்</tam> <t>caumaṉ</t></hw> , <i>n</i>. < <i>saumya</i>. Mercury, as the Moon's son; <tam>[சந்திரன் மகன்] புதன்</tam>. (<smallcap>W</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		190) <a href="/cgi-bin/app/winslow_query.py?qs=சௌமன்&searchhws=yes&matchtype=exact">சௌமன்</a> caumaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌமன்</tam></hw> , <i>s.</i> Mercury the planet, as son of the moon (<tam>சோமன்</tam>), <tam>புதன்</tam>. <i>(Sa. Soumya.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		191) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமம்&searchhws=yes&matchtype=exact">சௌமம்</a> caumam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமம்</hw> - சவுமம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		192) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌமம்&searchhws=yes&matchtype=exact">சௌமம்</a> caumam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌமம்</tam> <t>caumam</t></hw> , <i>n</i>. < <i>sauma</i>. A treatise on architecture, one of 32 <i>ciṟpa-nūl</i>, q.v.; <tam>சிற்பநூல் முப்பத்திரண்டனுள் ஒன்று</tam>. (<tam>இருசமய. சிற்பசாத்</tam>. 3.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		193) <a href="/cgi-bin/app/winslow_query.py?qs=சௌமம்&searchhws=yes&matchtype=exact">சௌமம்</a> caumam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=527">p. 527</a>)
+		<blockquote><p>*<hw><tam>சௌமம்</tam></hw> , <i>s.</i> A treatise. See <tam>சவுமம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		194) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமாநசை&searchhws=yes&matchtype=exact">சௌமாநசை</a> caumānacai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமாநசை</hw> - சாதிபத்திரி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		195) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமாரம்&searchhws=yes&matchtype=exact">சௌமாரம்</a> caumāram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமாரம்</hw> - இளமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		196) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமிகம்&searchhws=yes&matchtype=exact">சௌமிகம்</a> caumikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமிகம்</hw> - சோபிகயாகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		197) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமித்திரன், சௌமித்திரி&searchhws=yes&matchtype=exact">சௌமித்திரன், சௌமித்திரி</a> caumittiraṉ, caumittiri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமித்திரன், சௌமித்திரி</hw> இலக்குமணன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		198) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமித்திரை&searchhws=yes&matchtype=exact">சௌமித்திரை</a> caumittirai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமித்திரை</hw> - சுமித்திரை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		199) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌமிய&searchhws=yes&matchtype=exact">சௌமிய</a> caumiya
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p>*<hw><tam>சௌமிய</tam></hw> , <i>s.</i> the 43rd year of the Hindu cycle.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		200) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமிய&searchhws=yes&matchtype=exact">சௌமிய</a> caumiya
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமிய</hw> - நாற்பத்து மூன்றாவதாண்டு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		201) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌமிய&searchhws=yes&matchtype=exact">சௌமிய</a> caumiya
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌமிய</tam> <t>caumiya</t></hw> , <i>n</i>. < <i>saumya</i>. The 43rd year of the Jupiter cycle; <tam>ஆண்டு அறுபத னுள் நாற்பத்து மூன்றாவது</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		202) <a href="/cgi-bin/app/winslow_query.py?qs=சௌமிய&searchhws=yes&matchtype=exact">சௌமிய</a> caumiya
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p>*<hw><tam>சௌமிய</tam></hw> –<tam>சௌமியவருடம்</tam>, <i>s.</i> The forty-third year of the Hindu cycle, <tam>ஓர்வருடம்</tam>. <i>(c.)</i></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		203) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமியக்கிரகம்&searchhws=yes&matchtype=exact">சௌமியக்கிரகம்</a> caumiyakkirakam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமியக்கிரகம்</hw> - சுபக்கிரகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		204) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமியதாது&searchhws=yes&matchtype=exact">சௌமியதாது</a> caumiyatātu
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமியதாது</hw> - கோழை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		205) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமியத்துவம்&searchhws=yes&matchtype=exact">சௌமியத்துவம்</a> caumiyattuvam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமியத்துவம்</hw> - அழகு, சாந்தம், மன வொடுக்கம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		206) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமியநாராயணன்&searchhws=yes&matchtype=exact">சௌமியநாராயணன்</a> caumiyanārāyaṇaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமியநாராயணன்</hw> - விஷ்ணு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		207) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமியன்&searchhws=yes&matchtype=exact">சௌமியன்</a> caumiyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமியன்</hw> - அருகன், சாந்தன், பன் னொருத்தரில் ஒருவன், புதன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		208) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌமியன்&searchhws=yes&matchtype=exact">சௌமியன்</a> caumiyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌமியன்</tam> <t>caumiyaṉ</t></hw> , <i>n</i>. < <i>saumya</i>. 1. Person of gentle disposition; <tam>சாந்தமுள்ளவன்</tam>. 2. Mercury; <tam>புதன். (திவா.)</tam> 3. A Rudra, one of <i>ekātacaruttirar</i>, q.v.; <tam>ஏகாதசருத்திரருள் ஒருவர். (திவா.)</tam> 4. Jaina ascetic; <tam>சமணத்துறவி. (சூடா.)</tam> 5. Arhat; <tam>அருகன். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		209) <a href="/cgi-bin/app/winslow_query.py?qs=சௌமியன்&searchhws=yes&matchtype=exact">சௌமியன்</a> caumiyaṉ
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p>*<hw><tam>சௌமியன்</tam></hw> , <i>s.</i> A meek or gentle person, <tam>சாந்தமுள்ளவன்</tam>. 2. Mercury, regent of the planet, son of the moon–as <tam>சௌமன்</tam>. (<tam>சது</tam>.) 3. Argha, <tam>அருகன்</tam>. 4. One of the eleven Ooruttirar, or Rudras, <tam>பதினொருருத்திரர்களிலொருவன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		210) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌமியம்&searchhws=yes&matchtype=exact">சௌமியம்</a> caumiyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p>*<hw><tam>சௌமியம்</tam></hw> , <i>s.</i> mildness, <tam>சாந்தம்</tam>; 2. handsomeness, beauty, <tam>அழகு</tam>. <p2><tam>சௌமியர்</tam>, persons of a meek or gentle disposition; 2. Mercury, regent of the planet, son of the Moon; 3. Argha, <tam>அருகன்</tam>; 4. one of the eleven Rudras.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		211) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமியம்&searchhws=yes&matchtype=exact">சௌமியம்</a> caumiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமியம்</hw> - சௌமியத்துவம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		212) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌமியம்&searchhws=yes&matchtype=exact">சௌமியம்</a> caumiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌமியம்</tam> <t>caumiyam</t></hw> , <i>n</i>. < <i>saumya</i>. (<smallcap>W</smallcap>.) 1. Calmness, gentleness, meekness; <tam>சாந்தம்</tam>. 2. Loveliness, beauty; <tam>அழகு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		213) <a href="/cgi-bin/app/winslow_query.py?qs=சௌமியம்&searchhws=yes&matchtype=exact">சௌமியம்</a> caumiyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p>*<hw><tam>சௌமியம்</tam></hw> , <i>s.</i> Mildness, gentleness, placidity, <tam>சாந்தம்</tam>. 2. Handsomeness, beauty, pleasingness, <tam>அழகு</tam>. W. p. 947. <smallcaps>SOUMYA.</smallcaps> <p2><tam>சௌமியர்</tam>, <i>s. (pl.)</i> Persons of a meek or gentle disposition, <tam>சாந்தர்</tam>. 2. Sages, ascetics among the Jainas, <tam>முனிவர்</tam>.</p2> <p2><tam>சௌமியநாராயணன்</tam>, <i>s.</i> Vishnu, <tam>விஷ்ணு</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		214) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமியர்&searchhws=yes&matchtype=exact">சௌமியர்</a> caumiyar
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமியர்</hw> - சாந்தர், முனிவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		215) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌமியவாரம்&searchhws=yes&matchtype=exact">சௌமியவாரம்</a> caumiyavāram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌமியவாரம்</tam> <t>caumiya-vāram</t></hw> , <i>n</i>. < id. +. Wednesday; <tam>புதன்கிழமை</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		216) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌமேசகம், சௌமேருகம்&searchhws=yes&matchtype=exact">சௌமேசகம், சௌமேருகம்</a> caumēcakam, caumērukam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌமேசகம், சௌமேருகம்</hw> பொன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		217) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌம்பகம்&searchhws=yes&matchtype=exact">சௌம்பகம்</a> caumpakam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌம்பகம்</hw> - சாளுவன் விமாநம், சிவன் கட்டளையால் மயன்செய்து கொடு த்த இரதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		218) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரகன்&searchhws=yes&matchtype=exact">சௌரகன்</a> caurakaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரகன்</hw> - நாவிதன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		219) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரசனம்&searchhws=yes&matchtype=exact">சௌரசனம்</a> cauracaṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=S298">p. S298</a>)
+		<blockquote><p><hw><tam>சௌரசனம்</tam> <t>cauracaṉam</t></hw> , <i>n</i>. cf. <tam>சூரசேனி</tam>. <i>Cūracēṉī</i>, a Prakṛt language; <tam>சூரசேனி என்னும் பாகதமொழி</tam>. (<tam>சி. சி. பாயி</tam>. 2, <tam>மறைஞா. பக்</tam>. 61.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		220) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரசேனி&searchhws=yes&matchtype=exact">சௌரசேனி</a> cauracēṉi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரசேனி</hw> - சூரசேநதேசத்துப் பிரா க்ருதபாஷை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		221) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரந்திகம்&searchhws=yes&matchtype=exact">சௌரந்திகம்</a> caurantikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=719">p. 719</a>)
+		<blockquote><p><hw>சௌரந்திகம்</hw> - சவுத்திராந்திகம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		222) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரன்&searchhws=yes&matchtype=exact">சௌரன்</a> cauraṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரன்</hw> - சனி, சூரியன், சோரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		223) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரபம்&searchhws=yes&matchtype=exact">சௌரபம்</a> caurapam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரபம்</hw> - குங்குமம், பரிமளம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		224) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரபேயம்&searchhws=yes&matchtype=exact">சௌரபேயம்</a> caurapēyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரபேயம்</hw> - ஏருது.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		225) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரபேயி&searchhws=yes&matchtype=exact">சௌரபேயி</a> caurapēyi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரபேயி</hw> - ஒரு அப்சரஸ்த்ரீ.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		226) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரப்பியன்&searchhws=yes&matchtype=exact">சௌரப்பியன்</a> caurappiyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரப்பியன்</hw> - குபேரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		227) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரப்பியம்&searchhws=yes&matchtype=exact">சௌரப்பியம்</a> caurappiyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரப்பியம்</hw> - சுகந்தம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		228) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரமாசம்&searchhws=yes&matchtype=exact">சௌரமாசம்</a> cauramācam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌரமாசம்</tam> <t>caura-mācam</t></hw> , <i>n</i>. < <tam>சௌரம்</tam> +. Solar month; <tam>சூரியகதியினால் ஏற்படும் மாதம்</tam>. (<tam>விதான. குணாகுண</tam>. 80, <tam>உரை</tam>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		229) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரமாதம், சௌரமானம்&searchhws=yes&matchtype=exact">சௌரமாதம், சௌரமானம்</a> cauramātam, cauramāṉam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரமாதம், சௌரமானம்</hw> சூரியமாதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		230) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரமானம்&searchhws=yes&matchtype=exact">சௌரமானம்</a> cauramāṉam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌரமானம்</tam> <t>caura-māṉam</t></hw> , <i>n</i>. < id. +. (Astron.) System of calculation of months and years based on the sun's course; <tam>சூரியகதியைக் கொண்டு மாதவருடங்களை அளவிடும் முறை. சௌர மானபட்சத்தால் மாசித்திங்கள் கொள்ளார்</tam> (<tam>சீவக</tam>. 493, <tam>உரை</tam>).</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		231) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌரம்&searchhws=yes&matchtype=exact">சௌரம்</a> cauram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p>*<hw><tam>சௌரம்</tam></hw> , <i>s.</i> what pertains to the Sun; 2. one of the 13 secondary Puranas; 3. shaving in general, <tam>சௌளம்</tam>. <p2><tam>சௌரமாதம்</tam>, solar month.</p2> <p2><tam>சௌரவருஷம்</tam>, solar year.</p2> <p2><tam>அதிசௌர வருஷம்</tam>, leap year.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		232) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரம்&searchhws=yes&matchtype=exact">சௌரம்</a> cauram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரம்</hw> - அட்டாதச வுபபுராணத்தொ ன்று, சூரம்,சூரியமாதம், சௌளம், நாள்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		233) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரம்&searchhws=yes&matchtype=exact">சௌரம்</a> cauram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1652">p. 1652</a>)
+		<blockquote><p><hw>சௌரம்</hw> - அட்டாதச வுப்புராணத்தொ ன்று, ஓர்மாதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		234) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரம்&searchhws=yes&matchtype=exact">சௌரம்</a> cauram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌரம்¹</tam> <t>cauram</t></hw> , <i>n</i>. < <i>saura</i>. 1. A secondary Purāṇa, one of 18 <i>upa-purāṇam</i>, q.v.; <tam>உபபுராணம் பதினெட்டனுள் ஒன்று</tam>. 2. The religion of the Sauras who regard the Sun as the Supreme Being and are exclusively devoted to His worship; <tam>சூரியனை வழிபடுஞ் சமயம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		235) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரம்&searchhws=yes&matchtype=exact">சௌரம்</a> cauram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌரம்²</tam> <t>cauram</t></hw> , <i>n</i>. < <i>kṣaura</i>. Shaving; <tam>மயிர்மழிக்கை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		236) <a href="/cgi-bin/app/winslow_query.py?qs=சௌரம்&searchhws=yes&matchtype=exact">சௌரம்</a> cauram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p>*<hw><tam>சௌரம்</tam></hw> , <i>s.</i> One of the eighteen secondary Puranas, <tam>ஓருபபுராணம்</tam>. 2. <i>(Sa. Kshoura.)</i> Shaving in general, <tam>சௌளம்</tam>. 3. W. p. 947. <smallcaps>SOURA.</smallcaps> What belongs or appertains to the sun, <tam>சூர்யசம்பந்தமானது</tam>. See <tam>சவுரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		237) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரவம்&searchhws=yes&matchtype=exact">சௌரவம்</a> cauravam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரவம்</hw> - வாசனை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		238) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌராடி, சௌராட்டி&searchhws=yes&matchtype=exact">சௌராடி, சௌராட்டி</a> caurāṭi, caurāṭṭi
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌராடி, சௌராட்டி</hw> ஒருபண்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		239) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌராட்டி&searchhws=yes&matchtype=exact">சௌராட்டி</a> caurāṭṭi
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p>*<hw><tam>சௌராட்டி</tam></hw> , <i>s.</i> a tune.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		240) <a href="/cgi-bin/app/winslow_query.py?qs=சௌராட்டி&searchhws=yes&matchtype=exact">சௌராட்டி</a> caurāṭṭi
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p>*<hw><tam>சௌராட்டி</tam></hw> , <i>s.</i> A tune, <tam>உலாவி ராகம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		241) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌராட்டிரம்&searchhws=yes&matchtype=exact">சௌராட்டிரம்</a> caurāṭṭiram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p>*<hw><tam>சௌராட்டிரம்</tam></hw> , <tam>சௌராஷ்டிரம்</tam>, <i>s.</i> one of secondary tunes; 2. a country.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		242) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌராட்டிரம்&searchhws=yes&matchtype=exact">சௌராட்டிரம்</a> caurāṭṭiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌராட்டிரம்</tam> <t>caurāṭṭiram</t></hw> , <i>n</i>. See <tam>சௌராஷ்டிரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		243) <a href="/cgi-bin/app/winslow_query.py?qs=சௌராட்டிரம்&searchhws=yes&matchtype=exact">சௌராட்டிரம்</a> caurāṭṭiram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p>*<hw><tam>சௌராட்டிரம்</tam></hw> –<tam>சௌராஷ்டிரம்</tam>, <i>s.</i> One of the secondary tunes, <tam>ஓரிராகம்</tam>. 2. A country, <tam>ஓர்தேயம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		244) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌராஷ்டிரம்&searchhws=yes&matchtype=exact">சௌராஷ்டிரம்</a> caurāṣṭiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌராஷ்டிரம்</hw> - சூராட்டு ஏன்னும் நக ரத்தையுடைய தேசம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		245) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌராஷ்டிரம்&searchhws=yes&matchtype=exact">சௌராஷ்டிரம்</a> caurāṣṭiram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌராஷ்டிரம்</tam> <t>caurāṣṭiram</t></hw> , <i>n</i>. < <i>saurāṣṭra</i>. (<smallcap>W</smallcap>.) 1. Surat, modern peninsula of Kathiawar; <tam>கத்தியவார் என்று இக்காலத்துக் கூறப் படும் தேசம்</tam>. 2. (Mus.) A secondary tune; <tam>பண் வகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		246) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌராஷ்டிரம், சௌராட்டிரம்&searchhws=yes&matchtype=exact">சௌராஷ்டிரம், சௌராட்டிரம்</a> caurāṣṭiram, caurāṭṭiram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌராஷ்டிரம், சௌராட்டிரம்</hw> ஓரிராகம், ஒரு தே யம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		247) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌராஷ்டிரர்&searchhws=yes&matchtype=exact">சௌராஷ்டிரர்</a> caurāṣṭirar
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌராஷ்டிரர்</tam> <t>caurāṣṭirar</t></hw> , <i>n</i>. < id. A class of Silk-weavers, immigrants from Gujarat into the Tamil country in the days of the early Nayak kings, speaking a corrupt dialect of Gujarati; <tam>தென்னாட்டுநாயக்கர்களினாட்சி யில் கூர்ஜரதேசத்திலிருந்து தமிழ்நாட்டிற் புகுந்தவரும் குஜராத்திக்குச் சம்பந்தப்பட்ட ஒருவகைப்பாஷையைப் பேசுபவருமான பட்டுநூற்காரச் சாதியார்</tam>. (<smallcap>E. T</smallcap>.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		248) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌரி&searchhws=yes&matchtype=exact">சௌரி</a> cauri
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p>*<hw><tam>சௌரி</tam></hw> , (<tam>சவுரி</tam>) <i>s.</i> Saturn, the planet, <tam>சனி</tam>; 2. a name of Vishnu; 3. a name of Karna; 4. Garuda, the vehicle of Vishnu; 5. Yama, god of death; 6. the wife of the Asura Taruka; 7. Durga, <tam>துர்க்கை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		249) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரி&searchhws=yes&matchtype=exact">சௌரி</a> cauri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரி</hw> - க்ருஷ்ணன், சூரன் மகனாகிய வசுதேவன் புதல்வனாதலால் இப் பெயர் வந்தது, கருடன், கன்னன், சனி, தாருகன் மனைவி, திருமால், துர்க்கை,நமன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		250) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரி&searchhws=yes&matchtype=exact">சௌரி</a> cauri
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1652">p. 1652</a>)
+		<blockquote><p><hw>சௌரி</hw> - கருடன், மன்னன், சனி, நமன், விட்டுணு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		251) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரி&searchhws=yes&matchtype=exact">சௌரி</a> cauri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌரி¹</tam> <t>cauri</t></hw> , <i>n</i>. < <i>sauri</i>. (<tam>பிங்</tam>.) 1. Saturn; <tam>சனி</tam>. 2. Yama, the God of Death; <tam>யமன்</tam>. 3. Karṇa; <tam>கன்னன்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		252) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரி&searchhws=yes&matchtype=exact">சௌரி</a> cauri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌரி²</tam> <t>cauri</t></hw> , <i>n</i>. < <i>saurī</i>. The Jumna; <tam>யமுனை நதி. (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		253) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரி&searchhws=yes&matchtype=exact">சௌரி</a> cauri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1682">p. 1682</a>)
+		<blockquote><p><hw><tam>சௌரி³</tam> <t>cauri</t></hw> , <i>n</i>. < <i>šauri</i>. Viṣṇu; <tam>திருமால். (பிங்.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		254) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரி&searchhws=yes&matchtype=exact">சௌரி</a> cauri
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌரி⁴</tam> <t>cauri</t></hw> , <i>n</i>. < <i>camarī</i>. Chowry. See <tam>சவரி¹</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		255) <a href="/cgi-bin/app/winslow_query.py?qs=சௌரி&searchhws=yes&matchtype=exact">சௌரி</a> cauri
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p>*<hw><tam>சௌரி</tam></hw> , <i>s.</i> (<i>also</i> <tam>சவுரி</tam>) Saturn the planet, <tam>சனி</tam>. 2. A name of Vishnu, <tam>விஷ்ணு</tam>. W. p. 847. <smallcaps>SOURI.</smallcaps> 3. A name of Karna, <tam>கன்னன்</tam>. 4. Garuda the vehicle of Vishnu, <tam>கருடன்</tam>. 5. Yama, god of death, <tam>நமன்</tam>. 6. The wife of the Asura, Taruka, <tam>தாருகன் மனைவி</tam>. 7. Durga, <tam>துர்க்கை</tam>. Compare <tam>கௌரி</tam>, <tam>சூரி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		256) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரிகன்&searchhws=yes&matchtype=exact">சௌரிகன்</a> caurikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரிகன்</hw> - சாணான், கள்விற்போன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		257) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரிகம்&searchhws=yes&matchtype=exact">சௌரிகம்</a> caurikam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரிகம்</hw> - மோக்கம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		258) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரிகை&searchhws=yes&matchtype=exact">சௌரிகை</a> caurikai
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரிகை</hw> - சோரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		259) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரியன்&searchhws=yes&matchtype=exact">சௌரியன்</a> cauriyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌரியன்</hw> - கன்னன், சூரபன்மன் சூரியபுத்திரன், சௌரியவான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		260) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரியன்&searchhws=yes&matchtype=exact">சௌரியன்</a> cauriyaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=1652">p. 1652</a>)
+		<blockquote><p><hw>சௌரியன்</hw> - கன்னன், சூரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		261) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரியன்&searchhws=yes&matchtype=exact">சௌரியன்</a> cauriyaṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌரியன்</tam> <t>cauriyaṉ</t></hw> , <i>n</i>. < <i>šaurya</i>. See <tam>சௌரியவான். (யாழ். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		262) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரியப்பிரதாபம்&searchhws=yes&matchtype=exact">சௌரியப்பிரதாபம்</a> cauriyappiratāpam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரியப்பிரதாபம்</hw> - இராசமகிமை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		263) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌரியம்&searchhws=yes&matchtype=exact">சௌரியம்</a> cauriyam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p>*<hw><tam>சௌரியம்</tam></hw> , <i>s.</i> bravery, valour, courage, fortitude, manliness, heroism, pro- wess, <tam>சவுரியம்</tam>. <p2><tam>சௌரியன்</tam>; a name of <tam>கன்னன்</tam>, <i>(Karna)</i>; 2. a valiant person; 3. an Asura slain by Subramania.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		264) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரியம்&searchhws=yes&matchtype=exact">சௌரியம்</a> cauriyam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரியம்</hw> - களவு, பலம், வீரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		265) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரியம்&searchhws=yes&matchtype=exact">சௌரியம்</a> cauriyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌரியம்¹</tam> <t>cauriyam</t></hw> , <i>n</i>. < <i>caurya</i>. Theft; <tam>களவு. (திவா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		266) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரியம்&searchhws=yes&matchtype=exact">சௌரியம்</a> cauriyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌரியம்²</tam> <t>cauriyam</t></hw> , <i>n</i>. < <i>šaurya</i>. Prowess, bravery, valour; <tam>வீரம். (சூடா.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		267) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரியம்&searchhws=yes&matchtype=exact">சௌரியம்</a> cauriyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌரியம்³</tam> <t>cauriyam</t></hw> , <i>n</i>. Corr. of <tam>சௌகரியம்</tam>. <i>Colloq</i>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		268) <a href="/cgi-bin/app/winslow_query.py?qs=சௌரியம்&searchhws=yes&matchtype=exact">சௌரியம்</a> cauriyam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p>*<hw><tam>சௌரியம்</tam></hw> , <i>s.</i> Bravery, valor, heroism, courage, fortitude, manliness, <tam>வீரம்</tam>. See <tam>சவுரியம்</tam>. W. p. 859. <smallcaps>SOURYYA.</smallcaps> 2. (<i>com.</i> <tam>சோரம்</tam>.) Theft, pilfering, embezzling, <tam>களவு</tam>. <p2><tam>சௌரியங்காட்ட</tam>, <i>inf.</i> To carry one's self bravely.</p2> <p2><tam>சௌரியன்</tam>, <i>s.</i> A name of <tam>சன்னல்</tam>. Compare <tam>சூரியபுத்திரன்</tam>. 2. A valiant person, <tam>வீரன்</tam>. 3. An Asura slain by Subramanya, <tam>சூரபன்மன்</tam>.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		269) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரியலட்சுமி&searchhws=yes&matchtype=exact">சௌரியலட்சுமி</a> cauriyalaṭcumi
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌரியலட்சுமி</tam> <t>cauriya-laṭcumi</t></hw> , <i>n</i>. < <i>šaurya</i> +. The Goddess of Heroism; <tam>வீர லஷ்மி</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		270) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரியவான்&searchhws=yes&matchtype=exact">சௌரியவான்</a> cauriyavāṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=720">p. 720</a>)
+		<blockquote><p><hw>சௌரியவான்</hw> - சூரன், பலசாலி, வர வான்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		271) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரியவான்&searchhws=yes&matchtype=exact">சௌரியவான்</a> cauriyavāṉ
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌரியவான்</tam> <t>cauriyavāṉ</t></hw> , <i>n</i>. < <i>šaurya-vān</i> nom. sing. of <i>šaurya-vat</i>. Brave person; <tam>வீரன். (சங். அக.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		272) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரியார்ச்சிதம்&searchhws=yes&matchtype=exact">சௌரியார்ச்சிதம்</a> cauriyārccitam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌரியார்ச்சிதம்</hw> - சோரத்திரவியம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		273) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரிரத்நம்&searchhws=yes&matchtype=exact">சௌரிரத்நம்</a> cauriratnam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌரிரத்நம்</hw> - நீலமணி.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		274) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌரு&searchhws=yes&matchtype=exact">சௌரு</a> cauru
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p><hw><tam>சௌரு</tam></hw> , <i>s. (Tel.)</i> a greasy taste, that of goat's milk; 2. brackishness <tam>சவர்</tam>. <p2><tam>சௌரானதண்ணீர்</tam>, brackish water.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		275) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌரு&searchhws=yes&matchtype=exact">சௌரு</a> cauru
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌரு</hw> - சவர்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		276) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌரு&searchhws=yes&matchtype=exact">சௌரு</a> cauru
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌரு</tam> <t>cauru</t></hw> , <i>n</i>. < T. <i>tcauru</i>. [K. <i>savuḷu</i>.] (<smallcap>W</smallcap>.) 1. Greasy taste, as of goat's milk; <tam>கொச்சைநாற்றத்தோடு கூடிய சுவை</tam>. 2. cf. <tam>சவர்</tam>. Brackishness; <tam>உவர்ப்பு</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		277) <a href="/cgi-bin/app/winslow_query.py?qs=சௌரு&searchhws=yes&matchtype=exact">சௌரு</a> cauru
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p><hw><tam>சௌரு</tam></hw> , <i>s. (Tel.) [loc.]</i> A greasy taste, that of goats, milk. 2. As <tam>சவர்</tam>. <p2><tam>சௌரானதண்ணீர்</tam>. Brackish water.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		278) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌலப்பியம்&searchhws=yes&matchtype=exact">சௌலப்பியம்</a> caulappiyam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌலப்பியம்</tam> <t>caulappiyam</t></hw> , <i>n</i>. < <i>saulabhya</i>. Easiness of acquisition or attainment, accessibility, affability; <tam>சுலபமாந்தன்மை</tam>. (<tam>ஈடு</tam>, 6, 10, 10.)</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		279) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌல்&searchhws=yes&matchtype=exact">சௌல்</a> caul
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌல்</tam> <t>caul</t></hw> , <i>n</i>. < U. <i>caul</i>. 1. Jollity; <tam>மகிழ்ச்சி</tam>. 2. Ostentation; <tam>இடம்பம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		280) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌளகம், சௌளம்&searchhws=yes&matchtype=exact">சௌளகம், சௌளம்</a> cauḷakam, cauḷam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌளகம், சௌளம்</hw> மயிர்கழித்தல்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		281) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌளகருமம்&searchhws=yes&matchtype=exact">சௌளகருமம்</a> cauḷakarumam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌளகருமம்</hw> - குடுமிச்சடங்கு.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		282) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌளம்&searchhws=yes&matchtype=exact">சௌளம்</a> cauḷam
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p><hw><tam>சௌளம்</tam></hw> , <tam>சௌரம்</tam>, <i>s.</i> shaving, tonsure. <p2><tam>சௌளகல்யாணம்</tam>, -<tam>கன்மம்</tam> -<tam>கருமம்</tam>, the first shaving of a child's head when 3 yrs. old, except one lock, a ceremony.</p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		283) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌளம்&searchhws=yes&matchtype=exact">சௌளம்</a> cauḷam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌளம்</tam> <t>cauḷam</t></hw> , <i>n</i>. < <i>caula</i>. Ceremonial shaving of a male child's head, one of <i>cōṭaca-camskāram</i>, q.v.; <tam>சோடசம்ஸ்காரத்திலொன்றாகிய முடிவாங்குகை</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		284) <a href="/cgi-bin/app/winslow_query.py?qs=சௌளம்&searchhws=yes&matchtype=exact">சௌளம்</a> cauḷam
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p>*<hw><tam>சௌளம்</tam></hw> –<tam>சௌரம்</tam>, <i>s.</i> Shaving. tonsure, <tam>மயிர்களைதல்</tam>. W. p. 333. <smallcaps>CHOULA.</smallcaps> <p2><tam>சௌளகருமம்</tam>–<tam>சௌளகன்மம்</tam>, <i>s.</i> The first shaving of a child's head, when three years old, except one lock, with appropriate rites; one of the sixteen ceremonies for a child.</p2> <p2><tam>சௌளகருமாதி</tam>, <i>s.</i> The ceremony of shaving, &c. <i>(Colloq.)</i></p2></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		285) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌளாம்பரம்&searchhws=yes&matchtype=exact">சௌளாம்பரம்</a> cauḷāmparam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌளாம்பரம்</hw> - பட்டாடை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		286) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌவம்&searchhws=yes&matchtype=exact">சௌவம்</a> cauvam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌவம்</hw> - கட்டளை.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		287) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌவர்ச்சலம்&searchhws=yes&matchtype=exact">சௌவர்ச்சலம்</a> cauvarccalam
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌவர்ச்சலம்</tam> <t>cauvarccalam</t></hw> , <i>n</i>. < <i>sauvarcala</i>. 1. A kind of salt; <tam>உப்புவகை</tam>. 2. Brackish water; <tam>உவர்நீர்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		288) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌவர்ணம்&searchhws=yes&matchtype=exact">சௌவர்ணம்</a> cauvarṇam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌவர்ணம்</hw> - சுக்கு, மரகதம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		289) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌவஸ்திகன்&searchhws=yes&matchtype=exact">சௌவஸ்திகன்</a> cauvastikaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌவஸ்திகன்</hw> - புரோஹிதன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		290) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌவிதன்&searchhws=yes&matchtype=exact">சௌவிதன்</a> cauvitaṉ
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌவிதன்</hw> - அண்ணகன், அந்தப்பு ரக் காவற்காரன்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		291) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌவீரகம்&searchhws=yes&matchtype=exact">சௌவீரகம்</a> cauvīrakam
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌவீரகம்</hw> - இலந்தைமரம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		292) <a href="/cgi-bin/app/fabricius_query.py?qs=சௌவீரம்&searchhws=yes&matchtype=exact">சௌவீரம்</a> cauvīram
+		from <a href="/dictionaries/fabricius/">Fabricius's <i>"Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/fabricius_query.py?page=461">p. 461</a>)
+		<blockquote><p>*<hw><tam>சௌவீரம்</tam></hw> , <i>s.</i> a compound, medicine; <tam>சவ்வீரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		293) <a href="/cgi-bin/app/kadirvelu_query.py?qs=சௌவீரம்&searchhws=yes&matchtype=exact">சௌவீரம்</a> cauvīram
+		from <a href="/dictionaries/kadirvelu/">Kadirvelu Pillai's <i>"Tamil Moli Akarathi"</i></a>
+		(<a href="/cgi-bin/app/kadirvelu_query.py?page=721">p. 721</a>)
+		<blockquote><p><hw>சௌவீரம்</hw> - இலந்தைக்கனி, ஒருமருந்து. சிபிபுத்திரனாகிய சுவ்வீரனால் நிரு மிக்கப்பட்டதாகிய ஒரு பட்டணம்.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		294) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌவீரம்&searchhws=yes&matchtype=exact">சௌவீரம்</a> cauvīram
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌவீரம்</tam> <t>cauvīram</t></hw> , <i>n</i>. < <i>sauvīra</i>. 1. See <tam>சவ்வீரம்</tam>, 1, 2, 3. <tam>கற்றவர் புகழ் சௌவீர மிக்கோரம்</tam> (<tam>திருவிளை. நரிபரி</tam>. 106). 2. A prepared arsenic, one of 32; <tam>வைப்புப்பாஷாணம் முப்பத்திரண்டனுள் ஒன்று</tam>. (<smallcap>W</smallcap>.) 3. Jujube tree. See <tam>இலந்தை. (மூ. அ.)</tam></p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		295) <a href="/cgi-bin/app/winslow_query.py?qs=சௌவீரம்&searchhws=yes&matchtype=exact">சௌவீரம்</a> cauvīram
+		from <a href="/dictionaries/winslow/">Winslow's <i>"A comprehensive Tamil and English dictionary"</i></a>
+		(<a href="/cgi-bin/app/winslow_query.py?page=528">p. 528</a>)
+		<blockquote><p>*<hw><tam>சௌவீரம்</tam></hw> , <i>s.</i> A compound medicine. See <tam>சவ்வீரம்</tam>.</p> </blockquote>
+		</div>
+		
+		
+		
+		
+		<div class='hw_result'>&nbsp;&nbsp;
+		296) <a href="/cgi-bin/app/tamil-lex_query.py?qs=சௌஸ்தி&searchhws=yes&matchtype=exact">சௌஸ்தி</a> causti
+		from <a href="/dictionaries/tamil-lex/">University of Madras <i>"Tamil lexicon"</i></a>
+		(<a href="/cgi-bin/app/tamil-lex_query.py?page=1683">p. 1683</a>)
+		<blockquote><p><hw><tam>சௌஸ்தி</tam> <t>causti</t></hw> , <i>n</i>. perh. <i>svasti</i>. Charity, benevolence; <tam>தருமக்கொடை. அமுதுபடிக்குத் தர்ம சாஸனமாகக் கொடுத்த சௌஸ்தி</tam> (<smallcap>S. I. I</smallcap>. i, 81).</p> </blockquote>
+		</div>
+        </div>
+</div>
+
+<hr>
+<div id="responsive_footer_table">
+    <div id="responsive_footer_tr">
+        <div id="responsive_footer_td">
+        <a href="/dictionaries/tamil/">Back to the Search Page </a>&nbsp; | &nbsp;
+        <a href="/dictionaries/">Back to the DDSA Page</a><br><br>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="tranliterationModal" tabindex="-1" role="dialog" aria-labelledby="tranliterationModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tranliterationModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/dictionaries/bootstrap/jquery-3.2.1.min.js"></script>
+<script src="/dictionaries/bootstrap/popper.min.js"></script>
+<script src="/dictionaries/bootstrap/bootstrap.min.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+        $(document).keypress(function(event) {
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == "116") {
+                        var selection = window.getSelection().toString();
+			var q_param = $.trim(selection);
+			q_param = q_param.replace(/[;]/g, '%3B');
+			var q_param = q_param.replace(/\/?#/g,'')
+			//console.log(selection)
+			//console.log(q_param)
+			var q_url = 'tamil/get_transliteration.py?q=' + q_param;
+			$.ajax({
+				url:q_url,
+				dataType: "text"
+			}).done(function(data){
+				//console.log(data)
+				var title_text = selection.replace(/\u00a0\u00a0/g,'\u00a0') 
+				title_text = title_text.replace(/\u00a0/g,'<br/>')
+				var title = '<span id="transliteration_modal_override">Transliteration for: ' + title_text + '</span>';
+				var display_data = '<span id="transliteration_modal_override">' + data + '</span>';
+				$('#tranliterationModal').find('.modal-title').html(title);
+				$('#tranliterationModal').find('.modal-body').html(display_data);
+				$('#tranliterationModal').modal('show');
+			}).fail(function(xhr, ajaxOptions, thrownError) {
+				console.log(xhr)
+				console.log(ajaxOptions)
+				console.log(thrownError)
+				if (thrownError === 'Request-URI Too Long') {
+					var message = "Please select a smaller passage to transliterate";
+				}
+				else if (thrownError === 'Internal Server Error') {
+					var message = "The transliteration code encountered a problem. Please try again.";
+				}
+				var title = "Error: " + thrownError;
+				//var message = "Please select a smaller passage to transliterate";
+				$('#tranliterationModal').find('.modal-title').text(title);
+				$('#tranliterationModal').find('.modal-body').text(message);
+				$('#tranliterationModal').modal('show');
+			});
+                };
+        });
+    });
+
+</script>
+
+</body>
+</html>
