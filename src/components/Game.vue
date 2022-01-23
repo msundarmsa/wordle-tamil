@@ -51,65 +51,55 @@
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#919191" d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
                         </div>
                         <div class="help-content">
-                            <h2>Comment jouer ?</h2>
-                            <p>Ce jeu reprend exactement le même concept que le <a href="https://www.powerlanguage.co.uk/wordle/">Wordle</a>, mais en français.</p>
-                            <p>Chaque jour, un mot de 5 lettres est choisi aléatoirement. Vous devez le deviner en 6 essais.</p>
-                            <p>À chaque essai, les lettres du mot que vous avez proposé changeront de couleur en fonction de à quel point vous êtes proche de le trouver.</p>
+                            <h2>எப்படி விளையாடுவது?</h2>
+                            <p>தினம் ஒரு ஐந்து எழுத்து சொல் தேர்ந்தெடுக்கப்படும். உங்களுக்கு ஆறு முயற்சிகள் உண்டு</p>
+                            <p>ஒவ்வொரு முயற்சியிலும் கீழ்காணும் வரைமுறைக்கு ஏற்றவாறு எழுத்துக்களின் நிறம் மாறும்</p>
                             <div class="help-exemple">
                                 <div class="help-word">
                                     <div class="help-letter-container correct" :class="{ 'color-blind': colorBlindMode }">
-                                        F
+                                        க
                                     </div>
                                     <div class="help-letter-container">
-                                        R
+                                        ச்
                                     </div>
                                     <div class="help-letter-container">
-                                        U
+                                        சே
                                     </div>
                                     <div class="help-letter-container">
-                                        I
-                                    </div>
-                                    <div class="help-letter-container">
-                                        T
+                                        ரி
                                     </div>
                                 </div>
-                                <p>La lettre <span>F</span> est dans le mot, à la bonne place.</p>
+                                <p><span>க</span> என்னும் எழுத்து வார்த்தையில் சரியான இடத்தில் உள்ளது</p>
                                 <div class="help-word">
                                     <div class="help-letter-container">
-                                        P
+                                        கு
                                     </div>
                                     <div class="help-letter-container">
-                                        O
+                                        ழ
                                     </div>
                                     <div class="help-letter-container partial" :class="{ 'color-blind': colorBlindMode }">
-                                        C
+                                        ப்
                                     </div>
                                     <div class="help-letter-container">
-                                        H
-                                    </div>
-                                    <div class="help-letter-container">
-                                        E
+                                        பு
                                     </div>
                                 </div>
-                                <p>La lettre <span>C</span> est dans le mot, mais pas à la bonne place.</p>
+                                <p><span>ப்</span> எனும் எழுத்து வார்த்தையில் உள்ளது ஆனால் சரியான இடத்தில் இல்லை</p>
                                 <div class="help-word">
                                     <div class="help-letter-container">
-                                        S
+                                        அ
                                     </div>
                                     <div class="help-letter-container">
-                                        O
+                                        ன்
                                     </div>
                                     <div class="help-letter-container">
-                                        E
-                                    </div>
-                                    <div class="help-letter-container">
-                                        U
+                                        னா
                                     </div>
                                     <div class="help-letter-container incorrect" :class="{ 'color-blind': colorBlindMode }">
-                                        R
+                                        சி
                                     </div>
                                 </div>
-                                <p>La lettre <span>R</span> n'est pas dans le mot.</p>
+                                <p><span>சி</span> எனும் எழுத்து வார்த்தையில் இடம்பெறவில்லை</p>
                             </div>
                         </div>
                     </div>
@@ -122,28 +112,28 @@
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#919191" d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
                         </div>
                         <div class="stats">
-                            <h2>Statistiques</h2>
+                            <h2>புள்ளிவிவரங்கள்</h2>
                             <div class="stats-content">
                                 <div class="stats-item games-played">
                                     <p class="stat-item-figure">{{ userResults.nbGames }}</p>
-                                    <p class="stat-item-label">Parties</p>
+                                    <p class="stat-item-label">முயற்சிகள்</p>
                                 </div>
                                 <div class="stats-item win-rate">
                                     <p class="stat-item-figure">{{ Math.round((userResults.nbGames > 0 ? userResults.nbWins / userResults.nbGames : 0) * 100) }}</p>
-                                    <p class="stat-item-label">Victoires (%)</p>
+                                    <p class="stat-item-label">வெற்றிகள் (%)</p>
                                 </div>
                                 <div class="stats-item current-streak">
                                     <p class="stat-item-figure">{{ userResults.currentStreak }}</p>
-                                    <p class="stat-item-label">Série actuelle</p>
+                                    <p class="stat-item-label">தற்போதைய நேர் வெற்றிகள்</p>
                                 </div>
                                 <div class="stats-item current-streak">
                                     <p class="stat-item-figure">{{ userResults.bestStreak }}</p>
-                                    <p class="stat-item-label">Meilleure série</p>
+                                    <p class="stat-item-label">அதிகபட்ச நேர் வேற்றிகள்</p>
                                 </div>
                             </div>
                         </div>
                         <div class="graph">
-                            <h2>Performances</h2>
+                            <h2>பகிர்மானம்</h2>
                             <div class="graph-content">
                                 <div class="graph-item" v-for="attempt in NB_ATTEMPTS + 1" :key="attempt">
                                     <div class="attempt-number" v-if="attempt <= NB_ATTEMPTS">{{ attempt }}</div>
@@ -229,12 +219,15 @@ import playableWords from "../assets/json/playable-words.json";
 
 const NB_LETTERS = 4;
 const NB_ATTEMPTS = 6;
+const ENTER = '⏎';
+const BACKSPACE = '⌫';
+
 const KEYBOARD_AZERTY = {
     name: 'azerty',
     content: [
         ['ஆ',  'ஈ',  'ஊ',  'ஏ',  'ள',  'ற',  'ன',  'ட',  'ண',  'ச',  'ஞ'],
         ['அ',  'இ',  'உ',  'ஐ',  'எ',  'க',  'ப',  'ம',  'த',  'ந',  'ய'], 
-        ['Enter',  'ஔ',  'ஓ',  'ஒ',  'வ',  'ங',  'ல',  'ர',  'ழ',  '்', 'Back']
+        [ENTER,  'ஔ',  'ஓ',  'ஒ',  'வ',  'ங',  'ல',  'ர',  'ழ',  '்', BACKSPACE]
     ],
 };
 
@@ -305,7 +298,9 @@ export default {
             },
             uyir,
             mei,
-            uyirmei_table
+            uyirmei_table,
+            ENTER,
+            BACKSPACE
             // {
             //     nbGames: 0,
             //     nbWins: 0,
@@ -336,9 +331,9 @@ export default {
             if (/^[a-zA-Z]$/.test(event.key)) {
                 this.handleKeyClick(event.key.toUpperCase());
             } else if (event.key === 'Enter') {
-                this.handleKeyClick('Enter');
+                this.handleKeyClick(ENTER);
             } else if (event.key === 'Backspace') {
-                this.handleKeyClick('Back');
+                this.handleKeyClick(BACKSPACE);
             }
         });
 
@@ -452,9 +447,9 @@ export default {
             localStorage.setItem('lastSave', this.today.format('YYYY-M-D'));
             this.animateLetter = true;
             this.error = '';
-            if (key === 'Enter') {
+            if (key === ENTER) {
                 this.verifyWord(this.attempts[this.currentAttempt - 1]);
-            } else if (key === 'Back') {
+            } else if (key === BACKSPACE) {
                 if(!this.userResults.games.find((game) => {
                     return game.date === this.today.format('YYYY-M-D');
                 })) {

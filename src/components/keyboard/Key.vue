@@ -1,5 +1,5 @@
 <template>
-    <button id="key" @click="handleClick" :class="{ 
+    <button style="width: 30px" id="key" @click="handleClick" :class="{ 
         big,
         correct: color === 'correct', 
         partial: color === 'partial', 

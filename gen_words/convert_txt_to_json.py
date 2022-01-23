@@ -9,5 +9,5 @@ def conv(fro, to):
         json.dump(fro, f, ensure_ascii=False, indent=4)
 
 if __name__ == '__main__':
-    conv('all_words.txt', '../src/assets/json/drawable-words.json')
-    conv('wordlist.txt', '../src/assets/json/playable-words.json')
+    conv('all_words.txt', '../src/assets/json/playable-words.json')
+    conv('wordlist.txt', '../src/assets/json/drawable-words.json')
