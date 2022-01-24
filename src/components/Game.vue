@@ -87,21 +87,6 @@
                                 <p><span>ப்</span> எனும் எழுத்து வார்த்தையில் உள்ளது ஆனால் சரியான இடத்தில் இல்லை</p>
                                 <div class="help-word">
                                     <div class="help-letter-container">
-                                        அ
-                                    </div>
-                                    <div class="help-letter-container">
-                                        ன்
-                                    </div>
-                                    <div class="help-letter-container">
-                                        னா
-                                    </div>
-                                    <div class="help-letter-container incorrect" :class="{ 'color-blind': colorBlindMode }">
-                                        சி
-                                    </div>
-                                </div>
-                                <p><span>சி</span> எனும் எழுத்து வார்த்தையில் இடம்பெறவில்லை</p>
-                                <div class="help-word">
-                                    <div class="help-letter-container">
                                         பெ
                                     </div>
                                     <div class="help-letter-container partialmei" :class="{ 'color-blind': colorBlindMode }">
@@ -114,7 +99,22 @@
                                         ழை
                                     </div>
                                 </div>
-                                <p><span>ர</span> எனும் எழுத்து உ எனும் உயிர்ச்சொல்லோடு சேராமல் வேறொரு உயிர்ச்சொல்லோடு சேர்ந்து வார்த்தையில் இடம்பெறுகிறது</p>
+                                <p><span>ர</span> எனும் எழுத்து உ எனும் உயிரெழுத்தோடு சேராமல் வேறொரு உயிரெழுத்தோடு சேர்ந்து வார்த்தையில் இடம்பெறுகிறது</p>
+                                <div class="help-word">
+                                    <div class="help-letter-container">
+                                        அ
+                                    </div>
+                                    <div class="help-letter-container">
+                                        ன்
+                                    </div>
+                                    <div class="help-letter-container">
+                                        னா
+                                    </div>
+                                    <div class="help-letter-container incorrect" :class="{ 'color-blind': colorBlindMode }">
+                                        சி
+                                    </div>
+                                </div>
+                                <p><span>ச</span> எனும் எழுத்து எந்த ஒரு உயிரெழுத்தோடும் சேர்ந்து வார்த்தையில் இடம்பெறவில்லை</p>
                             </div>
                         </div>
                     </div>
@@ -194,6 +194,12 @@
                                     <div class="toggle"></div>
                                 </div>
                             </div>
+                            <div class="settings-item setting-toggle">
+                                <h3>கடின சொற்கள்</h3>
+                                <div class="toggle-button" @click="hardWords = !hardWords" :class="{ activated: hardWords}">
+                                    <div class="toggle"></div>
+                                </div>
+                            </div>
                             <div class="settings-item credits">
                                 <h3>நன்றிகள்</h3>
                                 <p>
@@ -221,10 +227,11 @@ import moment from 'moment-timezone';
 import LetterContainer from "./grid/LetterContainer.vue";
 import Key from "./keyboard/Key.vue";
 import words from "../assets/json/drawable-words.json";
+import extwords from "../assets/json/ext-drawable-words.json";
 import playableWords from "../assets/json/playable-words.json";
 
 const NB_LETTERS = 4;
-const NB_ATTEMPTS = 6;
+const NB_ATTEMPTS = 7;
 const ENTER = '⏎';
 const BACKSPACE = '⌫';
 
@@ -306,7 +313,10 @@ export default {
             mei,
             uyirmei_table,
             ENTER,
-            BACKSPACE
+            BACKSPACE,
+            baseWordOfTheDay: [],
+            hardWords: false,
+            extwords
             // {
             //     nbGames: 0,
             //     nbWins: 0,
@@ -349,7 +359,6 @@ export default {
         }
         this.getWordOfTheDay();
         this.getSavedData();
-        console.log(this.wordOfTheDay)
 
         if (localStorage.getItem('sharedLink')) {
             this.sharedLink = JSON.parse(localStorage.getItem('sharedLink'));
@@ -357,6 +366,10 @@ export default {
 
         if (localStorage.getItem('colorBlindMode')) {
             this.colorBlindMode = JSON.parse(localStorage.getItem('colorBlindMode'));
+        }
+
+        if (localStorage.getItem('hardWords')) {
+            this.hardWords = JSON.parse(localStorage.getItem('hardWords'));
         }
 
         if (localStorage.getItem('keyboard')) {
@@ -373,17 +386,22 @@ export default {
         keyboard() {
             localStorage.setItem('keyboard', JSON.stringify(this.keyboard));
         },
+        hardWords() {
+            localStorage.setItem('hardWords', JSON.stringify(this.hardWords));
+            this.getWordOfTheDay();
+        },
     },
     methods: {
         async getWordOfTheDay() {
             const formatedDate = this.today.format('YYYY-M-D');
             const seed = seedrandom(formatedDate);
             const random = seed();
-            this.wordOfTheDay = this.words[Math.floor(random * (this.words.indexOf('PIZZA') + 1))];
-
-            // Forcing temporaire pour éviter de changer le mot du jour de déploiement
-            if (formatedDate === '2022-1-14')
-                this.wordOfTheDay = 'SMURA'.split('').reverse().join('')
+            if (this.hardWords) {
+                this.wordOfTheDay = this.extwords[Math.floor(random * (this.words.indexOf('அங்காடி') + 1))];
+            } else {
+                this.wordOfTheDay = this.words[Math.floor(random * (this.words.indexOf('அங்காடி') + 1))];
+            }
+            this.baseWordOfTheDay = this.convertToBaseLetters(this.wordOfTheDay)
         },
         getSavedData() {
             if (localStorage.getItem('lastSave')) {
@@ -504,41 +522,41 @@ export default {
             }
         },
         verifyLetters(attempt) {
-            let wordToGuess = [];
-            let diacritics = {'\u0B82':true,'\u0BBE':true, '\u0BBF':true, 
-                '\u0BC0':true, '\u0BC1':true, '\u0BC2':true, '\u0BC6':true, 
-                '\u0BC7':true, '\u0BC8':true, '\u0BCA':true, '\u0BCB':true, 
-                '\u0BCC':true, '\u0BCD':true, '\u0BD7':true};
-            let wordSplit = this.wordOfTheDay.split('');
-            for(let i = 0; i != wordSplit.length; ++i){
-                let ch = wordSplit[i];
-                diacritics[ch] ? (wordToGuess[wordToGuess.length - 1] += ch) : wordToGuess.push(ch);
-            }
+            let wordToGuess = this.splitTamilLetters(this.wordOfTheDay);
             let currentResult = this.results[this.currentAttempt - 1];
             
             attempt.forEach((letter, index) => {
+                const baseLetter = this.getBaseLetter(letter);
                 if (wordToGuess[index] === letter) {
                     currentResult[index] = 'correct';
                     wordToGuess[index] = '*';
-                    if (!this.correctLetters.includes(letter)) {
-                        this.correctLetters.push(letter);
+                    if (!this.correctLetters.includes(baseLetter)) {
+                        this.correctLetters.push(baseLetter);
                     }
                 }
             });
 
             attempt.forEach((letter, index) => {
+                const baseLetter = this.getBaseLetter(letter);
                 if (currentResult[index] !== 'correct') {
                     if (wordToGuess.includes(letter)) {
                         let otherIndex = wordToGuess.indexOf(letter);
                         currentResult[index] = 'partial';
                         wordToGuess[otherIndex] = '*';
-                        if (!this.partialLetters.includes(letter)) {
-                            this.partialLetters.push(letter);
+                        if (!this.partialLetters.includes(baseLetter)) {
+                            this.partialLetters.push(baseLetter);
+                        }
+                    } else if (this.baseWordOfTheDay.includes(baseLetter)) {
+                        let otherIndex = this.baseWordOfTheDay.indexOf(baseLetter);
+                        currentResult[index] = 'partialmei';
+                        wordToGuess[otherIndex] = '*';
+                        if (!this.partialLetters.includes(baseLetter)) {
+                            this.partialLetters.push(baseLetter);
                         }
                     } else {
                         currentResult[index] = 'incorrect';
-                        if (!this.incorrectLetters.includes(letter)) {
-                            this.incorrectLetters.push(letter);
+                        if (!this.incorrectLetters.includes(baseLetter)) {
+                            this.incorrectLetters.push(baseLetter);
                         }
                     }
                 }
@@ -599,7 +617,7 @@ export default {
             return attemptPercent;
         },
         getWordID() {
-            return this.today.clone().startOf('day').diff(moment("2022-01-10T00:00:00"), 'days') + 1
+            return this.today.clone().startOf('day').diff(moment("2022-01-24T00:00:00"), 'days') + 1
         },
         share() {
             const title = `சொல்லி #${this.getWordID()} ${this.currentAttempt <= NB_ATTEMPTS ? this.currentAttempt : '💀' }/${NB_ATTEMPTS}\n\n`;
@@ -618,6 +636,37 @@ export default {
 
             navigator.clipboard.writeText(sharedContent);
             this.resultsCopied = true;
+        },
+        getBaseLetter(letter){
+            for (const [key, value] of Object.entries(uyirmei_table)) {
+                if (value.includes(letter)) {
+                    return key;
+                }
+            }
+
+            return letter
+        },
+        splitTamilLetters(word) {
+            let tamilSplit = [];
+            let diacritics = {'\u0B82':true,'\u0BBE':true, '\u0BBF':true, 
+                '\u0BC0':true, '\u0BC1':true, '\u0BC2':true, '\u0BC6':true, 
+                '\u0BC7':true, '\u0BC8':true, '\u0BCA':true, '\u0BCB':true, 
+                '\u0BCC':true, '\u0BCD':true, '\u0BD7':true};
+            let wordSplit = word.split('');
+            for(let i = 0; i != wordSplit.length; ++i){
+                let ch = wordSplit[i];
+                diacritics[ch] ? (tamilSplit[tamilSplit.length - 1] += ch) : tamilSplit.push(ch);
+            }
+
+            return tamilSplit;
+        },
+        convertToBaseLetters(word) {
+            let tamilSplit = this.splitTamilLetters(word)
+            for (let i = 0; i < tamilSplit.length; i++){
+                tamilSplit[i] = this.getBaseLetter(tamilSplit[i])
+            }
+
+            return tamilSplit
         }
     }
 }
