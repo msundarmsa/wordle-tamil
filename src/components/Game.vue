@@ -231,7 +231,7 @@ import extwords from "../assets/json/ext-drawable-words.json";
 import playableWords from "../assets/json/playable-words.json";
 
 const NB_LETTERS = 4;
-const NB_ATTEMPTS = 7;
+const NB_ATTEMPTS = 6;
 const ENTER = '⏎';
 const BACKSPACE = '⌫';
 
