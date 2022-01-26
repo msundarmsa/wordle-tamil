@@ -399,7 +399,7 @@ export default {
             if (this.hardWords) {
                 this.wordOfTheDay = this.extwords[Math.floor(random * (this.words.indexOf('அங்காடி') + 1))];
             } else {
-                this.wordOfTheDay = this.words[Math.floor(random * (this.words.indexOf('அங்காடி') + 1))];
+                this.wordOfTheDay = this.words[Math.floor(random * this.words.length)];
             }
             this.baseWordOfTheDay = this.convertToBaseLetters(this.wordOfTheDay)
         },
